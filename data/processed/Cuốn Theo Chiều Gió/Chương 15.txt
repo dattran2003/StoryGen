@@ -1,0 +1,13 @@
+"""
+- Đoàn quân của Ashley, sau thất bại ở Gettysburg, rút lui về Virginia và dựng trại mùa đông trên bờ sông Rapidan, kiệt quệ và mệt mỏi.
+- Ashley được nghỉ phép về nhà nhân dịp Giáng Sinh, gặp lại Scarlett sau hai năm xa cách, gây ra những cảm xúc mãnh liệt trong lòng cô.
+- Scarlett nhận ra tình cảm của mình dành cho Ashley không phải chỉ là sự hờn dỗi trẻ con mà là tình yêu thực sự, mạnh mẽ hơn sau thời gian dài xa cách.
+- Ashley, mặc dù thay đổi về ngoại hình, vẫn trở nên quyến rũ hơn trong mắt Scarlett.
+- Scarlett quyết định ở lại Atlanta thay vì về Tara để được gặp Ashley, bất chấp những mệnh lệnh của mẹ.
+- Ashley trở về cùng nhóm quân nhân khác, trong đó có những người đã mất sau trận Gettysburg.
+- Scarlett cảm thấy sung sướng khi được gặp Ashley nhưng cũng cảm thấy ghen tị khi Ashley dành thời gian cho Melanie và gia đình.
+- Scarlett ước mơ có cơ hội để nói chuyện riêng với Ashley, nhưng cơ hội này không xuất hiện.
+- Scarlett chuẩn bị một món quà Giáng Sinh cho Ashley - một túi may tay chứa những vật dụng quý giá.
+- Ashley sắp phải rời đi trở lại chiến trường, Scarlett cảm thấy tuyệt vọng và yêu cầu Ashley hôn cô để từ biệt.
+- Ashley ôm Scarlett nhưng từ chối hôn cô, nói tạm biệt và rời đi, để lại Scarlett trong nỗi đau và tình yêu không thể hiện.
+"""

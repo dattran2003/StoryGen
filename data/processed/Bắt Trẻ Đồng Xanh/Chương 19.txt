@@ -1,0 +1,14 @@
+"""
+- Nhân vật chính thường xuyên lui tới Wiker bar trong Seton Hotel ở New York trước kia, nhưng giờ đây không còn.
+- Khách sạn thu hút nhiều công tử bột và có hai phụ nữ Pháp, Tina và Janine, biểu diễn ba lần mỗi chiều.
+- Janine, người hát, có giọng hát không tốt và thường hát những bài hát kém chất lượng, đôi khi bằng tiếng Pháp.
+- Chủ quán bar chỉ thân thiện với những người quan trọng hoặc nổi tiếng.
+- Nhân vật chính không còn lui tới quán bar này nhiều, ngoại trừ hôm nay, khi anh ta ngồi một mình và gọi một ly whisky soda.
+- Luce, một người bạn cũ từ trường Whootton, xuất hiện. Anh ta nổi tiếng với kiến thức về những người đồng tính và người chuyển giới.
+- Nhân vật chính và Luce bắt đầu trò chuyện, nhưng Luce tỏ ra không quan tâm tới việc trò chuyện sâu sắc.
+- Luce tiết lộ rằng anh ta đang hẹn hò với một nhà điêu khắc từ Greenwich Village, người có tuổi tác ngoài ba mươi.
+- Luce nói rằng anh ta thích những người phụ nữ chín chắn hơn và hiện tại đang hẹn hò với một người phụ nữ đến từ Thượng Hải, Trung Quốc.
+- Nhân vật chính và Luce tiếp tục thảo luận về tình yêu, thể xác và tâm hồn, và việc Luce tìm thấy sự thỏa mãn trong triết học Đông phương.
+- Luce khuyên nhân vật chính nên tìm đến một bác sĩ tâm lý nếu anh ta đang gặp khó khăn với những suy nghĩ của mình.
+- Trong cuộc trò chuyện, nhân vật chính nhận ra rằng Luce, mặc dù thô lỗ và khó chịu, có vốn từ vựng phong phú nhất trong số tất cả học sinh trường Whootton.
+"""

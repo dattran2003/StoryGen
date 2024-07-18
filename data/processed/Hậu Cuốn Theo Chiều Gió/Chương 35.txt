@@ -1,0 +1,18 @@
+"""
+- Scarlett gặp Jamie, anh em họ mình, nhận ra anh đã lớn tuổi hơn mình tưởng và có vẻ ngoài không lịch thiệp như Rhett.
+- Scarlett gặp Daniel, con trai Jamie, và ngạc nhiên vì anh ta không phải là thiếu niên mà là một người đàn ông trưởng thành.
+- Scarlett bất ngờ và thất vọng với cách ăn mặc của Jamie, so sánh với sự tinh tế của Rhett.
+- Scarlett và Jamie tới nhà ông ngoại cô, nơi cô gặp gia đình lớn của Jamie.
+- Scarlett cảm thấy bất ngờ và một chút áp lực khi phải giới thiệu Jamie với các dì của mình.
+- Jamie thông báo rằng họ không có người hầu, điều này làm Scarlett cảm thấy bất ngờ và không thoải mái.
+- Scarlett quyết định để hầu gái Pansy về nhà, trong khi cô và Jamie tiếp tục đi thăm bác James.
+- Scarlett cảm thấy nhẹ nhõm khi họ đi qua phía sau nhà ông ngoại thay vì quảng trường.
+- Scarlett và Jamie đến một ngôi nhà sang trọng, nơi họ gặp gia đình lớn của Jamie.
+- Scarlett gặp Maureen, vợ của Jamie, và gia đình họ, tất cả đều có mái tóc đỏ.
+- Scarlett gặp bác James, người nhận ra cô và hỏi về việc cô đã tái giá chưa.
+- Scarlett gặp Patricia, cô gái rụt rè, và nhiều thành viên khác trong gia đình O'Hara.
+- Scarlett tham dự bữa tiệc sinh nhật của Patricia, nơi cô gặp nhiều thành viên gia đình khác.
+- Scarlett trải qua một buổi tối vui vẻ với gia đình, thưởng thức âm nhạc và khiêu vũ, nhưng cô cũng cảm thấy mệt mỏi và muốn trở về nhà.
+- Scarlett quyết định về nhà mặc dù cô muốn ở lại thêm, cô cảm thấy mình đã có một buổi tối tuyệt vời với gia đình O'Hara.
+- Jamie hứa sẽ dạy Scarlett điệu gic của Ireland lần sau khi cô trở lại thăm.
+"""

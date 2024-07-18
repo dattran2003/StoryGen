@@ -1,0 +1,16 @@
+"""
+- Elizabeth cảm thấy lo lắng khi khu vườn Pemberley của Mr. Darcy bắt đầu xuất hiện trên lộ trình của họ.
+- Cô bị cuốn hút bởi vẻ đẹp tự nhiên và rộng lớn của khu vườn.
+- Elizabeth và gia đình cô chiêm ngưỡng dinh thự Pemberley, nơi cô cảm thấy mình có thể trở thành chủ nhân.
+- Họ gặp gỡ bà quản gia, bà Reynolds, người dẫn họ đi tham quan ngôi nhà.
+- Elizabeth cảm thấy lo lắng khi tưởng tượng việc gặp lại Mr. Darcy.
+- Bà Reynolds mô tả Mr. Darcy là một người tốt bụng và lịch sự.
+- Elizabeth thấy bức chân dung của Wickham và sau đó là của Mr. Darcy, khiến cô suy nghĩ về mối quan hệ của họ.
+- Họ biết được rằng Mr. Darcy đang ở xa và dự kiến sẽ trở về ngày hôm sau.
+- Elizabeth và gia đình cô bị bất ngờ khi gặp Mr. Darcy ở khu vườn, anh ấy tỏ ra lịch sự và hỏi thăm gia đình cô.
+- Anh Darcy thay đổi thái độ so với lần gặp cuối cùng, điều này làm cho Elizabeth bối rối.
+- Elizabeth cảm thấy xấu hổ về việc tới thăm Pemberley mà không báo trước.
+- Họ gặp lại Mr. Darcy một lần nữa và anh ấy tỏ ra muốn quen biết với gia đình cô.
+- Anh Darcy mời gia đình cô vào nhà nhưng họ từ chối, và anh ấy sau đó đề nghị giới thiệu cô với em gái anh.
+- Elizabeth và gia đình cô rời đi, suy nghĩ về những sự kiện vừa xảy ra và sự thay đổi trong thái độ của Mr. Darcy.
+"""

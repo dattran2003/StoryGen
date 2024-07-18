@@ -1,0 +1,13 @@
+"""
+- Nhân vật chính thức thức sớm, cảm thấy đói sau khi hút thuốc. Anh ta muốn ăn sáng nhưng sợ phải đối mặt lại với lão Moris nên từ bỏ ý định.
+- Anh ta suýt gọi Jane nhưng cuối cùng gọi cho Sally Hayes, một người bạn cũ, để hẹn đi xem kịch.
+- Nhân vật chính nhận ra Sally không thông minh như anh ta từng nghĩ nhưng vẫn giữ mối quan hệ vì họ đã quen biết nhau lâu.
+- Anh ta gọi Sally, họ hẹn gặp nhau sau và trò chuyện một thời gian dài.
+- Sau cuộc gọi, nhân vật chính thay quần áo, thu xếp hành lý và rời khỏi khách sạn.
+- Anh ta tránh gặp Moris và gọi taxi, nhưng không biết đi đâu, cuối cùng quyết định tới ga trung tâm.
+- Nhân vật chính gửi hành lý tại nhà ga, ăn sáng và rút ví kiểm tra tiền.
+- Trong lúc ăn sáng, anh ta gặp hai nữ tu sĩ và giúp họ với hành lý của họ.
+- Nhân vật chính và hai nữ tu sĩ bắt đầu trò chuyện, anh ta quyên góp cho họ 10 đô la.
+- Anh ta chia sẻ với họ về việc học và những cuốn sách anh ta đã đọc.
+- Cuối cùng, sau khi họ rời đi, nhân vật chính cảm thấy hối hận vì chỉ quyên góp cho họ 10 đô la.
+"""

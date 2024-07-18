@@ -1,0 +1,17 @@
+"""
+- Scarlett lên xe lửa vào một sáng tháng Năm năm 1862, rời Tara để tới Atlanta, nơi cô cảm thấy thân thuộc hơn bất kì thành phố nào khác.
+- Scarlett cảm thấy tò mò và hứng thú với sự thay đổi của Atlanta, thành phố mà cô thấy giống như mình, trẻ trung, ương ngạnh và sôi động.
+- Scarlett đến Atlanta, gặp phải cảnh bùn lầy và sự nhộn nhịp, hỗn loạn tại nhà ga, nơi đầy ắp người và hàng hóa.
+- Bác Peter, người giúp việc của cô Pittypat, đón Scarlett và giúp cô vượt qua đám bùn. Scarlett nhớ lại lời Charles nói về bác Peter, người chăm sóc cha mẹ anh khi họ còn nhỏ và đã làm nhiều việc quan trọng cho gia đình.
+- Scarlett cảm thấy bực mình vì phải chăm sóc đứa bé Wade và cô Prissy, người không biết cách chăm sóc trẻ em.
+- Scarlett nhận ra sự thay đổi lớn của Atlanta, từ một thị trấn nhỏ trở thành một thành phố bận rộn, sôi động, nơi diễn ra nhiều hoạt động liên quan đến chiến tranh.
+- Scarlett thích thú với cảnh tượng náo nhiệt, sôi động của Atlanta, nơi có nhiều công xưởng, xưởng sản xuất và các bộ chỉ huy quân sự.
+- Scarlett gặp lại các bà Merriwether và Elsing, những người quan trọng trong cộng đồng Atlanta, và được họ mời tham gia vào các hoạt động từ thiện.
+- Scarlett thấy một phụ nữ tên Belle Watling, người mà cô đoán là một phụ nữ đồi trụy, điều này gợi lên sự tò mò của cô.
+- Scarlett gặp bác sĩ Meade và vợ, họ nói với cô về các uỷ ban bệnh viện và công việc chăm sóc thương binh.
+- Scarlett được cô Pittypat và Melanie khuyên ở lại Atlanta, họ đưa ra nhiều lý do như tình thương, sự cô đơn và nhu cầu của Liên bang miền Nam về lao động.
+- Scarlett cũng được chú Henry, chú của Charles, khuyên ở lại Atlanta để quản lý tài sản của mình và nuôi dạy con trai Wade.
+- Scarlett thích thú với cuộc sống tại Atlanta, nơi cô được chăm sóc và nuông chiều, nhưng cô vẫn cảm thấy nhớ Tara và gia đình.
+- Scarlett bắt đầu công việc nữ điều dưỡng, một công việc cô ghét nhưng không thể từ chối do áp lực xã hội.
+- Scarlett cảm thấy khó chịu với cuộc sống phụ nữ và việc phải làm nữ điều dưỡng, cô ước mong được quay lại thời gian trước khi cô lấy Charles.
+"""

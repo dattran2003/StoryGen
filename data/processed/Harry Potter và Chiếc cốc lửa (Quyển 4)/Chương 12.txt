@@ -1,0 +1,15 @@
+"""
+- Đoàn xe vượt qua cổng, được chào đón bởi dàn tượng lợn lòi có cánh, và sau đó đi qua cơn gió mạnh chuyển thành cuồng phong, tiến vào Hogwarts.
+- Harry, Ron, Hermione và Neville đến Hogwarts, bị ướt sũng do mưa.
+- Peeves, con quỷ siêu quậy, thả bong bóng nước xuống đầu Ron và ném trái bom nước thứ hai gần Hermione, gây ra hỗn loạn.
+- Giáo sư McGonagall cố gắng kiểm soát Peeves, cuối cùng đuổi nó đi.
+- Harry, Ron và Hermione đi vào Đại sảnh đường, nơi đang chuẩn bị cho bữa tiệc khai giảng.
+- Colin Creevey thông báo với Harry rằng em trai của anh, Dennis, đã nhập học và đang hồi hộp chờ đợi lễ phân loại.
+- Cái nón phân loại bắt đầu phân loại học sinh mới, bắt đầu từ Stewart Ackerley.
+- Dennis Creevey được phân vào nhà Gryffindor.
+- Tiệc tối bắt đầu sau khi cuộc phân loại kết thúc.
+- Nick Suýt-mất-đầu tiết lộ về sự hiện diện của gia tinh trong nhà bếp, khiến Hermione lo lắng về quyền lợi của họ.
+- Dumbledore thông báo rằng cuộc thi Cúp Quidditch Liên-nhà sẽ không diễn ra năm nay và giới thiệu giáo sư mới, Moody Mắt-Điên, giáo viên môn Phòng chống Nghệ thuật Hắc ám.
+- Dumbledore thông báo về việc tổ chức Thi đấu Tam Pháp thuật tại Hogwarts, với quy định chỉ cho học sinh 17 tuổi trở lên tham gia.
+- Fred và George bày tỏ sự thất vọng vì không đủ tuổi tham gia cuộc thi.
+"""

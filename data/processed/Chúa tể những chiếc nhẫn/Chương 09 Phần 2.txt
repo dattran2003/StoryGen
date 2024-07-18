@@ -1,0 +1,13 @@
+"""
+- Frodo và Người Sải Bước quan sát Pippin kể câu chuyện về bữa tiệc chia tay của Bilbo, lo lắng rằng nó có thể gợi nhớ về chiếc Nhẫn.
+- Frodo lo lắng rằng Pippin có thể nhắc tới chiếc Nhẫn, điều này có thể gây ra hậu quả nghiêm trọng.
+- Người Sải Bước khuyên Frodo can thiệp, Frodo đứng lên và bắt đầu một bài diễn văn để chuyển hướng sự chú ý.
+- Frodo cảm thấy muốn xỏ chiếc Nhẫn nhưng cố gắng chống lại điều này.
+- Frodo nói một bài diễn văn và sau đó hát một bài hát kỳ lạ để tiếp tục chuyển hướng sự chú ý.
+- Frodo vô tình xỏ chiếc Nhẫn và biến mất, gây ra sự kinh ngạc và nghi ngờ trong đám đông.
+- Frodo xuất hiện lại, nhưng việc biến mất của anh ta làm tăng sự nghi ngờ và sợ hãi đối với đám đông.
+- Người Sải Bước và Frodo lên kế hoạch nói chuyện riêng sau khi mọi sự hỗn loạn lắng dịu.
+- Frodo giải thích rằng anh ta không biến mất mà chỉ đơn giản bò đi dưới những cái bàn, nhưng không thuyết phục được đám đông.
+- Ông Bơ Gai yêu cầu Frodo thông báo trước nếu muốn thực hiện bất kỳ trò ảo thuật nào khác.
+- Frodo hứa hẹn sẽ khởi hành sớm vào ngày hôm sau và ông Bơ Gai nói rằng muốn nói chuyện riêng với Frodo trước khi anh ta đi ngủ.
+"""

@@ -1,0 +1,18 @@
+"""
+- Scarlett đến Penchestown để xem đua ngựa và được mời đến Bishopcourt, nơi cô gặp lại John Morland và Luke Fenton.
+- Morland chia sẻ với Scarlett về con ngựa đua mới của mình, Dijon, và hy vọng nó sẽ thắng trong cuộc đua.
+- Scarlett hứa sẽ cược 10 bảng cho Dijon.
+- Morland nói về cuộc đình công của công nhân làm ruộng của mình và mối quan hệ phức tạp của mình với John Parnell.
+- Scarlett biết tin Rhett Butler sắp làm cha và cảm thấy đau lòng.
+- Scarlett ngồi xem cuộc đua với Luke Fenton và Dijon cuối cùng đã thắng cuộc.
+- Scarlett quyết định sẽ kết hôn với Luke Fenton vào cuối tháng 9.
+- Scarlett thông báo với Colum O'Hara về quyết định của mình và anh ta phản ứng mạnh mẽ, coi đây là việc làm nhục dòng họ.
+- Scarlett và Colum có cuộc cãi vã gay gắt nhưng sau đó họ bình tĩnh lại và tiếp tục nói chuyện một cách nghiêm túc.
+- Scarlett mua sách về London và viết thư cho bà Sims để đặt may áo cưới.
+- Luke Fenton gửi cho Scarlett nữ trang quý giá để cô dùng trong đám cưới.
+- Scarlett và Cat đi dạo qua cánh đồng lúa mì và Scarlett nhắc nhở Cat không bao giờ quên nguồn gốc của mình.
+- Scarlett gặp bà Sims để thảo luận về việc may áo cưới và đặt làm đuôi áo viền lông chồn.
+- Scarlett và Colum đi chợ phiên Drogheda và cả hai đều suy tư về những vấn đề riêng.
+- Scarlett cảm thấy mình bị cô lập sau khi thông báo về việc sắp kết hôn.
+- Scarlett nhận điện tín từ bà Sims, người đang gặp rắc rối với việc đặt làm đăng ten cho áo cưới.
+"""

@@ -1,0 +1,19 @@
+"""
+- Malfoy trở lại lớp học sau vài ngày nghỉ, với tay phải bị băng bó. 
+
+- Snape cho phép Malfoy được đặc quyền nhờ Harry và Ron giúp đỡ trong việc chuẩn bị nguyên liệu cho bài học Độc dược, gây bức xúc cho cả hai.
+
+- Neville gặp khó khăn trong việc chế biến Dung dịch Co rút, nhưng cuối cùng cũng thành công dưới sự hướng dẫn của Hermione, mặc dù Snape trừ điểm nhà Gryffindor vì lý do này.
+
+- Malfoy nói những lời bí ẩn với Harry, ám chỉ một mối liên hệ giữa Harry và Sirius Black, gây tò mò và giận dữ cho Harry.
+
+- Hermione có những hành động kỳ lạ, đi đâu đó mà không nói với Harry và Ron, và mang theo một túi xách chứa đầy sách.
+
+- Trong lớp Phòng chống Nghệ thuật Hắc ám, giáo sư Lupin dạy học sinh cách đối phó với Ông Kẹ, một loại ma có thể biến hình thành những thứ khiến người khác sợ hãi nhất. 
+
+- Neville, Parvati, Seamus, Dean, Ron và cả Harry đều thành công trong việc biến đổi Ông Kẹ thành những hình dạng vui nhộn.
+
+- Giáo sư Lupin ban thưởng điểm cho nhà Gryffindor vì thành công trong việc đối phó với Ông Kẹ.
+
+- Hermione tỏ ra tiếc nuối vì không được tham gia vào việc đối phó với Ông Kẹ.
+"""

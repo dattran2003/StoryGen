@@ -1,0 +1,16 @@
+"""
+- Đại tá Fitzwilliam được mọi người trong Toà dinh Cha xứ yêu mến, đặc biệt là các phụ nữ.
+- Họ chỉ được mời đến Rosings sau lễ Phục Sinh và phải đến sau khi đã dự lễ tại nhà thờ.
+- Trong tuần lễ này, họ ít gặp Phu nhân Catherine hoặc con gái bà.
+- Đại tá Fitzwilliam thăm Toà Tư dinh Cha xứ đôi lần nhưng họ chỉ thấy anh Darcy tại nhà thờ.
+- Phu nhân Catherine tiếp họ nhưng rõ ràng chỉ chấp nhận sự hiện diện của họ khi không thể mời ai khác.
+- Đại tá Fitzwilliam và Elizabeth trò chuyện sôi nổi, thu hút sự chú ý của Phu nhân Catherine và anh Darcy.
+- Phu nhân Catherine yêu cầu họ nói to hơn vì bà thích âm nhạc và muốn tham gia cuộc trò chuyện.
+- Anh Darcy ca ngợi sự tinh thông âm nhạc của cô em mình, Georgiana.
+- Phu nhân Catherine khuyến khích Georgiana phải luyện tập nhiều.
+- Elizabeth chơi đàn trước mọi người và anh Darcy đứng gần cô, điều này khiến cô không thoải mái.
+- Elizabeth và anh Darcy có cuộc trò chuyện về việc anh đã từng khiêu vũ với cô tại Hertfordshire.
+- Đại tá Fitzwilliam và Elizabeth tiếp tục trò chuyện, và họ hỏi Darcy về lý do không khiêu vũ nhiều hơn tại Hertfordshire.
+- Phu nhân Catherine tiếp tục bình luận về trình độ chơi đàn của Elizabeth và khuyên cô nên luyện tập nhiều hơn.
+- Elizabeth tiếp tục chơi đàn cho đến khi cỗ xe đã sẵn sàng để đưa họ về.
+"""

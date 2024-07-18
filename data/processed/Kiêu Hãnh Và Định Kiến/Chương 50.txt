@@ -1,0 +1,12 @@
+"""
+- Trước kia, ông Bennet muốn dành một phần lợi tức hàng năm để chuẩn bị cho tương lai của vợ và con, một điều ông cảm thấy tiếc nuối chưa làm.
+- Ông lo lắng về chi phí mà người em vợ phải chịu để giải quyết tình huống của Lydia, và ông dự định thanh toán lại cho người em vợ.
+- Khi ông Bennet kết hôn, họ tin rằng họ sẽ có một con trai để thừa kế tài sản, nhưng khi chỉ có cô con gái, họ không tiết kiệm.
+- Ông Bennet đồng ý với việc người em vợ đã tổ chức cho Lydia và Wickham kết hôn, và ông chấp nhận hoàn toàn mọi điều đã được sắp xếp.
+- Ông không muốn phải mất công sức cho việc dàn xếp này và chỉ muốn bị phiền nhiễu càng ít càng tốt.
+- Tin tức về đám cưới của Lydia lan rộng trong khu vực, và có nhiều cuộc trò chuyện xoay quanh nó.
+- Bà Bennet bắt đầu lên kế hoạch cho cuộc sống sau hôn nhân của Lydia, mặc dù ông Bennet từ chối việc họ sống gần nhà.
+- Elizabeth cảm thấy hối tiếc vì đã chia sẻ với Mr. Darcy về những lo lắng gia đình liên quan đến Lydia.
+- Wickham quyết định rời khỏi lực lượng dân quân và gia nhập quân đội chính quy, một điều mà cả gia đình Bennet đều ủng hộ.
+- Lydia muốn gặp lại gia đình trước khi cô đi miền Bắc, một yêu cầu mà cuối cùng ông Bennet đồng ý.
+"""

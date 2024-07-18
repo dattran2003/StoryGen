@@ -1,0 +1,12 @@
+"""
+- Scarlett cảm thấy sức khỏe và tinh thần tốt hơn bao giờ hết trong thời gian mang thai, cô cảm thấy mạnh mẽ và tự do hơn.
+- Cô trở thành trung tâm của cộng đồng mới, chia sẻ kiến thức về Mỹ và học hỏi về văn hóa Ireland.
+- Scarlett thấy thú vị với những tập tục tín ngưỡng độc đáo của người Ireland.
+- Scarlett tận hưởng thời gian bên bà nội, khám phá lịch sử gia đình thông qua những câu chuyện về cha cô.
+- Scarlett chấp nhận lời mời của Colum, trải nghiệm cuộc phiêu lưu đến "Tara chính thống", nơi có lịch sử văn hóa và tôn giáo sâu sắc.
+- Scarlett cảm thấy cô đơn trước cơn gió Tây, nhưng cũng nhận ra vẻ đẹp và sức mạnh tiềm ẩn của bản thân.
+- Colum chia sẻ với Scarlett về lịch sử và văn hóa Ireland, giúp cô cảm nhận được sự vĩ đại và sức mạnh của người tiền nhiệm.
+- Scarlett và Colum tham dự cuộc đua ngựa tại Trim, nơi cô cảm nhận mình như "hoa khôi của vũ hội".
+- Scarlett chứng kiến cuộc ẩu đả giữa những người đàn ông, gây cho cô cảm giác sợ hãi và không tán thành hành vi này.
+- Scarlett cảm thấy thất vọng khi chứng kiến hậu quả của cuộc ẩu đả, dù mọi người coi nó như một phần của cuộc vui.
+"""

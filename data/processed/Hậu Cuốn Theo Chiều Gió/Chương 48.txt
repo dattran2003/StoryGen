@@ -1,0 +1,24 @@
+"""
+- Scarlett say mê với bộ sưu tập quần áo màu sắc của mình và cố gắng thuyết phục Kathleen mặc cùng để quay lại chợ Galway, nhưng Kathleen từ chối lịch sự.
+- Kathleen giải thích rằng họ sẽ phải dậy sớm hôm sau và có nhiều phiên chợ khác.
+- Scarlett không đồng ý, cho rằng không chợ nào so sánh được với Galway.
+- Kathleen thừa nhận Trim nhỏ hơn Galway nhưng không muốn quay lại chợ.
+- Scarlett miễn cưỡng chấp nhận và không quấy rối Kathleen thêm.
+- Họ ăn tối tại khách sạn, Scarlett tận hưởng bữa ăn và âm nhạc.
+- Scarlett thuyết phục họ quay lại chợ và khiêu vũ, bất chấp sự phản đối của Colum.
+- Kathleen và Colum quan sát Scarlett khiêu vũ, Kathleen tỏ ra không hiểu vì sao họ không hoàn thành bữa tối tuyệt vời.
+- Colum giải thích rằng Scarlett chưa quen với thực tế của Ireland và cuộc sống của dòng họ O'Hara.
+- Scarlett đẩy một người đàn ông đang cố gắng ôm cô và chạy đến đón Colum khi anh đến để đưa cô về.
+- Scarlett và Kathleen thích tàu hỏa Ireland và cảnh quan của đất nước.
+- Scarlett nhận xét về những lâu đài đổ nát, Colum giải thích về lịch sử của chúng.
+- Họ dừng lại ở Ballynasloe, Adamstown là nơi dòng họ O'Hara sinh sống.
+- Scarlett nhận ra Adamstown không phải là tên Ireland điển hình và Colum giải thích lý do.
+- Scarlett nhìn thấy một lâu đài không bị sụp đổ và tưởng tượng nó là nơi ở của hiệp sĩ hoặc hoàng tử, nhưng thực tế là một trại lính.
+- Họ ăn trưa tại quán rượu và bia của Jim Daly.
+- Scarlett không cảm thấy mình ở Ireland khi ăn những món ăn không lạ lẫm.
+- Scarlett và Kathleen thấy khó chịu khi chứng kiến một phụ nữ trẻ ăn xin và bị lính trêu chọc.
+- Colum can thiệp và lấy lại đồng tiền mà người lính đã ném vào vũng bùn.
+- Họ lên xe ngựa nhỏ để tiếp tục hành trình đến Adamstown.
+- Scarlett và Kathleen cởi giày để thoải mái hơn và họ đều ngủ thiếp đi trong xe.
+- Scarlett tỉnh dậy và nhìn thấy hoa dâu dọc theo đường, cô muốn hái nhưng Colum giải thích đó chỉ là hàng dâu và họ sẽ thấy nhiều hoa hơn trên đường về nhà.
+"""

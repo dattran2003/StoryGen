@@ -1,0 +1,15 @@
+"""
+- Harry, Ron và Hermione lên chuồng cú để gửi lá thư cho Sirius qua con Pigwidgeon, kể về cách Harry vượt qua con rồng.
+- Harry chia sẻ với Ron về những thông tin mà Sirius cho biết về Igor Karkaroff.
+- Pigwidgeon tỏ ra hăng hái với nhiệm vụ giao thư, khiến Ron phải giữ nó lại cho đến khi lá thư được gắn vào chân cú.
+- Ron và Hermione có quan điểm trái ngược về nguy hiểm của những bài thi tiếp theo trong cuộc Thi đấu Tam Pháp thuật.
+- Harry mở quả trứng vàng mà đã nhận được sau khi vượt qua bài thi đầu tiên, phát ra tiếng khóc than khủng khiếp.
+- Fred và George đã lấy đồ ăn từ nhà bếp để tổ chức bữa tiệc bất ngờ cho Harry.
+- Hermione tò mò về cách vào nhà bếp của gia tinh, gợi ý ý tưởng về việc gia tinh có thể bị lợi dụng.
+- Rita Skeeter xuất hiện, quan tâm đến lớp học Chăm sóc Sinh vật Huyền bí của Hagrid và những Quái Tôm Đuôi Nổ.
+- Hagrid đồng ý phỏng vấn với Rita Skeeter, bất chấp sự lo ngại của Harry.
+- Trong lớp Tiên tri, giáo sư Trelawney lại tiên đoán cái chết của Harry, nhưng Harry và Ron không còn tin tưởng vào những tiên đoán của cô.
+- Hermione dẫn Harry và Ron xuống nhà bếp, nơi họ gặp lại Dobby và Winky, những gia tinh đã được tự do.
+- Dobby và Winky đã bắt đầu làm việc tại Hogwarts, Dobby nhận lương và có ngày nghỉ.
+- Hermione cố gắng thuyết phục Winky về sự tốt đẹp của tự do, nhưng Winky vẫn đau khổ vì việc bị tự do.
+"""

@@ -1,0 +1,12 @@
+"""
+- Người Sải Bước yêu cầu Barliman giúp Frodo, đề nghị anh ta quên đi tên Baggins.
+- Frodo và đồng đội quyết định rời đi sớm để tránh sự chú ý.
+- Merry, một người bạn, bị mất và cuối cùng được tìm thấy sau khi gặp phải Kỵ sĩ Đen.
+- Người Sải Bước được tiết lộ là bạn của Gandalf và được xác nhận qua lá thư mà Frodo nhận được từ Barliman.
+- Lá thư cảnh báo Frodo về mối đe dọa và yêu cầu anh rời khỏi Bag End sớm, hướng tới Rivendell.
+- Người Sải Bước, còn được biết đến với tên Aragorn, đồng ý dẫn Frodo và nhóm bạn đi.
+- Merry gặp phải Kỵ sĩ Đen, cảm nhận được 'Hơi thở Đen' và sau đó bị tìm thấy ở bên lề đường.
+- Nhóm quyết định ở lại trong quán và chuẩn bị phòng chống lại kẻ thù.
+- Nob giúp nhóm chuẩn bị phòng chống lại kẻ tấn công bằng cách giả dạng.
+- Cuối cùng, nhóm chuẩn bị cho một đêm dài và hy vọng rằng họ có thể phòng thủ được đến sáng hôm sau.
+"""

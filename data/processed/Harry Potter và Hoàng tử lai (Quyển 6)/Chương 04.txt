@@ -1,0 +1,20 @@
+"""
+- Harry cảm thấy lúng túng khi đi cùng Dumbledore trên đường Privet Drive, trái ngược với sự mong đợi trong quá khứ.
+- Dumbledore khuyên Harry nên luôn mang theo đũa thần, dù Harry nghĩ rằng anh không được phép sử dụng phép thuật ngoài trường học.
+- Dumbledore cho phép Harry sử dụng phép thuật nếu bị tấn công và đảm bảo an toàn cho Harry.
+- Dumbledore dạy Harry phép Độn thổ, yêu cầu Harry nắm chặt tay ông.
+- Harry trải nghiệm cảm giác không dễ chịu khi Độn thổ, nhưng sau cùng họ xuất hiện tại một quảng trường trong một ngôi làng hoang vắng.
+- Dumbledore hỏi về cảm giác của Harry sau khi Độn thổ, Harry cho biết anh thích đi chổi hơn.
+- Dumbledore giải thích về việc họ đang ở Budleigh Babberton, một ngôi làng ma thuật, nhưng đoạn chi tiết bị thiếu.
+- Slughorn nói về cuộc sống lẩn trốn của mình, việc di chuyển liên tục và cách ông trốn tránh sự phát hiện.
+- Dumbledore và Slughorn thảo luận về việc Slughorn có nên trở lại dạy học tại Hogwarts hay không.
+- Harry không giữ được sự phản ứng khi nghe về việc Sirius Black, bạn thân của cha Harry, đã chết.
+- Slughorn nói về mẹ của Harry, Lily Evans, người mà ông rất thích và coi là một trong những học sinh xuất sắc nhất.
+- Dumbledore thuyết phục Slughorn trở lại Hogwarts bằng cách chỉ ra an toàn mà ông sẽ có dưới sự bảo vệ của mình.
+- Slughorn đồng ý trở lại Hogwarts và yêu cầu tăng lương.
+- Dumbledore khen ngợi Harry đã thuyết phục Slughorn, nhưng Harry không tin rằng anh đã làm gì.
+- Dumbledore giải thích về tính cách của Slughorn, một người thích kết nối với những người thành công và có quyền lực.
+- Dumbledore cảnh báo Harry về khả năng Slughorn sẽ cố gắng thu nạp anh vào nhóm học sinh yêu thích của mình.
+- Dumbledore nói với Harry về tầm quan trọng của việc giữ an toàn và khuyên anh nên luôn mang theo áo Tàng Hình.
+- Dumbledore nói về các biện pháp an ninh tại Hang Sóc, nơi gia đình Weasley đang ở, để đảm bảo an toàn cho Harry.
+"""

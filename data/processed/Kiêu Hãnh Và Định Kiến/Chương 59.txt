@@ -1,0 +1,13 @@
+"""
+- Gia đình Elizabeth tò mò về nơi cô và Darcy đã đi, nhưng Elizabeth chỉ nói họ đi quanh quẩn. Sự đỏ mặt của cô không làm gia đình nghi ngờ.
+- Buổi tối, Elizabeth và Darcy công khai tình cảm, trong khi những người khác giữ bí mật.
+- Elizabeth chia sẻ với Jane về mối tình của cô và Darcy. Ban đầu, Jane nghi ngờ nhưng sau cùng tin tưởng.
+- Elizabeth giải thích cô đã yêu Darcy từ khi họ thăm Pemberley.
+- Elizabeth chia sẻ với Jane về việc Darcy đã giúp đỡ cuộc hôn nhân của Lydia.
+- Sáng hôm sau, bà Bennet gợi ý Elizabeth đi dạo với Darcy.
+- Elizabeth và Darcy đồng ý xin phép cha cô vào buổi tối.
+- Ông Bennet ban đầu phản ứng mạnh mẽ, nhưng sau cùng chấp nhận sau khi Elizabeth giải thích.
+- Elizabeth kể cho mẹ cô về hôn nhân sắp tới, bà Bennet rất hào hứng và bắt đầu lên kế hoạch.
+- Ngày hôm sau, bà Bennet giữ im lặng trước Darcy, chỉ nói khi muốn tỏ lòng tôn trọng.
+- Ông Bennet bắt đầu thân thiện với Darcy và nói rằng ông yêu quý tất cả ba con rể của mình.
+"""

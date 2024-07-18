@@ -1,0 +1,11 @@
+"""
+    - Ngày nắng nhất mùa hè tại Privet Drive đã kết thúc, mang theo sự tĩnh lặng và uể oải vào những ngôi nhà lớn. Những chiếc xe thường xuyên bị phủ bụi, cỏ trên các bãi cỏ chuyển sang màu vàng do hạn hán.
+    - Harry Potter, một thiếu niên với làn da rám nắng, tóc đen và đeo kính, đang nằm ngửa trên thảm hoa ngoài căn nhà số bốn. Harry không chiếm được cảm tình của hàng xóm do vẻ ngoài bẩn thỉu của mình.
+    - Harry cố gắng nghe tin tức từ phòng khách nhà Dursley nhưng bị gián đoạn bởi tiếng "Rắc" lớn từ bên ngoài. Tiếng động này được tiếp theo bởi một loạt sự kiện, bao gồm tiếng mèo nhảy ra từ một chiếc xe và tiếng đồ sứ vỡ từ trong nhà Dursley.
+    - Harry nghĩ rằng tiếng "Rắc" có thể là do ai đó hiện hình hoặc biến mất, nhưng không thể xác nhận điều này. Anh ta gặp rắc rối với dượng và dì sau khi cố gắng nghe tin tức, dẫn đến một cuộc cãi vã.
+    - Trong lúc tranh cãi, một nhóm bao gồm Dudley và bạn bè của cậu ta đi qua, làm cho Harry cảm thấy bực bội và tức giận. Harry và Dudley sau đó đã có một cuộc đối đầu căng thẳng, trong đó Harry đã rút đũa phép của mình.
+    - Sự xuất hiện đột ngột của hai Dementor đã làm cho cả hai đều hoảng sợ. Harry đã sử dụng phép thuật để chống lại chúng, dẫn đến việc nhận thư từ Viện Pháp Thuật thông báo rằng anh đã bị đuổi khỏi Hogwarts.
+    - Bà Figg, một hàng xóm của Harry, xuất hiện và tiết lộ rằng cô là một Squib và đã được Dumbledore chỉ định theo dõi Harry. Cô cũng nói rằng Mundungus Fletcher, người được giao nhiệm vụ theo dõi Harry, đã rời bỏ nhiệm vụ.
+    - Harry đã nhận được một bức thư từ văn phòng sử dụng sai phép thuật của Viện Pháp Thuật thông báo rằng anh đã bị đuổi học và sẽ phải đối mặt với phiên tòa kỷ luật.
+    - Trong khi tranh cãi với gia đình Dursley về sự việc, Harry đã tiết lộ thông tin về Dementor và thế giới phù thủy, khiến họ hoảng loạn. Dượng Vernon sau đó đuổi Harry ra khỏi nhà nhưng sau cùng Dì Petunia đã yêu cầu anh ở lại, sau khi nhận một bức thư sấm từ một nguồn không rõ.
+"""

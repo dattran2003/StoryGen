@@ -1,0 +1,11 @@
+"""
+- Scarlett đang cố gắng thoát khỏi trạng thái mê muội, nhưng bản năng kéo cô trở lại trạng thái vô thức. Cô đang trải qua cơn ác mộng liên quan đến ngôi nhà "Mười hai cây sồi" và cuộc đuổi bắt vô vọng với Ashley.
+- Trong giấc mơ, Ashley luôn đi trước và không nghe thấy tiếng gọi của cô. Càng cố gắng, khoảng cách giữa cô và Ashley càng trở nên xa xôi.
+- Scarlett cuối cùng chạm được vào Ashley, nhưng khuôn mặt của anh biến thành màn sương mờ. Cô rơi xuống vực thẳm, nhưng may mắn được Rhett cứu.
+- Scarlett tỉnh dậy, cảm thấy cô đơn và bị bỏ rơi trong bóng tối. Cô nhận ra mình đang ở một khách sạn lạ và nhớ lại Rhett đã ly dị cô và cưới người khác.
+- Scarlett đối mặt với thất bại, nhận ra lỗi lầm của mình, từ việc cưới Charles Hamilton và Frank Kennedy vì lý do sai lầm, đến cách cô đối xử với Rhett.
+- Cô cảm thấy tủi nhục và tuyệt vọng, nhưng quyết định không khóc. Cô quyết tâm suy nghĩ nghiêm túc về việc phải làm gì tiếp theo, đặc biệt là vì đứa bé cô đang mang.
+- Scarlett ban đầu căm ghét đứa bé, nhưng sau đó quyết định sẽ chăm sóc nó. Cô muốn dùng đứa bé như công cụ để trả thù Rhett.
+- Nhưng sau đó, cô nhận ra rằng suy nghĩ trả thù là sai lầm. Thay vào đó, cô cần phải tìm kiếm một mục tiêu mới cho cuộc sống của mình.
+- Scarlett suy nghĩ suốt đêm và khi bình minh lên, cô đã xác định được kế hoạch tiếp theo. Cô gọi Bridie và yêu cầu cô chuẩn bị bữa sáng, đồng thời hẹn gặp Colum để nói chuyện.
+"""

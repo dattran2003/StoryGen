@@ -1,0 +1,11 @@
+"""
+- Gia đình Bennet được mời đến dùng bữa với gia đình Lucas. Trong bữa tiệc, Charlotte Lucas dành nhiều thời gian lắng nghe anh Collins, hành động này được Elizabeth cảm ơn.
+- Charlotte, với mục đích rõ ràng, tiếp tục tiếp xúc với anh Collins. Kết quả, anh Collins đã cầu hôn cô vào ngày tiếp theo.
+- Dù ban đầu thiếu tự tin, anh Collins cuối cùng đã thành công trong việc cầu hôn Charlotte nhờ thái độ khích lệ của cô.
+- Họ thông báo tin vui với gia đình, người chấp nhận nhanh chóng vì tình hình tài chính của anh Collins.
+- Charlotte, dù biết rõ anh Collins không phải người lý tưởng, vẫn đồng ý vì coi hôn nhân là cách phòng ngừa thiếu thốn vật chất.
+- Charlotte quyết định tự báo tin cho Elizabeth, người mà cô nghĩ sẽ phản ứng mạnh mẽ.
+- Anh Collins nói với gia đình Bennet rằng anh sẽ trở lại Longbourn sớm, bất chấp rủi ro mất lòng phu nhân Catherine.
+- Bà Bennet hy vọng anh Collins sẽ quan tâm đến một trong những cô con gái khác của mình, nhưng hy vọng đó tan biến khi cô Lucas thông báo về hôn lễ sắp tới của mình.
+- Elizabeth ngạc nhiên trước quyết định của Charlotte và mất thời gian để chấp nhận nó, cảm thấy rằng Charlotte đã đánh mất lòng kính trọng của mình.
+"""

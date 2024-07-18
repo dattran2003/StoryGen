@@ -1,0 +1,23 @@
+"""
+- Đồn điền Mimosa của dòng họ Fontaine, với ngôi nhà màu vàng pha, đang ngả màu và cảnh quan xung quanh được mô tả đầy ấn tượng.
+- Scarlett đang hồi hộp, lo lắng về sự thay đổi của Tony sau 7 năm.
+- Scarlett đi vào nhà, chậm rãi, với sự hỗ trợ của Will. Cô sợ hãi trước khả năng Tony đã thay đổi, trở nên già nua và mệt mỏi.
+- Tony xuất hiện, không thay đổi chút nào, với giọng cười đầy vui vẻ, đôi mắt và mái tóc đen nhánh, cùng nụ cười ranh mãnh.
+- Tony ôm và hôn Scarlett, rồi sau đó là Suellen, thể hiện sự thân mật và vui mừng.
+- Alex Fontaine, anh trai của Tony, cũng tỏ ra vui mừng, dù anh muốn ôm và hôn Tony nhưng không làm.
+- Sự trở về của Tony là sự kiện vui mừng đầu tiên sau cuộc tàn phá của quân Sherman.
+- Tony kể về cuộc sống ở Texas, về những người Texas Rangers và cuộc chiến chống lại người da đỏ.
+- Alex muốn xem súng lục của Tony, nhưng Tony từ chối vì sợ làm hỏng tường nhà.
+- Scarlett cười khi nhận ra Tony không thay đổi, dù chỉ một chút, và Alex tự hào về anh trai mình.
+- Tony thu hút mọi người bằng những câu chuyện phiêu lưu ở Texas.
+- Cuộc họp mặt tiếp tục với những câu chuyện về những người bạn cũ đã mất trong chiến tranh.
+- Scarlett nhận ra rằng cô đã không nghĩ về Rhett trong nhiều giờ.
+- Sáng hôm sau, Scarlett và Suellen đưa lũ trẻ đến Mimosa và Tony cho chúng xem súng lục.
+- Tony quyết định học cày ruộng từ anh trai mình, Alex.
+- Scarlett phải trở lại Atlanta và cô cảm thấy buồn bã khi phải rời xa Tony.
+- Scarlett nói với Pansy chuẩn bị hành lý, nhưng Ella phản ứng dữ dội vì sợ không có ai kết tóc cho cô.
+- Scarlett quyết định để Pansy ở lại Tara để dạy Lutie cách kết tóc cho Ella.
+- Scarlett nói chuyện với Will về Rhett, lo lắng rằng Suellen sẽ chia sẻ thông tin về việc Rhett rời đi.
+- Will khẳng định rằng Suellen không bao giờ nói xấu về Scarlett, và rằng cô không nên lo lắng.
+- Scarlett tin rằng Rhett sẽ trở lại, dù Will không chắc chắn về điều đó.
+"""

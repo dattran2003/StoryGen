@@ -1,0 +1,15 @@
+"""
+- Harry thức dậy sau một giấc mơ chiêm bao, thở hổn hển và vết thẹo hình tia chớp trên trán đang đau nhức.
+- Harry xoa vết thẹo và cố gắng nhớ lại giấc mơ, trong đó có Peter (Đuôi Trùn) và Voldemort.
+- Harry cố gắng nhớ rõ khuôn mặt của Voldemort nhưng không thể, chỉ nhớ được cảm giác khiếp đảm khi nhìn thấy hắn.
+- Harry thấy có một người già bị ngã trong giấc mơ, nhưng chi tiết trở nên mơ hồ.
+- Harry thấy Voldemort và Đuôi Trùn đang nói về việc họ đã giết ai đó và dự định giết Harry.
+- Harry nhìn quanh phòng của mình, nhận ra sự bất thường từ những vật dụng phù thủy.
+- Harry xem một cuốn sách với hình ảnh người đàn ông đang chơi Quidditch, nhưng không thể tập trung vào đó.
+- Harry lắng nghe xung quanh và nhớ lại những tai nạn trong quá khứ tại Hogwarts.
+- Harry suy nghĩ về mối liên hệ giữa cơn đau vết thẹo và Voldemort.
+- Harry nhớ về quá khứ của mình, từ việc sống với gia đình Dursley, khám phá mình là một phù thủy, và việc sống sót dưới lời nguyền của Voldemort.
+- Harry cân nhắc việc viết thư cho bạn bè Hermione và Ron về cơn đau vết thẹo, nhưng quyết định viết cho chú Sirius Black, người vừa mới phát hiện là cha đỡ đầu của mình.
+- Harry viết thư cho chú Sirius, nói về cuộc sống với gia đình Dursley, và về việc vết thẹo đau, cũng như mối lo ngại về Voldemort.
+- Harry quyết định đợi Hedwig trở về để gửi thư, sau đó xuống nhà bếp ăn sáng.
+"""

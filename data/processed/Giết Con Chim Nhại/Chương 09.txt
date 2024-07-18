@@ -1,0 +1,25 @@
+"""
+- Chương 9 bắt đầu với cuộc đối đầu giữa tôi và Cecil Jacobs sau khi nó nói rằng bố tôi, Atticus, bảo vệ cho "bọn mọi đen". 
+
+- Tôi đã quên lời cảnh báo của Atticus rằng ông sẽ trừng phạt nếu tôi đánh lộn lại, nhưng Cecil đã khiến tôi quên điều đó.
+
+- Cecil tuyên bố Atticus bảo vệ "bọn mọi đen", khiến tôi phải hỏi rõ về vấn đề này.
+
+- Atticus giải thích rằng ông đang biện hộ cho một người Da đen tên Tom Robinson, và rằng việc này đã gây ra nhiều tranh cãi trong thị trấn.
+
+- Atticus khuyên tôi hãy cố gắng kiểm soát cơn giận của mình và đấu tranh bằng cái đầu của tôi, thay vì nắm đấm.
+
+- Trong cuộc gặp gỡ tiếp theo với Cecil, tôi đã nhớ lời khuyên của Atticus và bỏ đi thay vì đánh nhau, dù điều này khiến tôi bị gọi là "hèn nhát".
+
+- Sự kiện tiếp theo là Giáng sinh, trong đó tôi và Jem phải đối mặt với Francis, cháu họ của chúng tôi, người có những quan điểm khó chịu.
+
+- Francis đã khiêu khích tôi bằng cách nói rằng Atticus là "kẻ yêu bọn mọi đen", dẫn đến cuộc chiến vật lý giữa chúng tôi.
+
+- Sau cuộc chiến, chú Jack đã trừng phạt tôi và nói rằng tôi sẽ gặp rắc rối nếu tiếp tục sử dụng ngôn ngữ thô lỗ.
+
+- Francis sau đó đã bị chú Jack trừng phạt vì đã khiêu khích tôi.
+
+- Cuối chương, Atticus và chú Jack thảo luận về vụ án mà Atticus đang xử lý, và những khó khăn mà tôi và Jem có thể phải đối mặt do những định kiến trong thị trấn.
+
+- Atticus hy vọng rằng tôi và Jem sẽ tìm đến ông để tìm hiểu thay vì tin vào những lời đồn đại từ thị trấn.
+"""

@@ -1,0 +1,18 @@
+"""
+- Elizabeth suy nghĩ về việc cô được phép tiết lộ thông tin mà cô vừa nghe về đám cưới sắp tới.
+- Ngài William Lucas xuất hiện để thông báo về lễ đính hôn của con gái ông, Charlotte Lucas, với anh Collins.
+- Mọi người, bao gồm cả bà Bennet và Lydia, đều tỏ ra nghi ngờ và không tin vào thông tin này.
+- Elizabeth xác nhận thông tin này, và cố gắng giảm nhẹ sự sốc của gia đình cô.
+- Bà Bennet không thể chấp nhận thông tin này ngay lập tức và đổ lỗi cho Elizabeth.
+- Ông Bennet thấy hài lòng với việc Charlotte Lucas, người ông coi là có suy nghĩ thông minh, lại lựa chọn anh Collins.
+- Jane và Elizabeth đều cảm thấy ngạc nhiên và lo lắng về cuộc hôn nhân này.
+- Phu nhân Lucas tận hưởng chiến thắng của mình qua việc con gái cô có một cuộc hôn nhân tốt đẹp.
+- Elizabeth và Charlotte trở nên xa cách vì vấn đề này.
+- Anh Collins viết thư cho gia đình Bennet, thông báo về kế hoạch trở lại Hertfordshire và dự định cưới Charlotte.
+- Sự trở lại của anh Collins không còn tạo ra niềm vui cho bà Bennet.
+- Jane và Elizabeth lo lắng về việc anh Bingley chưa trở lại.
+- Bà Bennet tức giận với tin đồn rằng anh Bingley sẽ không trở lại trong mùa đông này.
+- Elizabeth sợ rằng Jane đã bị cô Darcy và người bạn của anh Bingley, người có tính cách mạnh mẽ, giữ cách xa.
+- Anh Collins trở lại như đã hứa nhưng không nhận được sự chào đón nồng hậu.
+- Bà Bennet đau khổ trước việc Charlotte sẽ thừa kế ngôi nhà Longbourn sau cái chết của ông Bennet.
+"""

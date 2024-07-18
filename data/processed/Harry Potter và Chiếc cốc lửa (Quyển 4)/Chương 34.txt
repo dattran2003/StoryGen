@@ -1,0 +1,29 @@
+"""
+- Đuôi Trùn tiến đến gần Harry, cởi dây trói và giúp Harry đứng dậy. 
+
+- Đuôi Trùn cắt đứt sợi dây trói Harry và trả lại cây đũa phép cho Harry.
+
+- Voldemort bắt đầu trò chơi đấu tay đôi với Harry, yêu cầu Harry chào và dùng lời nguyền để ép Harry cúi đầu.
+
+- Harry từ chối tuân theo lệnh của Voldemort và quyết tâm không làm trò tiêu khiển cho Voldemort.
+
+- Voldemort dùng lời nguyền Tra tấn, gây đau đớn khủng khiếp cho Harry.
+
+- Harry dùng "Expelliarmus" để đối phó với "Avada Kedavra" của Voldemort, tạo ra một kết nối giữa hai cây đũa phép.
+
+- Sự kết nối giữa hai cây đũa phép tạo ra một vòm ánh sáng, ngăn cách Harry và Voldemort khỏi những Tử thần Thực tử.
+
+- Âm thanh của bài ca phượng hoàng xuất hiện, tạo ra hy vọng cho Harry.
+
+- Những hạt châu ánh sáng bắt đầu di chuyển từ cây đũa phép của Voldemort sang cây đũa phép của Harry.
+
+- Những nạn nhân mà Voldemort đã giết, bao gồm Cerdic Diggory, một lão cụ, bà Bertha Jorkins, cha và mẹ của Harry, bắt đầu xuất hiện từ cây đũa phép của Voldemort.
+
+- Những nạn nhân cố gắng giữ vững sự kết nối để giúp Harry có thời gian chạy trốn.
+
+- Harry hứa sẽ mang xác Cerdic về nhà và sau đó chạy trốn, với sự hỗ trợ từ những nạn nhân của Voldemort.
+
+- Harry sử dụng lời thần chú "Impedimenta" để ngăn chặn những Tử thần Thực tử đang đuổi theo.
+
+- Harry dùng "Accio" để gọi Cúp Tam Pháp thuật, tạo ra một khóa cảng để đưa anh và Cerdic trở về Hogwarts.
+"""

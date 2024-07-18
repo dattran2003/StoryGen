@@ -1,0 +1,14 @@
+"""
+- Khi đồng hồ chỉ 5 giờ, tất cả học sinh trường Lowood nghỉ học và đi uống trà. Trong lúc này, nhân vật chính cảm thấy tuyệt vọng và nằm xuống trên nền nhà, khóc.
+- Sáng sớm, nhân vật chính đứng đầu lớp và được cô Miller khen ngợi, thậm chí cô Temple hứa sẽ dạy cô vẽ và tiếng Pháp. Tuy nhiên, giờ đây, cô cảm thấy thất bại và mong muốn mình chết đi.
+- Helen Burns xuất hiện, mang thức ăn đến cho nhân vật chính, cố gắng an ủi cô.
+- Helen giải thích rằng không ai ghét nhân vật chính và khuyên cô nên kiên nhẫn và hành động đúng đắn.
+- Helen khẳng định rằng dù bị mọi người ghét, nếu lương tâm cô trong sạch, cô vẫn luôn có bạn.
+- Cô Temple tìm thấy nhân vật chính và Helen, đưa họ đến phòng cô, nơi cô Temple an ủi và nghe nhân vật chính kể về cuộc sống khó khăn với bà Reed.
+- Cô Temple hứa sẽ viết thư cho ông Lloyd để xác nhận câu chuyện của nhân vật chính, giúp cô minh oan trước mọi người.
+- Nhân vật chính, Helen và cô Temple cùng thưởng thức một bữa tiệc nhỏ tại phòng cô Temple, tạo nên một đêm đáng nhớ.
+- Cô Temple và Helen Burns đã có một cuộc trò chuyện sâu sắc, mở ra một khía cạnh mới của Helen mà nhân vật chính chưa từng thấy.
+- Một tuần sau, cô Temple nhận được thư của ông Lloyd xác nhận câu chuyện của nhân vật chính, giúp cô được minh oan trước toàn trường.
+- Nhân vật chính quyết tâm học tập, trí nhớ và trí thông minh của cô cải thiện, và cô được phép học tiếng Pháp và vẽ.
+- Cuối cùng, nhân vật chính hiểu rằng tình yêu thương và lòng kính trọng quan trọng hơn nhiều so với sự giàu có và xa hoa.
+"""

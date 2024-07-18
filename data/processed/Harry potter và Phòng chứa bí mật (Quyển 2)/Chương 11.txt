@@ -1,0 +1,25 @@
+"""
+- Sáng Chủ Nhật, Harry thức dậy trong ký túc xá tràn ngập ánh nắng, thấy tay mình đã mọc đủ xương nhưng vẫn cứng đờ.
+- Bà Pomfrey kiểm tra và xác nhận sức khỏe tay Harry đã hồi phục, cho phép Harry ra về sau bữa ăn.
+- Harry tìm về tháp Gryffindor để gặp Hermione và Ron nhưng không thấy họ ở đó, cảm thấy hơi tự ái vì nghĩ họ không quan tâm đến sức khỏe của mình.
+- Percy thông báo với Harry về chiến thắng của Gryffindor trong trận Quidditch, giúp nhà họ dẫn đầu trong cuộc đua Cúp Nhà.
+- Harry tìm thấy Hermione và Ron ở buồng tắm nữ, họ đang chuẩn bị chế thuốc Đa dịch.
+- Hermione và Ron cho biết họ đã biết về vụ Colin bị tấn công và quyết định tiếp tục chế thuốc Đa dịch để làm rõ vụ việc.
+- Dobby xuất hiện vào nửa đêm và thông báo với Harry về mối đe dọa từ Phòng chứa Bí mật.
+- Harry, Hermione và Ron nghi ngờ Draco Malfoy liên quan đến vụ tấn công Colin và quyết định dùng thuốc Đa dịch để truy vấn Malfoy.
+- Họ lên kế hoạch lấy sừng song kỳ mã và da vụn rắn từ kho của thầy Snape.
+- Trong lớp học Độc dược, Hermione, Harry và Ron thực hiện một cuộc tấn công giả mạo để lấy nguyên liệu từ văn phòng thầy Snape.
+- Hermione thành công trong việc lấy nguyên liệu, nhưng thầy Snape nghi ngờ Harry là thủ phạm gây ra vụ nổ trong lớp học.
+- Họ tiếp tục chế thuốc Đa dịch và dự định sử dụng nó trong kỳ nghỉ Giáng sinh.
+- Thông báo về việc thành lập Câu lạc bộ Đấu tay đôi lan truyền trong trường.
+- Trong buổi họp đầu tiên của Câu lạc bộ, thầy Lockhart và thầy Snape trình diễn đấu tay đôi, nhưng kết quả là thầy Lockhart bị thầy Snape đánh bại.
+- Harry, Ron và Hermione tham gia đấu tay đôi, nhưng kết quả là Harry vô tình gọi con rắn ra từ đũa phép của Malfoy.
+- Harry dùng Xà ngữ để điều khiển con rắn không tấn công Justin, gây ra sự hiểu lầm và hoảng sợ từ bạn bè và Justin.
+- Harry, Ron và Hermione sau đó thảo luận về khả năng Xà ngữ của Harry, và suy đoán về mối liên hệ giữa Harry và Salazar Slytherin.
+- Harry cảm thấy buồn bã và hoang mang về khả năng Xà ngữ của mình, và cố gắng tìm Justin để giải thích.
+- Harry nghe được cuộc trò chuyện của Ernie và bạn bè về khả năng Xà ngữ của mình và những nghi ngờ về mối liên hệ với kẻ kế vị Slytherin.
+- Harry gặp Hagrid, người đang kiểm tra vụ giết gà trống thứ hai trong học kỳ, và chia sẻ với Hagrid về những lời đồn đại.
+- Harry phát hiện Justin và Nick Suýt Mất Đầu đã bị tấn công và nằm bất động trên sàn hành lang.
+- Peeves phát hiện ra cảnh tượng và thông báo khắp trường, gây ra sự hỗn loạn.
+- Harry bị giáo sư McGonagall dẫn đi gặp hiệu trưởng Dumbledore sau vụ tấn công.
+"""

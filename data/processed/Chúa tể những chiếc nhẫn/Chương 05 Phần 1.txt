@@ -1,0 +1,14 @@
+"""
+- Merry gợi ý rằng họ nên trở về nhà sau chuỗi sự kiện kỳ lạ.
+- Họ đi theo con đường dẫn vào Bến Phà, một con đường thẳng với những tảng đá trắng lót hai bên.
+- Merry dẫn con ngựa lùn qua lối vào chiếc phà, những người khác đi theo.
+- Merry đẩy chiếc phà đi bằng một cây sào dài qua Sông Rượu Mạnh.
+- Frodo, Merry, Pippin và Sam tiến vào Buckland, nơi có Ngọn Đồi Buck và Phòng Rượu Mạnh.
+- Frodo nhận ra có một cái gì đó đang theo dõi họ từ phía sau màn sương.
+- Merry và Frodo nhận ra có một vật thể kỳ lạ di chuyển ở phía sau, sau đó nó biến mất vào màn sương.
+- Merry và Frodo tiếp tục cuộc hành trình về Crickhollow, nơi Frodo đã chọn làm nơi ở mới.
+- Merry và Bolger Béo đã chuẩn bị ngôi nhà ở Crickhollow để đón Frodo và bạn bè.
+- Merry giới thiệu ngôi nhà và các tiện ích, bao gồm cả phòng tắm.
+- Họ dùng bữa khuya, Frodo và Merry chia sẻ những sự kiện gần đây, bao gồm việc bị truy đuổi bởi những Kỵ sĩ Đen.
+- Frodo tiết lộ rằng ông đang định rời khỏi Quận, nhưng nguy hiểm đã đến sớm hơn dự kiến và ông phải ra quyết định ngay lập tức.
+"""

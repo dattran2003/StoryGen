@@ -1,0 +1,15 @@
+"""
+- Scarlett trong thời gian dưỡng sức sau sinh, đã dành thời gian suy nghĩ về những thay đổi trong cuộc sống của mình, đặc biệt là tình yêu dành cho con mới sinh, Cat.
+- Cô nhận ra rằng mình không thực sự yêu Ashley như mình từng nghĩ, mà chỉ thèm khát những thứ không thể có.
+- Scarlett tự hỏi liệu mình có thực sự yêu Rhett hay không, và nhận ra rằng mình đã lãng phí 10 năm cho một tình yêu không thật.
+- Những suy tư về Rhett khiến cô đau lòng, nhưng lòng thù hận đã giúp cô vượt qua.
+- Scarlett cố gắng không nghĩ về Rhett, nhưng cô không thể ngừng so sánh tình yêu dành cho Rhett và Cat.
+- Scarlett nhớ lại niềm hạnh phúc từ thời còn sống ở nhà Jamie, nơi gia đình cô chấp nhận cô như cô là.
+- Cô nhận ra rằng mình đã sai khi cố gắng thay đổi người khác, như việc cô muốn biến đổi gia đình bác Daniel.
+- Scarlett thề sẽ không làm điều tương tự với Cat, cô sẽ yêu nó như nó là, dù bất kỳ điều gì xảy ra.
+- Scarlett nhận ra rằng mẹ cô, Ellen, cũng đã mắc sai lầm tương tự, cố gắng biến con cái thành giống mình.
+- Scarlett hiểu rằng hạnh phúc là cách sống tốt nhất, và cô sẽ không lãng phí nó nữa.
+- Scarlett nhận ra rằng cô không phải là người xấu xa như những người ở Atlanta đã cho rằng, mà chỉ đơn giản là một người sống đúng với bản chất của mình.
+- Scarlett cảm thấy hạnh phúc khi được gọi là Bà O'Hara, và cô tự hào với danh hiệu này.
+- Cuối cùng, Scarlett hứa với Cat rằng cô sẽ để con trở thành chính mình, không bị áp lực phải giống ai khác.
+"""

@@ -1,0 +1,21 @@
+"""
+- Ngày tháng tư lạnh lẽo, Winston Smith, một người đàn ông mảnh khảnh, tiến vào Khu Nhà Chiến Thắng, nơi ông làm việc.
+- Trong hành lang, Winston nhìn thấy bức tranh lớn của lãnh đạo - gọi là 'Bác', có đôi mắt theo dõi mọi người và dòng chữ 'BÁC ĐANG NHÌN BẠN'.
+- Winston leo lên tầng bảy, nơi căn phòng của mình, tránh thang máy vì nó thường không hoạt động.
+- Trong phòng, một máy truyền hình đang phát thông tin về sản xuất gang. Máy này không thể tắt hoàn toàn và luôn theo dõi mọi hoạt động.
+- Winston, mặc dù bị bệnh loét tĩnh mạch, cố gắng giữ bình tĩnh trước máy truyền hình, nhận thức rõ rằng mọi cử chỉ của mình đều có thể bị theo dõi.
+- Ông nhìn ra cửa sổ, thấy thế giới ngoài kia lạnh lẽo, chỉ có những bức tranh của 'Bác' trên tường tạo điểm nhấn màu sắc.
+- Winston quay lưng lại với máy truyền hình và nghĩ về Bộ Sự Thật, nơi ông làm việc, một tòa nhà lớn ở London, thủ đô của Vùng Một Không Quân.
+- Ông nhớ lại những hình ảnh về London trong thời thơ ấu, nhưng không thể xác định liệu thành phố đã thay đổi như thế nào.
+- Winston nhìn thấy ba khẩu hiệu của Đảng trên Bộ Sự Thật: CHIẾN TRANH LÀ HÒA BÌNH, TỰ DO LÀ NÔ LỆ, DỐT NÁT LÀ SỨC MẠNH.
+- Ông quay lại phòng mình, quyết định viết nhật ký, một hành động có thể dẫn đến tử hình hoặc tù khổ sai.
+- Winston bắt đầu viết nhật ký, không chắc về năm hiện tại nhưng quyết tâm ghi lại những suy nghĩ của mình.
+- Ông viết về một bộ phim chiến tranh mà ông xem đêm qua, một người đàn ông bị máy bay trực thăng bắn chết và một người phụ nữ cố gắng bảo vệ một đứa trẻ.
+- Winston gặp cô gái từ Cục Truyện và O'Brien, một thành viên cấp cao của Đảng Trong, trong phòng chờ trước khi bắt đầu "Hai Phút Hận Thù".
+- Trong "Hai Phút Hận Thù", Winston và những người khác xem một video công kích Emmanuel Goldstein, kẻ phản bội Đảng.
+- Sự thù ghét đối với Goldstein trở nên mạnh mẽ đến mức mọi người bắt đầu hét lên và mất kiểm soát, bao gồm cả Winston.
+- Winston cảm thấy một sự kết nối nhất thời với O'Brien, cảm thấy rằng ông ta có thể hiểu và chia sẻ những suy nghĩ của mình.
+- Sau "Hai Phút Hận Thù", Winston tiếp tục viết nhật ký, viết liên tục "ĐẢ ĐẢO BÁC" trên trang giấy.
+- Winston nhận thức rằng tội tư tưởng không thể ẩn giấu mãi và rằng Cảnh Sát Tư Tưởng sẽ tìm ra ông.
+- Cuối cùng, khi ông đang viết, có tiếng gõ cửa, gây ra sự hoảng loạn cho Winston.
+"""

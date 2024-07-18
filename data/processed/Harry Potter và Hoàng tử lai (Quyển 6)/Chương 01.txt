@@ -1,0 +1,10 @@
+"""
+- Thủ tướng đang một mình trong phòng, chờ đợi cuộc gọi từ một Tổng thống nước ngoài, trong khi cố gắng đọc một bản thông cáo dài nhưng không thể tập trung.
+- Một người đàn ông nhỏ trong bức tranh thông báo rằng Bộ trưởng Pháp thuật, Fudge, muốn gặp mặt khẩn cấp.
+- Thủ tướng và Fudge thảo luận về một loạt vấn đề khó khăn: cầu Brockdale sập, hai vụ giết người và lũ lụt lớn ở miền Tây.
+- Fudge xuất hiện từ bức tranh, thông báo rằng "Kẻ - mà - ai - cũng - biết - là - ai" đã trở lại, điều này đã gây ra nhiều vấn đề cho cả hai cộng đồng Muggle và Phù thủy.
+- Fudge thông báo rằng ông đã bị sa thải khỏi chức vụ Bộ trưởng Pháp thuật do những sự cố gần đây.
+- Người kế nhiệm của Fudge, Rufus Scrimgeour, xuất hiện và thông báo rằng Thủ tướng đang cần sự bảo vệ vì "Kẻ - mà - ai - cũng - biết - là - ai" đã trở lại.
+- Scrimgeour nói rằng một trong những bộ trưởng của Thủ tướng, Herbert Chorley, đã bị nguyền và đang trở nên nguy hiểm.
+- Cuối cùng, Thủ tướng bày tỏ sự thất vọng vì dù Fudge và Scrimgeour là phù thủy, họ không thể giải quyết được vấn đề do "Kẻ - mà - ai - cũng - biết - là - ai" gây ra.
+"""

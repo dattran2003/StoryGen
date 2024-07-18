@@ -1,0 +1,21 @@
+"""
+- Gluin kể cho Frodo về vương quốc Người Lùn, về vua Dbin và những người bạn đồng hành còn sống sót sau Trận Chiến Của Năm Lực Lượng.
+- Frodo hỏi về Balin, Ori và Uin, Gluin trả lời rằng họ không biết và rằng anh đã đến Rivendell để tìm lời khuyên.
+- Gluin mô tả những công trình vĩ đại của Người Lùn tại Dale và dưới Ngọn Núi.
+- Frodo bày tỏ mong muốn được thấy những thay đổi tại Nơi Hoang Tàn của Smaug.
+- Gluin nhận ra Frodo thích Bilbo và Frodo xác nhận điều này.
+- Bữa tiệc kết thúc, mọi người đi vào một sảnh đường khác, nơi có lò sưởi lớn.
+- Frodo nói chuyện với Gandalf, sau đó chú ý đến một bóng đen nhỏ, hóa ra đó là Bilbo.
+- Bilbo và Frodo gặp lại nhau, Bilbo cho biết ông đã đến Rivendell sau chuyến đi lang thang.
+- Bilbo muốn nhìn thấy lại Chiếc Nhẫn, nhưng Frodo không chịu.
+- Frodo cảm thấy một sự thay đổi kỳ lạ khi nhìn vào Bilbo, như một bóng tối xuất hiện giữa họ.
+- Frodo giấu Chiếc Nhẫn, Bilbo xin lỗi vì đã để Frodo gánh một gánh nặng.
+- Frodo kể cho Bilbo về mọi chuyện tại Quận, Bilbo tỏ ra quan tâm.
+- Người Sải Bước (Aragorn) xuất hiện, Frodo nhận ra ông có nhiều tên.
+- Bilbo và Aragorn cùng nhau hoàn thiện một bài hát.
+- Frodo ngồi một mình, lắng nghe âm nhạc và ca từ của người Elves, rồi chìm vào giấc ngủ.
+- Frodo mơ về một bài hát, sau đó thức dậy và nghe Bilbo hát.
+- Frodo và Bilbo rời khỏi sảnh đường, Frodo quan sát Aragorn và Arwen.
+- Họ ngồi ở phòng riêng của Bilbo, nhìn sao và thảo luận về những điều tốt đẹp họ đã chia sẻ.
+- Cuối cùng, Sam xuất hiện, hỏi xem họ cần thêm điều gì.
+"""

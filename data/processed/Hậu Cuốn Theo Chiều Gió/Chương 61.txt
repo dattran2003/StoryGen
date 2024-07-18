@@ -1,0 +1,16 @@
+"""
+- Bà Fitzpatrick, được giới thiệu như một người tốt nhưng khó để Scarlett cảm tình, đang cần một vị trí đầu bếp.
+- Scarlett nhận xét bà Fitzpatrick là một phụ nữ cao lớn, chắc chắn, với giọng Anh nhưng đã mất đi vẻ êm ái, có vẻ là một nhà nữ doanh nhân.
+- Scarlett cảm nhận sự tự tin và chắc chắn trong lời nói của bà Fitzpatrick, điều này làm cho Scarlett cảm thấy thoải mái.
+- Bà Fitzpatrick tỏ ra thích thú và vinh dự khi làm quản gia cho Scarlett, khẳng định Scarlett đã đạt được sự tôn kính và niềm tin từ người khác.
+- Scarlett, sau cuộc trò chuyện, cảm thấy mạnh mẽ và khác thường, và bà Fitzpatrick đề nghị dùng trà cùng Scarlett.
+- Scarlett và bà Fitzpatrick đi thăm Toà nhà lớn, nhận xét về việc cần phải làm để sửa chữa và làm sạch ngôi nhà.
+- Scarlett quyết định tự mình quản lý Ballyhara, bất chấp lời khuyên của bà Fitzpatrick.
+- Scarlett và bà Fitzpatrick tiếp tục khám phá ngôi nhà, bao gồm nhà bếp lớn và các phòng khác.
+- Scarlett cảm thấy mệt mỏi sau cuộc thám hiểm, nhưng quyết tâm hoàn thành mọi việc trước khi đứa bé ra đời.
+- Scarlett và bà Fitzpatrick sau đó đi ăn tại quán rượu, Scarlett nhận ra rằng cô có quyền tự do ở bất kỳ đâu do cô là chủ của quán.
+- Scarlett tiếp tục thảo luận về công việc với Colum, bao gồm việc chuẩn bị cho việc sinh nở và việc bà FitzPatrick đã làm tốt công việc của mình.
+- Scarlett và Colum nói về việc cô được gọi là bà O Hara, và Colum khuyên cô không nên chế nhạo tín ngưỡng của người dân.
+- Scarlett hứa sẽ tôn trọng tín ngưỡng của người dân, và cô và Colum tiếp tục nói chuyện vui vẻ.
+- Scarlett sau đó thăm bà nội và Kathleen, cô cảm thấy lo lắng về việc vượt qua khúc sông cạn và quyết định cô không thể vượt qua trước khi sinh.
+"""

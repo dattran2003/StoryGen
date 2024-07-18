@@ -1,0 +1,22 @@
+"""
+- Harry, Ron, Fred và George đang chờ khách đến dự đám cưới của Bill và Fleur, họ đã chuẩn bị với việc giới thiệu Harry như "em họ Barny".
+- Harry cảm thấy không thoải mái trong bộ đồ chật và nóng do hoá trang thành một anh chàng Muggle.
+- Fred và George đã cột bong bóng trên chỗ mà Bill và Fleur sẽ kết hôn.
+- Khách mời bắt đầu đến, tạo thành một dòng rồng rắn kéo nhau qua khu vườn.
+- Tonks và Lupin cũng đến, Tonks đã thay đổi tóc thành màu vàng óng.
+- Hagrid gây ra sự cố khi ngồi nhầm vào ghế không được củng cố.
+- Luna Lovegood xuất hiện, cô mặc áo chùng màu vàng chói và đã bị quỷ lùn cắn.
+- Ron cười khi nghe Luna nói về tài năng mà cô nhận được từ quỷ lùn.
+- Dì Muriel, một người quen của gia đình Weasley, xuất hiện và gây ra sự khó chịu.
+- Viktor Krum, cựu bạn của Hermione, xuất hiện và nhận xét Hermione.
+- Lễ cưới bắt đầu với sự dẫn dắt của một pháp sư tóc rậm.
+- Bill và Fleur kết hôn, tạo ra một cảnh tượng huyền ảo với những ngôi sao bạc rơi xuống.
+- Sau lễ cưới, mọi người tham gia vào bữa tiệc, trong đó có việc nhảy múa và trò chuyện.
+- Krum thông báo cho Harry về ký hiệu mà Xenophilius Lovegood mang trên ngực, liên quan đến Grindelwald.
+- Harry bắt đầu suy nghĩ về mối liên hệ giữa cây đũa phép của mình và Voldemort.
+- Trong bữa tiệc, Harry gặp Elphias Doge và họ thảo luận về bài phỏng vấn của Rita Skeeter về Dumbledore.
+- Bà dì Muriel tiết lộ thông tin về quá khứ của gia đình Dumbledore, đặc biệt là về Ariana, em gái của Dumbledore.
+- Harry biết được thông tin về Bathilda Bagshot, người sống ở thung lũng Godric, nơi gia đình Dumbledore từng sống.
+- Harry cảm thấy trống rỗng khi biết Dumbledore không chia sẻ với anh về việc họ đều sống ở thung lũng Godric.
+- Lễ cưới bị gián đoạn bởi thông báo rằng Bộ Pháp Thuật đã sụp đổ và Scrimgeour đã chết, và những kẻ thù đang đến.
+"""

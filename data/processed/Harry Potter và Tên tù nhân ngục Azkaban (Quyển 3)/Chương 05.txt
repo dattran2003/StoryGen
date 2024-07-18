@@ -1,0 +1,20 @@
+"""
+- Harry thức dậy bởi ông chủ quán Tom và chuẩn bị đi, trong khi Ron đến với vẻ cáu kỉnh.
+- Ron muốn tránh xa Percy càng sớm càng tốt khi lên tàu. 
+- Harry có điều muốn nói với Ron nhưng bị gián đoạn bởi George và Fred.
+- Cả nhóm dùng bữa sáng với gia đình Weasley và Hermione.
+- Trong lúc khởi hành, Harry không có cơ hội nói chuyện riêng với Hermione và Ron.
+- Harry và gia đình Weasley di chuyển tới ga Ngã Tư Vua bằng xe của Bộ Pháp Thuật.
+- Họ xuyên qua hàng rào giữa sân ga số 9 và 10, xuất hiện ở sân ga số Chín Ba phần Tư.
+- Percy và Ginny xuất hiện sau đó, Percy nhận ra Penelope và tiến lại gặp cô.
+- Harry và gia đình Weasley tìm một toa tàu trống, gặp giáo sư mới R.J Lupin đang ngủ.
+- Ron nhận ra giáo sư Lupin qua va li của ông.
+- Harry chia sẻ với Ron và Hermione về cuộc nói chuyện với ông Weasley về Sirius Black.
+- Hermione và Ron tỏ ra lo lắng về nguy hiểm mà Sirius Black mang lại.
+- Ron và Hermione hỏi về Hogsmeade, nhưng Harry không được phép đi do không có sự cho phép từ dượng Vernon và ông Fudge.
+- Trong lúc di chuyển, một viên giám ngục Azkaban đến kiểm tra tàu, gây ra cảm giác lạnh lẽo và làm Harry ngất xỉu.
+- Giáo sư Lupin đưa sôcôla cho Harry ăn để phục hồi sức lực.
+- Họ tới trường và gặp giáo sư McGonagall, bà thông báo về tình trạng sức khỏe của Harry và giới thiệu giáo sư Lupin và Hagrid.
+- Giáo sư Dumbledore thông báo về sự hiện diện của giám ngục Azkaban tại trường và giới thiệu giáo sư Lupin và Hagrid.
+- Buổi tiệc khai giảng diễn ra, sau đó Harry, Ron và Hermione chúc mừng Hagrid về việc ông trở thành giáo viên.
+"""

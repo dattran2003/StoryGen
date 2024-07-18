@@ -1,0 +1,17 @@
+"""
+- Scarlett dự một bữa tiệc tại nhà Molly, dù không thích thú với lối sống giả tạo và kiểu cách của các khách mời.
+- Scarlett phê phán lối sống đua đòi, giả tạo của xã hội địa phương và thấy nó kém tự nhiên so với chủ đồn điền ở quận Clayton.
+- Scarlett chế giễu lối sống của Molly và bạn bè, nhưng vẫn thưởng thức các món ăn và không quan tâm đến sự chỉ trích.
+- Scarlett trêu chọc Molly về việc Robert đeo găng tay da dê cả ngày.
+- Scarlett muốn nói chuyện với Colum, nhưng Molly không để họ tiếp xúc nhiều.
+- Scarlett và Molly đi dạo bằng xe ngựa đến sông Boyne, Scarlett tỏ ra thích thú với cuộc đi chơi này hơn là đi bộ.
+- Scarlett cảm thấy ngưỡng mộ trước lâu đài của Bá tước và muốn khám phá bên trong.
+- Scarlett và Molly chỉ được phép dạo chơi trong khuôn viên, nhưng Scarlett vẫn cố gắng khám phá.
+- Scarlett cảm thấy bị thu hút bởi vẻ đẹp tự nhiên của sông Boyne, trái ngược với những hình ảnh chiến tranh mà cha cô miêu tả.
+- Scarlett gặp phải áp lực từ Molly về việc giữ gìn hình ảnh xã hội, nhưng cô không để ý và tiếp tục hành trình khám phá.
+- Scarlett chia sẻ cảm xúc của mình với Colum, cảm thấy mệt mỏi với Molly và cuộc sống tại đó.
+- Scarlett và Colum đi tham quan Trim, nơi có lịch sử lâu đời, và gặp gỡ nhiều người quen của Jamie.
+- Scarlett và Colum đến thăm gia đình Mahoney, nơi họ gặp nhiều người và thưởng thức bữa ăn trưa.
+- Scarlett quyết định chuyển sang ở nhà bác Daniel vì không thích ở nhà Molly.
+- Scarlett hòa mình vào cuộc sống bình dị tại nhà bác Daniel và tận hưởng thời gian của mình ở đây.
+"""

@@ -1,0 +1,21 @@
+"""
+- Scarlett xác nhận tình cảm của Rhett dành cho mình và cảm thấy hạnh phúc.
+- Rhett và Scarlett đang ở ngoài trời trong cơn mưa lớn, họ cần tìm chỗ trú.
+- Scarlett cố gắng giữ ấm và giữ cho tinh thần thoải mái.
+- Rhett rời đi để tìm nơi trú ẩn, Scarlett lo lắng và gọi theo.
+- Rhett tìm thấy một căn nhà gỗ gần đó, họ đến đó để trú ẩn.
+- Scarlett thay đổi quần áo ướt, Rhett cố gắng làm ấm căn nhà bằng cách tạo lửa.
+- Rhett tìm thấy chai whisky và hai cái tách trong nhà, họ uống để làm ấm.
+- Rhett giải thích rằng mối quan hệ giữa họ không phải là tình yêu, chỉ là phản ứng sinh lý sau cảnh nguy hiểm.
+- Scarlett không đồng ý với quan điểm của Rhett và khẳng định tình yêu của họ.
+- Rhett rời đi trong cơn bão, để lại Scarlett trong tình trạng kiệt sức.
+- Scarlett được bác sĩ quân y cứu và chẩn đoán bị kiệt sức do lạnh và mệt.
+- Rhett đưa Scarlett về đồn Moultrie.
+- Scarlett được chăm sóc bởi một người phụ nữ tên là Rebecca, người giúp cô hồi phục.
+- Scarlett trải qua giấc mơ hỗn loạn và đáng sợ, nhưng sau đó cô hồi phục.
+- Scarlett được đón về nhà bởi Anne Hampton và bà Eleanor Butler.
+- Rhett không ở nhà, anh bị xung huyết do lạnh.
+- Scarlett quyết định rời Charleston và trở về Atlanta, cô không muốn chờ Rhett trở lại.
+- Scarlett nhận được bức thư từ Rhett, anh xin lỗi và quyết định không gặp lại cô.
+- Scarlett tức giận và quyết định không chờ đợi Rhett nữa, cô sẽ trở về Tara và làm việc.
+"""

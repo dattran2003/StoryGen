@@ -1,0 +1,28 @@
+"""
+- Thời tiết ấm lạ thường vào cuối tháng Mười, không cần áo khoác khi ra ngoài.
+- Jem và Scout đang trên đường về nhà sau buổi diễn, dự đoán sẽ mưa và không có trăng.
+- Họ đi qua nhà Radley, nơi đèn đường chiếu bóng sắc nét lên nhà.
+- Jem cầm đồ hóa trang của Scout, thể hiện sự lịch sự.
+- Scout cảm thấy sợ hãi dù biết Boo Radley không gây hại cho ai.
+- Một con chim nhại bắt đầu kêu trong đêm, thay đổi giọng điệu.
+- Jem và Scout vấp phải rễ cây trên đường đi, Jem làm rơi đồ hóa trang của Scout.
+- Họ đi vào sân trường, nơi tối thui và Jem định hướng bằng cách cảm nhận cây sồi.
+- Cecil Jacobs, bạn của họ, nhảy ra từ bóng tối làm họ hoảng hốt.
+- Cecil đã biết lộ trình của họ và đợi ở đó, mặc dù ban đầu nghĩ rằng Atticus sẽ đi cùng.
+- Jem và Scout tới hội trường, nơi mọi người trong thị trấn đã tập trung, ngoại trừ Atticus và những người mệt mỏi sau khi trang trí.
+- Cecil và Scout chơi tại các quầy trò chơi, tiêu hết 30 xu của mình.
+- Trong khi chờ diễn, Scout nghe bà Merriweather kể về lịch sử của hạt Maycomb.
+- Scout đã ngủ gật trong trang phục, dẫn đến việc bà Merriweather phải gọi cô để ra sân khấu.
+- Bà Merriweather cho rằng Scout đã phá hỏng màn diễn, nhưng Jem an ủi cô.
+- Trên đường về nhà, Jem và Scout cảm thấy có ai đó theo dõi họ.
+- Họ dừng lại nhiều lần, cố gắng xác định nguồn âm thanh lạ.
+- Cecil được nghi ngờ là kẻ theo dõi, nhưng âm thanh không phù hợp với suy đoán của họ.
+- Jem bảo Scout cởi đồ hóa trang nhưng cô từ chối.
+- Jem và Scout nhận ra họ đang bị ai đó theo dõi, không phải Cecil.
+- Một cuộc vật lộn xảy ra, Jem bị thương và được một người đàn ông không rõ danh tính cứu.
+- Atticus và Alexandra chạy ra khỏi nhà khi nghe tin, gọi bác sĩ và cảnh sát.
+- Jem được đưa vào nhà, còn Scout được bác Alexandra chăm sóc.
+- Jem bị thương nặng, bao gồm một cục u trên đầu và cánh tay gãy.
+- Một người đàn ông không rõ danh tính cõng Jem về nhà sau cuộc vật lộn.
+- Cảnh sát trưởng Heck Tate tìm thấy Bob Ewell chết dưới một cây, với một con dao cắm vào sườn. 
+"""

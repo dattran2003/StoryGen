@@ -1,0 +1,19 @@
+"""
+- Nhân vật chính đã bị đánh bại trong một cuộc đấu, nằm bất động trên mặt đất với cơ thể đau đớn.
+- Bellatrix Lestrange kiểm tra tình trạng của anh, nhưng thầm báo tin anh còn sống với Narcissa Malfoy.
+- Narcissa Malfoy tuyên bố anh đã chết trước sự chứng kiến của Voldemort và những người khác.
+- Dù giả chết, Harry nghe và hiểu mọi diễn biến xung quanh, bao gồm việc Voldemort tuyên bố đã giết Harry và yêu cầu mọi người đầu hàng.
+- Harry được Hagrid mang lên, chuẩn bị để trở thành bằng chứng cho chiến thắng của Voldemort.
+- Trong khi Hagrid mang Harry, Voldemort tuyên bố với mọi người ở lâu đài Hogwarts về cái chết của Harry, và yêu cầu họ đầu hàng.
+- Harry nghe và cảm nhận mọi diễn biến, bao gồm việc giáo sư McGonagall và những người khác phản ứng trước thông tin giả về cái chết của anh.
+- Neville Longbottom từ chối tham gia phe Voldemort và được yêu cầu đội chiếc nón phân loại đang cháy lên đầu.
+- Trong khi mọi người tập trung, Harry đã đứng dậy dưới sự che chở của Áo khoác Tàng hình và Neville đã dùng gươm Gryffindor để cắt đứt đầu của con rắn Nagini.
+- Cuộc chiến bùng nổ khi quân tiếp viện từ bên ngoài xông vào.
+- Harry, vô hình dưới tấm Áo khoác Tàng hình, đã tham gia cuộc chiến đấu, cùng với Neville và những người khác.
+- Bellatrix Lestrange đã bị Molly Weasley giết.
+- Harry cuối cùng đối mặt với Voldemort, tiết lộ rằng anh ta đã sẵn sàng chết để bảo vệ mọi người và rằng anh ta không còn Trường Sinh Linh Giá nào nữa.
+- Harry tiết lộ rằng cây Đũa phép Cơm nguội thực sự thuộc về anh ta, không phải Voldemort, vì anh đã đánh bại Draco Malfoy, người đã đánh bại Dumbledore.
+- Trong cuộc đối đầu cuối cùng, Harry đã phản hồi lại lời nguyền của Voldemort, khiến Voldemort chết.
+- Sau cái chết của Voldemort, Harry đã trở thành biểu tượng của sự sống sót và chiến thắng, nhưng anh cũng phải đối mặt với nỗi đau mất mát của những người thân yêu.
+- Cuối cùng, sau 19 năm, Harry và gia đình anh ta tiễn hai con trai của mình lên tàu hỏa tới trường Hogwarts, nơi họ sẽ bắt đầu hành trình học tập của mình.
+"""

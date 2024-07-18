@@ -1,0 +1,11 @@
+"""
+- Mặt trời lặn, bóng tối buông xuống khi Frodo và đồng đội tiếp tục hành trình, đi vào khu rừng dày đặc. Họ gặp Haldir, người dẫn họ đến Caras Galadhon, thành phố của Galadhrim.
+- Caras Galadhon là nơi cư ngụ của Lãnh chúa Celeborn và Công nương Galadriel, tuy nhiên, cổng thành phố không mở về hướng Bắc nên họ phải đi vòng xuống phía Nam.
+- Họ đi qua một cây cầu trắng, tiến vào thành phố thông qua những cánh cổng lớn, rồi tiếp tục vào thành phố cây. Trong thành phố, họ thấy ít người, nhưng nghe nhiều tiếng động.
+- Haldir dẫn Frodo và đồng đội lên cầu thang để gặp Celeborn và Galadriel. Frodo và đồng đội được chào đón và ngồi cạnh ghế của Galadriel.
+- Celeborn và Galadriel chào đón Frodo và đồng đội, bày tỏ sự tiếc nuối về sự mất mát của Gandalf. Frodo và đồng đội chia sẻ về cuộc hành trình khó khăn và nguy hiểm của họ.
+- Galadriel không đưa ra lời khuyên cụ thể cho Frodo và đồng đội, nhưng nhấn mạnh rằng nhiệm vụ của họ đang ở trên lưỡi dao, chỉ cần một chút lạc lối là nó sẽ thất bại.
+- Frodo và đồng đội được phép nghỉ ngơi tại thành phố, và họ dành thời gian để hồi phục sau những nỗ lực và đau buồn. 
+- Trong thời gian nghỉ ngơi tại Lothlurien, Frodo và đồng đội thường nhớ về Gandalf, và nỗi đau mất mát trở nên mãnh liệt hơn.
+- Frodo bắt đầu tạo ra một bài hát tưởng nhớ Gandalf, nhưng khi cố gắng lặp lại, ông chỉ nhớ nhạt nhoà như một nắm lá thu quắt queo.
+"""

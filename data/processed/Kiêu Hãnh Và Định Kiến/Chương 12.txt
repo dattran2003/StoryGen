@@ -1,0 +1,13 @@
+"""
+- Elizabeth và Jane đã thỏa thuận và Elizabeth viết thư về nhà yêu cầu gửi xe đón họ về.
+- Bà Bennet phản ứng không vui vì bà đã dự định Jane sẽ ở lại lâu hơn và từ chối gửi xe sớm.
+- Elizabeth quyết tâm về nhà và không muốn nhận sự nài ép ở lại từ Bingley và em gái anh, vì vậy cô quyết định mượn xe của bà Hurst.
+- Hai chị em thông báo cho chủ nhà về ý định rời đi vào buổi sáng hôm sau nhưng mọi người muốn họ ở lại thêm một ngày nữa.
+- Miss Bingley tỏ ra tiếc nuối vì lời đề nghị này, do lòng ghen ghét dành cho Elizabeth đã vượt lên trên sự thương cảm dành cho Jane.
+- Mr Bingley lo lắng cho sức khỏe của Jane nhưng Jane kiên trì khẳng định cô đã hồi phục.
+- Darcy thấy vui vì Elizabeth sắp rời đi, vì cô đã chiếm giữ sự chú ý của anh quá lâu.
+- Darcy quyết định không thể hiện tình cảm của mình nữa và trong suốt ngày thứ bảy, anh gần như không giao tiếp với cô.
+- Vào Chủ Nhật, họ chia tay nhau, và hầu hết mọi người đều cảm thấy nhẹ nhõm.
+- Bà Bennet đón hai cô con gái trở về không quá nhiệt tình, nhưng ông Bennet tỏ ra rất vui mừng.
+- Mary tiếp tục đắm mình trong nghiên cứu nhân loại học và đạo đức, trong khi Catherine và Lydia có những tin tức mới về trung đoàn quân đội.
+"""

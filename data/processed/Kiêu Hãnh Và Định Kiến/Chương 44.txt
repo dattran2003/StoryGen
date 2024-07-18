@@ -1,0 +1,17 @@
+"""
+- Elizabeth chờ đợi cuộc thăm viếng từ anh Darcy và em gái anh ta, nhưng họ tới sớm hơn dự kiến.
+- Elizabeth, cùng với ông cậu và bà mợ, gặp gỡ Darcy và em gái anh ta, Georgiana, gây ngạc nhiên cho họ bởi sự xuất hiện đột ngột.
+- Ông cậu và bà mợ của Elizabeth bắt đầu nghi ngờ rằng Darcy có tình cảm với Elizabeth.
+- Elizabeth cảm thấy lo lắng, phần lớn vì sợ rằng Darcy đã nói quá nhiều về cô với em gái mình.
+- Trong cuộc gặp gỡ, Elizabeth nhận ra rằng Georgiana Darcy thực sự là người e lệ, trái với tin đồn về sự kiêu hãnh của cô.
+- Bingley, bạn của Darcy, cũng tới thăm, và Elizabeth nhận ra rằng anh ta vẫn giữ tình cảm thân thiện với cô.
+- Ông bà Gardiner, cha mẹ của Elizabeth, bắt đầu chú ý đến Darcy và nghi ngờ rằng anh ta đang yêu Elizabeth.
+- Elizabeth phải đối mặt với nhiều áp lực từ việc hiểu rõ tâm trạng của mọi người, giữ bình tĩnh và tỏ ra dễ chịu.
+- Elizabeth nhận ra rằng Darcy đã thay đổi, anh ta đã trở nên thân thiện hơn và không còn vẻ tự cao như trước.
+- Darcy mời Elizabeth và ông bà Gardiner đến bữa tối tại Pemberley.
+- Elizabeth cảm thấy hài lòng với việc Bingley muốn nghe cô nói về chị gái mình, Jane.
+- Ông bà Gardiner nhận ra rằng Darcy đã thay đổi và tỏ ra thân thiện hơn, nhưng họ vẫn còn nghi ngờ về quan điểm của người khác về anh ta.
+- Elizabeth suy nghĩ về Darcy và nhận ra rằng cô không còn ghét anh ta nữa, và thậm chí còn cảm động trước tình yêu mà anh dành cho cô.
+- Elizabeth và bà mợ quyết định trả lời lời mời của Georgiana Darcy bằng cách thăm cô tại Pemberley.
+- Ông Gardiner rời đi sau bữa sáng, dự định quay lại Pemberley vào buổi trưa hôm sau để câu cá.
+"""

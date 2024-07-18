@@ -1,0 +1,10 @@
+"""
+- Scarlett lái xe một mình trong thời tiết lạnh giá của tháng Ba, trên đường tới xưởng cưa do Jonno Gheligơ điều hành. Tình hình trở nên phức tạp sau khi cơ quan lập pháp từ chối phê chuẩn điều khoản bổ sung, dẫn đến việc miền Bắc áp đặt thiết quân luật nghiêm ngặt tại bang Giorgia.
+- Scarlett cảm thấy sợ hãi nhưng kiên quyết tiếp tục công việc, dù phải đối mặt với nguy hiểm từ dân da đen đang không còn bị kiểm soát.
+- Trên đường đi, Scarlett gặp lại Xam Lớn, người cũ của gia đình, đã trốn khỏi Atlanta và hiện đang ẩn náu tại Khu Lán trại.
+- Xam tiết lộ rằng anh đã giết một binh sĩ da trắng, và đang bị truy lùng. Scarlett quyết định giúp Xam trốn thoát.
+- Scarlett tới xưởng cưa và phát hiện Jonni Gheligơ đã bán thức ăn dành cho tù nhân để lấy tiền riêng. Scarlett nổi giận và yêu cầu Jonni phải trả lại số tiền đã chiếm dụng.
+- Jonni sau đó từ chức, nhưng Scarlett không thể chấp nhận việc này ngay lập tức vì lo lắng về việc ai sẽ thay thế anh ta.
+- Trên đường về, Scarlett bị tấn công bởi hai người - một người da trắng và một người da đen. Xam Lớn xuất hiện kịp thời để cứu Scarlett.
+- Scarlett và Xam chạy thoát, với Scarlett trong tình trạng kinh hoàng sau sự cố.
+"""

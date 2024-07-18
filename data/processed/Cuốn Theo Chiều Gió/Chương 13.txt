@@ -1,0 +1,12 @@
+"""
+- Bác sĩ Meade, theo lời đốc thúc của bà Merriwether, viết thư gửi báo chí chỉ trích mạnh mẽ những kẻ đầu cơ trục lợi, trong đó ám chỉ Rhett Butler. Thư này đã gây ra một làn sóng phẫn nộ trong cộng đồng miền Nam.
+- Tình hình ở Wilmington trở nên căng thẳng do hàng hóa bị những kẻ đầu cơ mua hết và tích trữ để làm giá cả tăng lên. Dân chúng phải tự xoay xở để mua hàng hóa với giá cao.
+- Rhett Butler bị chỉ trích vì bán hàng với giá cao và tích trữ hàng hóa từ các tàu khác. Người ta tin rằng Rhett có một hệ thống đầu cơ lớn với vốn đầu tư hơn một triệu đô la.
+- Bức thơ cuối cùng của bác sĩ Meade kêu gọi sự phẫn nộ và lòng thù hận đối với những kẻ đầu cơ, trong đó ám chỉ Rhett Butler.
+- Dân Atlanta đọc báo và bắt đầu xua đuổi Rhett Butler, ngoại trừ nhà cô Pittypat và Melanie Wilkes.
+- Scarlett nhận thức rõ rằng Rhett không hề yêu nước và thường xuyên mang quà từ Nassau về, điều này khiến cô không thể cấm cửa hắn.
+- Rhett và Scarlett có cuộc thảo luận về chiến tranh và quan điểm của Rhett về việc bán hàng hóa và không tham gia chiến đấu.
+- Rhett tặng Scarlett một chiếc nón xinh đẹp, nhưngScarlett phải đối mặt với sự lựa chọn giữa việc giữ tang hoặc nhận món quà.
+- Scarlett nhận thức rằng Rhett đã ảnh hưởng đến quan điểm của cô về chiến tranh và tang chế, nhưng cô không chấp nhận điều này.
+- MelanieWilkes gặp Belle Watling, một phụ nữ có tiếng xấu, và nhận được một khoản tiền lớn từ cô ta để ủng hộ bệnh viện. Scarlett phát hiện ra mối liên hệ giữa Rhett và Belle qua chiếc khăn tay mà Rhett đã cho cô mượn.
+"""

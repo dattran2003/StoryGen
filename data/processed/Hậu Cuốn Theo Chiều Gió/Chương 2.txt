@@ -1,0 +1,18 @@
+"""
+- Prissy thông báo cho Scarlett rằng cô cần nghỉ ngơi và ăn sáng, còn cô sẽ chăm sóc cho Mama.
+- Scarlett hỏi về cháo thịt bò cho Mama và Prissy khẳng định cô đã chuẩn bị.
+- Scarlett thấy đói và bị thu hút bởi mùi cháo thịt bò.
+- Scarlett rửa mặt và tay trong nhà bếp, mặc dù váy cô đang bẩn, nhưng cô quyết định thay sau khi ăn sáng.
+- Scarlett ngồi ăn sáng với Will và Wade, trong khi Suellen khen ngợi Wade.
+- Scarlett nhận ra rằng Rhett thường lo về việc mua quần áo cho Wade và cô cần phải mua một chiếc áo mới cho cậu bé.
+- Wade hỏi liệu anh có thể giúp Will trên cánh đồng, Scarlett đồng ý.
+- Scarlett và Suellen chăm sóc cho Mama, họ cùng nhau đọc Kinh Thánh cho bà.
+- Scarlett và Suellen tạm gác bỏ sự ganh tỵ và thù địch giữa họ để chăm sóc cho Mama.
+- Mama gọi Rhett, nhưng không thể chờ đợi lâu hơn và qua đời.
+- Rhett xuất hiện đúng lúc và giữ lời hứa với Mama rằng anh sẽ chăm sóc Scarlett.
+- Scarlett cố gắng tiếp cận Rhett, nhưng anh từ chối, khẳng định không có gì thay đổi giữa họ.
+- Scarlett cố gắng đối mặt với sự thật rằng Rhett đã rời bỏ cô và cô cần tìm cách để giành lại anh.
+- Scarlett rời khỏi nhà và đi vào rừng, cô cố gắng suy nghĩ và lập kế hoạch.
+- Scarlett nhớ lại lời đề nghị ly dị của Rhett và nhận ra rằng cô có một cơ hội để cải thiện mối quan hệ.
+- Scarlett quyết định tiến lên phía trước, không nhìn lại quá khứ, và chuẩn bị cho việc đưa tang Mama.
+"""

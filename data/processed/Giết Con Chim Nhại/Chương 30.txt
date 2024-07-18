@@ -1,0 +1,23 @@
+"""
+- Bố Atticus giới thiệu tôi (Jean Louise) với Boo Radley.
+- Boo Radley nhìn tôi chạy tới giường nơi Jem đang nằm, tôi cố gắng che mặt mình bằng cách chui vào Jem.
+- Bố Atticus nhắc nhở tôi không nên đụng Jem.
+- Ông Heck Tate tập trung nhìn Boo Radley qua cặp kính gọng sừng của mình.
+- Bác sĩ Reynolds bước vào và yêu cầu mọi người ra khỏi phòng.
+- Bác sĩ Reynolds nói chuyện với Boo Radley như thể chuyện này xảy ra hàng đêm.
+- Bác sĩ Reynolds tiết lộ Jem đã đá ông trong lúc khám và ông phải làm cho Jem mê đi để khám.
+- Bố Atticus đề nghị ra hàng hiên, có lẽ để tránh ánh sáng chói từ đèn phòng khách.
+- Tôi dẫn Boo Radley ra hiên nhà.
+- Bố Atticus và ông Tate thảo luận về việc Jem có thể đã giết Bob Ewell, nhưng ông Tate khẳng định Jem không hề đâm Bob Ewell.
+- Bố Atticus nhấn mạnh rằng anh muốn mọi chuyện được giải quyết một cách công khai, không muốn Jem phải chịu tiếng xấu hoặc nghi ngờ.
+- Ông Tate khẳng định rằng Bob Ewell tự giết mình bằng cách té ngã lên chính con dao của mình.
+- Bố Atticus và ông Tate tiếp tục tranh cãi về việc công khai sự thật.
+- Bác sĩ Reynolds xuất hiện và đồng tình với quan điểm của ông Tate rằng Bob Ewell tự giết mình.
+- Ông Tate mô tả cách Bob Ewell tự làm thương mình.
+- Ông Tate giải thích rằng Scout quá sợ hãi và không biết chính xác những gì đã xảy ra.
+- Bố Atticus từ chối chấp nhận quan điểm của ông Tate, nhưng sau cùng ông ta cũng nhận ra sự thật.
+- Ông Tate nhấn mạnh rằng ông ta không cho rằng Jem đã giết Bob Ewell, và ông ta cho rằng việc để người chết chôn người chết là cách tốt nhất để giải quyết.
+- Ông Tate rời đi, và bố Atticus giải thích cho tôi rằng Bob Ewell đã tự làm mình bị thương.
+- Tôi hiểu và so sánh điều này với việc bắn một con chim nhại.
+- Bố Atticus cảm ơn Boo Radley vì những gì ông đã làm cho chúng tôi.
+"""

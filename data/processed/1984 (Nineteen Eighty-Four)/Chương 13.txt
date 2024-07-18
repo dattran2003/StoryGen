@@ -1,0 +1,18 @@
+"""
+- Winston thức dậy, cảm thấy mình đã ngủ lâu nhưng thực tế chỉ là 20:30. Anh nghe bài hát thường lệ từ dưới sân.
+- Bài hát nhắc về những ước mơ, tình yêu và thời gian.
+- Julia thức dậy, cảm thấy đói và phát hiện bếp dầu hết dầu.
+- Winston đề nghị xin dầu từ ông Charrington.
+- Julia và Winston ngắm nhìn người phụ nữ đang giặt đồ dưới sân, họ thấy một vẻ đẹp riêng biệt trong cô.
+- Họ nghe bài hát tiếp tục, nhắc về thời gian và nỗi đau.
+- Winston và Julia nhận ra họ không thể sinh con, nhưng họ có thể truyền thông qua lời nói và suy nghĩ.
+- Winston suy ngẫm về sức mạnh tiềm ẩn của dân đen, những người không biết suy nghĩ nhưng chứa đựng sức mạnh có thể thay đổi thế giới.
+- Winston và Julia nhớ lại con chim chích chòe họ nghe lần đầu.
+- Họ phát hiện ra một thiết bị giám sát ẩn sau bức tranh.
+- Họ được cảnh báo rằng họ đang bị vây và được lệnh không di chuyển.
+- Julia gợi ý họ nên từ biệt nhau.
+- Một giọng nói lạ xen vào, trích dẫn một bài thơ.
+- Phòng tràn ngập cảnh sát, người phụ nữ ngoài sân bị tấn công.
+- Julia bị tấn công và kéo ra khỏi phòng.
+- Winston nhìn thấy ông Charrington, người đã thay đổi đáng kể, trở thành một viên Cảnh Sát Tư Tưởng.
+"""

@@ -1,0 +1,17 @@
+"""
+- Harry chia sẻ với Hermione và Ron về việc anh đã lấy được ký ức của giáo sư Slughorn và thông tin về Trường Sinh Linh Giá của Voldemort.
+- Ron bày tỏ sự hào hứng với việc Harry sắp đi cùng Dumbledore.
+- Hermione và Ron chia tay, với nguyên nhân là Lavender đã thấy Ron và Hermione cùng nhau trong phòng ngủ.
+- Ginny và Dean cũng đã chia tay vì Dean luôn cố gắng giúp Ginny trèo qua lỗ chân dung.
+- Katie Bell đã trở lại trường sau khi hồi phục.
+- Harry muốn tìm hiểu ai đã đưa chuỗi xâu cho Katie Bell, nhưng cô không thể nhớ.
+- Harry cân nhắc việc dùng Phúc Lạc Dược để tìm vào Phòng Theo Yêu Cầu.
+- Harry và Ginny bắt đầu có sự liên hệ mạnh mẽ, gây ra mâu thuẫn giữa tình bạn với Ron và tình cảm với Ginny.
+- Trận Quidditch cuối cùng giữa Gryffindor và Ravenclaw đang cận kề.
+- Harry vẫn tiếp tục tìm hiểu những gì Malfoy đang làm trong Phòng Theo Yêu Cầu.
+- Harry và Malfoy đã có một cuộc đấu pháp thuật trong nhà vệ sinh, kết quả là Malfoy bị thương nặng.
+- Snape cứu Malfoy và yêu cầu Harry nộp tất cả sách giáo trình của mình, phát hiện ra cuốn sách Bào Chế Thuốc Cao Cấp của Hoàng tử Lai.
+- Harry giấu cuốn sách này trong Phòng Theo Yêu Cầu.
+- Snape phạt Harry cấm túc mỗi thứ bảy cho đến cuối học kỳ, khiến Harry bỏ lỡ trận Quidditch cuối cùng.
+- Trận Quidditch cuối cùng, Gryffindor đã thắng Ravenclaw, và Harry và Ginny chính thức công khai mối quan hệ của họ.
+"""

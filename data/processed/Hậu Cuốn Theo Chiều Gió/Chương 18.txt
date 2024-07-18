@@ -1,0 +1,24 @@
+"""
+- Scarlett nghe tiếng ồn ào của Pansy và sự yên lặng nặng nề trong buồng lái.
+- Rhett đề nghị cho Scarlett nửa triệu đô la bằng vàng nếu cô rời khỏi nơi này.
+- Scarlett tỏ ra bất ngờ và cần thời gian suy nghĩ về đề nghị của Rhett.
+- Rhett cho rằng Scarlett sẽ ưu tiên tài sản so với việc cố gắng cứu vãn cuộc hôn nhân.
+- Scarlett cần suy nghĩ về việc chấp nhận đề nghị này.
+- Rhett nói anh sẽ trả các hóa đơn nhà cửa của Scarlett và cho cô quyền sở hữu.
+- Scarlett cảm thấy tuyệt vọng và cần tìm ra lý do để ở lại.
+- Rhett đã thay đổi nhiều từ khi rời Atlanta, trở lại phong độ như trước.
+- Scarlett muốn Rhett trở về và chấp nhận đề nghị của anh.
+- Scarlett đề xuất một thỏa thuận: Rhett phải cư xử tốt và giúp cô vui trong thời gian ở lại.
+- Scarlett muốn họ sống như một cặp vợ chồng hạnh phúc đến mùa xuân sau.
+- Rhett và Scarlett thảo luận về việc cô nhận tiền nhưng không rời khỏi nơi này.
+- Scarlett muốn kéo dài thời gian ở lại thêm một tháng sau mùa chơi.
+- Scarlett và Rhett đồng ý về thỏa thuận, với điều kiện cô sẽ rời khỏi Charleston vào giữa tháng Tư.
+- Rhett nói về việc Scarlett có thể bị say sóng trên tàu.
+- Scarlett trải nghiệm cuộc sống trên biển, thích thú với sóng gió.
+- Scarlett bị cháy nắng sau một ngày trên biển.
+- Rhett tặng tràng nhựa ruồi cho Alicia Savage, bạn cũ của mẹ mình.
+- Rhett và Alicia thảo luận về một người đàn ông lạ mặt nhìn trộm Scarlett.
+- Rhett nhận ra người đàn ông lạ mặt là Tommy Cooper, một cậu bé trẻ tuổi.
+- Rhett dẫn Tommy đến một ngôi nhà đặc biệt để giáo dục cậu bé về cuộc sống trưởng thành.
+- Rhett tự thưởng mình một ly rượu sau cuộc thảo luận và chờ đón cô em gái.
+"""

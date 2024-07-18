@@ -1,0 +1,17 @@
+"""
+- Vụ đào thoát của con Boa Constrictor khiến Harry nhận án phạt nặng nề nhất từ trước tới nay.
+- Dudley phá hỏng nhiều đồ vật và gây tai nạn cho bà Figg.
+- Harry vui mừng khi kết thúc năm học nhưng vẫn phải chịu sự quấy rối từ băng đảng của Dudley.
+- Harry thường tránh về nhà để trốn tránh Dudley và suy nghĩ về kỳ nghỉ sắp kết thúc.
+- Harry sẽ không phải học cùng Dudley tại trường cấp hai.
+- Dudley mua đồng phục mới cho trường Smelting, trong khi Harry phải mặc đồng phục cũ của Dudley, đã được nhuộm xám.
+- Harry nhận được lá thư đầu tiên trong đời, được giao trực tiếp cho anh dưới gầm cầu thang, nhưng ông Dursley đã lấy nó.
+- Gia đình Dursley phản ứng mạnh mẽ và hoảng loạn khi nhận ra nguồn gốc của lá thư.
+- Dudley và Harry bị đuổi ra khỏi nhà bếp khi ông Dursley đọc lá thư.
+- Harry nhận được thêm nhiều lá thư, nhưng tất cả đều bị ông Dursley chặn lại và hủy bỏ.
+- Ông Dursley cố gắng ngăn chặn việc nhận thư bằng cách đóng kín lỗ thư và rời khỏi nhà.
+- Gia đình Dursley di chuyển khắp nơi để trốn tránh thư nhưng không thành công.
+- Họ cuối cùng dừng lại tại một khách sạn, nhưng thư vẫn tiếp tục đến.
+- Gia đình Dursley quyết định ẩn náu trên một tảng đá ngoài biển, hy vọng tránh được thư.
+- Trong đêm sinh nhật của Harry, một tiếng động lớn từ bên ngoài chòi khiến cả gia đình thức giấc.
+"""

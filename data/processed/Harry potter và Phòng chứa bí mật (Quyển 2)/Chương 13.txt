@@ -1,0 +1,15 @@
+"""
+- Hermione phải nằm viện sau biến cố, tạo ra nhiều đồn đoán giữa học sinh.
+- Harry và Ron thăm Hermione thường xuyên, giúp cô theo dõi bài vở.
+- Hermione nhận được một thiệp chúc từ Lockhart, gây phản ứng tiêu cực từ Ron.
+- Ron và Harry nghe Filch than phiền về công việc dọn dẹp và suy đoán có thể có thêm nạn nhân.
+- Họ phát hiện Myrtle khóc, tìm hiểu và phát hiện cuốn nhật ký của T. M. Riddle.
+- Harry và Ron suy đoán về nguồn gốc của cuốn nhật ký và những liên kết với những vụ tấn công.
+- Hermione rời bệnh thất, họ thảo luận về cuốn nhật ký và giả thuyết về T. M. Riddle.
+- Harry quyết tâm tìm hiểu thêm về Riddle, khám phá ra rằng Riddle từng là Thủ Lĩnh Nam Sinh và đã nhận giải thưởng Công lao đặc biệt.
+- Harry cố gắng khám phá thông tin từ cuốn nhật ký nhưng không thành công.
+- Malfoy lấy cuốn nhật ký, Harry dùng phép thuật để lấy lại, gây ra hậu quả.
+- Harry khám phá cuốn nhật ký có khả năng giao tiếp, dẫn anh vào ký ức của Riddle.
+- Harry chứng kiến cuộc gặp giữa Riddle, hiệu trưởng Dippet và Dumbledore, thấy Riddle dối trá.
+- Harry chứng kiến Riddle đối chất với Hagrid, xác định Hagrid là người mở Phòng chứa Bí mật năm mươi năm trước.
+"""

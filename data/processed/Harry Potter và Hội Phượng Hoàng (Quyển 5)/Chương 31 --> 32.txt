@@ -1,0 +1,44 @@
+"""
+- Trạng thái phấn khích của Ron sau trận đấu Quidditch làm cho anh ta không thể tập trung vào việc học. Harry và Hermione cố gắng nói chuyện với Ron về Grawp nhưng không thành công.
+- Ngày hôm sau, mặc dù thời tiết đẹp trời và ấm áp, Ron vẫn chỉ muốn nói về trận đấu Quidditch. Harry và Hermione thuyết phục anh ta cùng họ ôn thi dưới bóng cây sồi ở góc hồ.
+- Trong lúc Ron đang say sưa kể về trận đấu, Harry và Hermione cố gắng nói chuyện với anh ta về Grawp nhưng không thành công.
+- Ron cuối cùng đồng ý ôn thi sau khi Harry và Hermione nhắc nhở về việc họ phải đi vào khu rừng Cấm với Hagrid.
+- Harry và Hermione tiết lộ với Ron về Grawp, một người khổng lồ 16 feet cao mà Hagrid đã mang về và đang ẩn náu trong khu rừng Cấm.
+- Hagrid muốn Harry và Hermione dạy Grawp tiếng Anh, điều này khiến Ron tỏ ra kinh ngạc và cho rằng Hagrid đang điên rồ.
+- Ron không tin vào việc Grawp tồn tại cho đến khi Hermione khẳng định lại.
+- Ron không tin rằng Hagrid đã đưa Grawp về và giấu trong khu rừng Cấm.
+- Harry và Hermione nói với Ron rằng họ đã hứa với Hagrid sẽ giữ bí mật về Grawp.
+- Ron tỏ ra lo lắng về việc phải giữ lời hứa với Hagrid trong khi sắp tới kì thi và có thể gặp rắc rối với Grawp.
+- Tháng Sáu đã tới, với học sinh năm thứ năm, điều này đồng nghĩa với việc kì thi lấy chứng chỉ Pháp thuật thường đẳng cuối cùng cũng đã đến.
+- Học sinh năm thứ năm và năm thứ bảy phải đối mặt với áp lực học hành nặng nề khi chuẩn bị cho kì thi.
+- Draco Malfoy khoe rằng gia đình mình có mối quan hệ thân thiết với Uỷ ban Thi cử Pháp thuật, điều này khiến Hermione lo lắng.
+- Neville nói rằng ông bà mình không quen biết gia đình Malfoy và sẽ không có ưu đãi gì trong kì thi.
+- Một số học sinh bắt đầu tìm mua thuốc não và các chất kích thích não khác để chuẩn bị cho kì thi, nhưng Hermione đã hủy bỏ tất cả những thứ đó.
+- Harry, Ron và Hermione nhận được lịch thi và quy trình thi OWL.
+- Giáo sư McGonagall cảnh báo học sinh về việc gian lận trong kì thi và nhấn mạnh rằng kết quả của kì thi sẽ phản ánh cách thức quản lý mới của hiệu trưởng mới.
+- Hermione hỏi về thời gian nhận kết quả kì thi, và giáo sư McGonagall nói rằng kết quả sẽ được gửi vào tháng Bảy.
+- Harry, Ron và Hermione trải qua kì thi đầu tiên về Bùa Chú, và sau đó là kì thi thực hành. Hermione lo lắng về bài thi của mình, trong khi Harry và Ron cảm thấy khá hài lòng.
+- Umbridge và một nhóm phù thủy đến kiểm tra kì thi, và Harry, Ron và Hermione quan sát họ từ xa.
+- Harry, Ron và Hermione bắt đầu ôn tập cho kì thi tiếp theo, nhưng Hermione tỏ ra căng thẳng và không thể tập trung.
+- Hermione cảm thấy lo lắng về bài thi Cổ Ngữ và cho rằng một lỗi nhỏ có thể làm hỏng kết quả tổng thể của cô.
+- Một con Đào Mỏ đã được đặt vào văn phòng của Umbridge, và Hermione lo ngại rằng Hagrid có thể bị nghi ngờ và bị đuổi việc.
+- Harry, Ron và Hermione quyết tâm làm tốt bài kiểm tra Chăm sóc Sinh vật Huyền bí để không làm mất mặt Hagrid.
+- Bài kiểm tra Lý thuyết môn Thiên văn học không quá khó khăn, nhưng bài kiểm tra thực hành diễn ra vào buổi tối.
+- Harry cảm thấy thất vọng với bài kiểm tra Tiên Tri, nhưng anh ta và Ron cảm thấy nhẹ nhõm khi biết rằng họ có thể từ bỏ môn học này.
+- Harry và Hermione nhận thấy một nhóm người, bao gồm Umbridge, rời khỏi lâu đài vào nửa đêm và sau đó đi vào túp lều của Hagrid.
+- Hagrid và con chó Fang đã bị tấn công bởi nhóm người này, nhưng Hagrid đã chống cự và chạy thoát.
+- Harry, Ron và Hermione quan sát cuộc tấn công từ trên Tháp Thiên văn và cảm thấy tức giận với Umbridge.
+- Giáo sư McGonagall đã cố gắng can thiệp nhưng cũng bị tấn công và bị thương nặng.
+- Harry, Ron và Hermione cảm thấy lo lắng cho Hagrid và McGonagall sau sự cố xảy ra.
+- Harry, Ron và Hermione quyết định kiểm tra thông tin về Sirius và xác minh tình hình của Hagrid thông qua lò sưởi của Umbridge.
+- Hermione đề xuất kế hoạch để lừa Umbridge và kiểm tra thông tin về Sirius.
+- Harry và Hermione quyết định dùng Áo tàng hình để vào văn phòng của Umbridge và kiểm tra thông tin.
+- Harry, Ron, Hermione, Ginny và Luna cùng thực hiện kế hoạch, trong khi Harry và Hermione dùng Áo tàng hình để kiểm tra thông tin về Sirius.
+- Harry liên lạc với Grimmauld Place thông qua lò sưởi và hỏi Kreacher về Sirius, nhưng Kreacher không tiết lộ thông tin cụ thể.
+- Umbridge phát hiện ra Harry và Hermione trong văn phòng và bắt giữ họ.
+- Umbridge muốn dùng Chân dược để tra khảo Harry nhưng Snape từ chối cung cấp.
+- Harry cố gắng thông báo thông tin về Sirius thông qua ánh mắt với Snape, nhưng không chắc liệu Snape đã hiểu hay không.
+- Umbridge đe dọa sử dụng Lời nguyền Tra tấn để tra khảo Harry, nhưng Hermione đồng ý tiết lộ thông tin để ngăn chặn.
+- Hermione giả vờ khóc và tiết lộ thông tin giả về việc liên lạc với Dumbledore và phát triển một vũ khí bí mật.
+- Umbridge yêu cầu Hermione dẫn cô đến nơi vũ khí được giấu, nhưng Hermione từ chối khi có mặt các học sinh khác.
+"""

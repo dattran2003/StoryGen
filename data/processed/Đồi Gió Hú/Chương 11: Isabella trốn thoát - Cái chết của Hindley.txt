@@ -1,0 +1,19 @@
+"""
+- Isabella kể lại về buổi tối yên tĩnh bên lò sưởi cùng Hindley, giữa không gian tĩnh lặng chỉ có tiếng gió và lửa cháy.
+- Sự yên tĩnh bị phá vỡ bởi sự xuất hiện sớm của Heathcliff từ mộ Catherine, do cơn bão.
+- Hindley, với ý định giữ Heathcliff ở ngoài, thảo luận với Isabella về việc trả thù Heathcliff.
+- Trong lúc tranh cãi, Isabella cảnh báo Heathcliff đang ở ngoài cửa, dẫn đến một cuộc đối đầu giữa Hindley và Heathcliff.
+- Isabella cố gắng can ngăn Hindley tấn công Heathcliff, nhưng Hindley quyết tâm và chuẩn bị vũ khí.
+- Heathcliff tấn công Hindley, gây thương nặng, và sau đó kiểm soát tình hình, khiến Hindley bất tỉnh.
+- Isabella gọi Joseph dậy để giúp đỡ Hindley, và sau đó, Hindley hồi tỉnh.
+- Heathcliff đe dọa Hindley nhưng không làm gì thêm, rồi rời khỏi phòng.
+- Ngày hôm sau, Hindley yếu ớt và Heathcliff im lặng, nhưng Hindley bày tỏ mong muốn giết Heathcliff.
+- Isabella chỉ trích Heathcliff và bảo vệ Hindley, nhưng Heathcliff phản ứng dữ dội.
+- Trong lúc tranh cãi, Heathcliff ném một con dao ăn, làm bị thương Isabella.
+- Isabella bỏ chạy, gọi Joseph giúp Hindley, và sau đó quyết định rời khỏi Đồi Gió Hú mãi mãi.
+- Isabella chuyển đến sống gần London, sinh con và đặt tên là Linton.
+- Heathcliff sau đó biết được thông tin về Isabella và con trai cô, nhưng không tìm gặp cô.
+- Một thời gian sau, Hindley qua đời và Heathcliff trở thành chủ nhân của Đồi Gió Hú.
+- Heathcliff đe dọa sẽ bắt con trai của Isabella nếu Linton cố gắng đưa Hareton về.
+- Hareton, người lẽ ra phải thừa kế, giờ phải sống dưới quyền kiểm soát của Heathcliff, không hề biết mình đã bị tước đoạt quyền lợi.
+"""

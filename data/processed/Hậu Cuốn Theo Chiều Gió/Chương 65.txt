@@ -1,0 +1,23 @@
+"""
+- Scarlett đấu khẩu với bà Fitzpatrick và sau đó thay đổi chiến thuật bằng cách năn nỉ và mơn trớn.
+- Bà FitzPatrick thông báo rằng chị bếp đã đến và Scarlett tỏ ra quan tâm đến việc bà lớn đang chậm chân.
+- Scarlett và bà FitzPatrick thảo luận về tình trạng sức khỏe của bà lớn và việc bà này không thể đến sớm do bệnh trĩ.
+- Scarlett và bà FitzPatrick có một mối quan hệ thân thiết, với bà FitzPatrick luôn hỗ trợ Scarlett trong thời gian cô ốm.
+- Scarlett yêu cầu bà FitzPatrick gọi cô bằng tên riêng và hỏi tên thật của bà, nhưng bà từ chối.
+- Scarlett dự định đi thăm Colum nhưng bị bà FitzPatrick ngăn lại, nói rằng anh đang đi công chuyện xa.
+- Scarlett quyết định đi ra ngoài sau thời gian dài ẩn dật sau khi sinh con.
+- Scarlett gặp cailleach, người đã giúp cô sinh con trong cơn mưa lớn, và muốn cảm ơn bà.
+- Scarlett cảm nhận sự thay đổi thời tiết và đi ra ngoài với con gái của mình, Cat.
+- Scarlett và Cat gặp lại cailleach, người đã chăm sóc họ trong quá trình sinh nở. Cailleach cảnh báo Scarlett về những rắc rối có thể xảy ra với Cat.
+- Scarlett trở về nhà, cảm thấy khoẻ hơn sau cuộc dạo chơi.
+- Scarlett yêu cầu Colum mua một chiếc xe cho cô để tiện đi lại.
+- Scarlett mua nhiều vật dụng khác cho nhà và thường xuyên mang Cat đi cùng mình.
+- Scarlett bắt đầu cảm thấy buồn bã khi thời tiết trở nên ẩm ướt và cô nhớ đến những nơi khác.
+- Scarlett và Cat đón lễ Giáng sinh và Scarlett bắt đầu nhận ra trách nhiệm của mình như một thành viên trong cộng đồng.
+- Scarlett bắt đầu thực hiện các nghi thức truyền thống Ireland, bao gồm việc ném bánh lên tường vào ngày đầu năm mới.
+- Scarlett tiếp tục học hỏi và thích nghi với văn hóa Ireland, bao gồm việc mặc trang phục phù hợp hơn với địa vị của mình.
+- Scarlett quyết định trở về Mỹ sau lễ Phục sinh, và cô bắt đầu chuẩn bị cho việc này.
+- Scarlett nhận ra rằng Tara, quê hương cũ của cô, đã trở thành một phần quá khứ và Ballyhara mới là nơi cô muốn gọi là nhà.
+- Scarlett dự định giữ một phần đất ở Tara cho Wade và Ella nhưng bán tất cả tài sản ở Atlanta.
+- Scarlett dự định đưa Wade và Ella đến Ballyhara và cho họ thấy những điều kỳ diệu ở nơi này.
+"""

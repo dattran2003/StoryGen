@@ -1,0 +1,14 @@
+"""
+- Bố của tôi đồng ý cho Jem, Dill và tôi ngồi cạnh hồ cá của cô Rachel, nơi Dill sẽ rời Maycomb vào hôm sau.
+- Trong đêm tĩnh lặng, Jem và Dill chuẩn bị một điếu thuốc từ tờ báo và một sợi dây, trong khi họ quan sát ông Avery, người hàng xóm, với những thói quen kỳ lạ.
+- Dill gợi ý họ nên đi dạo, điều mà không ai ở Maycomb thường thực hiện.
+- Jem và Dill quyết định nhìn trộm qua cửa sổ của Boo Radley, và mặc dù tôi không muốn tham gia, nhưng sau khi bị gọi là "con gái", tôi quyết định theo họ.
+- Họ vượt qua hàng rào dây thép tại phía sau nhà Radley và tiến gần đến cửa sổ mà họ muốn nhìn vào.
+- Jem và Dill không nhìn thấy gì thông qua cửa sổ, sau đó họ quay lại và họ thấy một bóng người đàn ông đội mũ.
+- Người đàn ông đó hóa ra là ông Nathan Radley, người đã bắn một phát súng khiến họ chạy trốn.
+- Trở về nhà, họ gặp phải nhóm người hàng xóm đang tụ tập trước nhà Radley.
+- Bố Atticus hỏi về quần dài của Jem, và Dill tạo ra một câu chuyện để giải thích điều đó.
+- Dill nói rằng anh và Jem đã chơi trò chơi cởi đồ, nhưng sau đó Atticus cứu Dill khỏi sự trừng phạt của cô Rachel.
+- Jem quyết định trở lại lấy lại quần dài của mình, mặc dù tôi cố gắng thuyết phục anh không nên đi.
+- Cuối cùng, Jem thành công trong việc lấy lại quần dài và trở về nhà an toàn.
+"""

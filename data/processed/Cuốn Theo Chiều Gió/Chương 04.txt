@@ -1,0 +1,12 @@
+"""
+- Scarlett thay thế mẹ chủ trì bữa ăn trong khi tâm trí cô đầy lo lắng về tin Ashley và Melanie sắp kết hôn.
+- Cô cảm thấy cô đơn và hy vọng mẹ sớm về từ nhà Slattery.
+- Gerald, cha của Scarlett, tiếp tục nói về tình hình chiến tranh, điều này làm Scarlett khó chịu khi cô đang đau khổ.
+- Scarlett muốn tìm sự an ủi từ mẹ nhưng sợ mẹ sẽ buồn nếu biết cô đang yêu một người đã đính hôn.
+- Một người phụ nữ mới, Dilcey, cùng con gái Pissy, được mua về làm gia nhân cho gia đình.
+- Scarlett không muốn nhận Pissy làm nữ tỳ vì cô muốn duy trì mối quan hệ với Mammy, người đã chăm sóc cô từ nhỏ.
+- Ellen, mẹ của Scarlett, cuối cùng đã trở về sau một ngày dài và thông báo về cái chết của một đứa trẻ ở nhà Slattery.
+- Scarlett cảm thấy yên bình trong giờ cầu nguyện, nhưng suy nghĩ của cô chuyển hướng về Ashley, nhận ra rằng cô chưa từng tỏ rõ tình cảm của mình với anh.
+- Scarlett quyết định rằng cô sẽ tỏ tình với Ashley tại bữa tiệc tại Twelve Oaks, hy vọng sẽ ngăn chặn cuộc hôn nhân giữa anh và Melanie.
+- Scarlett hình dung về viễn cảnh cô và Ashley sẽ trốn đi và kết hôn, nhưng cô cũng cảm thấy một chút lo lắng nếu mọi thứ không diễn ra như mong đợi.
+"""

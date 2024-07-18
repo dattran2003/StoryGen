@@ -1,0 +1,23 @@
+"""
+- Eleanor Butler, một mệnh phụ miền Nam với giọng điệu nhẹ nhàng và cử chỉ duyên dáng, sở hữu sức mạnh thuyết phục mãnh liệt. Bà được giáo dục để làm người nghe tốt, cuốn hút người khác và duy trì trật tự trong ngôi nhà lớn của mình.
+
+- Khi chiến tranh làm giảm số lượng gia nhân, trách nhiệm của bà tăng lên nhưng bà vẫn giữ được hình ảnh của mình, tiếp tục tiếp đãi khách, phô trương sự giàu có và không bận tâm đến việc quản lý nhà cửa.
+
+- Eleanor đã giúp Scarlett chuyển nhà một cách êm đẹp mà không gây bất kỳ sự phản đối nào.
+
+- Scarlett cảm thấy yên lòng và yêu mến Eleanor, mong muốn trở thành một mệnh phụ như mẹ mình và mẹ của Rhett.
+
+- Scarlett và Eleanor đi mua sắm ở Charleston, nơi vẫn còn dấu ấn của cuộc chiến tranh nhưng cuộc sống vẫn tiếp diễn.
+
+- Scarlett gặp nhiều người trong gia đình Rhett và nhận ra rằng sự ủng hộ của Eleanor rất quan trọng.
+
+- Scarlett quyết tâm thuyết phục Rhett có thêm con cái, dựa trên sự ủng hộ của mẹ chồng.
+
+- Scarlett tham gia vào cuộc họp hội từ thiện của Eleanor và gặp nhiều người khác trong cộng đồng.
+
+- Scarlett và Rhett gặp lại sau thời gian xa cách, nhưng Rhett tỏ ra lạnh lùng và xa cách.
+
+- Rhett quay lại cuộc họp, mang theo một bộ đồ trà bạc nguyên vẹn, khiến mọi người ngạc nhiên.
+
+- Scarlett và Rhett rời cuộc họp để nói chuyện riêng, nhưng mối quan hệ giữa họ vẫn căng thẳng.
+"""

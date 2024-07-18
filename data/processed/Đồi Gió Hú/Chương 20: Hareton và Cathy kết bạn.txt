@@ -1,0 +1,13 @@
+"""
+- Nhân vật chính được lệnh chuyển đến trại Đồi sau hai tuần kể từ khi rời Ấp, với mục đích hỗ trợ Cathy. Sự thay đổi rõ rệt về ngoại hình và tinh thần của Cathy khiến nhân vật chính bất ngờ.
+- Heathcliff không ưa sự hiện diện của Cathy, do đó, nhân vật chính quyết định giữ Cathy ở bên mình, ngoại trừ khi ăn. Cathy hài lòng với sự sắp xếp này.
+- Nhân vật chính bí mật mang sách từ Ấp sang cho Cathy nhưng sau đó, Cathy bắt đầu cảm thấy buồn chán vì bị cấm không được rời khỏi khu vườn.
+- Cathy thường xuyên cảm thấy cô đơn khi nhân vật chính không ở bên cô, dẫn đến việc cô thường xuyên cãi vã với Joseph để tránh cảm giác cô đơn.
+- Cathy ban đầu né tránh Hareton, nhưng sau đó bắt đầu chọc ghẹo và chế giễu cậu, khiến Hareton không dám mở miệng nói.
+- Cathy nhận ra rằng Hareton đã tự học đọc nhưng bỏ cuộc sau khi cô cười nhạo. Cô thử đưa sách cho Hareton nhưng cậu từ chối.
+- Cathy tỏ ra hối hận vì hành động trước đây của mình và cố gắng sửa sai bằng cách kết bạn với Hareton.
+- Dù gặp khó khăn ban đầu, nhưng cuối cùng Cathy và Hareton đã hòa giải và trở thành bạn.
+- Heathcliff tỏ ra tức giận khi biết Cathy và Hareton đã thay đổi một số thứ trong khu vườn.
+- Cathy dám đối đầu với Heathcliff, tuyên bố cô và Hareton đã trở thành bạn và cô sẽ tiết lộ tất cả về Heathcliff cho Hareton.
+- Heathcliff nổi giận và cố gắng đánh Cathy nhưng sau cùng đã buông tay, chỉ bảo nhân vật chính đưa cô ra khỏi phòng.
+"""

@@ -1,0 +1,11 @@
+"""
+- Ngày cưới của cô em đã đến, Jane và Elizabeth cảm nhận sâu sắc hơn so với chính cô em. Gia đình chuẩn bị đón cô em và Wickham về nhà.
+- Jane và Elizabeth lo lắng cho Lydia, Jane tự gán cho mình trách nhiệm, cảm thấy đau khổ khi nghĩ tới những gì Lydia phải chịu.
+- Lydia và Wickham đã trở về nhà, Lydia vẫn giữ được tinh thần vui vẻ, không ngượng ngùng hay biết sợ, trong khi gia đình cảm thấy bất ngờ và sốc.
+- Wickham tỏ ra tự tin và thoải mái, thậm chí còn trò chuyện với Elizabeth một cách thân thiện, khiến cô cảm thấy tức giận.
+- Lydia bắt đầu nói về những ngày tháng đã qua, không thể nhận ra rằng những gì cô nói gây ra sự đau khổ cho gia đình.
+- Lydia và Wickham chỉ ở lại một khoảng thời gian ngắn, Wickham đã phải quay lại phục vụ trong quân đội.
+- Wickham không yêu Lydia như cô yêu anh, nhưng Lydia hết mực yêu mến anh.
+- Lydia chia sẻ về đám cưới của mình với Elizabeth, tiết lộ rằng anh Darcy có mặt tại đó, tạo ra sự hiếu kỳ cho Elizabeth.
+- Elizabeth viết thư cho bà mợ, hỏi về sự hiện diện của anh Darcy tại đám cưới Lydia, nhưng Jane không nói với Elizabeth về thông tin này.
+"""

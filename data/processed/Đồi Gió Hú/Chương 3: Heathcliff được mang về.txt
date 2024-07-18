@@ -1,0 +1,11 @@
+"""
+- Người kể chuyện đã sống ở Đồi Gió Hú từ nhỏ và sau đó chuyển đến ấp Thrushcross. Người mẹ của anh/cô là vú nuôi của Hindley Earnshaw, cha của Hareton Earnshaw.
+- Cụ Earnshaw đi Liverpool và trở về với một đứa trẻ mồ côi tên Heathcliff.
+- Hindley và Catherine không hài lòng với việc cụ Earnshaw mang về một đứa trẻ lạ. Heathcliff đã bị họ từ chối ngủ chung phòng.
+- Sức khỏe của cụ Earnshaw dần suy yếu, khiến ông dễ nổi giận và cảm thấy mọi người chống lại Heathcliff.
+- Heathcliff và Catherine trở thành bạn thân, trong khi Hindley tỏ ra ghét nó.
+- Cụ Earnshaw qua đời, và Hindley trở về nhà với vợ Frances, tuyên bố anh ta là người chủ mới.
+- Hindley bắt Heathcliff làm việc trong trại và cấm nó học tiếp.
+- Một buổi tối, cả Heathcliff và Catherine biến mất và Hindley cấm chúng trở lại nhà.
+- Heathcliff trở về một mình và cho biết Catherine ở ấp Thrushcross.
+"""

@@ -1,0 +1,19 @@
+"""
+- Bài hát của Pippin chấm dứt, Frodo cảnh báo về tiếng vó ngựa mà anh tưởng chừng nghe thấy.
+- Họ nhanh chóng rời khỏi con đường và trốn vào vùng bóng tối sâu dưới những cây sồi.
+- Frodo muốn quan sát xem có phải là một Kỵ Mã Đen khác không.
+- Pippin cảnh báo rằng Kỵ Sĩ có thể đánh hơi được họ.
+- Tiếng vó ngựa gần hơn, họ nép mình dưới bóng tối.
+- Frodo nhận ra một bóng đen giống như một con ngựa và một Kỵ Sĩ Đen.
+- Kỵ Sĩ Đen bắt đầu tiến về phía Frodo.
+- Frodo muốn đeo chiếc Nhẫn nhưng tiếng hát và tiếng cười của người Elves khiến Kỵ Sĩ Đen rút lui.
+- Frodo, Sam và Pippin gặp và nói chuyện với người Elves.
+- Frodo và các bạn bày tỏ sự biết ơn vì sự xuất hiện của người Elves.
+- Họ quyết định đi cùng với người Elves.
+- Frodo nói về việc bị truy đuổi bởi Kỵ Sĩ Đen.
+- Người Elves khuyên Frodo nên tiếp tục hành trình và không dừng lại.
+- Frodo bày tỏ lo lắng vì sự vắng mặt của Gandalf.
+- Người Elves khuyên Frodo nên đi ngay lập tức và mang theo những người bạn trung thành.
+- Frodo bày tỏ mong muốn biết thêm thông tin về Kỵ Sĩ Đen nhưng người Elves từ chối tiết lộ thêm.
+- Frodo cảm thấy mệt mỏi và người Elves đưa anh đến một nơi để anh có thể ngủ.
+"""

@@ -1,0 +1,14 @@
+"""
+- Elizabeth cảm thấy hứng khởi với cuộc hành trình mới, yên tâm vì tình hình sức khỏe của chị gái và háo hức với chuyến đi tới miền Bắc.
+- Họ rời đường lớn để tới Huntsford, nơi Elizabeth hồi tưởng lại những thông tin mà cô từng nghe về những người sống ở đó.
+- Toà Tư dinh Cha xứ cuối cùng xuất hiện, và Elizabeth, anh Collins và Charlotte gặp lại nhau với niềm vui lớn.
+- Elizabeth nhận thấy anh Collins không thay đổi sau hôn nhân, anh ta vẫn giữ thái độ lịch sự, trang trọng.
+- Anh Collins khoe ngôi nhà của mình, và Elizabeth cảm thấy bối rối khi nhìn thấy Charlotte tỏ ra vui vẻ với anh chồng.
+- Anh Collins dẫn họ đi dạo trong khu vườn, khoe những chi tiết vụn vặt và đưa ra cái nhìn toàn cảnh về dinh thự Rosings.
+- Anh Collins muốn đưa họ đi thăm hai đồng cỏ của mình, nhưng vì lý do về giày dép, chỉ có anh Collins và William đi.
+- Charlotte dẫn Elizabeth và Maria trở về, giới thiệu ngôi nhà mà không cần sự phụ họa của anh chồng.
+- Họ nói về việc Phu nhân Catherine de Bourgh vẫn còn ở khu vực này, và anh Collins nói rằng Elizabeth sẽ có cơ hội gặp bà.
+- Buổi tối, họ trò chuyện về tin tức từ Hertfordshire và những điều họ đã viết trong thư từ.
+- Ngày hôm sau, Elizabeth chứng kiến cảnh Phu nhân Catherine và cô con gái đến thăm, và anh Collins và Charlotte đứng ra đón họ.
+- Cuối cùng, cả nhóm được mời đến ăn tối tại Rosings vào ngày hôm sau.
+"""

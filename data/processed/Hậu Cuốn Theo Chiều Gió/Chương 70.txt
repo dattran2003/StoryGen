@@ -1,0 +1,15 @@
+"""
+- Scarlett vội vã chạy đến bến tàu Abraham Lincoln lúc 5 giờ chiều, kịp để lên tàu La Toison d'or.
+- Cô cảm thấy tức giận với người hướng dẫn tham quan và thuyền trưởng tàu La Toison d'or vì làm cô chờ đợi.
+- Scarlett muốn rời Charleston sớm nhất có thể vì thời tiết nóng bức.
+- Cô nhìn thấy một nhóm người, gồm những người phụ nữ thanh lịch và Rhett, đang chậm rãi lên tàu.
+- Scarlett nhận ra Rhett và cảm thấy hoảng loạn, không biết phải làm gì, vì cô mang theo hai kiện hành lý chứa quần áo và súng của Colum.
+- Scarlett cố gắng trốn tránh Rhett nhưng không thành công khi Rhett nhìn thấy cô và chào cô.
+- Scarlett và Rhett nhìn nhau trong một khoảng thời gian dài trước khi tàu rời bến.
+- Scarlett gặp những người Anh trong phòng ăn, gồm các chị em Cowperthwaite và Roger, họ thảo luận về Charleston và Rhett.
+- Scarlett cảm thấy nhẹ nhõm khi họ tin rằng cô đã bỏ Rhett, không phải ngược lại.
+- Scarlett kết bạn với nhóm người Anh và họ chia sẻ với cô về gia đình và cuộc sống của họ.
+- Scarlett cảm thấy buồn khi nhìn họ rời tàu ở Liverpool.
+- Scarlett nhớ về cuộc gặp gỡ với Rhett ở Charleston và tự hỏi liệu Rhett có cảm thấy giống cô không.
+- Khi tàu La Toison d'or vào vịnh Galway, Scarlett mỉm cười với những viên truy cứu thuế và nghĩ về Ballyhara và mùa thu hoạch sắp tới.
+"""

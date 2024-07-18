@@ -1,0 +1,12 @@
+"""
+- Người kể chuyện thuê một căn phòng chán chường với tầm nhìn ra sau khách sạn.
+- Ông già khú đế dẫn anh ta lên phòng làm anh ta cảm thấy chán hơn.
+- Ông già này làm công việc đơn điệu là xách va li cho khách và chờ nhận tiền boa.
+- Một khi ông già rời đi, người kể chuyện nhìn ra cửa sổ và quan sát người đàn ông tóc hoa râm ở tòa nhà đối diện đang thử đồ phụ nữ.
+- Người đàn ông này sau đó bắt đầu di chuyển trong phòng giống như phụ nữ, hút thuốc và soi gương.
+- Trong cùng thời gian, người kể chuyện nhìn thấy một cặp nam nữ phun chất lỏng, có thể là rượu, vào nhau.
+- Anh ta suýt gọi bạn mình, Stradlater, nhưng quyết định không làm vậy.
+- Người kể chuyện suy nghĩ về việc gọi điện cho Jane nhưng quyết định không làm vì không thấy thích.
+- Anh ta sau đó quyết định gọi cho Faith Cavendish, một người bạn quen qua bạn mình Eddie Birdsell.
+- Cuối cùng, sau cuộc gọi, người kể chuyện nhận ra mình đã tự làm hỏng cơ hội gặp Faith Cavendish.
+"""

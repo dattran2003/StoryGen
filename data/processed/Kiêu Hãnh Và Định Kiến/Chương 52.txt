@@ -1,0 +1,15 @@
+"""
+- Elizabeth nhận được thư hồi âm từ bà mợ, cô vội tìm một chỗ yên tĩnh để đọc.
+- Trong thư, bà mợ giải thích rằng cô và ông Gardiner đã ngạc nhiên trước yêu cầu của Elizabeth nhưng không bực bội.
+- Anh Darcy đã đến thăm ông Gardiner, tiết lộ rằng anh đã tìm thấy Lydia và Wickham.
+- Darcy cảm thấy có trách nhiệm vì không tiết lộ rõ về Wickham trước, dẫn đến việc Lydia mê muội yêu anh ta.
+- Darcy đã tìm thấy Lydia và Wickham nhờ thông tin từ bà Younge, người từng là gia sư của cô Darcy.
+- Lydia kiên quyết muốn ở lại với Wickham, không muốn trở về hay nghe Darcy khuyên nhủ.
+- Wickham không có ý định kết hôn với Lydia, chỉ muốn thoát khỏi trung đoàn dân quân do nợ nần.
+- Cuối cùng, Darcy và Wickham đạt thỏa thuận về việc tổ chức hôn lễ.
+- Darcy muốn giữ bí mật về vai trò của mình trong việc này, chỉ muốn giúp đỡ.
+- Lydia và Wickham đã đến thăm nhà bà mợ, bà mợ không hài lòng với thái độ của Lydia.
+- Anh Darcy đã giữ lời hứa, tham dự hôn lễ và sau đó dùng bữa với gia đình ông Gardiner.
+- Elizabeth cảm thấy hỗn loạn trước sự thật rằng Darcy đã làm nhiều việc vì cô em gái, nhưng cô cũng nhận ra rằng anh có thể làm những việc này vì cô.
+- Wickham đã gặp Elizabeth, cố gắng gây chuyện về Darcy nhưng Elizabeth đã chấm dứt cuộc trò chuyện.
+"""

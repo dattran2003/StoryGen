@@ -1,0 +1,8 @@
+"""
+- Bé Cathy sinh ra vào khoảng 10 giờ đêm, nhưng hai giờ sau, người mẹ của cô bé qua đời mà không từng tỉnh dậy để nhớ đến Heathcliff hoặc nhận ra Edgar.
+- Edgar Linton đau khổ trước cái chết của vợ và còn đau khổ hơn khi biết rằng do không có người thừa kế nam, tài sản sẽ phải giao lại cho Isabella sau khi ông qua đời.
+- Edgar Linton ngồi bên cạnh thi thể vợ suốt đêm, trong khi tôi (Ellen) rời khỏi phòng sau khi mặt trời mọc để tránh làm phiền và tìm cách thông báo tin tức bi thảm cho Heathcliff.
+- Heathcliff biết tin vợ qua đời và trải qua cơn đau khổ dữ dội, thề rằng Catherine không được an nghỉ cho đến khi ông chết.
+- Lễ tang của cô Linton được tổ chức vào thứ Sáu tuần sau và Heathcliff đến thăm cô một lần cuối trước khi cô được chôn cất.
+- Isabella Heathcliff trốn thoát từ Wuthering Heights, chạy bộ từ Đồi Gió Hú về nhà và tìm nơi trú ẩn, tuyên bố rằng cô không còn quan tâm đến Heathcliff nữa.
+"""

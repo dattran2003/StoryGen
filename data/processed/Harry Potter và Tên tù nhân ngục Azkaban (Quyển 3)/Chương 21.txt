@@ -1,0 +1,19 @@
+"""
+- Sự kinh hoàng không có người chết đã xảy ra, ông Snape đã can thiệp kịp thời.
+- Ông Snape được ông Bộ trưởng Pháp thuật Pháp thuật đánh giá cao và cảm ơn.
+- Ông Bộ trưởng gợi ý ông Snape có thể nhận được Huân chương Merlin hạng nhất.
+- Ông Snape chia sẻ vết thương do Harry Potter, Ron Weasley và Hermione Granger gây ra.
+- Ông Snape cho rằng Black đã mê hoặc các em học sinh, dẫn đến việc họ tin rằng Black là vô tội.
+- Ông Snape và ông Bộ trưởng thảo luận về việc xử lý Harry Potter,Ron Weasley và Hermione Granger.
+- Ông Snape và ông Bộ trưởng đồng ý rằng việc trẻ con làm những điều nguy hiểm không thể chấp nhận được.
+- Ông Snape và ông Bộ trưởng thảo luận về việc Black và những viên giám ngục Azkhaban.
+- Harry Potter tỉnh dậy trong bệnh viện, nhìn thấy Ron và Hermione đang nằm trên giường bên cạnh.
+- Harry và Hermione nghe cuộc thảo luận của ông Fudge và thầy Snape về Sirius Black.
+- Harry và Hermione cố gắng thuyết phục mọi người về sự vô tội của Sirius Black.
+- Cụ Dumbledore đến, thông báo đã nói chuyện với Sirius Black và yêu cầu nói chuyện riêng với Harry và Hermione.
+- Hermione tiết lộ khả năng đi ngược thời gian nhờ Xoay Thời Gian, và cụ Dumbledore khuyên họ dùng nó để cứu Sirius Black.
+- Harry và Hermione quyết định sử dụng Xoay Thời Gian để cứu Sirius Black và Buckbeak.
+- Harry và Hermione thực hiện kế hoạch, cứu Buckbeak và chuẩn bị để cứu Sirius Black.
+- Harry nhận ra rằng chính mình đã tạo ra vị thần hộ mệnh để cứu mình khỏi giám ngục Azkhaban.
+- Harry và Hermione cuối cùng đã thành công trong việc cứu Sirius Black và Buckbeak.
+"""

@@ -1,0 +1,21 @@
+"""
+- Harry và bạn bè tận hưởng chiến thắng cúp Quidditch, nhưng phải chuẩn bị cho kì thi sắp tới.
+- Thời tiết ấm áp, nhưng việc học hành và ôn thi chiếm hết thời gian của họ, đặc biệt là Hermione.
+- Fred, George và Percy đều căng thẳng với kì thi của mình, trong khi Percy cố gắng đạt điểm cao nhất để vào Bộ Pháp thuật.
+- Hermione tự đặt lịch thi cho mình, khiến Harry và Ron thắc mắc về khả năng cô quản lý thời gian.
+- Harry nhận được thư của Hagrid thông báo ngày xét xử Buckbeak.
+- Hermione và Harry lo ngại khi nhận ra rằng một đao phủ đã được cử đến, ngụ ý rằng quyết định đã được đưa ra trước.
+- Harry, Ron và Hermione không có thời gian để thăm Hagrid do áp lực học hành và an ninh nghiêm ngặt.
+- Tuần thi bắt đầu, khiến cả trường trở nên im lặng.
+- Hermione làm cho mọi người khó chịu khi khoe về bài thi Biến của mình.
+- Harry và Ron gặp khó khăn trong bài thi Độc dược.
+- Trong bài thi Chăm sóc Sinh vật Huyền bí, Hagrid cho học sinh chăm sóc Nhu trùng, và họ có cơ hội nói chuyện với Hagrid.
+- Trong bài thi Phòng chống Nghệ thuật Hắc ám, Hermione gặp rắc rối với một Ông Kẹ giả dạng thành giáo sư McGonagall.
+- Ông Fudge, Bộ trưởng Bộ Pháp thuật, xuất hiện tại trường, nhắc nhở về việc hành hình Buckbeak.
+- Ron phản ứng gay gắt, nhưng Hermione khuyên họ không nên gây rối với ông Fudge.
+- Trong bài thi Tiên tri, giáo sư Trelawney đưa ra những tiên đoán kỳ lạ về Chúa tể Hắc ám.
+- Harry, Ron và Hermione biết tin Buckbeak không được ân xá, họ quyết định giúp Hagrid.
+- Hermione mạo hiểm lấy áo tàng hình để giúp Harry, Ron và mình thoát khỏi tầm nhìn của giáo viên.
+- Ba người bạn tìm cách cứu Buckbeak, nhưng phải đối mặt với thực tế đau lòng khi nghe tiếng búa hành hình.
+- Trong lúc này, Ron gặp khó khăn khi cố giữ con chuột Scrabbers yên lặng, làm tăng thêm căng thẳng.
+"""

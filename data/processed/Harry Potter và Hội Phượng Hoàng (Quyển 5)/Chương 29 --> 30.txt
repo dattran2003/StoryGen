@@ -1,0 +1,39 @@
+"""
+                - Chương 29: Lời khuyên về nghề nghiệp
+                - Hermione khuyên Harry nên tiếp tục học Phép Phong Toả từ thầy Snape.
+                - Harry từ chối, dẫn đến tranh cãi giữa anh và Hermione.
+                - Hermione vẽ lại lịch học cho cả ba, chuẩn bị cho kỳ nghỉ Phục sinh.
+                - Ron và Hermione lo lắng về kỳ thi sắp tới.
+                - Hermione nói với Harry về việc nhìn thấy Cho Chang, gây thêm căng thẳng cho Harry.
+                - Harry muốn nói chuyện với Sirius Black, nhưng lo ngại vì Umbridge kiểm soát các lò sưởi và thư từ.
+                - Ginny Weasley gợi ý cách để Harry có thể nói chuyện với Sirius.
+                - Harry và Ginny suýt bị phát hiện bởi bà Pince trong thư viện.
+                - Trước kỳ nghỉ, nhiều tờ rơi và thông báo về nghề nghiệp xuất hiện.
+                - Harry, Ron và Hermione thảo luận về các nghề nghiệp mà họ quan tâm.
+                - Harry dự định nói chuyện với Sirius Black trong văn phòng Umbridge.
+                - Hermione cố gắng thuyết phục Harry không làm như vậy.
+                - Fred và George Weasley lên kế hoạch tạo ra sự phân tâm để Harry có thể nói chuyện với Sirius.
+                - Harry gặp giáo sư McGonagall để thảo luận về nghề nghiệp.
+                - Trong cuộc họp, Umbridge xuất hiện và có cuộc tranh cãi với McGonagall về khả năng của Harry trở thành Thần Sáng.
+                - Harry quyết định đột nhập vào văn phòng Umbridge để nói chuyện với Sirius.
+                - Fred và George tạo ra sự phân tâm bằng cách tạo ra một đầm lầy trong hành lang.
+                - Harry thành công trong việc nói chuyện với Sirius qua đống lửa.
+                - Fred và George cuối cùng đã rời trường, tạo ra một đầm lầy và rời đi bằng cây chổi của họ.
+                - Cả trường trở nên hỗn loạn sau khi họ rời đi.
+"""
+
+""" 
+                - Chương 30: Grawp
+                - Harry, Ron và Hermione thấy trường trở nên hỗn loạn sau khi Fred và George rời đi.
+                - Harry tiếp tục mơ về Văn phòng Những Điều Thần Bí.
+                - Harry, Ron và Hermione dự trận đấu Quidditch cuối cùng.
+                - Trong trận đấu, Harry gặp Cho Chang, gây thêm căng thẳng cho anh.
+                - Bác Hagrid gọi Harry và Hermione ra khỏi trận đấu để dẫn họ vào Rừng Cấm.
+                - Bác Hagrid tiết lộ rằng anh ta đã mang Grawp, một người khổng lồ, về Hogwarts.
+                - Bác Hagrid mong muốn Harry và Hermione giúp chăm sóc Grawp khi anh ta bị đuổi.
+                - Harry và Hermione gặp Grawp, một người khổng lồ lớn và mạnh mẽ.
+                - Họ gặp những con nhân mã, những người không chấp nhận việc bác Hagrid giữ Grawp trong Rừng Cấm.
+                - Bác Hagrid và những con nhân mã có cuộc tranh cãi gay gắt.
+                - Harry và Hermione trở lại sân Quidditch và phát hiện ra rằng Gryffindor đã thắng trận đấu.
+                - Harry và Hermione quyết định giữ bí mật về Grawp cho đến ngày hôm sau.
+"""

@@ -1,0 +1,12 @@
+"""
+- Nhân vật chính gọi điện cho thầy Antolini, người rất niềm nở và cho phép cậu tới nhà thầy bất cứ lúc nào.
+- Thầy Antolini, người tốt nhất trong số các giáo viên của nhân vật, đã cứu một học sinh tên James sau khi cậu ta nhảy qua cửa sổ.
+- Nhân vật trở về phòng anh trai D.B., nơi em gái Phoebe đang nghe nhạc và nhảy múa.
+- Nhân vật và Phoebe cùng nhảy múa, nhân vật khen ngợi khả năng nhảy múa của cô em.
+- Trong lúc nghỉ, Phoebe thử làm nóng trán mình theo cách mà bạn của cô, Alice Holmborg, đã dạy.
+- Cha mẹ của nhân vật trở về, khiến nhân vật phải ẩn nấp trong tủ.
+- Mẹ của nhân vật và Phoebe có cuộc trò chuyện ngắn trước khi đi ngủ.
+- Nhân vật quyết định rời khỏi nhà ngay lập tức, nhưng Phoebe khuyên anh đợi cho đến khi cha mẹ ngủ.
+- Nhân vật và Phoebe chia tay, cô bé cho anh mượn một số tiền, khiến anh rơi lệ.
+- Nhân vật rời khỏi nhà, sẵn sàng đối mặt với bất kỳ hậu quả nào có thể xảy ra.
+"""

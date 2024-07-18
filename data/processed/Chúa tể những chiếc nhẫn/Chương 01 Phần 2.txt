@@ -1,0 +1,14 @@
+"""
+- 144 vị khách tụ tập chờ đợi bữa tiệc của Bilbo, mặc dù họ e sợ bài diễn văn sau bữa tiệc từ ông chủ nhà.
+- Bilbo bắt đầu bài diễn văn của mình sau bữa tiệc, kéo dài với những câu chuyện phiêu lưu của mình.
+- Khách tham dự, sau khi đã no đủ, đã trở nên dễ dàng chấp nhận và sẵn lòng lắng nghe Bilbo.
+- Bilbo bắt đầu bài diễn văn, ca ngợi mọi người và nói về tuổi đời của mình.
+- Ông thông báo rằng hôm nay cũng là sinh nhật của Frodo, người thừa kế của ông, và Frodo sẽ nhận quyền thừa kế của mình.
+- Bilbo tuyên bố rằng đây là chấm dứt, ông sẽ rời khỏi và tạm biệt mọi người, sau đó biến mất trong ánh sáng chói lòa.
+- Sự biến mất của Bilbo khiến mọi người sửng sốt, không biết phải phản ứng thế nào.
+- Mọi người bắt đầu nói rằng Bilbo đã điên, trong khi Frodo giữ im lặng, hiểu rõ về sự thật.
+- Bilbo, trong lúc diễn văn, đã sử dụng chiếc nhẫn ma thuật của mình để biến mất.
+- Ông chuẩn bị để rời đi, đóng gói quần áo và tài sản của mình, và để lại chiếc nhẫn cho Frodo.
+- Gandalf xuất hiện, thảo luận với Bilbo về việc giữ lại chiếc nhẫn, và cuối cùng Bilbo quyết định để lại nó cho Frodo.
+- Bilbo rời đi, chấm dứt cuộc sống ở Hobbiton, và Frodo giữ lại chiếc nhẫn, chứng kiến sự ra đi của ông.
+"""

@@ -1,0 +1,21 @@
+"""
+- Harry không biết kế hoạch của Hermione và đi theo cô một nửa bước khi cả hai rời văn phòng của Umbridge. 
+- Hermione dẫn đường xuống Tiền Sảnh, nơi tiếng nói ồn ào và tiếng dao nĩa từ Đại Sảnh Đường vọng ra.
+- Hermione và Umbridge đi qua cánh cửa gỗ sồi, xuống cầu thang đá vào buổi tối yên tĩnh. 
+- Hermione và Umbridge tiếp tục vào rừng Cấm, Umbridge nghi ngờ rằng mục tiêu cuối cùng là lều của Hagrid.
+- Hermione chối bỏ và khẳng định mục tiêu nằm sâu trong rừng.
+- Harry và Hermione dẫn Umbridge vào rừng, không có đũa phép. 
+- Hermione cố tình tạo ra tiếng động lớn, khiến Umbridge nghi ngờ.
+- Hermione tiết lộ rằng cô muốn nhân mã phát hiện họ.
+- Một mũi tên bay từ đâu đó, đánh dấu sự xuất hiện của nhân mã.
+- Harry, Hermione và Umbridge bị bao vây bởi khoảng năm mươi con nhân mã.
+- Hermione và Harry cố gắng hòa giải khi Umbridge và nhân mã đối đầu, nhưng không thành công.
+- Grawp, em trai của Hagrid, xuất hiện và tấn công nhân mã, làm họ phải bỏ chạy.
+- Hermione và Harry không biết cách đến London để cứu Sirius mà không có đũa phép.
+- Luna đề xuất sử dụng Thestrals để bay, và thêm Thestrals xuất hiện khi họ bị dính máu.
+- Harry và nhóm bạn cưỡi Thestrals đến London, đến Bộ Pháp Thuật.
+- Họ dùng thang máy điện thoại đến Sở Cơ Mật, nơi họ tin rằng Sirius đang bị giam giữ.
+- Họ bước vào Sở Cơ Mật, nhưng không tìm thấy Sirius như dự định.
+- Thay vào đó, họ tìm thấy một quả cầu thủy tinh với tên Harry Potter ghi trên đó.
+- Khi họ đang xem xét quả cầu, một giọng nói lạ xuất hiện từ phía sau, ra lệnh cho Harry đưa quả cầu cho người đó.
+"""

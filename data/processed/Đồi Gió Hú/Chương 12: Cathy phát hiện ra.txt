@@ -1,0 +1,17 @@
+"""
+- Trong 12 năm, cuộc sống của người kể chuyện tràn đầy hạnh phúc với bé Cathy, ngoại trừ những lần cô bé bị ốm.
+- Cathy lớn lên nhanh chóng và khỏe mạnh, cô kết hợp giữa vẻ đẹp của dòng họ Earnshaw và Linton.
+- Cho đến tuổi 13, cô bé chưa từng đi ra khỏi khu vực của Thrushcross Grange mà không có người đi kèm.
+- Cathy hỏi về Penistone Rocks và cha cô hứa sẽ cho cô đi khi cô lớn hơn.
+- Edgar, cha của Cathy, ngăn cô đi đến Penistone Rocks vì con đường đi qua Wuthering Heights.
+- Edgar phải đi vắng vì em gái ông, Isabella, đang hấp hối và yêu cầu ông chăm sóc Linton, con trai cô.
+- Edgar đặt quy định nghiêm ngặt cho Cathy không được rời khỏi khu vực của Grange.
+- Một ngày, Cathy trốn đi và đi đến Wuthering Heights, nơi cô gặp Hareton.
+- Hareton và Cathy có một cuộc gặp gỡ đầy căng thẳng.
+- Ellen, người kể chuyện, tìm thấy Cathy tại Wuthering Heights và đưa cô bé về nhà.
+- Cathy bị cấm cưỡi ngựa và ra khỏi khu vực Grange sau sự cố.
+- Hareton, người mà Cathy gặp tại Wuthering Heights, được tiết lộ là anh họ của cô.
+- Cathy phản ứng dữ dội với thông tin này và khóc.
+- Ellen nhận ra rằng Hareton, dù có vẻ cục súc, có tiềm năng lớn nếu được giáo dục và hướng dẫn đúng đắn.
+- Cuối cùng, Ellen suy nghĩ về Linton, đứa con của Isabella, người mà Edgar đang trên đường đón về từ London.
+"""

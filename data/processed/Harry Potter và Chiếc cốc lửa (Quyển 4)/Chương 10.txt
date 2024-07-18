@@ -1,0 +1,14 @@
+"""
+- Mọi người bị ông Weasley đánh thức dậy sau một giấc ngủ ngắn để rời khỏi khu cắm trại, ông Weasley dùng phép thuật để thu dọn lều lán.
+- Trên đường đi qua cánh đồng, ông Weasley giải thích rằng ông Roberts, người họ gặp, sẽ ổn sau khi trí nhớ của ông được điều chỉnh.
+- Khi họ đến gần Khóa-cảng, họ thấy hỗn loạn do nhiều pháp sư và phù thủy đang cố gắng rời khỏi khu cắm trại sau sự kiện gây sợ hãi.
+- Họ trở về trang trại Hang Sóc trước khi mặt trời mọc, gặp bà Weasley đang chờ đợi lo lắng.
+- Bà Weasley ôm chặt tất cả mọi người, mừng rỡ vì họ đều an toàn, và tỏ ra bất ngờ khi đọc bài báo trên Nhật báo Tiên tri về sự kiện tại Cúp Quidditch Thế giới.
+- Ông Weasley và Percy đều phải làm việc nhiều giờ tại Bộ Pháp Thuật sau sự kiện, cố gắng dập tắt phản ứng tiêu cực từ cộng đồng.
+- Harry tiết lộ với Ron và Hermione về giấc mơ liên quan đến Voldemort và Đuôi Trùn, cũng như việc thẹo của anh ta đau nhức trước sự kiện.
+- Harry đang chờ hồi âm từ Sirius Black về việc thẹo của anh ta đau.
+- Trong tuần sau, cả ông Weasley và Percy đều phải làm việc rất nhiều tại Bộ Pháp Thuật, chỉ về nhà muộn vào mỗi đêm.
+- Rita Skeeter, một phóng viên, đã khám phá ra thông tin về Bertha Jorkins mất tích và chuẩn bị viết một bài báo lớn về điều này.
+- Hermione chỉ trích cách đối xử với gia tinh Winky, trong khi Percy bảo vệ quan điểm của ông Crouch.
+- Bà Weasley mua lễ phục mới cho Ron và Harry, Ron tỏ ra không hài lòng với kiểu dáng của lễ phục của mình.
+"""

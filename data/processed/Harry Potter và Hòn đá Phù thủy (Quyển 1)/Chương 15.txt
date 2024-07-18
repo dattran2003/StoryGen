@@ -1,0 +1,14 @@
+"""
+- Harry và Hermione bị giáo sư McGonagall gọi vì họ đã lén ra khỏi kí túc xá và leo lên tháp thiên văn vào nửa đêm.
+- Neville cũng bị gọi đến vì anh ta đã cố gắng cảnh báo cho Harry và Hermione về kế hoạch của Malfoy.
+- Giáo sư McGonagall nghi ngờ rằng họ đã tạo ra câu chuyện giả về một con rồng để gây rối cho Malfoy.
+- Harry, Hermione, Neville và Malfoy đều bị trừ điểm và bị phạt cấm túc.
+- Trong khi bị phạt, họ được giao nhiệm vụ vào rừng cấm cùng với Hagrid để tìm một con kỳ mã bị thương.
+- Trong rừng, họ gặp phải những con nhân mã Ronan và Bane, những con nhân mã chỉ quan tâm đến những di chuyển của các hành tinh và không cung cấp thông tin gì về những gì đang xảy ra trong rừng.
+- Neville đã bị Malfoy làm hốt hoảng, khiến anh ta phát tín hiệu báo động đỏ.
+- Harry, Malfoy và Fang gặp một sinh vật bí ẩn đang hút máu từ một con kỳ mã đã chết.
+- Harry được cứu bởi một con nhân mã trẻ tuổi tên Firenze, người cõng anh ta ra khỏi khu rừng.
+- Firenze giải thích rằng máu kỳ mã được dùng để giữ mạng sống cho ai đó sắp chết, nhưng việc này sẽ nguyền rủa kẻ đó.
+- Firenze cũng đề cập rằng kẻ đang cố gắng lấy Hòn đá Phù thủy chính là Voldemort, người đang chờ đợi trong khu rừng cấm.
+- Harry, Ron và Hermione sau đó thảo luận về những gì đã xảy ra, với Harry lo lắng về việc Voldemort sắp trở lại.
+"""

@@ -1,0 +1,15 @@
+"""
+- Winston đang chờ ở một quán ăn ẩm thấp trong hầm, nơi đông nghẹt người và ồn ào. 
+- Anh gặp Syme, một đồng nghiệp tại Cục Khảo Cứu, người hỏi anh về dao cạo, một mặt hàng đang khan hiếm.
+- Syme, một chuyên gia về Ngôn Mới, chia sẻ niềm say mê của mình về việc chỉnh sửa và hạn chế từ vựng ngôn ngữ.
+- Trong khi chờ cơm, Syme giải thích rằng mục tiêu của Ngôn Mới là giới hạn tư duy, loại bỏ từ ngữ không cần thiết và những ý nghĩa phụ.
+- Syme dự đoán rằng vào khoảng năm 2050, không còn ai hiểu được Ngôn Cũ và rằng văn học quá khứ sẽ bị thay đổi hoàn toàn.
+- Winston nhận ra rằng Syme, dù thông minh và hiểu biết, có thể sẽ bị Đảng loại bỏ do sự thẳng thắn và nhận thức sâu sắc của anh ta.
+- Parsons, một người hàng xóm của Winston, xuất hiện và nói về việc hai đứa con của anh ta đã theo dõi một người lạ nghi ngờ là điệp viên địch.
+- Parsons còn kể về việc hai đứa con mình đốt váy một bà già vì thấy bà ta gói xúc xích trong bích chương có hình Bác, thể hiện sự hăng hái của trẻ em trong Đoàn Gián Điệp.
+- Thông báo từ Bộ Sung Túc thông báo rằng mức sống đã tăng lên 20% so với năm trước, một thông tin mâu thuẫn với thực tế thiếu thốn mà Winston trải nghiệm.
+- Winston nhận ra rằng đa số người dân đều xấu xí và thiếu thốn, trái ngược với hình ảnh lý tưởng mà Đảng tạo ra.
+- Anh nhận ra rằng những người nhỏ bé, nhanh nhẹn, giống như Syme và cô gái tóc đen, sẽ không bị Đảng loại bỏ.
+- Winston nhận thấy cô gái tóc đen đang theo dõi anh, điều này khiến anh cảm thấy sợ hãi và bất an.
+- Buổi ăn kết thúc khi máy truyền hình phát tín hiệu báo hiệu phải trở về công việc.
+"""

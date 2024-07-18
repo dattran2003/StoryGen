@@ -1,0 +1,13 @@
+"""
+- Những ngày học của tôi sau ngày đầu tiên không suôn sẻ hơn. Hệ thống giáo dục, mà Jem gọi là Hệ thống thập phân Dewey, không mang lại hiệu quả mong muốn.
+- Tôi cảm thấy mình mất đi điều gì đó qua hệ thống giáo dục nhàm chán của hạt Maycomb.
+- Mỗi ngày sau khi tan học, tôi chạy nhanh qua nhà Radley, không dừng lại cho đến khi an toàn.
+- Một buổi chiều, khi đang chạy qua nhà Radley, tôi nhận thấy một cái gì đó lạ khiến tôi phải quay lại và khám phá ra hai miếng kẹo cao su nằm trong hốc cây.
+- Tôi ăn miếng kẹo cao su dù Jem khuyên tôi không nên, nhưng sau cùng tôi phải nhổ nó ra theo yêu cầu của Jem.
+- Mùa hè sắp đến, Jem và tôi chờ đón Dill.
+- Trong quá trình chơi đùa, tôi lăn trong lốp xe và dừng lại ngay trước nhà Radley, khiến tôi sợ hãi.
+- Jem đưa ra ý tưởng chơi trò về Boo Radley, mặc dù tôi không thích ý tưởng này.
+- Chúng tôi tiếp tục trò chơi, dần dần hoàn thiện nó thành một vở kịch nhỏ.
+- Một ngày, bố Atticus phát hiện ra trò chơi của chúng tôi và dường như không hài lòng.
+- Tôi muốn dừng trò chơi này sau sự xuất hiện của bố Atticus và sau khi nghe tiếng cười từ trong nhà Radley trong lúc lăn trong lốp xe.
+"""

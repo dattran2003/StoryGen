@@ -1,0 +1,13 @@
+"""
+- Bà Gardiner khuyên nhủ Elizabeth về mối quan hệ với anh Wickham, cảnh giác cô về những rắc rối tiềm ẩn nếu để ham muốn vật chất ảnh hưởng đến tình yêu.
+- Elizabeth đồng ý với lời khuyên của bà Gardiner nhưng khẳng định cô sẽ không hấp tấp trong việc tin vào ý định của anh Wickham.
+- Bà Gardiner gợi ý Elizabeth nên hạn chế gặp gỡ anh Wickham, nhưng Elizabeth nói rằng anh ấy không đến nhà thường xuyên như bà nghĩ.
+- Anh Collins trở lại Hertfordshire nhưng vì anh đến ở tại nhà Lucas, nên không làm phiền đến bà Bennet.
+- Charlotte Lucas chuẩn bị cho đám cưới của mình và yêu cầu Elizabeth hứa hẹn sẽ thăm cô sau khi cưới.
+- Hôn lễ của Charlotte và anh Collins được tổ chức và sau đó, Elizabeth nhận được thư từ Charlotte.
+- Jane đã tới London nhưng không gặp được anh Bingley. Cô cũng nhận ra sự thay đổi trong thái độ của Caroline Bingley.
+- Caroline Bingley cuối cùng cũng tới thăm Jane nhưng thái độ lạnh nhạt khiến Jane nhận ra sự thay đổi.
+- Jane viết thư cho Elizabeth, bày tỏ sự hiểu lầm của cô về Caroline và cảm giác buồn bã khi nhận ra sự thay đổi.
+- Elizabeth viết thư cho bà Gardiner, kể về việc anh Wickham đã chuyển hướng sự chú ý sang cô gái khác.
+- Elizabeth không cảm thấy buồn bã về việc này, trái lại, cô thấy nhẹ nhõm vì không còn là trung tâm chú ý của anh Wickham.
+"""

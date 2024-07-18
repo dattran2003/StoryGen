@@ -1,0 +1,15 @@
+"""
+- Colum nhắc Scarlett về sinh nhật sắp tới của bà nội và yêu cầu cô báo cho nhà rằng anh sẽ trở lại sau ngày hôm sau.
+- Scarlett tự hỏi về việc phải làm gì cho sinh nhật của bà cụ và quyết định tặng bà một cổ áo.
+- Scarlett nhận ra mình chỉ còn một tuần nữa trước khi trở về và bắt đầu công việc chuẩn bị cho sinh nhật bà Katie Scarlett.
+- Scarlett và Kathleen cùng phụ nữ trong làng làm việc chăm chỉ để chuẩn bị cho ngày lễ.
+- Scarlett nhớ về câu chuyện về những con tàu và người đàn ông Anh, gây ra sự tức giận trong cô.
+- Ngày sinh nhật bà Katie Scarlett là một ngày lễ lớn với nhiều người đến thăm và tặng quà.
+- Scarlett tham gia vào lễ hội và quyết định ở lại cho đến lễ hội tháng Năm, dù cô phải trở về để kịp chuyến tàu.
+- Colum thông báo rằng Scarlett và Bridie có thể tự mình kết thúc chuyến đi đến Savannah sau lễ hội.
+- Scarlett quyết định ở lại cho đến lễ hội tháng Năm.
+- Scarlett nhận được thư từ Savannah, báo tin về việc chuộc lại phần hiến dâng của Tara, nhưng việc này đòi hỏi một số tiền lớn.
+- Scarlett gặp rắc rối khi nhận được giấy tờ ly dị từ Rhett Butler, điều này khiến cô sốc và quyết định trở về ngay lập tức.
+- Colum hỗ trợ Scarlett và khuyên cô nên giữ gìn sức khỏe cho bản thân và đứa bé cô đang mang.
+- Scarlett quyết định sẽ trở về ngay lập tức và sắp xếp mọi thứ để lên đường.
+"""

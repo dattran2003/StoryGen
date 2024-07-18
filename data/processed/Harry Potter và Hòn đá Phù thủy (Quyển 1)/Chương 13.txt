@@ -1,0 +1,21 @@
+"""
+- Dumbledore劝说Harry不再寻找魔法镜，但Harry仍受其影响，开始做噩梦。
+- Harry向Ron讲述他的噩梦，Ron认为Dumbledore是对的，魔法镜可能使Harry疯狂。
+- Hermione返回学校，对Harry连续三晚离床游荡表示震惊，并失望于Harry未能找出Nicolas Flamel的身份。
+- 尽管几乎放弃在图书馆中寻找Flamel的信息，但Harry坚信他曾在某处读过这个名字。
+- 新学期开始，他们只能在休息时间花十分钟左右的时间查找信息。Harry的时间更少，因为魁地奇训练也开始了。
+- Wood要求队伍更加勤奋地训练以赢得即将到来的比赛，这将帮助他们从斯莱特林手中夺回冠军头衔。
+- 在一次训练中，Wood宣布Snape将成为下一场Quidditch比赛的裁判，这让队员们感到担忧。
+- Harry分享了关于Snape作为Quidditch裁判的消息，引起了Ron和Hermione的担心，他们建议Harry假装生病或受伤以避免比赛。
+- Harry拒绝了他们的建议，因为他不希望让团队失望，没有替代的Seeker。
+- Neville带着被Malfoy施展的Leg-Locker咒语回来，Hermione解除了咒语并鼓励Neville去告诉McGonagall教授。
+- Ron鼓励Neville抵抗Malfoy，而Harry给了Neville一块巧克力来安慰他。
+- Harry发现Nicolas Flamel的名字在他与Dumbledore相关的巧克力蛙卡片上，意识到Flamel是一个炼金术士，与Dumbledore合作研究了十二种龙血的用途。
+- Hermione找到一本关于炼金术的书，揭示了Nicolas Flamel是唯一已知的Philosopher's Stone（哲学家之石）的作者，这颗石头可以将金属变成黄金并创造长生不老药。
+- Hermione解释说，Flamel的石头可能是由Dumbledore保管的，以防止它落入错误的手中，很可能就是Hogwarts地下三层的守护对象。
+- Harry和Ron意识到为什么Snape想要得到那块石头，因为它能让人长生不老和富有。
+- 在接下来的Quidditch比赛中，Harry决定参加，尽管知道Snape将是裁判。他想证明自己不怕Snape。
+- Harry在比赛中迅速抓住了金色飞贼，赢得了比赛，使Gryffindor领先。
+- 比赛后，Harry看到Snape走向禁林，他跟随并听到Snape与Quirrell讨论如何通过Hagrid的三头犬Fluffy以及其它可能的障碍来获取石头。
+- Harry与Ron和Hermione分享了这一发现，他们意识到Snape正逼迫Quirrell帮助他获得石头。
+"""

@@ -1,0 +1,15 @@
+"""
+- Scarlett cảm thấy đau đớn và tức giận khi Frank bỏ cô ở nhà để đi dự một cuộc họp chính trị sau khi cô vừa trải qua một sự cố nguy hiểm.
+- Frank không tỏ ra quá quan tâm hoặc tức giận về sự cố của Scarlett, thay vào đó, anh ta chỉ hỏi cô có bị xúc phạm không.
+- Scarlett cảm thấy bị bỏ rơi khi Frank quyết định đưa cô đến nhà Melanie trong khi anh ta đi dự cuộc họp.
+- Trong buổi tối tại nhà Melanie, Scarlett muốn kể về sự cố của mình nhưng Melanie liên tục chuyển hướng cuộc trò chuyện.
+- Scarlett nhận ra có điều gì đó không ổn khi mọi người trong phòng tỏ ra bất an và chờ đợi điều gì đó.
+- Inđiơ và Melanie biết một thông tin mà Scarlett không biết, liên quan đến việc Frank và Ashley tham gia một nhóm bí mật.
+- Scarlett và Inđiơ cãi nhau, trong đó Inđiơ chỉ trích Scarlett đã gây ra sự cố và làm tổn hại đến uy tín của những người tử tế.
+- Rhett Butler xuất hiện và thông báo rằng Frank và Ashley có thể gặp nguy hiểm do hoạt động của nhóm bí mật họ tham gia.
+- Scarlett cuối cùng hiểu rằng Frank và Ashley đều tham gia vào nhóm 3K, một nhóm chống lại người da đen và người da trắng hỗn loạn.
+- Scarlett nhận ra rằng những quyết định của cô đã dẫn đến nguy hiểm cho Frank và Ashley.
+- Rhett Butler cố gắng giúp Frank và Ashley thoát khỏi tình huống nguy hiểm bằng cách tạo ra một cái cớ cho họ.
+- Ashley bị thương và được đưa về nhà Melanie, trong khi Frank mất tích.
+- Scarlett cuối cùng biết rằng Frank đã chết, bị bắn vào đầu trong cuộc đụng độ.
+"""

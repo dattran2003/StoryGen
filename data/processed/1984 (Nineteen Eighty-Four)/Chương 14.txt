@@ -1,0 +1,17 @@
+"""
+- Winston thức dậy trong một phòng không cửa sổ tại Bộ Tình Yêu, không rõ thời gian và nơi mình đang ở.
+- Anh bị đau bụng và đói cồn cào, đã hơn 24 tiếng không ăn.
+- Anh học cách ngồi yên để tránh bị quát qua máy truyền hình.
+- Winston đã bị giam tại một nơi ồn ào và hôi hám trước khi tới đây, nơi có nhiều loại tội phạm khác nhau.
+- Tù nhân thuộc Đảng thường im lặng và sợ sệt, trong khi tội phạm thường dường như không nể ai.
+- Anh gặp một người đàn bà già đã uống rượu, người này đã nói chuyện và bày tỏ sự thân thiện với anh.
+- Winston không thể nói chuyện với các tù nhân khác thuộc Đảng, họ thường sợ nói chuyện với nhau.
+- Anh suy nghĩ về việc sử dụng dao cạo để tự tử nếu có cơ hội.
+- Anh cố gắng đếm số gạch sứ trên tường nhưng thường xuyên quên.
+- Anh gặp lại Ampleforth, người bị bắt vì không thay đổi từ "God" trong bài thơ của Kipling.
+- Parsons, một người bạn khác của Winston, cũng bị bắt vì tội tư tưởng.
+- Parsons nói rằng con gái anh ta đã tố cáo anh ta sau khi nghe anh ta nói mơ.
+- Một người đàn ông bị đói đến mức sắp chết và người khác cố gắng cho anh ta mảnh bánh mì, dẫn đến việc anh ta bị đánh.
+- Một người đàn ông khác đã phản ứng dữ dội khi bị gọi đến 'phòng 101', nơi dường như chứa đựng nỗi sợ hãi cực độ.
+- O'Brien xuất hiện, người mà Winston đã tin tưởng, nhưng sau đó một tên lính canh đã đánh gãy khuỷu tay của Winston.
+"""

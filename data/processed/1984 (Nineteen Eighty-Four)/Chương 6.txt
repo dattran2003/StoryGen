@@ -1,0 +1,12 @@
+"""
+- Winston rời ô phận ra phòng vệ sinh thì gặp cô gái tóc đen, người anh gặp trước đó 4 ngày tại tiệm đồ cổ. Anh nhận thấy cánh tay phải của cô bị băng.
+- Cô gái ngã và thốt lên đau đớn, Winston dừng lại giúp đỡ. Cô gái dường như đã cố tình làm rơi một mảnh giấy vào tay anh.
+- Winston tìm cách đọc mảnh giấy nhưng không thể vì sợ bị máy truyền hình dòm ngó. 
+- Anh nghi ngờ cô gái có thể là một nhân viên Cảnh Sát Tư Tưởng hoặc là một phần của một cơ quan ngầm nào đó.
+- Trên mảnh giấy, cô gái viết: "Tôi yêu anh", gây cho Winston một sự ngạc nhiên lớn.
+- Winston cố gắng tiếp tục công việc nhưng khó có thể tập trung, luôn nghĩ về cách liên lạc lại với cô gái.
+- Trong suốt tuần sau, cô gái không xuất hiện thường xuyên tại quán ăn trong sở làm cho Winston lo lắng cô đã đổi ý.
+- Cuối cùng, họ gặp nhau tại quán ăn, cô gái hẹn anh gặp tại Công Trường Chiến Thắng.
+- Tại Công Trường, họ đứng cạnh nhau trong đám đông, cô gái chỉ đường cho Winston đến gặp cô vào Chủ nhật tới.
+- Trước khi chia tay, cô gái nắm tay Winston, cho anh cảm giác thân mật và kết nối sâu sắc mặc dù không thể nhìn vào mắt nhau.
+"""

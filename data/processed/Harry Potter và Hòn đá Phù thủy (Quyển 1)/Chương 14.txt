@@ -1,0 +1,17 @@
+"""
+- Giáo sư Quirrell hiển thị can đảm bất chấp vẻ bề ngoài xanh xao và gầy gò, giữ vững tinh thần sau những sự kiện gần đây.
+- Harry, Ron và Hermione tiếp tục theo dõi Fluffy và Snape, tin rằng Hòn đá Phù thủy vẫn an toàn.
+- Hermione bắt đầu chuẩn bị cho kỳ thi cuối năm, gây áp lực cho Harry và Ron.
+- Hagrid bí mật nghiên cứu về rồng, gợi ý rằng ông đang lên kế hoạch nuôi một con rồng.
+- Ron phát hiện Hagrid đang nghiên cứu về rồng, tăng thêm sự tò mò.
+- Hagrid tiết lộ với ba đứa trẻ rằng nhiều giáo viên khác cũng tham gia bảo vệ Hòn đá Phù thủy, bao gồm Snape, khiến họ nghi ngờ nhiều hơn.
+- Hagrid đang ấp một quả trứng rồng, một hành động vi phạm luật pháp, tạo ra thêm một mối lo ngại.
+- Trứng rồng nở, tạo ra một con rồng nhỏ mà Hagrid đặt tên là Norbert.
+- Malfoy phát hiện Norbert, tạo ra mối đe dọa cho Hagrid.
+- Harry, Ron và Hermione lên kế hoạch gửi Norbert cho anh trai của Ron, Charlie, đang nghiên cứu rồng ở Rumani.
+- Ron bị Norbert cắn, gây ra một vết thương nghiêm trọng.
+- Malfoy biết về kế hoạch từ lá thư mà Charlie gửi cho Ron, nhưng Harry và Hermione quyết định tiếp tục với kế hoạch.
+- Harry và Hermione thành công trong việc chuyển Norbert cho bạn bè của Charlie, mặc dù gặp rắc rối với Malfoy.
+- Cuối cùng, Norbert được chuyển đi, giảm bớt áp lực và lo lắng cho ba đứa trẻ.
+- Harry và Hermione gặp Filch sau khi rời khỏi tháp, họ đã quên chiếc áo tàng hình, tạo ra rắc rối mới.
+"""

@@ -1,0 +1,13 @@
+"""
+- Ông bà Dursley, sống tại số 4 đường Privet Drive, tự hào về cuộc sống bình thường của họ và không muốn liên quan đến những chuyện kỳ lạ hay bí ẩn.
+- Họ có một cậu con trai duy nhất tên là Dudley và cố gắng tránh xa gia đình Potter, người thân của bà Dursley, vì họ không thích phong cách sống của họ.
+- Buổi sáng thứ ba âm u, ông Dursley nhìn thấy một con mèo to lớn đang xem bản đồ, điều này khiến ông cảm thấy kỳ lạ.
+- Trên đường đi làm, ông Dursley nhận ra nhiều người ăn mặc kỳ lạ, mặc áo trùm, điều này làm ông cảm thấy khó chịu.
+- Ông nghe được một cuộc trò chuyện về gia đình Potter và một đứa trẻ tên Harry, điều này khiến ông lo lắng.
+- Trong chương trình tin tức buổi tối, có thông tin về cú bay vào ban ngày và sao băng rơi xuống, điều này khiến ông Dursley cảm thấy bất an.
+- Ông Dursley cuối cùng đã thảo luận với vợ về gia đình Potter và nhận ra có điều gì đó không bình thường đang xảy ra.
+- Dumbledore, một người kỳ lạ, xuất hiện cùng với giáo sư McGonagall. Họ thảo luận về sự biến mất của Voldemort và việc cậu bé Harry Potter đã sống sót.
+- Dumbledore và giáo sư McGonagall đã đưa ra quyết định để Harry sống với gia đình Dursley, điều này gây phản đối từ giáo sư McGonagall nhưng Dumbledore khẳng định rằng đây là nơi tốt nhất cho Harry.
+- Hagrid, một người khổng lồ, mang Harry đến nhà Dursley, và cậu bé được để lại trước cửa nhà Dursley.
+- Dumbledore và những người khác rời đi, để lại Harry Potter, đứa trẻ không biết rằng mình sẽ trở thành trung tâm của những sự kiện quan trọng sắp tới.
+"""

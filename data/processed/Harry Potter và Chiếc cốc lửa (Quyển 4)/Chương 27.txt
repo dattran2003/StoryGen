@@ -1,0 +1,12 @@
+"""
+- Harry, Ron và Hermione chứng kiến sự nổi tiếng của Ron sau cuộc thi thứ hai khi anh ta chia sẻ chi tiết về sự kiện dưới hồ. Câu chuyện của Ron dần biến dạng qua mỗi lần kể, từ một phiên bản gần với sự thật đến một phiên bản đầy mạo hiểm.
+- Rita Skeeter xuất bản một bài viết trong tạp chí Tuần san Nữ phù thủy, phơi bày mối quan hệ giữa Hermione và cả Harry lẫn Viktor Krum, gây ra nhiều hiểu lầm và sự chọc ghẹo.
+- Harry nhận thư từ Sirius, sắp xếp để gặp mặt ở Hogsmeade vào cuối tuần.
+- Trong lớp Độc dược, Hermione nhận được bài viết của Rita Skeeter, khiến thầy Snape đọc nó lên trước lớp, gây ra sự xấu hổ cho Harry và Hermione.
+- Hermione, Ron và Harry sau đó chia sẻ với nhau về bài viết và những tin đồn xoay quanh nó.
+- Harry, Ron và Hermione gặp Sirius dưới hình dạng một con chó lớn ở Hogsmeade, và họ chia sẻ với anh về những sự kiện gần đây tại Hogwarts.
+- Sirius thảo luận về Barty Crouch, người đang vắng mặt và những tin đồn về sức khỏe của ông, cũng như mối liên hệ giữa ông và Dấu hiệu Hắc ám.
+- Sirius giải thích về quá khứ của Crouch, bao gồm việc con trai ông bị bắt và sau đó chết trong ngục Azkaban, cũng như cách ông phản ứng với những sự kiện này.
+- Sirius đặt câu hỏi về mối liên hệ giữa Crouch, Snape và Moody, cũng như việc họ cố gắng xâm nhập văn phòng của Snape.
+- Cuối cùng, Sirius khuyên Harry không nên rời khỏi trường mà không cần thiết và yêu cầu họ gọi anh ta là "Snuffles" khi nói về anh với người khác.
+"""

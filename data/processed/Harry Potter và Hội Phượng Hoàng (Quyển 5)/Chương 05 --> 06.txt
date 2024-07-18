@@ -1,0 +1,24 @@
+"""
+    - Sirius Black giải thích về bức chân dung của mẹ mình đang ở trong nhà của họ, nơi mà giờ đây đã trở thành Bộ chỉ huy cho Hội Huynh đệ Phượng Hoàng.
+    - Harry, Ron và Hermione đến thăm Sirius tại ngôi nhà này, và họ gặp Mundungus Fletcher, người đã bỏ trốn trong nhiệm vụ theo dõi Harry trước đó.
+    - Sirius, Harry và Mundungus đi xuống tầng hầm, nơi Sirius cho mượn cho Dumbledore để làm Bộ chỉ huy.
+    - Họ gặp Arthur Weasley, Bill Weasley, Molly Weasley, Tonks và Lupin trong phòng bếp. 
+    - Molly Weasley chuẩn bị bữa ăn trong khi những người khác thảo luận về các vấn đề liên quan đến Voldemort.
+    - Mundungus Fletcher bị chỉ trích bởi Molly Weasley vì hút thuốc trong bếp, nhưng sau đó được tha thứ.
+    - Harry gặp Sirius và Mundungus trong phòng bếp, và Sirius nói với Harry rằng ông đang không hài lòng với vị trí của mình trong Hội Huynh đệ Phượng Hoàng.
+    - Sirius nói với Harry rằng Voldemort đang tập trung lực lượng và ông không thể giúp đỡ nhiều vì bị truy nã.
+    - Một cuộc tranh cãi nổ ra giữa Sirius và Molly Weasley về việc Harry có nên biết thông tin về Voldemort hay không.
+    - Harry được cho phép biết thêm thông tin, nhưng Fred, George, Ron và Hermione phải rời đi.
+    - Sirius giải thích cho Harry về hoạt động của Voldemort, kế hoạch của Bộ Pháp Thuật và cách mà Hội Huynh đệ Phượng Hoàng đang cố gắng chống lại.
+"""
+
+"""
+    - Harry và những người khác thức dậy và bắt đầu ngày mới với việc diệt Tiên-nhức-nhối và làm sạch ngôi nhà.
+    - Sirius giải thích về gia đình Black, bao gồm những người thân thích khác như Bellatrix Lestrange và Narcissa Malfoy.
+    - Harry nhận ra mối liên hệ giữa Sirius và gia đình Malfoy thông qua cây phả hệ.
+    - Sirius nói về việc ông không thích quay lại ngôi nhà này và mong muốn được làm việc thực sự.
+    - Harry bày tỏ lo lắng về phiên tòa sắp tới của mình và hỏi Sirius liệu ông có cho phép Harry sống với mình nếu bị trục xuất khỏi Hogwarts.
+    - Harry, cùng với những người khác, tiếp tục công việc dọn dẹp và phát hiện ra nhiều vật dụng kỳ lạ và nguy hiểm trong nhà.
+    - Kreacher, con gia tinh già, xuất hiện và cố gắng cản trở họ, nhưng cuối cùng bị Sirius bắt giữ.
+    - Harry cảm thấy sợ hãi và lo lắng khi nghĩ về phiên tòa sắp tới, nhưng cố gắng tập trung vào công việc để tránh suy nghĩ tiêu cực.
+"""

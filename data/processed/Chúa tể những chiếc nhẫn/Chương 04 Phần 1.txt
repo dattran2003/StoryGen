@@ -1,0 +1,13 @@
+"""
+- Frodo thức dậy khỏe mạnh tại một chỗ ẩn ná của rừng, nơi có một giường được làm từ dương xỉ và cỏ. 
+- Pippin thông báo rằng những người Elves đã để lại thức ăn cho họ gồm trái cây, nước uống và bánh mì.
+- Frodo, Sam và Pippin dùng bữa sáng và bàn kế hoạch ngày hôm đó, đó là đi đến Bucklebury càng nhanh càng tốt.
+- Trong khi ăn, họ thảo luận về khả năng gặp lại Kỵ Sĩ Đen và những thông tin mà Gildor cung cấp.
+- Frodo suy nghĩ về lời khuyên của Gildor và quyết định không mang theo Sam, nhưng sau cuộc trò chuyện, Sam khẳng định rằng anh ta sẽ đi cùng Frodo không kể nguy hiểm.
+- Frodo và Pippin tranh luận về lộ trình, Frodo muốn đi đường tắt qua xứ Nấm trong khi Pippin muốn đi theo đường chính.
+- Cuối cùng họ quyết định đi đường tắt nhưng gặp nhiều khó khăn do phải đối mặt với các mương rãnh, hàng rào và đầm lầy.
+- Trong quá trình di chuyển, họ phát hiện ra một Kỵ Sĩ Đen trên bờ cao, sau đó họ tránh né thành công và tiếp tục lộ trình.
+- Họ gặp mưa, nhưng nước từ những người Elves giúp họ hồi phục sức lực.
+- Trong lúc nghỉ ngơi, họ nghe thấy những tiếng kêu đáng sợ, gợi nhớ đến Kỵ Sĩ Đen, nhưng không ai nói rõ điều đó.
+- Họ tiếp tục hành trình, và mặc dù gặp nhiều khó khăn, họ cuối cùng cũng đến gần Bucklebury và cảm thấy lạc quan hơn.
+"""

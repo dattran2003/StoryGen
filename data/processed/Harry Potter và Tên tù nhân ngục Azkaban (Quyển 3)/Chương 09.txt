@@ -1,0 +1,47 @@
+"""
+- Chương 9 bắt đầu với việc Giáo sư Dumbledore cho tất cả học sinh nhà Gryffindor tập trung lại tại Đại Sảnh Đường. 
+
+- Học sinh từ các nhà khác cũng được đưa tới, tất cả đều tỏ ra bối rối.
+
+- Dumbledore thông báo rằng họ cần kiểm tra toàn bộ lâu đài và học sinh phải ngủ lại tại Đại Sảnh Đường vì lý do an toàn.
+
+- Dumbledore sử dụng đũa phép để di chuyển các bàn ăn lên sát tường và tạo ra hàng trăm túi ngủ màu tím cho học sinh.
+
+- Trong khi chờ đợi, học sinh thảo luận về khả năng Sirius Black vẫn còn trong lâu đài và cách mà hắn đã xâm nhập.
+
+- Hermione chỉ ra những biện pháp bảo vệ lâu đài chống lại kẻ xâm nhập, từ đó gây ra nhiều tranh cãi.
+
+- Percy đảm nhận vai trò canh gác và yêu cầu mọi người im lặng để chuẩn bị ngủ.
+
+- Trong đêm, giáo viên liên tục kiểm tra để đảm bảo mọi thứ yên tĩnh.
+
+- Dumbledore và Snape thảo luận về việc tìm kiếm Black, khẳng định rằng hắn không còn ở trong lâu đài.
+
+- Snape đặt nghi vấn về khả năng Black nhận được sự giúp đỡ từ bên trong, nhưng Dumbledore phủ nhận.
+
+- Dumbledore thông báo kế hoạch gặp gỡ viên giám ngục Azkaban, nhưng khẳng định không có viên giám ngục nào được bước vào lâu đài khi ông còn là hiệu trưởng.
+
+- Trong vài ngày sau, toàn trường vẫn tiếp tục thảo luận về việc Black xâm nhập.
+
+- Một bức tranh mới, chân dung Ngài Cadogan, được đặt thay cho bức tranh Bà Béo bị hỏng.
+
+- Harry bắt đầu bị giám sát chặt chẽ hơn, với các giáo viên luôn tìm cách đi cùng và Percy theo dõi nó ở khắp nơi.
+
+- Giáo sư McGonagall yêu cầu Harry không luyện tập Quidditch vào buổi tối vì lo lắng về an ninh, nhưng sau cùng, bà chấp thuận dưới sự giám sát của bà Hooch.
+
+- Trước trận đấu Quidditch đầu tiên, đội Gryffindor được thông báo rằng họ sẽ đấu với đội Hufflepuff thay vì Slytherin.
+
+- Thời tiết xấu khiến trận đấu trở nên khó khăn hơn.
+
+- Trong buổi học Phòng chống Nghệ thuật Hắc ám, thầy Snape thay giáo sư Lupin đang bệnh, và đã tạo ra một không khí căng thẳng với những yêu cầu và trừng phạt nghiêm khắc.
+
+- Harry thức dậy sớm trước trận đấu và gặp Peeves, sau đó đẩy con mèo Crookshanks ra khỏi phòng ngủ.
+
+- Trước trận đấu, Hermione dùng phép thuật để kiếng của Harry không bị mưa làm mờ, nhưng sau đó Harry bị rơi từ trên cao sau khi nhìn thấy một con chó đen và bị tác động bởi sự xuất hiện của những viên giám ngục Azkaban.
+
+- Harry ngất xỉn sau cú rơi và thức dậy ở bệnh viện, nhận ra rằng Gryffindor đã thua trận đấu.
+
+- Hermione giải thích rằng Dumbledore đã tức giận với việc viên giám ngục Azkaban xuất hiện và đã phản ứng mạnh mẽ.
+
+- Chiếc chổi Nimbus 2000 của Harry đã bị phá hủy sau khi va chạm với cây Liễu Roi.
+"""

@@ -1,0 +1,13 @@
+"""
+- Harry thức dậy vào sáng thứ bảy với tâm trạng lo lắng, mặc quần áo một cách lơ đãng và sau cùng tìm thấy Hermione đang ăn điểm tâm.
+- Harry và Hermione đi dạo quanh hồ và Harry kể cho Hermione nghe về rồng và những gì chú Sirius đã nói.
+- Hermione và Harry quyết định nghiên cứu trong thư viện để tìm cách đối phó với rồng, nhưng không tìm thấy câu thần chú phù hợp.
+- Harry gặp Cerdic Diggory và quyết định nói với anh ta về bài thi đầu tiên liên quan đến rồng.
+- Harry thực hiện một hành động nhỏ để thu hút Cerdic ra khỏi lớp học và sau đó nói cho anh ta biết về bài thi.
+- Harry bị gọi vào văn phòng của thầy Moody, nhưng thay vì bị trách móc, thầy Moody khen ngợi hành động của Harry.
+- Thầy Moody khuyên Harry nên chơi theo sức mạnh của mình và gợi ý rằng có thể dùng một câu thần chú đơn giản để đạt được mục tiêu.
+- Harry và Hermione thực hành bùa Triệu tập để chuẩn bị cho bài thi.
+- Trong ngày bài thi, Harry sử dụng bùa Triệu tập để gọi cây chổi Tia Chớp của mình.
+- Harry thành công trong việc vượt qua con rồng và lấy được quả trứng vàng.
+- Harry gặp lại Hermione và Ron sau bài thi, và mối quan hệ giữa Harry và Ron dần được cải thiện.
+"""

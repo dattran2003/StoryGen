@@ -1,0 +1,13 @@
+"""
+- Mối quan hệ giữa Hermione và Ron đang rơi vào tình trạng căng thẳng do sự hiểu lầm về việc con mèo Crookshanks của Hermione có thể đã ăn chuột Scrabbers của Ron. Harry cố gắng làm rõ sự thật nhưng chỉ làm tình hình thêm tồi tệ.
+- Harry tin chắc rằng Crookshanks đã ăn mất Scrabbers, điều này khiến Hermione nổi giận với cả Harry và Ron.
+- Trong nỗ lực làm dịu tình hình, Harry mời Ron tham gia buổi tập Quidditch cuối cùng trước trận đấu với Ravenclaw.
+- Trận đấu Quidditch giữa Gryffindor và Ravenclaw diễn ra, với sự tham gia của Harry trên cây chổi Tia Chớp mới. 
+- Harry đã có một buổi luyện tập xuất sắc, và sau cùng đã bắt được trái Snitch trước Cho Chang, Tầm thủ của Ravenclaw, giúp Gryffindor giành chiến thắng.
+- Trong lúc thi đấu, Harry đã phải đối mặt với nỗi ám ảnh của mình về giám ngục Azkaban nhưng đã dùng thần hộ mệnh của mình để chống lại.
+- Hermione không tham gia vào bữa tiệc mừng chiến thắng của Gryffindor vì đang cố gắng đọc một cuốn sách. Cô cũng cảm thấy bị Ron từ chối tham gia do vấn đề với Scrabbers.
+- Ron vẫn tức giận với Hermione và không thể tha thứ cho cô, giữ nguyên quan điểm cho rằng Hermione không nhận ra lỗi của mình.
+- Trong khi mọi người đang ngủ sau trận đấu, Ron bị đánh thức bởi một sự kiện đáng sợ: Sirius Black, kẻ trốn khỏi Azkaban, đã xâm nhập vào phòng ngủ của họ.
+- Black đã rạch màn của Ron và bỏ chạy, nhưng không gây ra thương tích nào. Sự việc này gây ra một cuộc xáo lộn lớn trong Tháp Gryffindor.
+- Neville Longbottom đã vô tình để lộ mật khẩu tuần này, cho phép Black xâm nhập vào tháp Gryffindor.
+"""

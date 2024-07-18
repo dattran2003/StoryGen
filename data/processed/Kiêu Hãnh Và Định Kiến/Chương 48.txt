@@ -1,0 +1,25 @@
+"""
+- Gia đình Bennet chờ đợi thư của ông Bennet nhưng không nhận được tin tức. Họ tin rằng ông không có tin tức tích cực để chia sẻ.
+- Ông Gardiner cam kết gửi thông tin thường xuyên về tiến trình tìm kiếm Lydia và Wickham.
+- Ông Gardiner hứa sẽ thuyết phục ông Bennet trở về Longbourn sớm.
+- Bà Bennet cảm thấy an tâm vì tin rằng điều này sẽ cứu ông Bennet khỏi một cuộc thách đấu trí mạng.
+- Bà Gardiner và con cái cô ta ở lại Hertfordshire để hỗ trợ gia đình.
+- Mỗi khi bà Gardiner thăm, bà đều kể thêm về những hành vi tiêu cực của Wickham, làm gia đình càng thêm lo lắng.
+- Người dân Meryton bắt đầu phê phán Wickham, người mà họ từng coi là người đàn ông gần như hoàn hảo.
+- Elizabeth tin rằng Wickham sẽ phá hoại cuộc đời em gái mình, thậm chí Jane cũng cảm thấy tuyệt vọng.
+- Ông Gardiner rời Longbourn, và sau đó gửi thư cho vợ về tình hình hiện tại.
+- Ông Bennet không tìm thấy dấu vết nào của Lydia và Wickham.
+- Ông Gardiner viết cho Đại tá Forster để tìm hiểu thêm về những mối quan hệ của Wickham.
+- Elizabeth không thể cung cấp thêm thông tin về Wickham.
+- Mỗi ngày ở Longbourn trở nên đầy lo âu, nhất là khi giờ đưa thư đến.
+- Họ nhận được thư từ anh Collins, bày tỏ sự chia buồn và phán xét về Lydia.
+- Ông Gardiner không có thêm tin tức tốt từ Đại tá Forster.
+- Ông Bennet quyết định trở về Longbourn, để ông Gardiner tiếp tục tìm kiếm.
+- Bà Bennet không hài lòng với quyết định này, muốn ông Bennet tiếp tục tìm kiếm Lydia.
+- Bà Gardiner và gia đình cô ta trở về nhà cùng ông Bennet.
+- Elizabeth không nhận được thư từ anh bạn Derbyshire của cô.
+- Khi ông Bennet về, ông không muốn nói về sự việc, và các cô con gái cũng không dám hỏi.
+- Ông Bennet tỏ ra tự trách mình vì tình hình hiện tại.
+- Ông Bennet thừa nhận rằng Elizabeth đã cảnh báo đúng về Lydia.
+- Ông Bennet cảnh báo Kitty không được phép gặp gỡ sĩ quan nào nữa và không được tham gia bất kỳ buổi khiêu vũ nào.
+"""

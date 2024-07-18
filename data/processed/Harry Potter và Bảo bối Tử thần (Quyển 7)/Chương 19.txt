@@ -1,0 +1,12 @@
+"""
+- Hermione thức dậy vào nửa đêm trong khi tuyết rơi, bắt đầu đọc "Lịch Sử Pháp Thuật" nhờ ánh sáng từ cây đũa phép.
+- Harry thức giấc sau những giấc mơ rối rắm về con mãng xà Nagini, cảm thấy như ai đó gọi tên mình từ xa.
+- Harry và Hermione quyết định rời đi sớm hơn dự kiến vì cảm thấy không an toàn.
+- Trong khi Độn thổ, Harry và Hermione cẩn thận ẩn mình dưới tấm Áo khoác Tàng hình.
+- Harry thức gác, thấy một con hươu bạc lấp lánh dẫn anh đến một hồ đóng băng, nơi anh phát hiện ra thanh gươm của Gryffindor.
+- Ron bất ngờ xuất hiện, cứu Harry khỏi chết đuối khi anh lặn xuống hồ để lấy thanh gươm.
+- Harry và Ron tiêu hủy Trường Sinh Linh Giá bằng thanh gươm, sau một trận chiến tâm lý chống lại những ảo ảnh do nó tạo ra.
+- Hermione, sau ban đầu giận dữ vì việc Ron bỏ đi, cuối cùng cũng hòa giải với anh sau khi nghe câu chuyện của anh.
+- Ron tiết lộ rằng anh đã tìm thấy Harry và Hermione nhờ cái Tắt sáng, một vật phẩm phép thuật giúp anh cảm nhận được vị trí của họ.
+- Harry và Ron phá hủy Trường Sinh Linh Giá, một trong những mảnh Vong linh của Voldemort.
+"""

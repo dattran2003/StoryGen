@@ -1,0 +1,11 @@
+"""
+- Harry, Ron và Hermione thoát khỏi ông Xenophilius sau khi ông ta bán họ cho các Tử Thần Thực Tử.
+- Họ thảo luận về Bảo bối Tử thần và khả năng chúng tồn tại.
+- Hermione nghi ngờ tính thực tế của những bảo bối này, trong khi Ron và Harry thấy chúng có thể có thật.
+- Hermione chỉ ra rằng họ không thể cho phép mình bị lạc hướng bởi những bảo bối này, khi mà nhiệm vụ chính của họ là tìm và tiêu hủy những Trường Sinh Linh Giá của Voldemort.
+- Harry bắt đầu nghi ngờ rằng Voldemort cũng đang truy lùng Bảo bối Tử thần thứ ba, cây đũa phép Cơm nguội.
+- Trong khi đó, họ phải đối mặt với sự mất mát khi nghe tin về cái chết của Ted Tonks, Dirk Cresswell và Bathilda Bagshot từ đài phát thanh Potter cảnh giác.
+- Thầy Lupin khẳng định Harry Potter vẫn còn sống và khuyên Harry nên tin vào bản năng của mình.
+- Họ cũng nghe tin Hagrid đã thoát khỏi trường Hogwarts sau khi bị bắt vì tổ chức một bữa tiệc ủng hộ Harry Potter.
+- Fred Weasley cảnh báo mọi người không nên tin vào những tin đồn về Voldemort và khuyên mọi người nên giữ an toàn.
+"""

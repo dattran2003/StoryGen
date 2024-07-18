@@ -1,0 +1,13 @@
+"""
+- Frodo thức dậy, nhận ra mình đang ở trong Ngôi nhà của Elrond sau một giấc mơ dài và không nhớ rõ thời gian.
+- Gandalf xuất hiện, tiết lộ Frodo đã ở đây bốn đêm và ba ngày, và vết thương từ cuộc tấn công của Kỵ sĩ Đen đã được Elrond chữa trị.
+- Frodo hỏi về những người khác, Gandalf đảm bảo rằng họ đều an toàn.
+- Frodo hỏi về sự kiện tại Khúc Cạn, Gandalf giải thích Frodo bắt đầu biến mất do vết thương và nếu không được cứu kịp thời, Frodo sẽ không thể sống sót.
+- Gandalf tiết lộ Frodo đã nói nhiều trong khi ngủ và ông đã đọc được tâm trí và ký ức của Frodo.
+- Gandalf nói Frodo đã thể hiện sức mạnh tiềm tàng, đặc biệt là trong việc chống lại Kỵ sĩ Đen.
+- Gandalf nói rằng ông bị bắt giữ và các Kỵ sĩ Đen đang tái xuất, chuẩn bị cho một cuộc chiến lớn.
+- Frodo bày tỏ lòng biết ơn đối với Aragorn và Gandalf nói rằng Aragorn là một trong những hậu duệ của những vị vua thời xưa.
+- Frodo cảm thấy an toàn và yên bình ở Rivendell, mặc dù ông vẫn còn nhiều câu hỏi và cần thời gian để hồi phục hoàn toàn.
+- Frodo gặp lại Sam, Merry và Pippin, và họ tổ chức một bữa tiệc mừng Frodo hồi phục.
+- Frodo gặp Gluin, một người lùn quan trọng, và họ trò chuyện về những sự kiện ở vùng đất phương Bắc.
+"""

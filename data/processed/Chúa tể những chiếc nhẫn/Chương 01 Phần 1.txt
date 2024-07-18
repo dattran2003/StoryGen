@@ -1,0 +1,13 @@
+"""
+- Buổi tiệc sinh nhật lớn của Bilbo Baggins, người nổi tiếng với sự giàu có và tuổi thọ đáng kinh ngạc, đang được mong chờ khắp Hobbiton.
+- Bilbo Baggins, một người kỳ lạ và giàu có, chuẩn bị ăn mừng sinh nhật thứ 111 của mình.
+- Frodo Baggins, người thừa kế của Bilbo, cũng sẽ ăn mừng sinh nhật thứ 33, tuổi trưởng thành của người Hobbit.
+- Sự giàu có và tuổi thọ bất thường của Bilbo trở thành chủ đề của nhiều lời đồn.
+- Những tin đồn về sự giàu có của Bilbo và cuộc sống kỳ lạ của Frodo lan truyền khắp Hobbiton.
+- Gandalf, một phù thủy già, xuất hiện và mang theo pháo hoa cho buổi tiệc, gây ra sự phấn khích lớn trong cộng đồng.
+- Sự chuẩn bị cho buổi tiệc tiếp tục với nhiều chuyến xe chở hàng lên Ngọn Đồi.
+- Bilbo và Gandalf thảo luận về kế hoạch bí mật của Bilbo.
+- Những món quà và pháo hoa do Gandalf chuẩn bị đã tạo nên một buổi tiệc tuyệt vời cho mọi người.
+- Những người được mời tham dự bữa tiệc gia đình đặc biệt bao gồm nhiều thành viên trong gia đình và bạn bè của Bilbo và Frodo.
+- Sự xuất hiện của một con rồng pháo hoa làm cho buổi tiệc trở nên đặc biệt và đáng nhớ.
+"""

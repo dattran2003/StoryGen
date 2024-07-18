@@ -1,0 +1,40 @@
+"""
+- Parvati trêu Hermione về việc bỏ môn Tiên Tri sau vụ sa thải giáo viên Trelawney.
+- Hermione không hối tiếc vì không thích ngựa và không mong muốn học thêm về nhân mã.
+- Lavender và Parvati bày tỏ sự buồn bã về việc giáo viên Trelawney bị sa thải.
+- Hermione dự đoán Umbridge sẽ tiếp tục hành động xấu.
+- Ron tỏ ra không tin tưởng lời nói của Hermione về Umbridge.
+- Hermione nhắc nhở về mối đe dọa từ Umbridge sau việc bổ nhiệm giáo viên mới không qua sự bàn bạc của bà.
+- Hermione và Ron rời đi tới các lớp học riêng của họ.
+- Parvati, Lavender, Harry và Ron tiến tới lớp Tiên Tri với thầy Firenze.
+- Parvati giải thích rằng họ học trong phòng số 11 thay vì Tháp Bắc do Firenze không thể leo thang.
+- Phòng học số 11 được trang trí như một khu rừng với ánh sáng xanh từ những tán cây.
+- Firenze giải thích về môi trường sống của mình và việc bị bầy đàn nhân mã trục xuất.
+- Parvati, Lavender và Dean hỏi về cuộc sống của nhân mã và mối quan hệ của họ với Hagrid.
+- Firenze nhấn mạnh rằng nhân mã không phải là đầy tớ hay đồ chơi của con người.
+- Parvati hỏi về lý do bị trục xuất, Firenze nói rằng vì đã đồng ý làm việc cho giáo sư Dumbledore.
+- Firenze bắt đầu bài học về cách đọc bầu trời và vận mệnh, nhưng nhấn mạnh rằng con người không thể hiểu hết.
+- Parvati thể hiện sự thích thú với bài học và cố gắng tạo ra Thần Hộ Mệnh.
+- Harry nhắc nhở về sự khó khăn trong việc tạo ra Thần Hộ Mệnh khi không bị đe dọa.
+- Hermione và những người khác tiếp tục thực hành, trong khi Harry lo lắng về việc chuyển lời cảnh báo của Firenze tới Hagrid.
+- Dobby, con gia tinh, xuất hiện và cảnh báo Harry về Umbridge.
+- Harry, Hermione và những người khác chạy ra khỏi phòng khi Dobby thông báo Umbridge đang tới.
+- Harry bị Malfoy cản trở và sau đó bị Umbridge bắt giữ.
+- Harry được dẫn tới văn phòng hiệu trưởng nơi Umbridge, Fudge, McGonagall, Shacklebolt và Percy Weasley đang chờ.
+- Marietta, người tố giác nhóm DA, xuất hiện với khuôn mặt bị biến dạng bởi lời ếm bùa của Hermione.
+- Marietta không thể nói gì thêm vì lời ếm bùa và Umbridge cố gắng ép cô bé nói.
+- Fudge và Umbridge tiếp tục cố gắng lấy thông tin từ Harry và Marietta về nhóm DA.
+- Dumbledore xuất hiện và nhận tội thay vì để Harry bị trừng phạt.
+- Dumbledore giải thích rằng nhóm DA thực chất là "Quân đội của Dumbledore", và sau đó biến mất cùng Fawkes, con phượng hoàng.
+- Harry và những người khác trở về tháp Gryffindor sau sự việc, trong khi Umbridge bắt đầu nhiệm vụ mới của mình như hiệu trưởng.
+- Fred và George thực hiện một trò đùa lớn bằng cách tạo ra một loạt pháo hoa và rồng lửa, gây rối loạn khắp trường.
+- Harry, Ron và Hermione nhận ra rằng Umbridge đang kiểm soát mọi thứ trong trường và bắt đầu theo dõi họ chặt chẽ hơn.
+- Fred và George trở thành những người hùng trong nhà Gryffindor sau trò đùa của họ.
+- Harry mơ thấy mình ở Cục Những Điều Huyền Bí và gần như tiếp cận được điều gì đó quan trọng.
+- Harry gặp Cho Chang, và họ có một cuộc cãi vã ngắn gọn về Marietta và Hermione.
+- Harry đi tới buổi học Occlumency với Snape nhưng bị gián đoạn bởi Malfoy thông báo về Montague.
+- Harry thấy ánh sáng bạc từ Chậu Tưởng Ký của Snape và quyết định xem thử.
+- Harry xem lại ký ức của Snape từ thời học sinh, bao gồm cảnh James Potter và bạn bè trêu chọc Snape.
+- Harry chứng kiến cảnh mẹ mình, Lily Evans, can thiệp và bảo vệ Snape.
+- Snape phát hiện Harry xem ký ức của mình và la mắng Harry, sau đó đuổi Harry ra khỏi văn phòng.
+"""

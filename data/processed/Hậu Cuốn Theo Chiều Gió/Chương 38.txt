@@ -1,0 +1,15 @@
+"""
+- Bức thư từ Henry Hamilton đến Scarlett, thông báo về vấn đề tài sản tại Atlanta và việc Rhett đã chuyển khoản nửa triệu đô la cho cô.
+- Scarlett đọc thư trong phòng riêng, sau khi khóa cửa để không bị làm phiền.
+- Trong thư, HenryHamilton nhắc đến việc Rhett muốn biết vị trí hiện tại của cô và đặt câu hỏi về việc ly dị.
+- Scarlett tức giận với thái độ và ngôn từ của Henry, cô cũng cảm thấy bị tổn thương vì bị người cô coi như cha chỉ trích.
+- Scarlett gửi điện tín cho Rhett, từ chối ly dị và yêu cầu chuyển tiền bằng vàng.
+- Scarlett quyết định ở lại Savannah, bất chấp sự phản đối của dì Pauline và dì Eulalie.
+- Cô thuyết phục ông ngoại Pierre Robillard để được ở lại, dù gặp phải sự phản đối.
+- Scarlett chuẩn bị mọi thứ, bao gồm việc sắp xếp việc ở lại và dọn dẹp nhà cửa trước khi Rhett đến.
+- Cô nhận được điện tín khác từ Henry, nói rằng ông không can thiệp vào việc chuyển tiền và khuyên cô cẩn thận.
+- Scarlett quyết định về Atlanta để đảm bảo an toàn cho số tiền lớn của mình.
+- Cô tìm đến Jamie O'Hara để tìm hiểu về ngân hàng đáng tin cậy tại Savannah.
+- Scarlett dự định thuê một tủ sắt tại ngân hàng để bảo vệ số tiền lớn.
+- Cô dự định về sớm từ buổi tối với Jamie để tuân theo quy định của ngôi nhà, nhưng cuối cùng không thể về nhà trước bình minh.
+"""

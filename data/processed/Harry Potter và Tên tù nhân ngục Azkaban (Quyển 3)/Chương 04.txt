@@ -1,0 +1,15 @@
+"""
+- Harry thích thú với sự tự do mới mẻ tại Hẻm Xéo, nơi anh ta có thể thức dậy vào bất kỳ thời gian nào, ăn bất kỳ thứ gì anh ta thích và khám phá các cửa hàng phù thủy thú vị.
+- Harry thường ăn sáng tại quán Cái Vạc Lủng và tận hưởng việc quan sát khách hàng khác.
+- Sau bữa sáng, Harry sẽ ra sân sau quán, dùng đũa phép của mình để mở cổng vào Hẻm Xéo.
+- Harry dành thời gian lang thang qua các cửa hàng, mua sắm và làm bài tập học dưới ánh nắng ấm áp.
+- Harry phải luyện tập tự chủ để không tiêu hết số tiền tiết kiệm từ kho bạc Gringotts.
+- Harry bị thu hút bởi cây chổi 'Tia Chớp' tại cửa hàng 'Trang thiết bị Quidditch Chất Lượng Cao', nhưng anh ta quyết định không mua nó.
+- Harry mua một số sách và đồ dùng học tập mới cho năm học tiếp theo tại trường Hogwarts.
+- Harry gặp lại Ron và Hermione tại Hẻm Xéo, họ cùng nhau đi mua sắm và chuẩn bị cho năm học mới.
+- Hermione mua một con mèo màu cam tên là Crookshanks, gây bất ngờ cho Ron và Harry.
+- Harry và bạn bè gặp ông Weasley, người cho họ biết rằng Sirius Black vẫn chưa bị bắt.
+- Gia đình Weasley, Harry và Hermione sẽ di chuyển đến nhà ga Ngã Tư Vua bằng hai chiếc xe do Bộ Pháp Thuật cấp.
+- Harry tình cờ nghe được cuộc thảo luận giữa ông bà Weasley về Sirius Black, người đang săn đuổi anh ta.
+- Harry cảm thấy an toàn vì anh ta sẽ ở trường Hogwarts dưới sự bảo vệ của giáo sư Dumbledore.
+"""

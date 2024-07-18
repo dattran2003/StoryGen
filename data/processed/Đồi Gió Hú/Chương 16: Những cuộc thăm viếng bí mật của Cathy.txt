@@ -1,0 +1,18 @@
+"""
+- Thu sang, ông Linton ốm nặng vì cảm lạnh, trong khi đó, Cathy chỉ còn quan tâm đến sức khỏe của cha.
+- Cathy khẳng định rằng cô sẽ không làm gì khiến cha phải phiền lòng.
+- Trong lúc dạo chơi, mũ của Cathy rơi xuống đường và cô không thể trèo lên tường được, buộc cô phải yêu cầu Ellen tìm chìa khóa.
+- Heathcliff xuất hiện và nói với Cathy rằng Linton đang đau khổ vì không nhận được thư từ cô.
+- Heathcliff thuyết phục Cathy đến thăm Linton, nói rằng nếu không, Linton có thể sẽ chết trước mùa hè sang năm.
+- Dù Ellen cảnh báo, Cathy vẫn quyết định phải gặp Linton để giải thích mọi thứ.
+- Cathy và Ellen sau đó đã thăm Linton, người đang rất yếu do bệnh tật.
+- Linton và Cathy có cuộc tranh cãi, nơi mà Linton tuyên bố mẹ của Cathy yêu cha mình, điều này khiến Cathy tức giận và đẩy Linton khiến cậu ta bị ngã và ho.
+- Dù Linton bị bệnh thêm sau vụ việc, Cathy vẫn cố gắng làm vui lòng cậu bằng cách hát.
+- Cathy quyết định tiếp tục thăm Linton mỗi ngày, bất chấp lời khuyên của Ellen.
+- Ellen phát hiện ra Cathy đã bí mật đi thăm Linton mỗi đêm sau khi cô đã bị ốm.
+- Trong một lần thăm Linton, Hareton đã đuổi họ ra khỏi nhà với thái độ hung hãn.
+- Dù gặp nhiều khó khăn, Cathy vẫn tiếp tục thăm Linton.
+- Cuối cùng, Cathy thừa nhận với Ellen rằng cô đã thăm Linton mỗi ngày kể từ khi Ellen ốm.
+- Cathy và Linton có khoảng ba buổi tối hạnh phúc, nhưng phần còn lại của những cuộc thăm viếng đều rắc rối và buồn bã.
+- Ông Linton sau cùng cấm Cathy không được đến Đồi Gió Hú nữa, nhưng cho phép Linton đến thăm họ bất cứ lúc nào.
+"""

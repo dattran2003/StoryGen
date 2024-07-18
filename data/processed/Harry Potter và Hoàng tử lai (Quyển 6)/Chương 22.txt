@@ -1,0 +1,10 @@
+"""
+- Harry đang trong tâm trạng trầm uất sau tang lễ, cố gắng tìm hiểu về hoạt động của Malfoy và cố gắng gợi chuyện với thầy Slughorn để lấy ký ức của thầy.
+- Hermione khuyên Harry nên quên Malfoy và tập trung vào việc học.
+- Harry, Ron và Hermione nhận được thư từ Hagrid mời họ dự tang lễ của Aragog, một con nhện khổng lồ mà Hagrid coi như bạn. 
+- Ron phản đối việc đi dự tang lễ, trong khi Hermione lo ngại về việc vi phạm quy định trường.
+- Dù vậy, dưới tác động của Phúc lạc dược, Harry quyết định đi dự tang lễ.
+- Harry gặp thầy Slughorn trên đường đến nhà Hagrid và thuyết phục thầy cùng đi.
+- Tại nhà Hagrid, thầy Slughorn và Hagrid cùng tham dự tang lễ, trong khi Harry không uống rượu do đã dùng Phúc lạc dược.
+- Dưới ảnh hưởng của rượu và tình bạn, thầy Slughorn cuối cùng đã chia sẻ ký ức mà Harry cần, ký ức liên quan đến cha mẹ của Harry và Voldemort.
+"""

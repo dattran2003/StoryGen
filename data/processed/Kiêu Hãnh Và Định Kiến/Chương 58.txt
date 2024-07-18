@@ -1,0 +1,21 @@
+"""
+- Anh Bingley và Darcy bất ngờ đến thăm Longbourn, đề nghị mọi người đi dạo.
+- Elizabeth thừa cơ hội này để cảm ơn Darcy về việc anh giúp đỡ em gái cô, Lydia.
+- Darcy tỏ ra ngạc nhiên và giải thích rằng anh không muốn thông tin này được tiết lộ.
+- Elizabeth chia sẻ rằng cô đã biết thông tin từ Lydia và muốn gửi lời cảm ơn thay mặt gia đình cô.
+- Darcy tiết lộ rằng hành động của anh không chỉ dựa trên lòng tốt, mà còn vì mong muốn mang hạnh phúc đến cho Elizabeth.
+- Darcy bày tỏ tình cảm của anh đối với Elizabeth, và cô đáp lại bằng sự chấp nhận tình cảm của anh.
+- Hai người tiếp tục cuộc trò chuyện, với Darcy bộc bạch những tâm tư sâu kín của anh.
+- Darcy tiết lộ rằng cuộc gặp gỡ giữa Elizabeth và bà dì của anh đã tạo hy vọng cho anh.
+- Elizabeth và Darcy thảo luận về cuộc nói chuyện của họ trong quá khứ và cách họ đã thay đổi.
+- Darcy hỏi liệu lá thư của anh có làm Elizabeth thay đổi quan điểm về anh không, và cô chia sẻ về cách cô đã xóa bỏ định kiến ban đầu.
+- Darcy thừa nhận rằng lá thư của anh đã gây ra đau đớn cho Elizabeth, nhưng anh viết nó vì cần thiết.
+- Elizabeth và Darcy đồng ý không nên nghĩ về quá khứ không vui.
+- Darcy thừa nhận lỗi lầm trong quá khứ và cảm ơn Elizabeth đã giúp anh thay đổi.
+- Elizabeth và Darcy thảo luận về việc họ gặp lại nhau tại Pemberley và sự ngạc nhiên của họ.
+- Darcy tiết lộ rằng anh đã quyết định tìm Lydia ngay trước khi rời quán trọ của Elizabeth.
+- Elizabeth và Darcy quay về sau cuộc dạo chơi dài, thảo luận về Bingley và Jane.
+- Darcy cho biết anh đã thú nhận với Bingley về việc anh can thiệp vô lý vào mối quan hệ của anh ấy và Jane.
+- Darcy cũng chia sẻ rằng anh đã quan sát Jane và tin rằng cô yêu Bingley.
+- Cuối cùng, Elizabeth và Darcy chia tay nhau ở tiền sảnh.
+"""

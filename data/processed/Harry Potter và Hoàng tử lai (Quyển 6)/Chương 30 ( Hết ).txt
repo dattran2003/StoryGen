@@ -1,0 +1,16 @@
+"""
+- Tất cả hoạt động tại Hogwarts bị đình chỉ sau cái chết của Dumbledore. Một số học sinh được đưa về nhà, trong khi Seamus Finnigan quyết định ở lại cho đến sau tang lễ.
+- Một cỗ xe ngựa khổng lồ mang một phụ nữ đẹp tóc đen đến thăm Hagrid. Một phái đoàn từ Bộ Pháp thuật, bao gồm Bộ trưởng, cũng đến thăm lâu đài. Harry cố gắng tránh họ.
+- Harry, Ron, Hermione và Ginny dành thời gian bên nhau. Neville đã ra viện nhưng Bill vẫn đang được chăm sóc.
+- Trong đêm trước tang lễ, một chiếc xe ngựa màu xanh dương lợt do một tá ngựa vàng có cánh khổng lồ kéo đáp xuống khu Rừng Cấm. Một phụ nữ đẹp tóc đen bước xuống xe và gặp Hagrid.
+- Harry và nhóm bạn tránh tiếp xúc với phái đoàn Bộ Pháp thuật, đặc biệt là khi họ muốn hỏi về chuyến đi cuối cùng của Dumbledore.
+- Harry, Ron, Hermione và Ginny dành thời gian ở bên nhau, và mỗi ngày họ ghé thăm bệnh xá hai lần.
+- Hermione tìm thấy thông tin về R.A.B., nhưng không thể xác định danh tính của người này.
+- Harry thức dậy sớm để chuẩn bị hành lý cho chuyến đi sau tang lễ. Trong bữa sáng, nhiều người mặc áo chùng sự lễ, và không ai có vẻ đói bụng.
+- Giáo sư McGonagall dẫn các học sinh ra sân, nơi sắp diễn ra tang lễ Dumbledore. 
+- Tang lễ Dumbledore được tổ chức với sự tham gia của nhiều nhân vật quen thuộc và lạ mặt. Hagrid mang thi hài Dumbledore đến nơi an nghỉ cuối cùng.
+- Harry chia tay Ginny vì lo ngại cô bé sẽ bị Voldemort lợi dụng để tấn công anh. 
+- Ông Scrimgeour, Bộ trưởng Bộ Pháp thuật, cố gắng thuyết phục Harry tiết lộ thông tin về chuyến đi cuối cùng của Dumbledore, nhưng Harry từ chối.
+- Harry quyết định sẽ trở về nhà Dursleys một lần nữa trước khi bắt đầu cuộc hành trình tìm Trường sinh linh giá còn lại.
+- Ron và Hermione quyết định sẽ đi cùng Harry trong cuộc hành trình nguy hiểm này, bắt đầu từ việc tham dự đám cưới của Bill và Fleur. 
+"""

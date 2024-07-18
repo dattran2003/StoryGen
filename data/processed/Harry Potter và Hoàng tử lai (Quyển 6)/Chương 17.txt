@@ -1,0 +1,21 @@
+"""
+- Harry, Ron, và Ginny chuẩn bị trở lại Hogwarts thông qua mạng Floo từ nhà Weasley.
+- Bà Weasley rơi lệ trong cảnh chia tay, đặc biệt sau khi Percy rời nhà trong giận dữ.
+- Harry, Ron và Ginny đến văn phòng của Giáo sư McGonagall.
+- Hermione xuất hiện, thông báo mật khẩu mới của Bà Béo và trao cho Harry một lá thư từ Dumbledore.
+- Hermione cho biết bà Béo đã uống quá chén với bạn của bà, Violet.
+- Harry và Hermione thảo luận về những gì họ nghe được từ cuộc trò chuyện giữa Malfoy và Snape.
+- Hermione và Harry đồng ý rằng Malfoy có kế hoạch nào đó và có liên hệ với Voldemort.
+- Harry chia sẻ về tình hình khó khăn của thày Lupin giữa những người sói.
+- Harry và Hermione thảo luận về khả năng Malfoy là Tử Thần Thực Tử.
+- Harry và Ron đăng ký khóa học Độn Thổ 12 tuần.
+- Harry và Ron tranh luận về khả năng Độn Thổ và việc kiểm tra Độn Thổ.
+- Harry gặp Bộ Trưởng Bộ Pháp Thuật, Rufus Scrimgeour, người muốn Harry nói rằng Bộ đã làm tốt công việc của mình.
+- Dumbledore khuyên Harry nên quên đi những gì đã nghe từ cuộc trò chuyện giữa Malfoy và Snape.
+- Harry và Dumbledore tiếp tục nghiên cứu về Tom Riddle, khi Riddle bắt đầu học tại Hogwarts.
+- Dumbledore cho biết Riddle đã tìm hiểu về gia đình mình và khám phá ra mình là hậu duệ của Slytherin.
+- Riddle gặp Morfin Gaunt, người đã không nhận ra sau này rằng mình đã không giết gia đình Riddle.
+- Dumbledore giải thích cách Riddle đã lừa Morfin và giết gia đình Riddle.
+- Dumbledore và Harry xem một ký ức của Riddle hỏi Slughorn về Horcruxes, nhưng Slughorn không trả lời và ký ức đã bị chỉnh sửa.
+- Dumbledore giao cho Harry nhiệm vụ thuyết phục Slughorn tiết lộ ký ức thật về cuộc trò chuyện này.
+"""

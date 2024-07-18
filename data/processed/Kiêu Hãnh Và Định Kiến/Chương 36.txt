@@ -1,0 +1,15 @@
+"""
+- Darcy đưa lá thư cho Elizabeth, gây nên sự ngạc nhiên và sự bối rối trong suy nghĩ của cô.
+- Elizabeth đọc lá thư với tâm trạng hỗn loạn, ban đầu không thể tập trung và tiếp thu thông tin.
+- Cô tức giận với Darcy vì không tỏ ra hối hận về hành động của mình.
+- Khi đọc phần Darcy nói về Wickham, Elizabeth cảm thấy sốc, lo lắng và kinh hoàng.
+- Elizabeth đọc lại lá thư, cố gắng hiểu rõ hơn về mối quan hệ giữa Darcy và Wickham.
+- Elizabeth nhận ra sự phung phí và phóng khoáng của Wickham mà Darcy đã chỉ trích.
+- Elizabeth nhớ lại cuộc nói chuyện với Wickham và bắt đầu nghi ngờ về sự thật của những gì anh ta nói.
+- Elizabeth cảm thấy hổ thẹn và nhận ra mình đã thiên vị, bất công và ngớ ngẩn.
+- Cô đọc lại lá thư và bắt đầu đặt câu hỏi về những lời giải thích của Darcy.
+- Elizabeth cảm thấy xấu hổ khi đọc những nhận xét của Darcy về gia đình mình.
+- Cô cố gắng giữ bình tĩnh và không để những suy nghĩ ảnh hưởng đến cuộc sống hàng ngày.
+- Elizabeth được thông báo rằng Darcy và Đại tá Fitzwilliam đã ghé thăm trong lúc cô vắng nhà.
+- Elizabeth nhận ra rằng cô chỉ còn nghĩ về lá thư, không còn quan tâm đến Đại tá Fitzwilliam nữa.
+"""

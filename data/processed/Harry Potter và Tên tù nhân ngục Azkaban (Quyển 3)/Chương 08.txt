@@ -1,0 +1,21 @@
+"""
+- Chương 8 bắt đầu với việc lớp Phòng chống Nghệ thuật Hắc ám trở thành lớp học yêu thích của học sinh, ngoại trừ Draco Malfoy và nhóm Slytherin.
+- Malfoy thường xuyên chế giễu giáo sư Lupin về bộ dạng và trang phục của ông.
+- Các bài học với giáo sư Lupin đều hấp dẫn, từ Chỏm Đỏ đến Kappa.
+- Harry ước mong các lớp học khác cũng thú vị như lớp Phòng chống Nghệ thuật Hắc ám.
+- Snape tỏ ra căm ghét Lupin sau khi câu chuyện về bùa giả hóa của Lupin lan truyền khắp trường.
+- Harry cảm thấy sợ hãi về các buổi học với giáo sư Trelawney.
+- Lớp học Chăm sóc Sinh vật Huyền bí trở nên nhàm chán khi Hagrid chỉ dạy về cách chăm sóc Nhuyễn trùng.
+- Harry quan tâm hơn về mùa thi đấu Quidditch sắp tới và cuộc họp chiến lược với đội tuyển Quidditch của nhà Gryffindor.
+- Oliver Wood, đội trưởng, nhấn mạnh rằng đây là cơ hội cuối cùng để giành cúp Quidditch.
+- Đội bắt đầu luyện tập với quyết tâm cao.
+- Thông báo về chuyến đi chơi làng Hogsmeade khiến mọi người háo hức.
+- Harry dự định xin phép giáo sư McGonagall để tham gia chuyến đi nhưng bị từ chối do không có đơn xin phép từ gia đình.
+- Lavender Brown nhận tin buồn về con thỏ Binky qua thư, điều này liên quan đến lời dự đoán của giáo sư Trelawney.
+- Hermione cố gắng phân tích hợp lý về việc Binky chết nhưng lại làm Lavender khóc nhiều hơn.
+- Harry phải ở lại trường trong khi bạn bè đi chơi, nhưng giáo sư Lupin đã mời Harry đến văn phòng để xem một con Grindylow.
+- Harry chia sẻ với giáo sư Lupin về nỗi sợ của mình và giáo sư giải thích lý do vì sao ông không để Harry đối mặt với bùa giả hóa.
+- Snape mang thuốc cho Lupin, điều này khiến Harry nghi ngờ mục đích của Snape.
+- Bức chân dung Bà Béo bị hỏng và bà biến mất, gây ra lo lắng và hoang mang cho học sinh nhà Gryffindor.
+- Peeves tiết lộ rằng Sirius Black là người đã làm hỏng bức chân dung và khiến Bà Béo biến mất.
+"""

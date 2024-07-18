@@ -1,0 +1,27 @@
+"""
+- Sáng hôm sau, Kathleen đánh thức Scarlett dậy. Scarlett mệt mỏi sau cuộc trò chuyện đêm qua với Colum và chỉ muốn ngủ thêm.
+
+- Kathleen hỏi Scarlett liệu có muốn đi chơi cùng Maureen hay không, nhưng Scarlett từ chối và muốn ngủ thêm.
+
+- Scarlett tỏ ra khó chịu khi Kathleen không chịu rời đi, sau cùng cô quyết định thức dậy để đi chợ thay Maureen.
+
+- Scarlett chọn mặc một chiếc áo dài đỏ và xanh xứ Ecot, và sau đó cô bị thuyết phục bởi Colum để đi mua sắm cùng anh.
+
+- Scarlett và Colum đi mua sắm nhưng không đạt được thỏa thuận nào, điều này khiến Scarlett cảm thấy bực mình.
+
+- Scarlett và Colum sau đó ghé vào một quán cà phê, nơi Scarlett lắng nghe Colum nói về quê hương Ireland của mình.
+
+- Colum đề nghị Scarlett đi Ireland cùng anh, nhưng cô từ chối.
+
+- Scarlett giải thích cho Colum về thương mại và sau đó họ đi mua hàng tại cửa hàng của Jamie.
+
+- Scarlett và Colum chứng kiến việc chuẩn bị cho lễ kỷ niệm St. Patrick's Day.
+
+- Scarlett và gia đình O'Hara tham gia vào lễ hội St. Patrick's Day, nơi mọi người ăn mừng, nhảy múa và ăn các món ăn truyền thống.
+
+- Scarlett tận hưởng lễ hội và thậm chí còn ăn ngoài đường, điều mà một quý cô bình thường không được phép làm.
+
+- Scarlett và Colum kết thúc ngày với việc sửa chiếc giày bốt bị thủng của Scarlett.
+
+- Scarlett và Colum sau đó trở về nhà, với Scarlett cảm thấy mệt mỏi nhưng hạnh phúc sau một ngày lễ hội đầy niềm vui.
+"""

@@ -1,0 +1,17 @@
+"""
+- Colum và Bridie tiễn Scarlett đến ga tàu. Scarlett mặc trang phục tang nhà quê, điều này gây chú ý và bình luận từ những người xung quanh.
+- Bridie khuyên Colum nên nói với Scarlett về cách ăn mặc nhưng Colum từ chối, cho rằng Scarlett có quyền để tang theo cách riêng của mình.
+- Scarlett gây ấn tượng mạnh khi lên tàu hạng nhất, khiến một số hành khách Anh bất ngờ và phản ứng.
+- Scarlett nói lời tạm biệt với Colum và Bridie, sau đó cô bắt đầu chuyến đi đầy mệt mỏi và suy tư về tương lai không chắc chắn ở Adamstown.
+- Scarlett đã mua một cỗ xe và một con ngựa khi đến Mullyngar và tiếp tục hành trình đến Adamstown.
+- Scarlett trở về Adamstown, mọi người trong gia đình đều tỏ ra thông cảm và sẵn lòng giúp đỡ cô.
+- Scarlett quyết định học nghề nông của Ireland và tham gia vào công việc nông nghiệp của bác Daniel và các con trai của bác.
+- Scarlett đã làm việc chăm chỉ, học hỏi và dần dần nắm bắt được cách thức hoạt động ở Adamstown, đồng thời cô cũng đưa ra các phương án cải tiến.
+- Scarlett nhận được thư từ luật sư thông báo về tình hình sở hữu Ballyhara và cô quyết định mua lại nó với giá 15 nghìn bảng Anh.
+- Scarlett đã lên kế hoạch chi tiết về việc quản lý Ballyhara, bao gồm cả việc phát quang đất hoang, cải thiện các ngôi nhà và xây dựng các cơ sở hạ tầng.
+- Scarlett quyết định thăm Tara, nơi cô cảm thấy bình yên và tìm thấy niềm hạnh phúc.
+- Scarlett nhận ra mình mang thai, điều này làm tăng thêm quyết tâm của cô trong việc xây dựng lại Ballyhara.
+- Scarlett trở về Ballyhara, quyết tâm thực hiện kế hoạch của mình trước khi đứa trẻ chào đời.
+- Scarlett trở thành đề tài chính của các cuộc trò chuyện trong làng, đặc biệt là về nguồn gốc tài sản của cô.
+- Scarlett quyết định đứa trẻ sẽ sinh ra trong nhà lớn của Ballyhara và bắt đầu thực hiện các công việc cần thiết để chuẩn bị cho việc này.
+"""

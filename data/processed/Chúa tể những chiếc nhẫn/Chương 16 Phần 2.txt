@@ -1,0 +1,15 @@
+"""
+- Sam và Bill, người cuối cùng của Đội Đồng Hành, đi lên vùng đất khô trên bờ xa. Một tiếng động lạ vang lên từ hồ.
+- Gandalf và những người khác nhanh chóng di chuyển đến vùng đất khô giữa hồ và vách đá, tránh xa vùng nước đen.
+- Họ đi vào một vùng cây nhựa ruồi, nơi có hai cây cao, lớn nhất mà Frodo từng thấy.
+- Gandalf thông báo rằng họ đã đến con đường của người Elves từ phía cuối Hollin, đánh dấu bằng cây nhựa ruồi.
+- Gandalf thông báo rằng họ sẽ phải tạm biệt Bill, con vật gánh hành lí của họ, để đi vào Vùng Mỏ.
+- Sam phản đối việc này, nhưng Gandalf nhấn mạnh rằng Bill không thể đi vào Moria tối tăm.
+- Gandalf hướng dẫn Bill tìm đường về nhà sau khi để lại họ, và Bill sẽ có cơ hội trốn thoát khỏi bầy sói.
+- Họ chuẩn bị để đi vào Vùng Mỏ, chia nhau hành lý và thức ăn.
+- Gandalf tìm cách mở cánh cửa vào Moria, nhưng không thành công ban đầu.
+- Cuối cùng, Gandalf tìm ra mật khẩu để mở cánh cửa, "Mellon", bằng ngôn ngữ của người Elves.
+- Họ chuẩn bị đi vào Moria, nhưng một sinh vật từ hồ tấn công Frodo và Bill chạy mất.
+- Họ thoát khỏi sinh vật và vào Moria, cánh cửa sau đó đóng lại, chặn đường trở lại.
+- Gandalf và đội đồng hành bắt đầu cuộc hành trình qua Moria, dự kiến mất ba đến bốn ngày.
+"""

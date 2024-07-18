@@ -1,0 +1,19 @@
+"""
+- Ngày hôm sau, chúng tôi nhận được tin báo về cái chết của Isabella và Edgar sẽ trở về cùng với đứa con trai nhỏ, Linton. Cathy háo hức chờ đợi sự xuất hiện của cậu em họ.
+
+- Linton, kém Cathy sáu tháng tuổi, cuối cùng đã xuất hiện cùng với Edgar. Tuy nhiên, Linton không khỏe và không có vẻ vui vẻ như bác của mình.
+
+- Edgar khuyên Cathy không nên mong đợi Linton sẽ chơi đùa ngay lập tức sau khi mất mẹ. Linton sau đó đi ngủ sớm.
+
+- Joseph từ Đồi Gió Hú xuất hiện và thông báo rằng Heathcliff, cha của Linton, muốn đón Linton về. Edgar cương quyết không cho phép điều đó xảy ra vào đêm hôm đó.
+
+- Sáng hôm sau, theo lệnh của Edgar, tôi đưa Linton tới Đồi Gió Hú. Trong suốt chuyến đi, Linton biểu lộ sự không hài lòng và bối rối về việc phải gặp cha mình.
+
+- Heathcliff, khi gặp Linton, tỏ ra khinh bỉ và lạnh lùng, làm Linton sợ hãi và khóc.
+
+- Heathcliff cho biết kế hoạch của mình, rằng Linton sẽ là chủ sở hữu của Đồi Gió Hú một ngày nào đó và ông sẽ đảm bảo giáo dục cho Linton.
+
+- Trong khi đó, Cathy thức dậy với tâm trạng hân hoan nhưng thất vọng khi phát hiện Linton đã rời đi.
+
+- Linton không thích cuộc sống tại Đồi Gió Hú và sức khỏe của cậu bé không cải thiện, trong khi cha cậu, Heathcliff, càng ngày càng căm ghét cậu.
+"""

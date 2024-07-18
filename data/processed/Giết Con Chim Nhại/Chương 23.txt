@@ -1,0 +1,14 @@
+"""
+- Bố Atticus chỉ bình thản trước lời đe dọa và hành động thô lỗ của Bob Ewell.
+- Stephanie Crawford mô tả chi tiết về sự cố giữa Atticus và Bob Ewell, cho biết Ewell đã chửi rủa và đe dọa Atticus.
+- Jem và Scout lo lắng cho sự an toàn của bố, đề xuất các phương án để tự vệ, nhưng đều bị Atticus phủ nhận.
+- Atticus giải thích cho Jem về lý do hành động của Bob Ewell và khẳng định họ không có gì phải sợ hãi.
+- Alexandra, chị gái của Atticus, tỏ ra lo ngại về Ewell và cảnh báo về khả năng ông ta sẽ trả thù.
+- Atticus đảm bảo với Jem và Scout rằng họ không có gì phải sợ hãi Ewell và an ủi họ về cơ hội của Tom Robinson.
+- Jem và Atticus thảo luận về luật pháp và bồi thẩm đoàn, với Jem thể hiện sự bất mãn về hệ thống.
+- Atticus chia sẻ về một thành viên trong bồi thẩm đoàn đã cố gắng tha bổng Tom Robinson.
+- Jem và Scout kế hoạch mời Walter Cunningham chơi với họ, nhưng Alexandra phản đối.
+- Alexandra giải thích lý do không chấp nhận Walter Cunningham, coi anh ấy và gia đình anh ấy là 'rác rưởi'.
+- Jem cố gắng an ủi Scout và giải thích về phân biệt xã hội trong hạt Maycomb.
+- Jem và Scout thảo luận về sự khác biệt giữa các nhóm người trong xã hội và quan điểm của họ về việc chỉ có một hạng người.
+"""

@@ -1,0 +1,16 @@
+"""
+- Harry di chuyển tới nhà Weasley bằng cách xoay vòng nhanh chóng, sau cùng dừng lại ngay trước lò sưởi nhà bếp.
+- Fred Weasley giúp Harry đứng dậy và hỏi liệu "nó" đã ăn hay chưa, ám chỉ một loại kẹo do anh và George phát minh.
+- Harry gặp anh Bill và Charlie Weasley, nhận biết họ qua đặc điểm tóc đỏ đặc trưng.
+- Anh Charlie, người làm việc với rồng ở Romania, chào đón Harry và anh Bill, người làm việc tại ngân hàng Gringotts, cũng chào Harry.
+- Fred và George bị ông Weasley mắng vì đã làm rơi kẹo bơ Lưỡi-Phù cho một đứa trẻ Muggle ăn.
+- Bà Weasley xuất hiện, hỏi ông Weasley về nguyên nhân gây rối loạn.
+- Harry gặp lại Hermione Granger và em gái Ron, Ginny Weasley.
+- Fred và George tiết lộ họ đã phát minh ra một loạt các sản phẩm quậy phá, gọi là "Mánh phù thủy nhà Weasley", và dự định bán tại Hogwarts.
+- Percy Weasley, anh trai của Ron, đang làm việc cho Bộ Pháp Thuật và rất nghiêm túc với công việc của mình.
+- Harry, Hermione, Ron và Ginny đi lên phòng ngủ của Ron, nơi họ nói chuyện về các thành viên trong gia đình Weasley.
+- Họ sau đó giúp bà Weasley chuẩn bị bữa tối trong vườn, trong khi Bill và Charlie lắp ráp bàn ăn.
+- Trong khi ăn tối, họ thảo luận về Cúp Quidditch Thế Giới và các sự kiện khác trong cộng đồng phù thủy.
+- Ron hỏi Harry về chú Sirius, nhưng Harry quyết định không kể về giấc mơ khó chịu của mình.
+- Bà Weasley thông báo rằng cô sẽ đi mua sắm cho Harry tại Hẻm Xéo ngày hôm sau trước khi họ đi tới Cúp Quidditch Thế Giới.
+"""

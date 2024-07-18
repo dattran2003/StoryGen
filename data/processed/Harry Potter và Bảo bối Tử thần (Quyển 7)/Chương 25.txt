@@ -1,0 +1,17 @@
+"""
+- Harry, Ron và Hermione đang ở Chòi Đất, ngôi nhà nhỏ của Bill và Fleur, nơi họ có thể nghe tiếng biển cả như tiếng thở của một con vật lớn đang ngủ.
+- Harry đang phải đối mặt với quyết định không cạnh tranh cây đũa phép với Voldemort, điều này khiến anh ta cảm thấy hoang mang.
+- Hermione và Ron đang tranh luận về việc tìm hiểu các biểu tượng để giành được cây đũa phép và vấn đề về việc chống lại Voldemort.
+- Harry cảm thấy bối rối với sự ủng hộ của Hermione, cô cho rằng cây Đũa phép Cơm nguội là đồ vật tai ác.
+- Harry lo lắng rằng mình đã hiểu lầm ý định của Dumbledore và cảm thấy giận dữ vì Dumbledore không giải thích rõ ràng trước khi chết.
+- Ron và Hermione tranh luận về việc Dumbledore có thật sự chết hay không, dựa trên những sự kiện như con hươu bạc, thanh gươm và con mắt Harry nhìn thấy.
+- Grook, một yêu tinh, đồng ý giúp Harry nhưng đòi đổi lấy thanh gươm của Godric Gryffindor, điều này tạo ra một vấn đề lớn.
+- Harry, Ron và Hermione cố gắng tìm cách thỏa thuận với Grook mà không phải trao đổi thanh gươm.
+- Grook muốn giữ thanh gươm sau khi giúp họ vào hầm an toàn của bà Lestranges, nhưng không có thời hạn cụ thể.
+- Harry, Ron và Hermione bắt đầu lên kế hoạch đột nhập Bộ Pháp Thuật với sự giúp đỡ của Grook.
+- Grook khát máu và thích ý tưởng gây đau đớn cho sinh vật yếu đuối hơn, điều này tạo ra sự chán ghét từ Harry và bạn bè.
+- Harry cảm thấy mình phải chịu trách nhiệm về việc Grook làm phiền gia đình Weasley.
+- Hermione và Ron lo lắng về việc Grook có thể không chấp nhận bất kỳ thứ gì khác ngoài thanh gươm.
+- Harry và bạn bè chuẩn bị rời đi, và Harry được chọn làm cha đỡ đầu cho con trai mới sinh của Lupin và Tonks.
+- Bill cảnh báo Harry về việc làm việc với yêu tinh và nhấn mạnh rằng họ có cách nhìn khác về quyền sở hữu và sự đền đáp.
+"""

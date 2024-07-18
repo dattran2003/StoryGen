@@ -1,0 +1,17 @@
+"""
+- Harry và Dumbledore trở lại từ nhiệm vụ lấy Trường Sinh Linh Giá, đặt chân trở lại làng Hogsmeade.
+- Dumbledore rơi vào trạng thái yếu ớt sau khi uống loại nước đặc biệt, rồi bất tỉnh.
+- Harry cố gắng tìm cách giúp Dumbledore, quyết định tìm bà Pomfrey.
+- Bà Rosmerta từ quán Ba Cây Chổi xuất hiện, thấy Dumbledore không ổn.
+- Dấu Hiệu Hắc Ám xuất hiện trên bầu trời, chỉ ra rằng có cái chết đã xảy ra tại Hogwarts.
+- Dumbledore và Harry vội vàng trở lại trường, trong đó Dumbledore đã dùng bùa chú để họ có thể vượt qua các rào cản bảo vệ trường.
+- Họ đến Tháp Thiên Văn, nơi Dấu Hiệu Hắc Ám xuất hiện, nhưng không thấy dấu hiệu của một cuộc chiến hay xác chết nào.
+- Draco Malfoy xuất hiện, đã tước đi đũa phép của Dumbledore và có ý định giết Dumbledore.
+- Malfoy tiết lộ rằng anh đã tìm cách để đưa Tử Thần Thực Tú vào trường thông qua việc sửa chữa Tủ Biến Mất.
+- Dumbledore tiếp tục đối thoại với Malfoy, cố gắng thuyết phục cậu không nên giết mình.
+- Malfoy khẳng định mình không còn lựa chọn nào khác vì sợ Voldemort.
+- Malfoy và Dumbledore tiếp tục cuộc thảo luận, trong đó Dumbledore đề nghị giúp Malfoy thoát khỏi Voldemort.
+- Các Tử Thần Thực Tú xuất hiện, bao gồm Fenrir Greyback, Amycus Carrow và Alecto Carrow.
+- Malfoy không thể hành động, và Snape xuất hiện.
+- Snape cuối cùng đã thực hiện lời nguyền Avada Kedavra, giết Dumbledore.
+"""

@@ -1,0 +1,18 @@
+"""
+- Anh Collins và vợ nhận lời mời đến Rosings từ Phu nhân Catherine, điều này diễn ra đúng như anh Collins đã dự đoán.
+- Anh Collins nói với Elizabeth không nên lo lắng về vẻ bề ngoài, Phu nhân không đòi hỏi sự thanh lịch và khuyên cô nên mặc bộ đồ đẹp nhất nhưng không quá cầu kỳ.
+- Trong lúc chuẩn bị, anh Collins nhắc nhở mọi người nhanh chóng vì Phu nhân không thích chờ đợi.
+- Maria Lucas cảm thấy lo lắng trước sự kiện, cô cảm thấy giống như cha cô khi được tấn phong hiệp sĩ.
+- Họ đi bộ đến Rosings, Elizabeth tận hưởng cảnh quan nhưng không thể đáp ứng sự kỳ vọng của anh Collins.
+- Khi gặp Phu nhân Catherine, ngài William và Maria tỏ ra e dè, trong khi Elizabeth giữ được sự bình tĩnh.
+- Phu nhân Catherine có vóc dáng cao lớn, khuôn mặt rắn rỏi và thái độ không cố gắng tạo thiện cảm.
+- Elizabeth quan sát cô con gái của Phu nhân Catherine, cô De Bourgh, và thấy cô bé nhỏ nhắn và không giống mẹ.
+- Họ được dẫn đi xem cảnh quan, anh Collins chỉ ra những điểm đẹp và Phu nhân Catherine nói rằng cảnh quan đẹp hơn vào mùa hè.
+- Bữa tối thịnh soạn với sự phục vụ của nhiều người và anh Collins ngồi ở cuối bàn, cắt thức ăn và khen ngợi mọi thứ.
+- Trong suốt bữa ăn, không có nhiều trò chuyện, Elizabeth chủ yếu trả lời khi được hỏi.
+- Khi các phụ nữ trở về phòng khách, họ chỉ nghe Phu nhân Catherine nói.
+- Phu nhân Catherine hỏi Elizabeth nhiều câu hỏi và nhận xét về cô.
+- Phu nhân Catherine hỏi về giáo dục của Elizabeth và chị em cô, và tỏ ra ngạc nhiên khi biết họ không có gia sư.
+- Cuối buổi, họ chơi bài, Phu nhân Catherine chủ yếu nói chuyện và anh Collins luôn đồng ý với mọi điều bà nói.
+- Khi họ rời Rosings, anh Collins hỏi Elizabeth về cảm nhận của cô, cô đưa ra những nhận xét tích cực để làm vui lòng Charlotte.
+"""

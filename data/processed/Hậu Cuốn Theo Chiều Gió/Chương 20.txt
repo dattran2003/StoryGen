@@ -1,0 +1,19 @@
+"""
+- Rhett cố gắng đón nhận cô em gái Rosemary nhưng cô lùi lại, biểu hiện sợ hãi.
+- Rhett cảm thấy phiền muộn vì làm cô em gái sợ hãi, nhớ lại vai trò của mình trong cuộc đời khó khăn của Rosemary.
+- Rhett, bị cha từ bỏ, chỉ còn là một cái tên trong cuốn Kinh Thánh gia đình, gặp Rosemary khi cô 13 tuổi.
+- Rhett và Rosemary gắn kết sâu sắc, dù chỉ gặp nhau không quá chục lần.
+- Rhett tự trách mình vì không chăm sóc Rosemary đủ, dẫn đến cô trở nên nghi kỵ đàn ông.
+- Rosemary, 24 tuổi, không thoải mái với việc tiếp xúc với đàn ông, thích cuộc sống tưởng tượng hơn thực tế, và không tuân theo quy tắc xã hội.
+- Rhett tôn trọng sự độc lập của Rosemary, chia sẻ với cô những bí mật sâu kín nhất của mình.
+- Rosemary cảm thấy phản bội khi phát hiện một khía cạnh độc ác của Rhett.
+- Rhett giải thích với Rosemary về cuộc hôn nhân của mình với Scarlett, đã ly thân nhưng không ly hôn.
+- Rhett kể về hai cuộc hôn nhân trước, việc Scarlett chấp nhận kết hôn vì tiền và tình yêu cuồng nhiệt của cô với Ashley Wilkes.
+- Rosemary hỏi tại sao Rhett vẫn cưới Scarlett, anh giải thích do Scarlett cuốn hút anh và anh yêu cô điên rồ.
+- Rhett lo lắng về tính ích kỷ của Scarlett, nhưng vẫn bị cuốn hút bởi những cử chỉ đáng yêu của cô.
+- Rhett xem mình như một người đánh bạc, và anh quyết định dùng vàng để làm Scarlett rời đi.
+- Rhett và Scarlett đã thỏa thuận, Scarlett sẽ rời đi vào cuối mùa chơi.
+- Rhett sợ mẹ sẽ xấu hổ nếu biết anh bỏ vợ, vì vậy anh sắp xếp để Scarlett là người rời bỏ.
+- Rhett chỉ hối tiếc vì hành động như một người ngốc, nhưng anh sẽ không để bị lừa một lần nữa.
+- Rosemary hỏi nếu Scarlett thay đổi, Rhett khẳng định rằng điều này không thể xảy ra.
+"""

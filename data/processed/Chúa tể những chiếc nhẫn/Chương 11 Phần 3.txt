@@ -1,0 +1,14 @@
+"""
+- Bối cảnh là câu chuyện tình yêu giữa Beren, một người trần thế, và Luthien Tincrcviel, con gái của Thingol, vị Vua của người Elves.
+- Beren gặp Tincrcviel sau khi trốn thoát từ cuộc tàn sát ở Rặng Núi Kinh Hoàng và họ bị chia cách sau nhiều nỗi buồn đau.
+- Tincrcviel cứu Beren khỏi nhà tù của Sauron và họ cùng vượt qua nhiều mối nguy hiểm.
+- Beren và Tincrcviel đánh bại Kẻ Thù Vĩ Đại, lấy lại một trong ba Silmaril từ vương miện thép của hắn.
+- Beren sau cùng bị giết bởi Sói từ Angband, và Tincrcviel chọn sự trần tục để chết ở thế giới này để theo chàng.
+- Họ gặp lại nhau sau Biển Cách Ngăn và sống cùng nhau trong một thời gian ngắn.
+- Luthien Tincrcviel là người duy nhất giữa những chủng loài Elves đã chết và rời khỏi thế giới này.
+- Dòng dõi của Beren và Luthien vẫn còn tồn tại giữa Con Người, Elrond vùng Rivendell là một trong những Dòng Dõi này.
+- Truyện chuyển sang cảnh các Hobbits và Người Sải Bước (Strider) quanh ngọn lửa.
+- Một cảm giác lạnh lẽo và sự nguy hiểm bắt đầu tràn ngập khi ánh trăng lên cao, và những bóng đen bí ẩn xuất hiện.
+- Frodo bị tấn công bởi một trong những bóng đen, và trong tuyệt vọng, ông sử dụng chiếc Nhẫn để chống lại kẻ thù.
+- Frodo bị thương nặng, nhưng Người Sải Bước xuất hiện với một thanh gỗ bốc lửa, cứu Frodo khỏi kẻ thù.
+"""

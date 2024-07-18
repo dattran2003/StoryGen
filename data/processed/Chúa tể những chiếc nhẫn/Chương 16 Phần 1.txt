@@ -1,0 +1,14 @@
+"""
+- Khi nhóm dừng lại nghỉ ngơi vào buổi tối, Gandalf tổ chức một cuộc họp, đề xuất kế hoạch tiếp theo sau cuộc tấn công tại Cổng Sừng Đỏ.
+- Gandalf đề nghị nhóm tiếp tục hành trình hoặc quay lại Rivendell, tuy nhiên, Frodo lo ngại về việc trở lại mà không hổ thẹn.
+- Gandalf giải thích rằng quay lại Rivendell sẽ đồng nghĩa với việc chấp nhận thất bại và để chiếc Nhẫn ở lại đó.
+- Frodo đồng ý tiếp tục hành trình, dù biết rằng con đường phía trước đầy khó khăn.
+- Gandalf gợi ý đi qua Rặng Mỏ Moria, một lựa chọn mà Aragorn đã phản đối.
+- Merry và Boromir đề xuất các lộ trình thay thế nhưng Gandalf từ chối vì những lý do an ninh và thời gian.
+- Gandalf khẳng định rằng Moria là nơi mà kẻ thù ít mong đợi họ nhất.
+- Nhóm quyết định đi qua Moria, dù Gimli và Aragorn là những người duy nhất từng đi qua đó và sống sót.
+- Trong đêm, họ bị đàn sói tấn công, nhưng Gandalf, với sức mạnh ma thuật, đã đẩy lùi chúng.
+- Nhóm khởi hành vào ngày hôm sau, hướng tới Moria, nơi họ cần tìm thấy cổng trước khi mặt trời lặn.
+- Trên đường đi, họ gặp khó khăn trong việc tìm kiếm con suối dẫn đến cổng Moria, và cuối cùng phát hiện ra một hồ nước chặn đường.
+- Nhóm quyết định vòng qua phía Bắc của hồ để tiếp tục hành trình, tuy nhiên họ buộc phải bỏ lại chú ngựa Bill vì không thể đưa nó vào hầm mỏ.
+"""

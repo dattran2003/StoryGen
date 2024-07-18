@@ -1,0 +1,15 @@
+"""
+- Harry, Ron và Hermione đang trong trạng thái căng thẳng sau một cuộc cãi vã. Hermione vẫn còn giận Harry và chỉ trao đổi bằng ánh mắt khinh bỉ. Ron đang tỏ ra ưu sầu như một hình thức ăn năn.
+- Họ tiếp tục thảo luận về việc tiêu hủy một trong những Trường Sinh Linh Giá và suy nghĩ về nơi có thể tìm thấy những Trường Sinh Linh Giá khác.
+- Harry và Ron tránh Hermione, họ tiếp tục trao đổi thông tin. Harry kể về những chuyến đi của mình và Hermione, còn Ron chia sẻ những gì anh đã khám phá ra trong thời gian rời nhóm.
+- Ron giải thích rằng việc nói tên Voldemort đã bị ếm bùa độc và là cách để Tử Thần Thực Tử theo dõi họ. Harry và Ron thảo luận về việc ai đã gửi con hươu giúp họ.
+- Hermione khuyên Harry nên thực hành sử dụng cây đũa phép mới của mình và nhấn mạnh rằng việc này đòi hỏi lòng tin.
+- Hermione đề xuất họ nên đi gặp Xenophilius Lovegood, cha của Luna, để tìm hiểu thêm về dấu hiệu xuất hiện trong cuốn "Những Chuyện Kể của Beedle the Bard".
+- Ron đồng ý với Hermione, dẫn đến quyết định nhóm sẽ đi gặp Xenophilius Lovegood.
+- Họ Độn thổ đến gần nhà của gia đình Lovegood, nơi họ đã tìm thấy nhà của Xenophilius.
+- Khi gặp Xenophilius, Harry, Ron và Hermione đã phát hiện ra một sừng nổ nguy hiểm trong nhà ông ta.
+- Hermione cảnh báo về nguy hiểm của sừng nổ nhưng Xenophilius khẳng định rằng đó là sừng của con Khụt khịt Sừng nát.
+- Harry giải thích rằng họ cần sự giúp đỡ của Xenophilius, đặc biệt là để hiểu rõ hơn về biểu tượng mà ông đeo ở đám cưới của Bill và Fleur.
+"""
+
+Vui lòng lưu ý rằng, những điểm chính trên được tóm tắt từ đoạn văn bạn cung cấp, và có thể không phản ánh đầy đủ mọi chi tiết của câu chuyện.

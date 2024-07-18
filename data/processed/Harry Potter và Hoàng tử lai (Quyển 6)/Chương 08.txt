@@ -1,0 +1,22 @@
+"""
+- Harry bị thương sau cuộc đụng độ với Malfoy, máu chảy từ mũi xuống đầy mặt khi anh nằm dưới chiếc áo Tàng hình.
+- Harry hy vọng ai đó sẽ kiểm tra buồng tàu trước khi tàu khởi hành nhưng sau đó nhận ra rằng, dù có ai nhìn vào căn buồng, họ cũng không thể nghe thấy anh.
+- Ron và Hermione sẽ nghĩ rằng Harry đã rời tàu mà không chờ họ.
+- Harry cố gắng tạo ra một tiếng động nhưng không thể và sau đó cố gắng sử dụng phép thuật "Gọi Đũa Thần" nhưng cũng không thành công.
+- Harry nghe tiếng xào xạc từ hồ và tiếng cú kêu nhưng không ai tìm kiếm anh.
+- Harry tưởng tượng Malfoy đang kể lại cuộc tấn công của mình với Crabbe, Goyle, Zabini và Pansy Parkinson.
+- Chiếc áo Tàng hình của Harry bị kéo lên bởi ai đó, tiết lộ ra anh và sau đó anh được cứu bởi Tonks.
+- Tonks giúp Harry khỏi trạng thái cứng đờ và khuyên anh nên rời khỏi tàu.
+- Harry và Tonks nhảy tàu khi nó bắt đầu di chuyển.
+- Tonks chữa lành mũi của Harry và sau đó gửi một Thần Hộ mệnh để thông báo cho mọi người rằng cô đã tìm thấy Harry.
+- Harry và Tonks đi bộ về trường và trên đường đi, Harry biết rằng Tonks đang ở Hogsmeade để tăng cường bảo vệ.
+- Cả hai gặp khó khăn khi cổng trường bị khóa bởi Dumbledore.
+- Snape xuất hiện và mở cổng, đồng thời trừ 50 điểm của nhà Gryffindor vì Harry đi muộn.
+- Snape trừ thêm 20 điểm nữa vì Harry mặc trang phục dân Muggle.
+- Harry bước vào Sảnh chính và ngồi giữa Ron và Hermione.
+- Harry giải thích về việc bị Malfoy tấn công và sau đó bị Snape trừ điểm.
+- Dumbledore thông báo rằng Snape sẽ đảm trách môn Phòng chống Phép thuật Hắc ám và Slughorn sẽ dạy môn Độc dược.
+- Harry cảm thấy tức giận khi nghe thông tin này.
+- Dumbledore nhắc nhở mọi người về tình hình nguy hiểm do sự trở lại của Voldemort và khuyên mọi người nên cẩn thận.
+- Harry và Ron rời khỏi sảnh sau khi bữa tiệc kết thúc.
+"""

@@ -1,0 +1,22 @@
+"""
+- Harry thức dậy sáng sớm, tưởng rằng mọi sự kiện đêm qua chỉ là giấc mơ.
+- Có tiếng gõ cửa lớn, Harry nghĩ rằng đó là dì Petunia gọi dậy, nhưng hóa ra đó là lão Hagrid.
+- Hagrid vẫn còn ở đó, chứng tỏ mọi sự kiện về việc Harry là một phù thủy không phải là mơ.
+- Một con cú bay vào căn chòi, mang theo một tờ báo phù thủy.
+- Hagrid giải thích về tiền bạc phù thủy và thanh toán cho con cú.
+- Hagrid thông báo rằng họ sẽ đi đến Luân Đôn để mua sắm đồ dùng cho trường Hogwarts.
+- Harry bày tỏ lo ngại về việc không có tiền để mua sắm, nhưng Hagrid giải thích rằng cha mẹ Harry đã để lại tiền trong ngân hàng phù thủy Gringotts.
+- Hagrid và Harry rời khỏi đảo bằng cách dùng chiếc xuồng của gia đình Dursley.
+- Trên đường đi, Hagrid tiết lộ rằng ngân hàng Gringotts do yêu tinh quản lý và rất an toàn.
+- Họ đến ga xe điện, và Hagrid mua vé cho Harry.
+- Trên xe lửa, Hagrid cung cấp cho Harry danh sách đồ dùng cần thiết cho trường Hogwarts.
+- Harry và Hagrid đến Luân Đôn, và Hagrid dẫn Harry đến quán rượu Leaky Cauldron.
+- Harry gặp nhiều người phù thủy nổi tiếng và giáo sư Quirrell.
+- Hagrid và Harry đi qua một bức tường bí mật để đến Hẻm Xéo.
+- Họ đến ngân hàng Gringotts, nơi Hagrid rút tiền từ tài khoản của Harry.
+- Hagrid cũng lấy một vật bí mật từ hầm bạc số 713.
+- Sau đó, họ mua đồng phục và sách giáo trình tại Hẻm Xéo.
+- Hagrid tặng Harry một con cú trắng và họ mua cây đũa phép tại tiệm Ollivanders.
+- Cây đũa phép của Harry có lõi từ lông phượng hoàng, giống như cây đũa của "Người – mà – ai – cũng – biết – là – ai – đấy", kẻ đã gây ra cái chết của cha mẹ Harry.
+- Hagrid đưa Harry trở lại nhà của gia đình Dursley và trao cho Harry lá thư vé đi Hogwarts.
+"""

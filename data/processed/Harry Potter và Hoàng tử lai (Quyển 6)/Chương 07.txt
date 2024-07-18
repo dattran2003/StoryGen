@@ -1,0 +1,15 @@
+"""
+- Harry suy nghĩ về hành động bí ẩn của Malfoy tại Hẻm Knockturn, đặc biệt là vẻ mặt thỏa mãn khi rời cửa hàng Borgin & Burkes. Điều này khiến Harry cảm thấy khó chịu nhưng Ron và Hermione không quan tâm nhiều như cậu.
+- Hermione và Ron nghĩ rằng có nhiều lý do cho hành động của Malfoy và họ phát ngán khi Harry tiếp tục thảo luận về điều này.
+- Harry nghi ngờ rằng Malfoy đã gia nhập hàng ngũ Tử Thần Thực Tử, dựa trên hành động né tránh của Malfoy khi bà Malkin cố gắng chạm vào tay trái của Malfoy.
+- Harry chia sẻ nghi ngờ của mình với ông Weasley, người tỏ ra hoài nghi về khả năng Malfoy, chỉ mới 16 tuổi, có thể trở thành Tử Thần Thực Tử.
+- Trong khi chờ lên tàu đến Hogwarts, Harry gặp Fleur và bà Weasley, và bà Weasley nhắc nhở Harry về việc chuẩn bị hành lý.
+- Harry, Ron và Hermione không thể ngồi cùng nhau trên tàu do Hermione và Ron phải thực hiện nhiệm vụ Huynh Trưởng.
+- Harry gặp Neville và Luna trên tàu và họ chọn một toa tàu trống. Neville chia sẻ với Harry về cây đũa phép mới mà bà của cậu mua cho.
+- Harry nhận được lời mời từ giáo viên Slughorn để tham gia bữa ăn trưa với một nhóm nhỏ học sinh. Neville cũng nhận được lời mời tương tự.
+- Trong bữa ăn, Slughorn cố gắng tạo mối liên kết với các học sinh thông qua các mối quan hệ của họ với những người nổi tiếng hoặc có quyền lực.
+- Harry, Neville và Ginny đều giữ vững trước những câu hỏi về "Kẻ Được Chọn" và không để lộ bất kỳ thông tin nào.
+- Harry quyết định theo dõi Malfoy sau bữa ăn, bằng cách sử dụng áo choàng tàng hình. 
+- Harry nghe được Malfoy nói rằng mình có thể không ở lại Hogwarts trong năm tới vì có những việc quan trọng hơn. 
+- Harry bị Malfoy phát hiện dưới áo choàng tàng hình, và Malfoy tấn công cậu trước khi rời đi.
+"""

@@ -1,0 +1,17 @@
+"""
+- Colum thông báo rằng họ sắp tới Ratharney, một khu vực trong quận Meath.
+- Kathleen tỏ ra sung sướng và Scarlett cảm nhận được vẻ đẹp của nơi này qua khung kính xe.
+- Scarlett nhận ra dấu hiệu sắp mưa và Colum nói rằng hương vị của đồng quê sau cơn mưa sẽ tuyệt vời hơn.
+- Ratharney trôi qua nhanh khiến Scarlett không kịp nhìn rõ. 
+- Scarlett và Kathleen nhìn thấy một khuôn mặt lạ qua cửa sổ mở và sau đó, hàng rào biến mất, thay vào đó là một bức tường lớn.
+- Colum khuyên Scarlett ngồi im và không nói chuyện với ai khi họ gặp rắc rối với người lạ.
+- Một tiếng súng nổ vang lên, gây hoảng loạn cho Scarlett và Kathleen.
+- Họ chứng kiến cảnh một người phụ nữ bị trục xuất khỏi nhà và căn nhà của cô ấy bị phá hủy.
+- Scarlett phản ứng mạnh mẽ trước tình cảnh này và cố gắng can thiệp nhưng bị Kathleen ngăn lại.
+- Colum giải thích cho Scarlett về lý do người phụ nữ bị trục xuất khỏi nhà.
+- Scarlett và Kathleen tiếp tục cuộc hành trình về nhà, trong khi đó, Colum kể cho Scarlett nghe về những yêu tinh trong truyền thuyết Ireland.
+- Kathleen nhắc nhở Colum về Molly, người chị trong gia đình họ, và việc Scarlett nên biết về cô ấy.
+- Colum và Kathleen chia sẻ với Scarlett về lịch sử gia đình O'Hara và những chi tiết về Molly và gia đình cô.
+- Scarlett cảm thấy choáng ngợp với lượng thông tin gia đình mới nhận được.
+- Kathleen và Colum chuẩn bị rời khỏi xe để đi bộ về nhà, để Scarlett có thời gian riêng.
+"""

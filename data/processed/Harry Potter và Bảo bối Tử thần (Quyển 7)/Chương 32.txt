@@ -1,0 +1,34 @@
+"""
+- Thế giới sau khi kết thúc vẫn còn chìm trong chiến tranh. Fred Weasley chết, gây sốc cho Harry.
+- Harry, Ron và Hermione tránh những lời nguyền trong chiến tranh và tìm cách di chuyển an toàn.
+- Một con nhện khổng lồ từ Rừng Cấm tấn công họ nhưng bị đánh lui.
+- Họ nhận ra nhiều con nhện khác đang trèo lên lâu đài.
+- Harry và Percy khiêng xác Fred đến một nơi an toàn.
+- Trong lúc hỗn loạn, Malfoy và Goyle biến mất.
+- Hermione cố gắng giữ Ron không tham gia trực tiếp vào chiến đấu.
+- Harry, Hermione và Ron quyết định tìm và tiêu diệt con rắn Nagini, Trường Sinh Linh Giá cuối cùng của Voldemort.
+- Harry dùng khả năng của mình để tìm vị trí của Voldemort, biết rằng Voldemort đang ở trong một căn phòng bỏ hoang.
+- Voldemort đang suy nghĩ về căn phòng bí mật trong lâu đài và cây đũa phép Cơm nguội.
+- Lucius Malfoy thăm dò Voldemort về tình trạng của con trai mình.
+- Voldemort không quan tâm đến việc chiến đấu, chỉ đợi Harry tự tìm đến.
+- Harry, Hermione và Ron cố gắng vượt qua Tử Thần Thực Tử để tiếp cận Voldemort.
+- Harry thấy Voldemort đang ở trong lều cùng con rắn Nagini.
+- Voldemort phái Lucius Malfoy đi tìm Snape.
+- Harry, Hermione và Ron quyết định ai sẽ tiếp cận Voldemort.
+- Họ gặp nhiều khó khăn khi cố gắng di chuyển qua trận chiến.
+- Harry, Ron và Hermione sử dụng Áo khoác Tàng hình để di chuyển qua đám đông.
+- Họ gặp và cứu Draco Malfoy từ Tử Thần Thực Tử.
+- Họ chứng kiến nhiều cuộc chiến khác trong lâu đài.
+- Họ chạy qua tiền sảnh, nơi có nhiều cuộc chiến khác.
+- Harry cố gắng cứu Hagrid từ đám nhện khổng lồ.
+- Họ gặp gã khổng lồ Grawp và một người khổng lồ khác.
+- Họ phải đối mặt với giám ngục nhưng được cứu bởi Luna, Ernie và Seamus.
+- Harry, Ron và Hermione quyết định tìm và tiêu diệt con rắn Nagini.
+- Họ tìm đến cây Liễu Roi, nơi dẫn đến nơi ẩn náu của Voldemort.
+- Harry, Ron và Hermione cố gắng vượt qua cây Liễu Roi để tiếp cận Voldemort.
+- Họ chui qua đường hầm dưới cây Liễu Roi.
+- Harry nghe cuộc trò chuyện giữa Voldemort và Snape.
+- Voldemort nhận ra rằng cây đũa phép Cơm nguội không phục vụ anh ta một cách đúng đắn.
+- Voldemort quyết định giết Snape để trở thành chủ nhân thực sự của cây đũa phép Cơm nguội.
+- Harry chứng kiến cái chết của Snape và thu thập ký ức của ông.
+"""

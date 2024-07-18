@@ -1,0 +1,13 @@
+"""
+- Elizabeth và Jane ngủ chung phòng. Sáng hôm sau, họ nhận được lời thăm hỏi từ Mr Bingley và hai chị em anh.
+- Tình trạng sức khỏe của Jane cải thiện, nhưng Jane vẫn yêu cầu gửi tin về nhà và mời mẹ cô tới thăm.
+- Bà Bennet và hai cô con gái nhỏ nhất tới Netherfield sau bữa sáng. Bà không muốn Jane hồi phục nhanh để không phải rời Netherfield.
+- Bà Bennet, Jane và Elizabeth được mời vào phòng ăn sáng bởi cô Bingley.
+- Bingley và cô Bingley đảm bảo rằng họ sẽ chăm sóc Jane trong thời gian cô ở lại.
+- Bà Bennet biểu lộ lòng biết ơn và ca ngợi Jane.
+- Trong cuộc trò chuyện, Elizabeth và Bingley thảo luận về tính cách con người.
+- Bà Bennet tiếp tục cuộc trò chuyện, so sánh giữa London và nông thôn.
+- Lydia, cô con gái nhỏ nhất, yêu cầu Bingley tổ chức một buổi dạ vũ khi Jane hồi phục.
+- Bà Bennet và hai cô con gái nhỏ ra về, Elizabeth quay lại chăm sóc Jane.
+- Darcy từ chối tham gia vào cuộc bình phẩm về bà Bennet và hai cô con gái của cô do hai chị em Bingley khởi xướng.
+"""

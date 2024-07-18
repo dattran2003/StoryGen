@@ -1,0 +1,13 @@
+"""
+- Nhân vật chính ngồi trong một chiếc taxi cũ kỹ, hôi hám, đang di chuyển qua những con phố vắng người ở New York vào cuối tuần.
+- Anh bắt chuyện với tài xế taxi tên Horwitz, hỏi về lũ vịt trời ở hồ trong Công viên trung tâm.
+- Horwitz phản ứng một cách giận dữ với những câu hỏi về vịt trời và cá sống dưới hồ trong mùa đông.
+- Nhân vật chính cố gắng hiểu cách mà cá sống qua mùa đông lạnh giá nhưng Horwitz chỉ tăng thêm sự tức giận.
+- Nhân vật đề nghị dừng lại uống một cái gì đó nhưng Horwitz từ chối.
+- Sau khi rời taxi, anh ta đi đến quán bar của Ernie, nơi đang chật kín người.
+- Anh ta quan sát Ernie chơi đàn piano và những người xung quanh, nhận xét về họ.
+- Nhân vật tiếp tục mô tả những người xung quanh mình, gồm một cặp đôi đang trò chuyện và một người bạn cũ của anh trai mình.
+- Anh gặp lại Lilian Simmons, bạn gái cũ của anh trai, và cô giới thiệu anh với người bạn đồng hành của mình.
+- Lilian cố gắng kéo anh vào cuộc trò chuyện nhưng anh từ chối và nói rằng mình cần phải đi chỗ khác.
+- Anh rời quán bar, cảm thấy bức xúc vì những sự kiện đã xảy ra.
+"""

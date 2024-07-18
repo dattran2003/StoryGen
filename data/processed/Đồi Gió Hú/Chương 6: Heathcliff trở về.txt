@@ -1,0 +1,9 @@
+"""
+- Tác giả phải rời Hareton, một cậu bé năm tuổi, để theo Catherine chuyển đến Thrushcross Grange. Catherine cư xử tốt hơn mong đợi, tỏ ra yêu Edgar và quý mến em gái của anh, Isabella.
+- Catherine và Edgar có vẻ hạnh phúc, nhưng mọi thứ kết thúc sớm khi Heathcliff, người mà tác giả từng chăm sóc, trở về sau ba năm vắng bóng.
+- Heathcliff đã thay đổi, trở thành một người đàn ông lớn, mạnh mẽ và thông minh, nhưng vẫn giữ nét hung hãn.
+- Sự trở lại của Heathcliff làm xáo lộn cuộc sống yên bình của Catherine và Edgar. Catherine sung sướng và bất ngờ trước sự trở lại của anh, trong khi Edgar tỏ ra khó chịu và bực bội.
+- Heathcliff quyết định ở lại Wuthering Heights sau khi Hindley, anh trai của Catherine, mời anh. 
+- Catherine lo lắng cho Hindley nhưng tin rằng anh sẽ tự bảo vệ mình. Cô tự nguyện làm lá chắn giữa Hindley và Heathcliff.
+- Mặc dù Edgar không vui với sự trở lại của Heathcliff, Catherine vẫn tiếp tục cư xử tốt với anh, giống như với mọi người khác trong nhà.
+"""

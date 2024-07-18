@@ -1,0 +1,12 @@
+"""
+- Hai ngày sau khi bắt đầu năm học, Neville đã làm chảy vạc thứ sáu của mình trong giờ Độc dược, điều này dẫn đến việc giáo sư Snape phạt anh ta cấm túc.
+- Snape đã tỏ ra thù hận hơn sau mùa hè, và điều này được giải thích do thất bại trong cuộc đua cho vị trí dạy môn Nghệ thuật Hắc ám, nơi mà giáo sư Moody đang nắm giữ.
+- Harry và Ron nhận ra rằng Snape dường như sợ hãi hoặc thận trọng với Moody, tránh nhìn vào mắt ông ta.
+- Học sinh lớp năm nhà Gryffindor rất mong đợi buổi học đầu tiên với Moody.
+- Moody đã giới thiệu cho lớp học về lời nguyền Độc tài, lời nguyền Hành hạ, và lời nguyền Giết chóc, tức là 'Avada Kedavra'.
+- Moody trình diễn các lời nguyền trên những con nhện, tạo ra phản ứng kinh hãi và sợ hãi từ lớp học.
+- Neville dường như bị ảnh hưởng mạnh mẽ bởi lời nguyền Hành hạ, và sau đó được Moody mời lên văn phòng.
+- Harry cảm thấy rằng việc học về những lời nguyền không thể tha thứ không phải là giải trí, một quan điểm mà Hermione cũng chia sẻ.
+- Hermione đã bắt đầu một tổ chức mới, H.V.Đ.C.Q.L.G.T., nhằm nâng cao quyền lợi cho gia tinh.
+- Hedwig mang lại một bức thư từ Sirius, thông báo rằng ông ta đang trở về miền Bắc do lo ngại về những dấu hiệu không bình thường liên quan đến Harry.
+"""

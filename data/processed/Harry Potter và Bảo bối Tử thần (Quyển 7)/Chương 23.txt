@@ -1,0 +1,18 @@
+"""
+- Harry bị tấn công bởi một nhóm người không rõ, dẫn đến việc mặt nó sưng phù và mất đũa phép.
+- Harry, Ron và Hermione bị lôi đi, trong tình trạng bị thương và không có đũa phép.
+- Chúng bị một nhóm người bao gồm Fenrir Greyback, người sói và những kẻ khác, gọi là "Mẹ mìn", bắt giữ.
+- Greyback nhận ra Harry sau khi đặt lại cặp kính cho Harry, và xác nhận nó là Harry Potter.
+- Greyback và nhóm của mình quyết định mang Harry và nhóm bạn của anh đến phủ Malfoy thay vì đưa đến Bộ Pháp Thuật.
+- Harry cố gắng giữ vững tinh thần trong khi đối mặt với nỗi đau từ vết thương trên trán, đồng thời cố gắng không để Voldemort biết vị trí của mình.
+- Khi nhóm đến phủ Malfoy, Greyback trình bày với Narcissa Malfoy rằng họ đã bắt được Harry Potter.
+- Draco Malfoy không chắc chắn về việc Harry là Potter do hình dạng biến dạng của Harry.
+- Bellatrix Lestrange xuất hiện và nhận ra Hermione Granger, dẫn đến việc nhóm quyết định giữ nhóm của Harry trong hầm rượu.
+- Bellatrix tra tấn Hermione để tìm hiểu về thanh gươm Gryffindor mà nhóm của Harry có.
+- Harry và nhóm bạn của anh tìm cách thoát khỏi hầm rượu, nhờ sự giúp đỡ từ Dobby, gia tinh.
+- Dobby giúp một phần nhóm thoát khỏi hầm rượu trước khi trở lại để giúp Harry và Ron.
+- Trong lúc Dobby trở lại, Harry và Ron đối mặt với Wormtail (Đuôi Trùn), và sau một cuộc vật lộn, Wormtail tự giết mình do sự phản bội của tay giả của mình.
+- Harry và Ron sau đó đối mặt với Bellatrix, Lucius, Narcissa và Greyback, và một cuộc chiến bùng nổ.
+- Dobby trở lại, giúp nhóm của Harry thoát khỏi phủ Malfoy bằng cách làm rớt chùm đèn pha lê xuống và sau đó mang họ đến Chòi Đất.
+- Trong quá trình này, Dobby bị Bellatrix giết bằng một con dao, và Harry cố gắng cứu Dobby nhưng không thành công.
+"""

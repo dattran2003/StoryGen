@@ -1,0 +1,14 @@
+"""
+- Harry Potter phát hiện một sinh vật nhỏ trên giường mình, sau đó nhận ra đó là Dobby, một gia tinh.
+- Dobby đã theo dõi Harry từ sáng sớm và nó tự giới thiệu với Harry, bày tỏ sự kính trọng sâu sắc.
+- Dobby đã đến cảnh báo Harry về mối nguy hiểm chờ đợi anh tại Hogwarts.
+- Harry và Dobby có cuộc trò chuyện về cuộc sống của Dobby, nó bị ràng buộc trong một gia đình phù thủy và không thể rời đi trừ khi được giải phóng.
+- Dobby nói rằng Harry Potter gặp nguy hiểm nếu trở lại Hogwarts và có âm mưu đen tối diễn ra tại trường.
+- Dobby tiết lộ rằng nó đã chặn tất cả thư từ bạn bè của Harry, hy vọng Harry sẽ quyết định không trở lại Hogwarts.
+- Harry tức giận và đòi lại thư, Dobby đáp lại bằng cách gây rối trong bữa tối của gia đình Dursley.
+- Dobby sử dụng ma thuật khiến bánh tráng miệng rơi xuống sàn nhà bếp, làm hỏng buổi tiệc của gia đình Dursley.
+- Harry bị trừng phạt nặng nề sau vụ việc và bị cấm không được sử dụng ma thuật.
+- Harry bị giam trong phòng với cửa sổ bị đóng song, chỉ được thả ra để vệ sinh.
+- Dobby xuất hiện trong giấc mơ của Harry, khẳng định rằng Harry sẽ an toàn nếu ở lại với gia đình Dursley.
+- Harry thức dậy và phát hiện Ron Weasley đang đứng ngoài cửa sổ, nhìn vào anh.
+"""

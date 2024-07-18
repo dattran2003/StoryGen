@@ -1,0 +1,14 @@
+"""
+- Harry có lớp Thảo Dược và kể cho Ron và Hermione về buổi học với thầy Dumbledore. 
+- Ron và Hermione thắc mắc về mục đích của thầy Dumbledore trong việc chia sẻ thông tin với Harry.
+- Harry, Ron và Hermione gặp khó khăn khi chăm sóc cây Snargaluff trong lớp học.
+- Hermione chia sẻ về bữa tiệc của Slughorn và việc cô gặp Gwenog Jones, đội trưởng của Holyhead Harpies.
+- Trong lúc học, Harry, Ron và Hermione bắt đầu thảo luận về bữa tiệc tiếp theo của Slughorn.
+- Hermione đề nghị mời Ron đến bữa tiệc, tạo ra sự ghen tuông giữa Ron và McLaggen.
+- Harry lo lắng về việc Katie Bell vẫn đang ở bệnh viện Thánh Mungo và không thể tham gia trận đấu Quidditch.
+- Harry quyết định chọn Dean Thomas để thay thế Katie Bell trong đội Quidditch.
+- Ron gặp khó khăn trong việc giữ gôn trong trận đấu, gây ra mâu thuẫn giữa anh và Harry.
+- Ginny và Dean bắt đầu hẹn hò, gây ra sự tức giận và ghen tuông từ Harry.
+- Căng thẳng giữa Ron, Harry và Hermione gia tăng khi Ron bắt đầu hẹn hò với Lavender Brown.
+- Hermione phản ứng dữ dội với mối quan hệ mới của Ron, tấn công anh ta bằng bùa chú.
+"""

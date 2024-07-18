@@ -1,0 +1,13 @@
+"""
+- Frodo nghe thấy một bài hát ngọt ngào trong tâm tưởng, gợi nhớ cảnh tượng tươi sáng và tươi mới.
+- Họ chuẩn bị rời đi sau bữa sáng, với tâm trạng nặng trĩu nhưng đầy hứng khởi trước cảnh sắc sáng sủa của buổi sáng.
+- Frodo và nhóm tạm biệt Goldberry, nhưng Frodo quên chào tạm biệt và quay lại, lúc đó Goldberry gọi họ từ trên đồi.
+- Goldberry khuyến khích họ tiếp tục hành trình và Frodo không tìm thấy lời đáp lại, chỉ cúi chào và lên ngựa.
+- Trong hành trình, họ nhận ra rằng họ đã đi xa hơn so với dự kiến, với Cao Nguyên Mộ sắp kết thúc.
+- Họ dừng lại nghỉ ngơi và ăn trưa, nhưng sau đó bị đánh thức bởi màn sương mù lạnh lẽo và nặng nề.
+- Họ quyết định tiếp tục di chuyển, nhưng bị tách ra trong màn sương, Frodo lạc nhóm bạn của mình.
+- Frodo cố gắng tìm bạn bè mình trong màn đêm và sương mù, cuối cùng bị bắt bởi Những Người Trong Mộ.
+- Frodo thấy bạn bè mình đang nằm trong một ngôi mộ, bị nguyền rủa bởi Những Người Trong Mộ.
+- Frodo cố gắng chống lại sự nguyền rủa bằng cách chém vào cánh tay của kẻ nguyền rủa, và sau đó hô gọi tên Tom Bombadil.
+- Tom Bombadil đáp lại và cứu Frodo và bạn bè của ông ra khỏi ngôi mộ.
+"""

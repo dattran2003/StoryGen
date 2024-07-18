@@ -1,0 +1,17 @@
+"""
+- Mọi người không phản đối việc tụ tập tại nhà bà dì, và anh Collins cùng năm cô em họ đi thăm Meryton.
+- Anh Collins bày tỏ sự ngưỡng mộ về kích thước và nội thất phòng khách, so sánh nó với phòng ăn mùa hè tại Rosings.
+- Wickham nhận lời mời của ông chú và sự xuất hiện của anh tạo sự phấn khích cho mọi người.
+- Anh Collins chia sẻ với bà Philips về Rosings, gia chủ và sự giàu có của nó, khiến bà Philips ngưỡng mộ.
+- Trong khi chờ đợi, thời gian dường như kéo dài với các cô gái cho đến khi các chàng trai đến.
+- Wickham tạo ấn tượng mạnh mẽ hơn cả ông chú Philips, và Elizabeth cảm thấy mến mộ anh.
+- Wickham và Elizabeth có cuộc trò chuyện thân mật, và anh bắt đầu chia sẻ về mối quan hệ phức tạp với anh Darcy.
+- Wickham tiết lộ rằng anh và Darcy có quan hệ đặc biệt từ nhỏ và Darcy đã làm hỏng kế hoạch cuộc sống của anh.
+- Wickham nói về việc anh gia nhập lực lượng dân quân dân, không phải do lựa chọn mà do hoàn cảnh.
+- Wickham tiết lộ rằng anh Darcy đã ngăn cản anh nhận khoản thu nhập giáo hội mà cha Darcy đã hứa cho anh.
+- Elizabeth tỏ ra sốc và giận dữ trước hành động của Darcy, và Wickham chia sẻ thêm về bản chất phức tạp của anh.
+- Wickham nói về cô Darcy, người cũng kiêu hãnh như anh trai, và về mối quan hệ giữa Darcy và Bingley.
+- Wickham giải thích rằng Darcy có thể thân thiện và dễ chịu khi anh muốn, đặc biệt với những người giàu có.
+- Anh Collins thua trong trò chơi bài uýt nhưng không quan tâm, anh cho rằng tiền bạc không quan trọng so với sự hỗ trợ của Phu nhân Catherine.
+- Elizabeth và Wickham tiếp tục trò chuyện thân mật, và Elizabeth rời buổi tối với tâm trí đầy những suy nghĩ về Wickham.
+"""

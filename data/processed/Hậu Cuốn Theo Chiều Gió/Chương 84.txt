@@ -1,0 +1,25 @@
+"""
+- Scarlett thăm Molly, chị họ của mình, và cố gắng thu thập thông tin về Bá tước Kilmessan nhưng không thành công.
+- Molly tiết lộ rằng Fenton, Bá tước Kilmessan, đã quyết định ở lại lãnh địa Adamstown của mình sau một khoảng thời gian dài vắng mặt, gây ngạc nhiên cho quản lý và gia nhân của mình.
+- Molly nói về kế hoạch tổ chức một cuộc tiếp tân lớn tại Adamstown, nơi mà Fenton từng mời 40 khách và tổ chức hai tuần săn và một buổi dạ hội.
+- Người dân trong gia đình O'Hara bình luận với sự châm biếm về việc Fenton trở về vào thời điểm mùa khô, ảnh hưởng đến hoạt động săn bắn.
+- Scarlett trở về nhà mà không thu thập được thêm thông tin về Luke Fenton, và lo lắng nếu mình không được mời đến cuộc săn hoặc cuộc tiếp tân.
+- Scarlett viết thư cho bạn bè thông báo về việc Fenton trở về và mong muốn thu hút sự chú ý của cộng đồng.
+- Sáng hôm sau, Scarlett ăn mặc trang trọng, chuẩn bị cho cuộc gặp gỡ với Fenton.
+- Fenton xuất hiện khi Scarlett đang tập dượt cưỡi ngựa và thách đấu Scarlett trong cuộc đua ngựa.
+- Scarlett và Fenton tổ chức cuộc đua ngựa đến Trim, và Scarlett giành chiến thắng.
+- Scarlett từ chối mời Fenton uống sâm banh sau cuộc đua, nhưng đồng ý tổ chức cuộc đua khác.
+- Scarlett giải thích cho con gái mình, Cat, về việc trang sức và chuẩn bị cho bữa tối với Fenton.
+- Scarlett và Fenton dùng bữa tối, trong đó Scarlett chia sẻ nhiều thông tin hơn dự định, và cuối cùng hỏi về việc Fenton không đi săn hay tiếp khách.
+- Scarlett nhận ra Fenton có thể đã đến Adamstown chỉ để gặp cô, và cô quyết tâm đánh bại ông trong cuộc chơi.
+- Scarlett và Fenton tiếp tục cuộc đua ngựa, và cuối cùng Scarlett từ chối lời mời ăn sáng của Fenton.
+- Scarlett nhận được lời mời ăn tối từ Fenton, nhưng cô từ chối và thay vào đó chọn để đua ngựa với ông.
+- Scarlett nhận ra Fenton có những đặc điểm giống Rhett, nhưng cũng có những điểm khác biệt mà cô chưa thể xác định.
+- Scarlett và Fenton tiếp tục cuộc đua ngựa và cô từ chối lời mời ăn sáng của ông.
+- Scarlett nhận được lời mời ăn tối từ Fenton nhưng cô từ chối và thay vào đó chọn đua ngựa với ông.
+- Scarlett nhận ra Fenton có những đặc điểm giống Rhett nhưng cũng có những điểm khác biệt mà cô chưa thể xác định.
+- Scarlett và Fenton tiếp tục cuộc đua ngựa và cuộc cạnh tranh giữa họ trở nên rõ ràng hơn.
+- Bà Fitzpatrick cảnh báo Scarlett về việc cô đang làm mất lòng kính trọng từ cộng đồng do mối quan hệ với Fenton.
+- Scarlett tự hỏi liệu mình có yêu Luke Fenton hay không và suy nghĩ về những thông tin cô nhận được về quá khứ của ông.
+- Scarlett nhận ra Fenton không phải là người đàn ông si tình và quyết tâm không để tên mình nằm trong danh sách những người phụ nữ mà ông đã chinh phục.
+"""

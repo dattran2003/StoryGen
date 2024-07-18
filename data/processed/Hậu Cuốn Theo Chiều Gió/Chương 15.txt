@@ -1,0 +1,14 @@
+"""
+- Scarlett hướng dẫn Pansy, hầu gái của mình, về việc chuẩn bị quần áo và thay đổi trang sức.
+- Scarlett gặp Eleavlor Butler, đi mua sắm và tham dự cuộc họp về Cư xá hợp bang.
+- Scarlett gặp lại Rhett, điều khiến cô cảm thấy phức tạp.
+- Scarlett dự định đi chợ vào sáng sớm ngày mai để bắt đầu cuộc sống quý tộc ở Charleston.
+- Scarlett trải qua buổi sáng lạnh lẽo tại chợ, nơi cô gặp và giao lưu với nhiều người.
+- Scarlett học cách phân biệt chất lượng hàng hóa từ những người bán hàng tại chợ.
+- Scarlett được bà Sally Brewton, một người quan trọng trong xã hội Charleston, nhận biết và tỏ ý thiện chí.
+- Scarlett được giới thiệu về văn hóa và tập quán mua sắm tại Charleston.
+- Scarlett cảm thấy không thoải mái với việc ăn hải sản từ chợ.
+- Scarlett gặp khó khăn trong việc tiêu hóa sau bữa ăn trưa phong phú.
+- Scarlett từ chối lời mời thăm Carreen của bà Eulalie và Pauline vì lý do sức khỏe.
+- Scarlett lo lắng về việc phải đi lễ Chúa tại Charleston, nơi tôn giáo có vai trò quan trọng.
+"""

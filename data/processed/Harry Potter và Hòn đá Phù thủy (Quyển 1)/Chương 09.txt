@@ -1,0 +1,29 @@
+"""
+- Harry gặp Draco Malfoy, một người mà anh ta cho rằng còn đáng ghét hơn cả Dudley. 
+
+- Thông báo sắp xếp lớp học bay giữa Gryffindor và Slytherin khiến Harry lo ngại vì phải đối mặt với Malfoy.
+
+- Ron cố gắng an ủi Harry, khẳng định rằng Malfoy chỉ giỏi nói chứ không thực sự giỏi Quidditch.
+
+- Malfoy thường khoe về khả năng bay của mình và thường xuyên nói về Quidditch.
+
+- Neville chưa từng cưỡi chổi vì bà của anh ta cấm, vì Neville thường xuyên gặp tai nạn.
+
+- Hermione háo hức học bay và chuẩn bị bằng cách đọc sách trước.
+
+- Neville nhận được một trái cầu gợi nhớ từ bà, nó chuyển màu đỏ khi Neville quên điều gì đó.
+
+- Malfoy lấy trái cầu gợi nhớ của Neville, gây ra rắc rối.
+
+- Harry và Ron sẵn sàng đối mặt với Malfoy nhưng bị giáo sư McGonagall can thiệp.
+
+- Lớp học bay bắt đầu, Neville gặp tai nạn và gãy tay khi cố gắng cưỡi chổi.
+
+- Malfoy lấy trái cầu gợi nhớ của Neville và bay lên cao, Harry theo đuổi và cuối cùng chụp được nó, chứng tỏ khả năng bay tự nhiên của mình.
+
+- Giáo sư McGonagall tìm thấy Harry sau màn bay mạo hiểm và thay vì phạt, bà quyết định đặt Harry vào vị trí Tầm thủ cho đội Quidditch nhà Gryffindor.
+
+- Malfoy thách đấu Harry trong một trận đấu phù thủy tay đôi, nhưng không xuất hiện, thay vào đó ông Filch xuất hiện khiến cả nhóm phải chạy trốn.
+
+- Họ vô tình khám phá ra một con quái vật ba đầu canh giữ một cái miệng bẫy ở hành lang tầng ba.
+"""

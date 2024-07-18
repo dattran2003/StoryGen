@@ -1,0 +1,21 @@
+"""
+- Harry Potter nhìn theo gia đình Dursley rời đi, chuẩn bị rời khỏi ngôi nhà số 4 Privet Drive mãi mãi.
+- Harry hồi tưởng lại những kỷ niệm tại ngôi nhà, từ việc trốn tránh gia đình Dursley cho đến cuộc gặp gỡ với Albus Dumbledore.
+- Harry mở cửa dưới cầu thang, nơi cậu từng ngủ, gợi lại những kỷ niệm từ thời còn nhỏ.
+- Một tiếng gầm lớn vang lên, báo hiệu sự xuất hiện của các thành viên Hội Phượng Hoàng.
+- Hagrid, cùng với các thành viên khác, đã đến để giúp Harry rời khỏi ngôi nhà.
+- Harry chào đón họ và họ thông báo rằng kế hoạch đã thay đổi do Pius Thicknesse bị lừa, gây rắc rối cho việc di chuyển.
+- Họ giải thích rằng Harry không thể sử dụng ma thuật để rời đi do dấu hiệu hiện hữu của một đứa trẻ dưới 17 tuổi.
+- Họ quyết định sử dụng chổi, vong mã và xe máy của Hagrid để di chuyển, vì dấu hiệu hiện hữu không thể phát hiện.
+- Harry và gia đình Dursley sẽ đi những hướng khác nhau, khiến bùa bảo vệ Harry hết hiệu lực.
+- Họ sẽ di chuyển đến nhà của cha mẹ Tonks, nơi đã được bảo vệ bởi ma thuật.
+- Kế hoạch bao gồm việc tạo ra bảy Harry Potter giả, mỗi người đi cùng một người bảo vệ khác.
+- Harry phản đối ý tưởng này, nhưng sau cùng phải chấp nhận.
+- Các thành viên Hội Phượng Hoàng biến hình thành Harry và chuẩn bị để rời đi.
+- Họ chia thành các cặp, chuẩn bị di chuyển bằng chổi, vong mã và xe máy.
+- Họ bắt đầu di chuyển, nhưng bị tấn công bởi nhóm Tử Thần Thực Tử.
+- Trong cuộc chiến, Hedwig, con cú của Harry, bị thương nặng và sau đó tử vong.
+- Harry và Hagrid cố gắng thoát khỏi nhóm Tử Thần Thực Tử, nhưng phải đối mặt với sự xuất hiện của Voldemort.
+- Trong cuộc đối đầu, Harry sử dụng ma thuật để tự vệ và cuối cùng, cả hai thoát khỏi Voldemort.
+- Harry và Hagrid rơi xuống một cái ao sình, kết thúc cuộc truy đuổi.
+"""

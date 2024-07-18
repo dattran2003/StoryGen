@@ -1,0 +1,15 @@
+"""
+- Sau cuộc trò chuyện với ông Lloyd, tình trạng sức khỏe của tôi dần phục hồi.
+- Một sự thay đổi sắp xảy ra khiến tôi háo hức.
+- Tuy nhiên, tôi bị cô lập bởi bà Reed, không được tham gia cuộc sống gia đình.
+- John Reed thường xuyên quấy rối tôi, thậm chí tấn công vật lý nhưng tôi đã phản kháng.
+- Trong một cuộc cãi vã, tôi đã thách thức quyền lực của bà Reed, điều này khiến bà ta tức giận và trừng phạt tôi.
+- Trải qua mùa Giáng Sinh và Năm mới trong cô đơn, tôi chỉ có niềm vui từ việc quan sát cuộc sống của Eliza và Georgiana từ xa.
+- Tôi tìm thấy niềm vui trong sự cô đơn qua việc chơi với con búp bê, thậm chí tôi đã dành tình yêu chân thành cho nó.
+- Bessie, người hầu, đôi khi mang thức ăn và chút tình cảm đến cho tôi.
+- Ngày 15 tháng 1, bà Reed gọi tôi đến phòng ăn, nơi tôi gặp ông Brocklehurst, người sắp nhận tôi vào trường Lowood.
+- Trong cuộc gặp gỡ này, tôi bị chỉ trích và đánh đồng với những kẻ nói dối.
+- Sự xúc phạm này khiến tôi nổi giận và phản công lại bà Reed, khẳng định tôi không nói dối và chỉ ra sự thật về cách bà ta đã đối xử với tôi.
+- Bà Reed, bị bất ngờ trước sự phản kháng của tôi, cuối cùng đồng ý gửi tôi đến trường Lowood sớm.
+- Đây là chiến thắng đầu tiên của tôi trong cuộc chiến chống lại sự cô lập và bất công.
+"""

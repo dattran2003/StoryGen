@@ -1,0 +1,16 @@
+"""
+- Harry và Dumbledore đứng trước cửa nhà quen thuộc tại trang trại Hang Sóc.
+- Dumbledore gõ cửa và sau khi được xác nhận, bà Weasley mở cửa.
+- Dumbledore và Harry bước vào, bà Weasley bày tỏ sự ngạc nhiên vì họ đến sớm.
+- Dumbledore thông báo rằng họ đã thuyết phục Slughorn dễ dàng hơn dự kiến.
+- Tonks xuất hiện, trông ủ rũ và bệnh, sau đó rời đi nhanh chóng.
+- Dumbledore thông báo rằng họ sẽ gặp lại tại Hogwarts và sau đó biến mất.
+- Bà Weasley lo lắng và sau đó chuẩn bị thức ăn cho Harry.
+- Hermione có mặt tại nhà và Crookshanks, con mèo của cô, nằm lên đùi Harry.
+- Bà Weasley thông báo thăng chức của Arthur và thông tin về Bộ Phát Hiện và Tịch Thu Các Câu Thần Chú Bảo Vệ và Vật Phòng Thân Gỉa Mạo.
+- Arthur Weasley về nhà, sau một ngày làm việc căng thẳng.
+- Harry đi ngủ trong phòng của Fred và George, hiện đang được sử dụng làm kho.
+- Sáng hôm sau, Harry thức dậy do tiếng động từ Ron và Hermione, họ hỏi về chuyến đi của Harry với Dumbledore.
+- Harry nói về cuộc gặp gỡ với Slughorn, và sau đó Fleur Delacour xuất hiện với thông báo rằng cô và Bill sắp kết hôn.
+- Bà Weasley tỏ ra không hài lòng với thông tin này và sau đó rời đi, để lại sự ngạc nhiên và thắc mắc trong nhóm.
+"""

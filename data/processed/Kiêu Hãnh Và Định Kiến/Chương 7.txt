@@ -1,0 +1,16 @@
+"""
+- Thu nhập của ông Bennet chủ yếu từ khoản tiền 2000 bảng mỗi năm, và người thừa kế mặc định là một người đàn ông có quan hệ xa.
+- Bà Bennet nhận di sản 4000 bảng từ cha mẹ bà, người đã từng là luật sư tại Meryton.
+- Một trung đoàn lực lượng dân quân đã chuyển đến đóng trại tại Meryton, thu hút sự chú ý của hai cô con gái nhỏ nhất của nhà Bennet, Catherine và Lydia.
+- Lydia và Catherine thường xuyên đi thăm bà dì Phillips và ghé qua cửa hàng thời trang tại Meryton.
+- Họ thường xuyên nói về các sĩ quan, khiến ông Bennet gọi họ là "hai đứa con gái ngu xuẩn nhất nước".
+- Bà Bennet không đồng ý với ông Bennet về việc coi hai cô con gái nhỏ là ngu xuẩn.
+- Lydia và Catherine nói về việc Đại tá Foster và Đại úy Carter không còn thăm nhà cô Watson thường xuyên như trước.
+- Jane nhận được thư mời từ Caroline Bingley để dự bữa tối.
+- Jane phải cưỡi ngựa đến Netherfield do ông Bennet từ chối cho sử dụng cỗ xe.
+- Jane bị ướt mưa và sau đó bị bệnh, buộc phải ở lại Netherfield.
+- Elizabeth quyết định đi bộ đến Netherfield để thăm Jane, bất chấp thời tiết xấu.
+- Elizabeth đến Netherfield trong tình trạng mệt mỏi và bẩn thỉu, nhưng vẫn nhận được sự tiếp đãi lịch sự từ gia đình Bingley.
+- Jane bị sốt cao và yếu, và bác sĩ khuyên cô nên nghỉ ngơi trên giường.
+- Elizabeth quyết định lưu lại Netherfield để chăm sóc Jane, và người hầu được gửi về Longbourn để báo tin và lấy thêm quần áo.
+"""

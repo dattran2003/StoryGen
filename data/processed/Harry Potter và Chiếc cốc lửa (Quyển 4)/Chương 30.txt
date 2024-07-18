@@ -1,0 +1,17 @@
+"""
+- Thầy Moody gọi Harry vào văn phòng của hiệu trưởng Dumbledore.
+- Cornelius Fudge, Bộ trưởng Bộ Phép thuật, đang chờ tại văn phòng cùng với Dumbledore và Moody. Fudge và Harry trao đổi một vài câu chuyện xã giao.
+- Fudge và Moody muốn thảo luận về việc Harry tìm thấy ông Crouch trong sân trường.
+- Harry nhắc đến việc không nhìn thấy Madame Maxime trong sự kiện này, khiến Fudge có vẻ bối rối.
+- Harry bày tỏ mong muốn nói chuyện riêng với Dumbledore, khiến Fudge và Moody rời đi để cho họ có không gian riêng.
+- Trong văn phòng của Dumbledore, Harry khám phá ra một "Tưởng Ký" chứa ký ức mà Dumbledore đã chia sẻ.
+- Harry vô tình truy cập vào ký ức của Dumbledore, xem xét một phiên tòa về Igor Karkaroff, một cựu Tử thần Thực tử.
+- Trong ký ức, Karkaroff đang cung cấp danh sách những Tử thần Thực tử khác để đổi lấy tự do.
+- Harry chứng kiến phiên tòa khác về Ludo Bagman, người được tha thứ sau khi cáo buộc về liên kết với Tử thần Thực tử.
+- Harry cũng thấy phiên tòa của gia đình Crouch, bao gồm con trai của ông Crouch, bị kết tội tra tấn Frank và Alice Longbottom.
+- Harry trở về thực tại sau khi Dumbledore gọi anh ta về.
+- Dumbledore giải thích về "Tưởng Ký", một công cụ mà anh ta dùng để giữ và xem xét các suy nghĩ và ký ức.
+- Harry chia sẻ với Dumbledore về giấc mơ liên quan đến Voldemort và Wormtail.
+- Dumbledore nói rằng anh ta nghi ngờ rằng Voldemort đang trở nên mạnh mẽ hơn, dựa trên một loạt sự kiện gần đây.
+- Harry và Dumbledore thảo luận về những người liên quan đến phiên tòa mà Harry đã xem trong "Tưởng Ký".
+"""

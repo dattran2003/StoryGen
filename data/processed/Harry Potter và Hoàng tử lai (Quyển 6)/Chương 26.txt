@@ -1,0 +1,18 @@
+"""
+- Harry và Dumbledore đứng trên một gờ đá cao, nhìn ra biển đêm đầy sao, chuẩn bị khám phá một hang động bí mật.
+- Dumbledore giải thích rằng hang động này từng là nơi mà trẻ em từ một ngôi làng tồi tàn gần đó được đưa đến để hít thở không khí biển.
+- Dumbledore và Harry bắt đầu leo xuống hang động qua một loạt các hốc đá, với Dumbledore di chuyển chậm do cánh tay bị thương.
+- Dumbledore phát hiện ra một khe nứt trong vách đá, nghi ngờ đó là lối vào hang động bí mật.
+- Harry và Dumbledore bơi qua khe nứt, đi sâu vào hang động ngập nước, sau cùng lên bờ trong một hang động lớn và lạnh lẽo.
+- Dumbledore xác nhận rằng họ đã đến đúng nơi dựa trên sự tương tác của hang động với ma thuật.
+- Dumbledore phát hiện ra lối vào bị ẩn giấu, và sau khi chọc thủng bằng máu của mình, lối vào hiện ra.
+- Dumbledore dùng ma thuật để làm khô quần áo ướt của Harry trước khi họ đi vào hang động.
+- Dumbledore nhận ra rằng lối vào đòi hỏi một 'lộ phí', có thể là máu.
+- Dumbledore tự cắt vào tay mình để mở lối vào, sau đó họ bước qua lối vào vào một hang động chứa một hồ nước đen tối.
+- Họ phát hiện ra một con thuyền nhỏ được gắn với một sợi dây xích, sau đó họ đi thuyền băng qua hồ, với nhiều xác chết nổi dưới nước.
+- Họ tới một hòn đảo nhỏ ở giữa hồ, nơi có một cái chậu chứa một chất lỏng màu xanh, mà Dumbledore tin rằng họ cần phải uống để tiếp cận một vật phẩm.
+- Dumbledore bắt đầu uống chất lỏng màu xanh, gây ra cho ông đau đớn và khủng khiếp, nhưng Harry buộc phải tiếp tục ép Dumbledore uống.
+- Sau khi uống hết chất lỏng, một hộp nhỏ bằng vàng xuất hiện, Dumbledore lấy nó và họ chuẩn bị rời đi, nhưng bị tấn công bởi một nhóm xác chết.
+- Dumbledore dùng ma thuật để đẩy lùi xác chết, tạo ra một vòng lửa để bảo vệ họ, cho phép họ thoát ra khỏi hang động.
+- Dumbledore trở nên yếu sau khi sử dụng ma thuật, và Harry hỗ trợ ông trở lại ra khỏi hang động.
+"""

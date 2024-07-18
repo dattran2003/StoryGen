@@ -1,0 +1,17 @@
+"""
+- Sau khi trượt băng, tôi ghé vào quán ăn bánh mỳ kẹp pho mát và uống sữa trước khi vào trạm điện thoại.
+- Tôi định gọi cho Jane để xem cô ấy có ở nhà không với ý định mời cô ấy đi nhảy.
+- Tôi nhớ lại ngày mồng bốn tháng bảy khi chúng tôi mới quen nhau vàJane nhảy với El Paik, một người mà tôi không thích.
+- Jane nói rằng El Paik là một 'tổng thể chưa hoàn thiện', một cách cô ấy dùng để bào chữa cho những người cô ấy thích dù họ có những khuyết điểm.
+- Tôi gọi Jane nhưng không ai bắt máy, sau đó tôi đọc sổ ghi chú và nhận ra chỉ còn lại ba số điện thoại.
+- Tôi quyết định gọi cho Carl Luce, người mà tôi không thích lắm nhưng anh ấy rất thông minh.
+- Carl đồng ý gặp tôi vào 10 giờ tối tại Wicker Bar.
+- Tôi quyết định giết thời gian bằng cách đi xem phim tại Radio City.
+- Tôi không thích phim lắm nhưng lại bị cuốn hút bởi nó.
+- Phim kể về một người đàn ông mất trí nhớ sau chiến tranh và gặp một cô gái.
+- Cuối cùng, anh ta lấy lại trí nhớ và trở về với gia đình và cô gái mà anh ta đã từng yêu.
+- Tôi không thích cách kết thúc của phim.
+- Trong lúc xem phim, tôi nhớ lại anh trai tôi, D.B, người đã phải vật lộn trong quân đội trong thời chiến.
+- Tôi cảm thấy mình sẽ không thể chịu đựng được nếu phải đi lính.
+- Tôi nghĩ về việc nếu có chiến tranh, tôi sẽ tự nguyện ngồi vào quả bom nguyên tử.
+"""

@@ -1,0 +1,19 @@
+"""
+- Sau bữa ăn, tác giả đi đến cửa sổ để xem thời tiết và nhận ra rằng do thời tiết xấu, anh ta không thể về nhà mà không có hướng dẫn.
+- Heathcliff không phản ứng với lời cầu xin giúp đỡ của tác giả, thay vào đó, anh ta chỉ hướng dẫn Hareton cách lùa cừu.
+- Tác giả tiếp tục hỏi nhưng không nhận được phản hồi, trong khi Joseph mang thức ăn cho chó và Heathcliff Jr. đang đọc sách.
+- Joseph bắt đầu phê phán tác giả, khiến anh ta tức giận và định đá lão ra khỏi cửa, nhưng bị ngăn lại bởi Heathcliff Jr.
+- Heathcliff Jr. đe dọa tác giả bằng ma thuật, gây ra sự sợ hãi trong Joseph.
+- Tác giả lại nhắc lại vấn đề về việc không thể về nhà và Heathcliff Jr. chỉ khuyên anh ta đi theo con đường cũ.
+- Tác giả đe dọa Heathcliff Jr. rằng nếu anh ta chết trong tuyết, cô ta sẽ phải chịu trách nhiệm, nhưng cô ta từ chối giúp.
+- Heathcliff không cho phép bất kỳ ai đi cùng tác giả, buộc anh ta phải ngủ lại.
+- Heathcliff từ chối cho tác giả ngủ trong nhà, thay vào đó, anh ta phải ngủ với Hareton hay Joseph.
+- Tác giả cố gắng ra khỏi nhà, nhưng bị hai con chó tấn công, khiến anh ta ngã xuống.
+- Zillah, quản gia, cứu tác giả và chăm sóc anh ta.
+- Tác giả sau đó được dẫn lên một phòng ngủ, nơi anh ta đọc cuốn nhật ký của Catherine Earnshaw.
+- Trong giấc mơ, tác giả gặp hồn ma của Catherine Linton, khiến anh ta hét lên trong sợ hãi và đánh thức Heathcliff.
+- Heathcliff tỏ ra lo lắng về việc tác giả đã vào phòng ngủ của Catherine, nơi anh ta không cho phép ai vào nếu có thể tránh được.
+- Heathcliff sau đó dẫn tác giả ra khỏi phòng và ra lệnh cho Zillah chăm sóc anh ta.
+- Sáng hôm sau, Hareton giúp tác giả thoát khỏi nhà và anh ta trở về Thrushcross.
+- Tác giả sau đó bị ốm nặng, và khi hồi phục, anh ta yêu cầu quản gia, Mrs. Dean, kể cho anh ta về những người ở Wuthering Heights.
+"""

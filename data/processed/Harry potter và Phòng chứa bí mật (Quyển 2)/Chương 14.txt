@@ -1,0 +1,17 @@
+"""
+- Harry, Ron và Hermione nghi ngờ Hagrid có thể liên quan đến việc thả quái vật trong lâu đài Hogwarts do tính cách yêu quý động vật to lớn và hung dữ của ông.
+- Harry cảm thấy hối tiếc vì khám phá ra cách viết trong nhật ký của Riddle, dẫn đến nhiều cuộc thảo luận và phân tích.
+- Hermione gợi ý rằng Riddle có thể đã nhầm lẫn, và có thể một con quái vật khác đã tấn công, không phải quái vật của Hagrid.
+- Ron nghi ngờ khả năng có nhiều quái vật khác trong lâu đài.
+- Harry và Ron đồng ý rằng Hagrid, dù đã bị đuổi học, không hề có ý định hại ai.
+- Họ quyết định không nói với Hagrid về nghi ngờ của họ, trừ khi có thêm cuộc tấn công.
+- Học sinh năm thứ hai đang bận rộn chọn môn học cho năm học sau, với Hermione coi đây là quyết định quan trọng ảnh hưởng đến tương lai.
+- Trận Quidditch giữa Gryffindor và Hufflepuff sắp diễn ra, nhưng Harry bị gián đoạn khi phát hiện ra phòng ngủ của mình bị lục soát và nhật ký Riddle biến mất.
+- Hermione nghĩ rằng cô đã hiểu ra điều gì và chạy lên thư viện.
+- Trận Quidditch bị hủy bỏ do một cuộc tấn công khác, lần này nạn nhân là Hermione và một nữ sinh năm thứ năm.
+- Trường đặt ra nhiều quy định nghiêm ngặt hơn để đảm bảo an ninh.
+- Harry và Ron quyết định tìm cách tiếp xúc với Hagrid, sử dụng Áo khoác Tàng hình của Harry.
+- Hagrid bị nghi ngờ và bắt giữ bởi Bộ Pháp Thuật do áp lực từ Ban quản trị, trong đó có Lucius Malfoy.
+- Dumbledore bị đình chỉ chức hiệu trưởng, nhưng khẳng định rằng những người trung thành với ông sẽ không để ông rời bỏ trường.
+- Trước khi rời đi, Hagrid gợi ý rằng để tìm ra sự thật, hãy theo dõi những con nhện.
+"""

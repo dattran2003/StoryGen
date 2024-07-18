@@ -1,0 +1,27 @@
+"""
+Chương 03
+
+- Ellen O'Hara, 32 tuổi, được coi là một thiếu phụ trung niên với 6 đứa con, trong đó bà đã mất 3. Bà cao hơn chồng và với dáng đi mềm mại, bà đã làm mọi người quên về chiều cao của mình.
+
+- Ellen thừa hưởng đôi mắt huyền hơi xếch, hàng mi dài rậm và mái tóc đen nhánh từ mẹ bà, người Pháp, và sóng mũi dài và thẳng từ cha, người từng là chiến sĩ. Cuộc sống đã tạo cho bà một sắc thái kiêu hãnh, nét yêu kiều và nét sầu mơ.
+
+- Ellen có giọng nói êm dịu, hơi líu ríu, không bao giờ cất cao khi ra lệnh hoặc quở trách, nhưng mọi người ở Tara phải tuân hành tức khắc.
+
+- Scarlett, con gái của Ellen, chưa từng thấy mẹ mình thay đổi, giọng nói và cử chỉ của bà luôn như cũ, không bao giờ rời bỏ vẻ trang nghiêm và bình lặng.
+
+- Ellen chăm sóc người bệnh, may vá cho gia đình, và kiểm soát mọi việc trong nhà một cách hiệu quả, không bao giờ rời bỏ dáng vẻ trang nghiêm của mình.
+
+- Gerald, chồng Ellen, là người Ái Nhĩ Lan, đã rời bỏ quê hương với hai đồng tiền và một số tội danh, và đến Mỹ để tìm kiếm cơ hội mới.
+
+- Gerald mua đồn điền Tara sau một cuộc chơi bài, nơi ông đã xây dựng một ngôi nhà lớn và trồng bông vải.
+
+- Gerald không hòa hợp với một số hàng xóm như MacIntosh và Slattery, nhưng anh ta rất thân thiện với phần còn lại.
+
+- Ellen kết hôn với Gerald sau khi người yêu của bà, Philippe Robillard, qua đời. Bà đã rời bỏ cuộc sống ở Savannah và chuyển đến Tara, nơi bà trở thành một người chủ đồn điền thành công.
+
+- Ellen sinh ba con trai nhưng tất cả đều mất trước khi biết đi. Bà đã sinh ba cô con gái: Scarlett, Suellen và Carreen.
+
+- Scarlett, con gái lớn nhất của Ellen, là một cô gái năng động, thích chơi đùa với trẻ em da đen và con trai hàng xóm hơn là học cách trở thành một quý phái.
+
+- Scarlett biết cách quyến rũ đàn ông, dù không có nhiều kiến thức học thuật, và cô đang quyết định lấy Ashley, một người đàn ông mà cô yêu.
+"""

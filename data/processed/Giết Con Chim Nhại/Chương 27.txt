@@ -1,0 +1,13 @@
+"""
+- Mọi chuyện trở lại bình thường sau dự đoán của Atticus, với ba sự kiện đáng chú ý xảy ra với cư dân Maycomb.
+- Sự kiện đầu tiên là Bob Ewell bị sa thải khỏi công việc WPA vì lười biếng, ông ta đổ lỗi cho Atticus và cáo buộc công khai.
+- Sự kiện thứ hai là việc quan tòa Taylor có trải nghiệm kỳ lạ khi nghe tiếng cào xước từ sau nhà vào một buổi tối Chủ nhật.
+- Sự kiện thứ ba là Link Deas tìm được công việc cho Helen Robinson, vợ góa của Tom Robinson, và đối phó với Bob Ewell khi ông ta quấy rối Helen.
+- Alexandra bày tỏ mối lo ngại về Bob Ewell, nhưng Atticus cho rằng Bob sẽ bình tĩnh lại khi thời tiết thay đổi.
+- Cuộc sống của gia đình tiếp tục theo nhịp quen thuộc, và Jem đã bắt đầu quên đi những sự kiện khó chịu.
+- Cecil Jacobs hỏi Scout liệu Atticus có phải là người cấp tiến, và Atticus đáp lại với một câu trả lời hài hước.
+- Maycomb trở lại như cũ, với hai thay đổi nhỏ: người dân gỡ bỏ biểu ngữ NRA và việc tổ chức lễ hội Halloween.
+- Một số trẻ em đã thực hiện trò đùa với hai bà cô Barber, và các bậc phụ huynh quyết định tổ chức một lễ hội Halloween có tổ chức hơn.
+- Jem và Scout đều phải tham gia vào một hoạt cảnh lịch sử đặc biệt, với Scout đóng vai một miếng giăm bông.
+- Halloween tới, và Jem đồng ý dẫn Scout đến lễ hội.
+"""

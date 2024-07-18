@@ -1,0 +1,12 @@
+"""
+- Harry thức dậy bởi bà Weasley để chuẩn bị đi đến trận đấu Cúp Quidditch Thế Giới.
+- Cả nhà Weasley cùng Harry, Hermione và Ginny xuống nhà bếp, nơi bà Weasley đang nấu ăn và ông Weasley kiểm tra vé.
+- Ông Weasley mặc đồ giả mạo kiểu Muggle và hỏi ý kiến mọi người.
+- Cả nhà thảo luận về phép độn thổ, một kỹ năng mà không phải ai cũng có thể làm được.
+- Fred và George bị bà Weasley phát hiện đang cố gắng lén mang kẹo bơ Phù-Lưỡi ra khỏi nhà.
+- Mọi người rời nhà, với bầu không khí căng thẳng sau sự cố của Fred và George.
+- Trên đường đi, ông Weasley giải thích về việc tổ chức và quản lý sự kiện Cúp Quidditch Thế Giới.
+- Họ gặp Amos Diggory và con trai ông, Cedric, người từng đối đầu với Harry trong trận Quidditch.
+- Họ chuẩn bị sử dụng Khóa cảng để di chuyển đến địa điểm của trận đấu.
+- Khóa cảng được kích hoạt, và họ di chuyển đến điểm đến với tốc độ nhanh chóng.
+"""

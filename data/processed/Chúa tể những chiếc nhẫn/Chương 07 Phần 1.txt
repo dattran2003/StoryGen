@@ -1,0 +1,17 @@
+"""
+- Bốn hobbit bước vào nhà của Tom Bombadil, một không gian đầy ánh sáng với nhiều cây nến đang cháy.
+- Họ gặp Goldberry, người phụ nữ xinh đẹp với vẻ ngoài như nữ hoàng Elf, được mô tả như đang trong một ống lớn màu xanh và nâu với bông huệ nước trắng.
+- Goldberry chào đón họ và làm họ cảm thấy ngạc nhiên và vụng về.
+- Goldberry giới thiệu bản thân là con gái của dòng sông và mời họ vui vẻ.
+- Frodo bày tỏ niềm vui trước sự hiện diện của Goldberry và Tom Bombadil, và anh ta bắt đầu nói những lời thơ mà anh ta không hiểu nguồn gốc.
+- Goldberry nói rằng họ sẽ đợi Tom Bombadil, người đang chăm sóc những con vật của họ.
+- Frodo hỏi về Tom Bombadil, và Goldberry giải thích rằng ông là Chủ Nhân của rừng, nước và ngọn đồi.
+- Tom Bombadil xuất hiện, không đội nón và trên mái tóc nâu dày của ông là một cái vương miện bằng lá thu.
+- Ông ta chào đón họ và chuẩn bị bữa ăn gồm kem, mật ong, bánh mì, bơ, sữa, phó mát, thảo mộc xanh và quả chín mọng.
+- Sau bữa ăn, họ rửa ráy, phục hồi và nghỉ ngơi trên những tấm đệm lớn.
+- Goldberry và Tom Bombadil đảm bảo họ sẽ có một đêm yên bình, không cần phải lo lắng về tiếng động đêm.
+- Trong giấc mơ, Frodo thấy một cảnh tượng về một tháp đá nhọn và những giọng gào bên dưới.
+- Pippin mơ thấy tiếng động lạ từ bên ngoài, làm anh ta sợ hãi.
+- Merry mơ thấy tiếng nước đổ, tưởng rằng mình sắp chết đuối.
+- Họ thức dậy hoàn toàn khỏe khoắn vào buổi sáng, TomBombadil chào đón họ và nói rằng họ đã thức dậy muộn.
+"""

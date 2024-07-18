@@ -1,0 +1,14 @@
+"""
+- Harry và Hermione trốn khỏi đám cưới đang bị tấn công, tìm kiếm Ron trong sự hỗn loạn.
+- Họ sử dụng ma thuật để di chuyển, tránh khỏi tấn công của Tử Thần Thực Tử và Voldemort.
+- Họ xuất hiện ở Tottenham Court Road, nơi Hermione giúp họ thay đồ và cung cấp áo khoác tàng hình.
+- Hermione đã chuẩn bị mọi thứ từ trước, dự đoán tình huống này có thể xảy ra.
+- Họ tìm một quán ăn nhỏ để nghỉ ngơi, nơi họ gặp phải Tử Thần Thực Tử.
+- Trong cuộc đấu, Harry, Ron và Hermione đánh bại Tử Thần Thực Tử và xóa ký ức của họ.
+- Họ quyết định ẩn náu tại Quảng trường Grimmauld, bất chấp nguy cơ Severus Snape có thể xuất hiện.
+- Tại Grimmauld Place, họ gặp phải một hình ảnh giả mạo của Alastor Moody, nhưng nhận ra rằng đó chỉ là một bùa ếm để chống lại Snape.
+- Harry cảm nhận được sự giận dữ của Voldemort, chứng tỏ mối liên kết giữa họ vẫn còn tồn tại.
+- Họ nhận được tin nhắn từ cha của Ron thông báo rằng gia đình họ an toàn.
+- Hermione lo ngại về việc ngủ một mình, đề nghị cả ba ngủ cùng nhau trong phòng khách.
+- Harry cảm thấy đau đớn và bị cuốn hút vào một cảnh tượng của Voldemort tra tấn một Tử Thần Thực Tử, dẫn đến việc ông phải nghỉ ngơi trong phòng tắm.
+"""

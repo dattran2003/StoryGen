@@ -1,0 +1,16 @@
+"""
+- Hai người đàn ông, Severus Snape và Yaxley, xuất hiện từ hư không trên một con đường nhỏ và sau đó đi cùng nhau.
+- Yaxley chia sẻ thông tin mà anh ta tin rằng sẽ làm Voldemort hài lòng.
+- Snape và Yaxley đi qua cổng sắt lớn như thể nó không tồn tại.
+- Họ gặp Voldemort và những người khác tại một dinh thự sang trọng.
+- Snape tiết lộ rằng Hội Phượng Hoàng dự định chuyển Harry Potter vào thứ Bảy sắp tới.
+- Yaxley cung cấp thông tin khác, nhưng Snape bác bỏ nó, tin rằng Yaxley đã bị ếm bùa Lú Lẫn.
+- Snape nói rằng Hội Phượng Hoàng tin rằng Bộ Pháp Thuật đã bị xâm nhập và không còn tin tưởng vào sự bảo vệ của họ.
+- Yaxley thông báo rằng anh ta đã thành công trong việc ếm lời nguyền độc đoán lên Pius Thicknesse.
+- Voldemort thảo luận về khả năng chiếm quyền Bộ Pháp Thuật trước thứ Bảy tới.
+- Voldemort tuyên bố rằng anh ta sẽ đích thân săn lùng Harry Potter, không để lặp lại những lỗi trước đây.
+- Voldemort yêu cầu Lucius Malfoy cung cấp cây đũa phép của mình.
+- Voldemort tiếp tục trấn áp Lucius và gia đình Malfoy.
+- Voldemort nhắc đến cuộc hôn nhân giữa Nymphadora Tonks và Remus Lupin, gây ra sự khó chịu trong gia đình Malfoy.
+- Voldemort kết thúc cuộc họp bằng cách giết Charity Burbage, một giáo viên cũ tại Hogwarts, vì những quan điểm của cô về Muggle và Máu bùn.
+"""

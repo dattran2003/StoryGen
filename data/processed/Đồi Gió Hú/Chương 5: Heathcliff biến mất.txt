@@ -1,0 +1,21 @@
+"""
+- Tháng sáu mùa hè 23 năm trước, mợ Frances sinh hạ Hareton, sau đó qua đời. Ellen nhận chăm sóc Hareton.
+- Hindley đau buồn và thay đổi, trở nên độc ác, nghiện rượu và cờ bạc.
+- Hành vi của Hindley ảnh hưởng tiêu cực đến Catherine và Heathcliff.
+- Nhà Earnshaw trở nên kinh khủng, không còn khách viếng thăm ngoại trừ Edgar Linton.
+- Catherine, mặc dù kiêu kỳ và ngạo mạn, vẫn quý mến Ellen và Heathcliff.
+- Edgar Linton đến thăm khi Hindley vắng nhà và chứng kiến sự thô lỗ của Catherine.
+- Catherine đã tấn công Ellen và sau đó cả Edgar, gây ra mâu thuẫn.
+- Edgar rời đi nhưng sau đó quay lại và hòa giải với Catherine.
+- Hindley trở về say xỉn, nhưng Catherine và Edgar đã hòa giải.
+- Heathcliff lặng lẽ chứng kiến mọi thứ từ xa mà không ai nhận biết.
+- Catherine thông báo với Ellen rằng cô đã nhận lời cầu hôn của Edgar.
+- Catherine thừa nhận yêu Edgar nhưng cảm thấy đau khổ vì điều này.
+- Heathcliff rời bỏ sau khi nghe Catherine nói về việc cưới Edgar.
+- Catherine tìm kiếm Heathcliff nhưng không tìm thấy.
+- Cơn giông nổi lên, gây thiệt hại và Catherine mắc sốt.
+- Catherine sau đó được chăm sóc bởi gia đình Linton, cả hai ông bà Linton sau đó qua đời vì sốt.
+- Không có tin tức về Heathcliff sau cơn giông.
+- Catherine trở về, kiêu kỳ hơn và sau 3 năm, cưới Edgar.
+- Heathcliff sau đó trở về, trở thành một nhân vật đầy hận thù, yêu Catherine và quyết định hủy hoại gia đình.
+"""

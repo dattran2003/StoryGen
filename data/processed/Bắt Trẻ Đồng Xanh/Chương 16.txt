@@ -1,0 +1,15 @@
+"""
+- Sau bữa sáng, nhân vật chính quyết định đi dạo trước cuộc hẹn với Sally vào buổi chiều.
+- Hình ảnh hai cô tu sĩ và cuộc sống khó khăn của họ ám ảnh anh, tạo ra sự tương phản với cuộc sống sang trọng của mẹ Sally và cô của anh.
+- Nhân vật chính đến Broadway, nơi anh cố gắng tìm mua đĩa hát "Cô bé Shirley Beans" cho em gái Phoebe.
+- Trong lúc đi dạo, anh thấy một gia đình nghèo và cảm thấy vui vì niềm vui giản dị của cậu bé trong gia đình đó.
+- Broadway vào buổi trưa chủ nhật khiến anh cảm thấy chán chường vì sự ồn ào và hối hả.
+- Anh may mắn mua được đĩa hát "Cô bé Shirley Beans" và quyết định tặng nó cho Phoebe.
+- Anh gọi cho Jane nhưng chỉ nói chuyện với mẹ cô, sau đó mua vé xem vở kịch "Tôi biết tình yêu".
+- Anh chia sẻ quan điểm không thích về nghệ sĩ và phim ảnh, đặc biệt là về diễn xuất của Laurence Olivier trong phim "Hamlet".
+- Anh đến công viên, nơi Phoebe thường trượt băng, nhưng cô bé không có đó.
+- Anh gặp một cô bé nhỏ biết Phoebe, cô bé cho biết Phoebe cùng lớp thường đến viện bảo tàng vào thứ Bảy.
+- Tuy nhiên, vì hôm nay là chủ nhật, Phoebe không thể ở viện bảo tàng.
+- Anh chia sẻ kỷ niệm về viện bảo tàng mà anh từng đến khi còn nhỏ.
+- Trên đường đi, anh quyết định không vào viện bảo tàng mà gọi taxi đến khách sạn "Biltmore", nơi anh hẹn gặp Sally.
+"""

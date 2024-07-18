@@ -1,0 +1,19 @@
+"""
+- Harry tức giận với Hermione vì cô bé đã báo cáo với cô McGonagall về cây chổi Tia Chớp của Harry, dẫn đến việc cây chổi bị tịch thu để kiểm tra bùa ếm ngải thư.
+- Ron cũng giận Hermione nhưng cô bé vẫn tin mình đã làm đúng, tránh tiếp xúc với Harry và Ron.
+- Harry và Ron vui mừng khi học sinh trở lại sau ngày lễ Năm Mới, làm tháp Gryffindor trở nên đông đúc.
+- Wood khuyên Harry mua cây chổi mới để chuẩn bị cho trận đấu sắp tới với Ravenclaw.
+- Harry thông báo với Wood rằng anh đã được tặng cây Tia Chớp, nhưng nó đã bị tịch thu.
+- Wood hứa sẽ thuyết phục cô McGonagall trả lại cây chổi cho Harry.
+- Trong bài học chăm sóc sinh vật huyền bí, Hagrid dạy học sinh cách chăm sóc kỳ nhông.
+- Bài học tiên tri của học kỳ mới không vui như mong đợi, giáo sư Trelawney chỉ ra đường Sinh đạo ngắn nhất của Harry.
+- Harry hào hứng học môn Phòng chống Nghệ thuật Hắc ám, giáo sư Lupin hứa dạy Harry cách chống lại giám ngục Azkaban.
+- Hermione tiếp tục thể hiện thái độ kiêu kỳ, không muốn nói chuyện với Harry và Ron.
+- Harry thực hành bùa Hộ mệnh với giáo sư Lupin, gặp khó khăn khi phải đối mặt với giám ngục Azkaban giả.
+- Harry cố gắng tập trung vào kỷ niệm hạnh phúc để chống lại giám ngục Azkaban.
+- Harry nghe được giọng nói của cha mẹ trong đầu khi đối mặt với giám ngục Azkaban, điều này làm anh ta cảm thấy đau lòng nhưng cũng quyết tâm.
+- Harry và Ron làm hòa với Hermione sau khi nhận lại cây chổi Tia Chớp.
+- Neville làm mất mật khẩu vào tháp Gryffindor.
+- Hermione giải thích rằng cô có thể quản lý nhiều lớp học nhờ sự siêng năng và cần cù.
+- Ron phát hiện ra rằng chuột Scrabbers của mình biến mất, thay vào đó là mớ lông mèo đầy máu trên sàn phòng. 
+"""

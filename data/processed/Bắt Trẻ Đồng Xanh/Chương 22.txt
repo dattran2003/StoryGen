@@ -1,0 +1,21 @@
+"""
+- Nhân vật chính bỏ đi, khiến nhân vật kia rút gối khỏi đầu và quay lưng lại, biểu lộ thái độ tẩy chay.
+
+- Nhân vật chính bắt đầu cuộc đối thoại, hỏi về nhân vật Hazel Weatherfield trong câu chuyện của nhân vật kia.
+
+- Nhân vật kia dự đoán rằng 'bố' sẽ phản ứng dữ dội đối với hành động của nhân vật chính, nhưng nhân vật chính cho rằng mình sẽ không ở đây để chứng kiến.
+
+- Nhân vật chính bắt đầu chê bai trường Pencey, chỉ trích sự giả tạo và giả dối trong môi trường đó.
+
+- Nhân vật kia, Phoebe, lắng nghe và nhận xét rằng nhân vật chính không thích bất kỳ điều gì, gây ra sự bức xúc từ nhân vật chính.
+
+- Nhân vật chính cố gắng đưa ra những ví dụ về những điều mình yêu quý, bao gồm hai cô tu sĩ và một người bạn cũ, James Castle.
+
+- Nhân vật chính thừa nhận tình yêu của mình dành cho người anh trai đã mất, Allie, và niềm vui khi trò chuyện với Phoebe.
+
+- Phoebe không đồng tình rằng người đã mất không thể được yêu thương, khẳng định rằng tình yêu có thể tồn tại vượt qua cái chết.
+
+- Nhân vật chính chia sẻ mơ ước của mình về việc trở thành người 'canh giữ' những đứa trẻ trên bờ vực thẳm trong đồng lúa mạch, một hình ảnh tượng trưng cho việc bảo vệ sự ngây thơ và hồn nhiên.
+
+- Cuộc thảo luận kết thúc với dự đoán của Phoebe rằng 'bố' sẽ phản ứng dữ dội, nhưng nhân vật chính tỏ ra không quan tâm và quyết định gọi cho giáo viên cũ của mình, thầy Antolini.
+"""

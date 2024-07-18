@@ -1,0 +1,12 @@
+"""
+- Bất ngờ, đỉnh cầu thang phát sáng, bụi rơi xuống và tiếng trống vang lên dữ dội trước khi dừng lại. Gaffer rơi xuống giữa nhóm, thông báo rằng anh ta đã gặp một đối thủ mạnh mẽ và suýt chút nữa bị tiêu diệt.
+- Nhóm tiếp tục di chuyển trong bóng tối, chỉ dẫn bởi Gandalf. Trong suốt hành trình, tiếng trống doom-boom tiếp tục vang lên từ phía sau họ.
+- Sau một khoảng thời gian di chuyển, Gandalf dừng lại, thông báo rằng họ đã xuống đến tầng của Cánh Cổng và đề nghị tìm một lối rẽ sang trái để tiếp tục di chuyển về phía đông.
+- Gandalf giải thích về cuộc chiến với một thực thể chưa từng gặp, mà anh ta nghi ngờ là Balrog. Trong cuộc chiến này, anh ta đã dùng thần chú để đóng cửa ngăn chặn kẻ thù.
+- Frodo khẳng định rằng anh ta còn sống mặc dù bị thương. Gandalf nói Frodo giống Bilbo, có nhiều phẩm chất ẩn giấu.
+- Nhóm tiếp tục di chuyển và Gimli nhìn thấy ánh sáng đỏ ở phía trước, ánh sáng này càng lúc càng rõ hơn, họ nhận ra đó là lửa.
+- Gandalf xác nhận họ đã đến Vực Sâu Đầu Tiên, nơi có nhiều nguy hiểm, nhưng cũng chỉ ra lối thoát ra khỏi Moria.
+- Trong căn phòng tiếp theo, họ phải vượt qua một cây cầu mỏng manh, nơi mà Gandalf quyết định giữ lại để chống lại kẻ thù, cụ thể là Balrog.
+- Balrog tấn công Gandalf, nhưng cuối cùng, Gandalf đã phá hủy cây cầu, khiến Balrog rơi xuống vực. Tuy nhiên, Gandalf cũng bị kéo theo và rơi xuống.
+- Nhóm tiếp tục chạy, vượt qua cánh cổng lớn và cuối cùng thoát khỏi Moria. Họ khóc lâu, đau buồn vì mất Gandalf.
+"""

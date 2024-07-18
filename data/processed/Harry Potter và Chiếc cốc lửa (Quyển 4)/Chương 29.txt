@@ -1,0 +1,21 @@
+"""
+- Hermione suy đoán về việc ai đã tấn công anh Viktor, nghi ngờ hoặc là ông Crouch hoặc một người khác.
+- Ron tin rằng ông Crouch là thủ phạm và đã biến mất sau khi tấn công.
+- Harry không đồng tình, cho rằng ông Crouch không đủ sức mạnh để tấn công.
+- Hermione nhắc lại rằng không thể độn thổ trong khuôn viên trường Hogwarts.
+- Ron đưa ra giả thiết rằng Krum có thể đã tấn công ông Crouch rồi tự làm mình bất tỉnh.
+- Harry, Ron và Hermione thức khuya để thảo luận về ông Crouch, rồi sớm hôm sau họ gửi thư cho chú Sirius.
+- Harry kể lại những gì ông Crouch đã nói cho Hermione, bao gồm việc ông muốn cảnh báo cụ Dumbledore và những lỗi lầm của mình.
+- Hermione và Ron lo ngại về tình trạng mất trí của ông Crouch.
+- Họ quyết định gặp thầy Moody để tìm hiểu xem ông Crouch đã bị tìm thấy chưa.
+- Trong lúc chờ đợi, họ tập trung vào việc chuẩn bị cho bài thi thứ ba của Harry.
+- Fred và George xuất hiện, khiến cuộc thảo luận tạm ngừng, họ đang có kế hoạch mà có thể liên quan đến việc tống tiền.
+- Harry, Ron và Hermione tiếp tục suy đoán về sự mất tích của ông Crouch.
+- Chú Sirius gửi thư phản ứng với sự việc, khuyên Harry không nên ra khỏi khuôn viên trường vào ban đêm.
+- Harry, Ron và Hermione tập trung vào việc học bùa chú để chuẩn bị cho bài thi thứ ba của Harry.
+- Trong một buổi học, Harry rơi vào một giấc mơ kỳ lạ, thấy một cảnh tượng đáng sợ liên quan đến Voldemort.
+- Harry thức dậy trong lớp học của giáo sư Trelawney, đau đầu dữ dội và quyết định tìm gặp cụ Dumbledore.
+- Harry cố gắng nhớ lại chi tiết trong giấc mơ, và cuối cùng thành công trong việc tìm vào văn phòng của cụ Dumbledore.
+- Ông Fudge, bộ trưởng Bộ Pháp Thuật, và thầy Moody đang thảo luận về sự mất tích của ông Crouch và Bertha Jorkins.
+- Harry đang chờ để nói chuyện với cụ Dumbledore.
+"""

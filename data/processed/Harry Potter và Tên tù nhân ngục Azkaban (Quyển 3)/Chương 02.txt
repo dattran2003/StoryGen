@@ -1,0 +1,22 @@
+"""
+- Harry thức dậy và thấy gia đình Dursley đã ngồi ăn sáng, chú trọng vào TV mới mà họ mua cho Dudley để tránh đi lại từ bếp đến phòng khách.
+- Dudley đang xem TV trong suốt mùa hè, ăn liên tục.
+- Harry ngồi xuống giữa Dudley và dượng Vernon, người không chúc mừng sinh nhật Harry.
+- Trên TV, họ xem thông tin về tên tù vượt ngục, Sirius Black.
+- Vernon và Petunia tiếp tục coi thường Harry, không công nhận sự hiện diện của nó.
+- Vernon thông báo rằng cô Marge, em gái của anh, sẽ đến thăm và ở lại một tuần.
+- Harry lo lắng khi nghe tin cô Marge sẽ đến thăm.
+- Vernon cảnh báo Harry phải cư xử tốt và giữ bí mật về khả năng ma thuật của mình trước cô Marge.
+- Vernon nói dối cô Marge rằng Harry học tại 'Trung tâm Thánh Brutus chuyên Giam giữ Thiếu niên Phạm tội Không Cải hoá nổi'.
+- Harry đe dọa sẽ tiết lộ sự thật nếu Vernon không ký vào đơn cho phép Harry đi thăm làng Hogsmeade.
+- Vernon đồng ý ký đơn nếu Harry giữ bí mật và cư xử tốt trong thời gian cô Marge ở lại.
+- Harry chuẩn bị cho sự xuất hiện của cô Marge, gửi Hedwig và Errol đi để tránh rắc rối.
+- Cô Marge đến thăm, cô thích so sánh Harry với Dudley và mua quà cho Dudley.
+- Cô Marge bắt đầu chỉ trích Harry, khiến Harry tức giận.
+- Ly rượu của cô Marge bỗng nổ vỡ, nhưng cô đổ lỗi cho chính mình.
+- Harry cố gắng kiềm chế mình trong những ngày cô Marge ở lại.
+- Trong bữa tối cuối cùng, cô Marge tiếp tục chỉ trích Harry, gọi ông James và Lily Potter, cha mẹ của Harry, là "trứng ung".
+- Harry phản ứng, mâu thuẫn với cô Marge dẫn đến việc cô Marge phình lên như một quả bóng.
+- Harry bỏ chạy khỏi nhà sau cuộc cãi vã, mang theo hành lý và đe dọa Vernon với cây đũa phép.
+- Harry rời khỏi nhà Dursley, kéo theo cái rương và lồng của Hedwig.
+"""

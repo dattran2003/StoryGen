@@ -1,0 +1,14 @@
+"""
+- Elizabeth chia sẻ với Jane về cuộc trò chuyện với Wickham, gây ra sự kinh ngạc và lo lắng cho Jane.
+- Jane gặp khó khăn trong việc chọn ai để tin tưởng giữa Darcy và Wickham.
+- Elizabeth và Jane đều cố gắng nghĩ tốt về cả hai, mặc dù có những nghi ngờ về Darcy.
+- Elizabeth khẳng định cả hai có thể đã bị lừa dối theo cách nào đó mà họ không rõ.
+- Jane đồng ý với Elizabeth và cho rằng không thể trách ai nếu không rõ nguyên nhân khiến họ xa lánh.
+- Jane lo lắng về hậu quả nếu Bingley bị lừa dối, và việc này được công khai.
+- Elizabeth và Jane được thông báo về buổi dạ vũ sắp tới tại Netherfield bởi Bingley và gia đình anh.
+- Gia đình Bennet đều phấn khởi chờ đón buổi dạ vũ, mỗi người đều có những hy vọng riêng.
+- Elizabeth bất ngờ khi Collins muốn nhảy cùng cô trong hai bản nhạc đầu tiên, làm hỏng kế hoạch của cô với Wickham.
+- Elizabeth chấp nhận lời mời của Collins, mặc dù cô muốn nhảy với Wickham.
+- Elizabeth bắt đầu nhận ra rằng Collins đang cố gắng tán tỉnh cô.
+- Gia đình Bennet không thể rời khỏi nhà do trời mưa, khiến họ tập trung vào việc chuẩn bị cho buổi dạ vũ.
+"""

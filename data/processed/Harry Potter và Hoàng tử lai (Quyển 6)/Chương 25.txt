@@ -1,0 +1,16 @@
+"""
+- Harry và mối quan hệ của anh với Ginny Weasley thu hút sự chú ý của mọi người, đặc biệt là các cô gái. Harry thấy vui khi nói về điều này.
+- Ginny nhắc đến những tin đồn về Harry, kể cả thông tin sai lệch về một hình xăm.
+- Hermione cố gắng tìm hiểu về "Hoàng tử lai" và cô tin rằng đó có thể là một phụ nữ, Eileen Prince, từ một bài báo cũ.
+- Harry không đồng ý với suy đoán của Hermione và cả hai có cuộc tranh cãi nhỏ.
+- Harry bị cấm túc bởi Snape, điều này ảnh hưởng đến thời gian anh dành cho Ginny.
+- Dumbledore gọi Harry đến gặp, khiến anh phải rời khỏi phòng sinh hoạt.
+- Trên đường đến gặp Dumbledore, Harry nghe thấy tiếng la hét từ giáo sư Trelawney, người đang cố vào Phòng Cần Thiết nhưng bị ai đó đẩy ra.
+- Trelawney nghe thấy một giọng nói lạ trong phòng và bị ném ra ngoài.
+- Harry khuyên Trelawney nên báo cáo sự cố với Dumbledore nhưng cô từ chối.
+- Harry gặp Dumbledore, người chuẩn bị đi tìm một Horcrux. Harry đồng ý đi cùng.
+- Harry cáo buộc Snape đã tiết lộ lời tiên tri cho Voldemort, dẫn đến cái chết của cha mẹ anh. Dumbledore giải thích Snape đã hối hận và trở về phe họ.
+- Harry vẫn nghi ngờ Snape và cảnh báo Dumbledore về Malfoy và hoạt động đáng ngờ của họ.
+- Harry trao cho Ron và Hermione bản đồ và Felix Felicis, yêu cầu họ canh chừng Malfoy và Snape khi Dumbledore vắng mặt.
+- Dumbledore và Harry rời trường để đi tìm Horcrux, họ dùng phương pháp Apparation để di chuyển.
+"""

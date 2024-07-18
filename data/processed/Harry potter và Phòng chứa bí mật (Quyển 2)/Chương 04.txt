@@ -1,0 +1,10 @@
+"""
+- Cuộc sống tại trang trại Burrow của gia đình Weasley hoàn toàn khác biệt so với cuộc sống ở Privet Drive với gia đình Dursley. Trái với sự ngăn nắp, trật tự của gia đình Dursley, cuộc sống ở nhà Weasley đầy những điều kỳ lạ và bất ngờ.
+- Harry Potter bị sốc khi thấy tấm gương biết nói trong nhà bếp, con ma xó trên tầng thượng và những vụ nổ nhỏ trong phòng ngủ của Fred và George. Điều bất thường nhất đối với Harry là sự chấp nhận và yêu thương của gia đình Weasley dành cho anh.
+- Harry nhận thư từ Hogwarts sau một tuần ở Burrow. Thư thông báo cho anh về việc phải đón tàu tốc hành Hogwarts và danh sách sách giáo trình mới.
+- Harry và Ron cùng gia đình Weasley sử dụng bột Floo để di chuyển đến Hẻm Xéo, nhưng Harry bị lạc và kết thúc ở Hẻm Knockturn, một khu vực chuyên về Nghệ thuật Hắc ám.
+- Harry may mắn được Hagrid tìm thấy và đưa về Hẻm Xéo. Họ gặp Hermione và gia đình Weasley tại ngân hàng Gringotts.
+- Harry tiết lộ với Hermione và Ron rằng anh đã gặp Draco Malfoy và cha của Malfoy tại tiệm Borgin & Burkes.
+- Gilderoy Lockhart, tác giả của nhiều quyển sách trong danh sách sách giáo trình mới, xuất hiện tại Phú Quý và Cơ Hàn và thông báo rằng anh sẽ là giáo viên dạy môn Nghệ thuật Phòng chống Hắc ám tại Hogwarts.
+- Một cuộc ẩu đả giữa gia đình Weasley và gia đình Malfoy diễn ra tại tiệm sách, nhưng được Hagrid giải quyết.
+"""

@@ -1,0 +1,22 @@
+"""
+    - Harry trở lại văn phòng của hiệu trưởng Dumbledore sau cuộc chiến tại Bộ Pháp Thuật.
+    - Dumbledore giải thích về việc Voldemort có thể đã nhận ra mối liên kết giữa anh và Harry, và đã cố gắng sử dụng nó.
+    - Harry cảm thấy tội lỗi vì cái chết của chú Sirius, cho rằng nếu anh ta không bị lừa bởi Voldemort, chú Sirius sẽ không chết.
+    - Dumbledore chấp nhận trách nhiệm về cái chết của Sirius, cho rằng anh ta không nên để Harry rơi vào tình huống nguy hiểm đó.
+    - Harry và Dumbledore thảo luận về Kreacher, gia tinh của gia đình Black, người đã dối Harry về nơi chú Sirius đang ở.
+    - Kreacher đã báo cho Voldemort biết về mối liên kết giữa Harry và Sirius, dẫn đến việc Voldemort dụ dỗ Harry tới Sở Cơ Mật.
+    - Dumbledore tiết lộ rằng anh ta đã biết về mối liên kết giữa Harry và Voldemort từ lâu, và đã cố gắng bảo vệ Harry bằng cách giữ anh ta ở xa.
+    - Harry cảm thấy tức giận và thất vọng về Snape, cho rằng anh ta không giúp đỡ Harry đủ trong việc luyện tập Phép Phong Tỏa.
+    - Dumbledore giải thích rằng Snape đã cố gắng giúp Harry, nhưng mối thù lâu năm giữa anh ta và cha của Harry đã cản trở.
+    - Dumbledore nói với Harry về lời tiên tri, nói rằng Harry hoặc Voldemort phải chết dưới tay người kia do mối liên kết giữa họ.
+    - Dumbledore giải thích rằng anh ta đã cố gắng giữ cho Harry an toàn bằng cách để anh ta ở với dì dượng, vì dòng máu của mẹ Harry cung cấp cho anh ta một loại bảo vệ mà Voldemort không thể xâm phạm.
+    - Dumbledore tiết lộ rằng anh ta đã giữ bí mật về lời tiên tri vì muốn bảo vệ Harry khỏi áp lực và nguy hiểm.
+    - Harry và Dumbledore thảo luận về việc Voldemort đã cố gắng giết Harry khi anh còn nhỏ, và rằng điều này đã tạo ra mối liên kết giữa họ.
+    - Dumbledore nói với Harry rằng anh ta là người duy nhất có thể đánh bại Voldemort, dựa trên lời tiên tri mà Sybill Trelawney đã nói.
+    - Dumbledore giải thích rằng Voldemort đã đánh dấu Harry như một kẻ thù, và rằng điều này đã tạo ra sức mạnh đặc biệt cho Harry.
+    - Dumbledore nói với Harry rằng trái tim và lòng dũng cảm của anh ta đã giúp anh ta chống lại Voldemort, và rằng đó là sức mạnh mà Voldemort không có.
+    - Dumbledore thừa nhận rằng anh ta đã không chọn Harry làm huynh trưởng vì muốn bảo vệ anh ta khỏi áp lực thêm.
+    - Harry cảm thấy đau khổ và tuyệt vọng sau cái chết của chú Sirius, và cố gắng tìm cách liên lạc với chú qua chiếc gương hai phía, nhưng không thành công.
+    - Harry tìm đến Nick Suýt Mất Đầu để hỏi về khả năng trở lại sau cái chết, nhưng Nick nói rằng Sirius sẽ không trở lại.
+    - Harry trở về nhà với gia đình Dursley sau khi được Hội Phượng Hoàng đón tại ga tàu, và được cảnh báo rằng họ sẽ can thiệp nếu Harry bị đối xử tệ.
+"""

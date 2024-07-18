@@ -1,0 +1,17 @@
+"""
+- Khi còn nhỏ, Jem và tôi thường tránh khu vực của Boo Radley nhưng sau đó bắt đầu đi qua khu đất của bà Henry Lafayette Dubose khi đi tới trung tâm thị trấn Maycomb.
+- Bà Dubose, một người già sống một mình ngoại trừ cô hầu gái Da đen, thường xuyên chỉ trích và xúc phạm chúng tôi mỗi khi đi qua nhà bà.
+- Mặc dù không thể làm gì để làm cho bà vui lòng, Jem và tôi vẫn phải chịu đựng những lời chỉ trích của bà, đặc biệt là khi bà xúc phạm Atticus, cha của chúng tôi.
+- Jem quyết định rằng chúng tôi phải chạy qua góc phố bưu điện mỗi chiều để đón Atticus về nhà, để tránh bà Dubose.
+- Atticus khuyên chúng tôi phải giữ bình tĩnh trước những lời chỉ trích của bà Dubose và hành xử như một quý ông.
+- Một ngày, sau sinh nhật thứ 12 của Jem, chúng tôi đi thị trấn mua một động cơ hơi nước cho Jem và một cây gậy thể dục cho tôi.
+- Trên đường đi, chúng tôi gặp bà Dubose, người tiếp tục chỉ trích và xúc phạm chúng tôi, đặc biệt là Atticus.
+- Jem phản ứng bằng cách phá hoại vườn hoa của bà Dubose sau khi bà nói những lời xúc phạm về Atticus.
+- Atticus khiển trách Jem vì hành động này và yêu cầu Jem phải xin lỗi và làm việc tại nhà bà Dubose như một hình phạt.
+- Jem đọc sách cho bà Dubose mỗi ngày, và bà này bắt đầu có những cơn động kinh.
+- Sau một tháng, Jem được giải phóng khỏi nhiệm vụ đọc sách cho bà Dubose.
+- Một thời gian sau, Atticus thông báo với chúng tôi rằng bà Dubose đã qua đời.
+- Atticus tiết lộ rằng bà Dubose đang cố gắng vượt qua sự nghiện thuốc giảm đau Morphine trước khi qua đời và việc Jem đọc sách cho bà đã giúp bà vượt qua những cơn đau.
+- Bà Dubose đã để lại cho Jem một bông hoa trà trắng, một biểu hiện của lòng kính trọng mà bà dành cho Jem sau tất cả những khó khăn.
+- Atticus mô tả bà Dubose là người can đảm nhất ông từng biết, người đã chiến thắng cuộc chiến chống lại sự nghiện morphine trước khi qua đời.
+"""

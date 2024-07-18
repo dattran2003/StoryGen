@@ -1,0 +1,11 @@
+"""
+- Dill rời bỏ Maycomb để trở về Meridian vào đầu tháng Chín, khiến tôi cảm thấy cô đơn cho đến khi nhớ rằng tôi sắp bắt đầu đi học.
+- Tôi sử dụng ống nhòm để theo dõi bạn bè từ ngôi nhà trên cây, thèm được chơi cùng họ.
+- Jem dẫn tôi đến trường vào ngày đầu tiên và nhấn mạnh rằng tôi không được làm phiền anh ấy trong giờ học.
+- Cô giáo mới, cô Caroline Fisher, đánh tôi bằng thước và phạt đứng góc vì tôi đã biết đọc, điều mà cô cho rằng sẽ cản trở việc học của tôi.
+- Cô Caroline cố gắng dạy chúng tôi qua những câu chuyện tưởng tượng nhưng lớp học không hứng thú vì chúng tôi quen với cuộc sống thực tế.
+- Cô Caroline yêu cầu tôi nói với bố dừng việc dạy tôi đọc, điều này khiến tôi bối rối vì tôi học đọc từ việc nhìn bố đọc.
+- Walter Cunningham từ chối việc cô Caroline cho anh ấy tiền để mua bữa trưa, vì theo truyền thống gia đình Cunningham, họ không nhận bất cứ thứ gì mà họ không thể trả lại.
+- Tôi cố gắng giải thích cho cô Caroline về tập tục của gia đình Cunningham nhưng cuối cùng bị cô ấy đánh và phạt đứng góc.
+- Cô Blount, giáo viên lớp sáu, đe dọa sẽ trừng phạt cả lớp nếu tiếng ồn tiếp tục, giúp lớp học trở nên yên tĩnh.
+"""

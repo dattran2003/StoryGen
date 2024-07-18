@@ -1,0 +1,13 @@
+"""
+- Sau bữa tối, Elizabeth giúp Jane chuẩn bị ấm áp và hai chị em gặp gỡ hai phụ nữ chủ nhà với niềm vui.
+- Trong một giờ trước sự xuất hiện của các quý ông, Elizabeth thấy hai phụ nữ chủ nhà rất thoải mái, họ giỏi giao tiếp, kể chuyện hài hước và cười đùa với bạn bè.
+- Khi các quý ông xuất hiện, sự chú ý chuyển sang Darcy và Bingley. Trong khi Darcy và Hurst chào Jane một cách ngắn gọn, Bingley dành thời gian và sự quan tâm đặc biệt cho cô.
+- Bingley lo lắng về sức khỏe Jane, giữ cho lò sưởi nóng và ngồi gần cô, không trò chuyện nhiều với người khác.
+- Elizabeth, ngồi ở góc phòng đối diện, quan sát và cảm thấy vui mừng.
+- Sau khi dùng trà, cô Hurst đề xuất chơi bài nhưng không ai hưởng ứng, dẫn đến việc cô ngủ trên ghế sofa.
+- Darcy và cô Bingley đọc sách, trong khi cô này cố gắng gây chú ý của Darcy nhưng không thành công.
+- Cô Bingley bắt đầu một cuộc trò chuyện với Elizabeth, cố gắng thu hút sự chú ý của Darcy bằng cách đi lại trong phòng.
+- Darcy nhận xét rằng họ đi lại có thể do họ thân thiết và muốn nói chuyện riêng hoặc do họ biết họ trông đẹp hơn khi di chuyển.
+- Cuộc trò chuyện tiếp tục với việc Elizabeth và cô Bingley trêu chọc Darcy về tính khí của anh, dẫn đến việc Darcy thừa nhận mình dễ phật lòng và khó quên lỗi của người khác.
+- Cuối cùng, cô Bingley đề xuất chơi nhạc để đánh thức Hurst, trong khi Darcy bắt đầu nhận ra rằng anh đã dành quá nhiều sự chú ý cho Elizabeth.
+"""

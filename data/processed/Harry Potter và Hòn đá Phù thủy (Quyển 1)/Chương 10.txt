@@ -1,0 +1,13 @@
+"""
+- Sáng hôm sau trận gặp quái vật ba đầu, Harry và Ron xuất hiện trong sân trường, vẫn phấn chấn sau cuộc phiêu lưu đêm qua.
+- Harry chia sẻ với Ron về gói hàng bí ẩn từ Gringotts, và cả hai đều thắc mắc tại sao nó lại cần được bảo vệ kỹ lưỡng.
+- Neville và Hermione không quan tâm lắm đến gói hàng bí ẩn. Hermione thậm chí còn không nói chuyện với Harry và Ron sau sự cố.
+- Ron và Harry tìm cách trả thù Malfoy, và họ vui mừng khi cơ hội đến sau một tuần.
+- Harry nhận được cây chổi Nimbus 2000 từ Giáo sư McGonagall, điều này khiến Malfoy ghen tức.
+- Trong một cuộc đối đầu với Malfoy, Ron đã bảo vệ Harry và cây chổi của anh, điều này khiến Malfoy càng thêm tức giận.
+- Hermione bất ngờ xuất hiện và chỉ trích hành động của họ, nhưng Harry và Ron không để ý và tiếp tục cuộc trò chuyện của mình.
+- Harry tập luyện chơi Quidditch cùng Oliver Wood, và anh tỏ ra ấn tượng với khả năng bay của Harry.
+- Harry, Ron và Hermione cuối cùng đã hòa giải sau khi họ cùng nhau chống lại con quỷ khổng lồ trong lễ hội Halloween. Hermione đã can đảm đứng lên bảo vệ Harry và Ron trước giáo sư McGonagall.
+- Dù Hermione bị trừ điểm, nhưng Harry và Ron đã được thêm điểm cho Gryffindor sau cuộc chiến với quỷ khổng lồ.
+- Sau sự cố, Hermione trở thành bạn thân của Harry và Ron.
+"""

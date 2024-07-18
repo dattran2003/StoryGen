@@ -1,0 +1,13 @@
+"""
+- Jem trở nên ủ rũ và im lặng sau một sự kiện không rõ, tác giả thử thấu hiểu cảm xúc của anh qua việc đặt mình vào vị trí của Jem.
+- Năm học mới bắt đầu nhưng lớp học không tiến bộ, vẫn giữ những phương pháp giáo dục cũ kỹ.
+- Jem tiết lộ với tác giả rằng sau khi quay lại nhà Radley lấy quần, quần đã được xếp gọn và khâu lại, gây ngạc nhiên và cảm giác bị theo dõi.
+- Họ phát hiện ra một cuộn dây xám trong lỗ cây, quyết định để lại vài ngày nếu không ai lấy thì sẽ coi nó là của mình.
+- Jem cam kết với tác giả rằng trường học sẽ tốt hơn khi tác giả lớn lên, và bắt đầu thích thú với việc học về Ai Cập.
+- Jem và tác giả tìm thấy hai hình nhân nhỏ trong lỗ cây, được khắc giống họ, tạo ra nhiều suy đoán về người để lại chúng.
+- Họ sau đó nhận được gói kẹo cao su, huy chương đánh vần, và cuối cùng là một chiếc đồng hồ bỏ túi, dây chuyền và con dao nhôm.
+- Jem cố gắng sửa chiếc đồng hồ nhưng không thành công, sau đó anh ta đề nghị viết thư cám ơn người để lại những món quà.
+- Họ quyết định để thư trong lỗ cây nhưng lỗ cây đã bị trám bằng xi măng, Jem nhận ra rằng ông Nathan Radley đã làm điều này, nói rằng cây sắp chết.
+- Jem nghi ngờ lời giải thích của ông Nathan, nhưng không thể xác nhận điều gì.
+- Cuối cùng, Jem tỏ ra buồn bã và dường như đã khóc, nhưng không phát ra tiếng khóc nào.
+"""

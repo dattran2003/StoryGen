@@ -1,0 +1,18 @@
+"""
+- Hermione nhận lá thư từ Hagrid, thông báo về việc Buckbeak sắp bị xử tử, gây ra sự tức giận và tuyệt vọng trong nhóm bạn.
+- Ron khẳng định rằng họ sẽ không để Hagrid đấu tranh một mình và sẽ giúp đỡ.
+- Hermione xin lỗi Ron về vụ con Scrabbers, nhưng Ron tỏ ra không quan tâm.
+- Do các biện pháp an ninh tăng cường, nhóm bạn không thể thăm Hagrid, chỉ có thể nói chuyện với ông trong giờ học.
+- Hagrid bị sốc bởi quyết định của Ủy ban và tỏ ra tuyệt vọng.
+- Hermione phản ứng mạnh mẽ khi Malfoy chế giễu Hagrid, thậm chí cô còn đánh Malfoy.
+- Hermione khuyên Harry phải giành chiến thắng trong trận chung kết Quidditch.
+- Hermione không xuất hiện trong lớp học Bùa chú, khiến Harry và Ron lo lắng.
+- Hermione thức dậy sau khi ngủ say, cảm thấy hối hận vì đã bỏ lỡ lớp học.
+- Hermione rời bỏ lớp học Tiên tri sau một cuộc cãi vã với giáo sư Trelawney.
+- Ron nhận trách nhiệm viết đơn kháng cáo cho Buckbeak.
+- Hermione phải chịu áp lực lớn từ việc học và chuẩn bị cho trận đấu Quidditch.
+- Tension giữa Gryffindor và Slytherin tăng lên trước trận đấu cuối cùng.
+- Harry chứng kiến Crookshanks và một con chó đen lớn (có thể là Sirius Black) di chuyển trên sân trường vào ban đêm.
+- Trong trận chung kết Quidditch, Harry và đội Gryffindor đã chiến thắng đội Slytherin, giành cúp Quidditch.
+- Chiến thắng này mang lại niềm vui và sự phấn khích cho cả đội Gryffindor và Hagrid. 
+"""

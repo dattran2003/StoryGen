@@ -1,0 +1,10 @@
+"""
+- Harry sống những ngày cuối cùng tại nhà ông bà Dursley trước khi rời đi học Hogwarts, nơi mà ông bà và Dudley tránh tiếp xúc với Harry do nỗi sợ và giận dữ.
+- Harry dành thời gian ở phòng mình, làm bạn với con cú Hedwig, đọc sách giáo trình mới và đếm ngược ngày đến khi đi học.
+- Harry thông báo với ông Dursley về việc phải đến nhà ga Ngã Tư Vua, và ông Dursley đồng ý đưa Harry.
+- Harry và gia đình Dursley đến nhà ga Ngã Tư Vua, nhưng Harry gặp khó khăn khi tìm cách vào sân ga số chín ba phần tư.
+- Harry gặp gia đình Weasley, họ hướng dẫn cách đi vào sân ga và Harry tiếp tục hành trình đến Hogwarts.
+- Trên tàu, Harry gặp và trò chuyện với Ron Weasley, và sau đó là Hermione Granger, cô bé đã học thuộc lòng sách giáo trình.
+- Harry gặp lại Draco Malfoy, nhưng từ chối lời đề nghị kết bạn của cậu ta.
+- Harry và Ron thay đồng phục và chuẩn bị đến nơi, gặp lại lão Hagrid, và cùng với các bạn năm nhất đi thuyền qua hồ đến lâu đài Hogwarts.
+"""

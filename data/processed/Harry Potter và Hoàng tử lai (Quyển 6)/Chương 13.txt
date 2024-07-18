@@ -1,0 +1,16 @@
+"""
+- Katie đã được chuyển đến Bệnh viện Thánh Mungo sau khi trúng bùa ếm, tin tức về sự cố này đã lan rộng khắp trường.
+- Harry, Ron, Hermione và Leanne là những người duy nhất biết rằng Katie không phải là mục tiêu ban đầu của bùa ếm.
+- Harry tỏ ra quan tâm về việc Dumbledore có trở lại từ chuyến đi của mình không.
+- Dumbledore giải thích rằng Snape có kiến thức sâu rộng về Nghệ Thuật Hắc Ám hơn Pomfrey, do đó anh ấy đã xử lý tình trạng của Katie.
+- Dumbledore đã không tiết lộ nơi anh ta đã đi, nhưng hứa hẹn sẽ nói với Harry khi thời điểm thích hợp.
+- Harry đã gặp Mundungus ở làng Hogsmeade và Dumbledore cho biết Mundungus đã phản ứng với việc thừa kế của Harry bằng hành vi ăn cắp.
+- Dumbledore đã nói với Harry rằng ông ta sẽ xem xét điều tra Malfoy liên quan đến vụ Katie.
+- Trong buổi học, Dumbledore đã dẫn Harry vào ký ức của mình về việc ông ta đến gặp Merope, mẹ của Voldemort, khi cô ta đang mang thai.
+- Dumbledore đã mua lại chiếc vòng cổ mà Voldemort sau này đã dùng để làm Horcrux từ Caractacus Burke.
+- Dumbledore đã đến gặp Merope tại London, nơi cô ta đã phải bán chiếc vòng cổ quý giá của mình để kiếm tiền.
+- Dumbledore đã gặp Tom Riddle khi cậu bé còn nhỏ tại trại mồ côi, nơi mà cậu đã sống sau khi mẹ cậu qua đời ngay sau khi sinh ra cậu.
+- Dumbledore đã giải thích với Riddle rằng cậu có khả năng ma thuật và mời cậu đến học tại Hogwarts.
+- Dumbledore đã nhận ra Riddle có khả năng nói Xà Ngữ, một khả năng hiếm thấy và có liên quan đến Nghệ Thuật Hắc Ám.
+- Dumbledore đã khuyên bảo Riddle về việc sử dụng phép thuật một cách đúng đắn và những hậu quả nếu vi phạm.
+"""

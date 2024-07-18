@@ -1,0 +1,14 @@
+"""
+- Harry bị tấn công bởi những tên Dementor và có thể bị trục xuất khỏi Hogwarts. Anh ta muốn biết lý do và thời điểm anh ta có thể thoát khỏi tình trạng này.
+- Harry viết thư cho Sirius, Ron và Hermione, nhờ con cú Hedwig chuyển.
+- Harry chờ đợi Hedwig trở về trong trạng thái lo lắng và mệt mỏi, với nhiều vết thương từ cuộc đụng độ với Dementor và Dudley.
+- Hedwig cuối cùng cũng trở về, và Harry gửi thư qua con cú này đến Sirius, Ron và Hermione.
+- Harry cảm thấy tức giận và thất vọng khi không ai giải thích rõ ràng cho anh về những sự kiện đang diễn ra.
+- Một đội bảo vệ đặc biệt, gồm nhiều phù thủy và phù thược, xuất hiện và đưa Harry ra khỏi nhà Dursleys.
+- Đội bảo vệ đưa Harry đến một nơi an toàn, được chỉ định là Tổng hành dinh của hội huynh đệ Phượng Hoàng, số 12 Quảng trường Grimmauld, London.
+- Harry gặp lại Hermione và Ron, nhưng cảm thấy tức giận khi họ biết nhiều thông tin mà không chia sẻ với anh.
+- Harry biết về hội huynh đệ Phượng Hoàng, một tổ chức bí mật chống lại Voldemort do Dumbledore thành lập.
+- Harry cũng biết về việc Percy Weasley đã phản bội gia đình, chọn đứng về phía Bộ Pháp thuật.
+- Harry còn biết rằng tờ Nhật báo Tiên tri đã viết nhiều bài viết tiêu cực về anh, coi anh như một trò đùa.
+- Cuối cùng, Harry gặp lại chú Sirius, người đã giúp anh trấn áp tiếng la hét từ bức chân dung của mẹ chú.
+"""

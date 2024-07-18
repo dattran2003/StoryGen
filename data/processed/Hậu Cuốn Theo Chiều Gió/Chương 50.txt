@@ -1,0 +1,15 @@
+"""
+- Scarlett đến nhà Molly, một ngôi nhà nằm sau vườn táo nhỏ và cô nhận xét về vẻ đẹp tươm tất của Molly.
+- Scarlett gặp Molly, cô ấy thấy Molly không kém phần quyến rũ dù đã tuổi tác.
+- Scarlett và Colum đi thăm bà nội, người có tuổi thọ cao và vẫn giữ được đôi mắt xanh tinh anh.
+- Scarlett cảm nhận được không khí ấm áp, thân thiện từ bà nội và những người trong gia đình.
+- Kathleen, người chị cùng cha khác mẹ của Scarlett, chào đón Scarlett và giới thiệu về cuộc sống ở Ireland.
+- Scarlett hiểu rõ hơn về nguồn gốc của mình qua những câu chuyện về cha mình từ những người thân trong gia đình.
+- Scarlett được tiếp xúc với cuộc sống nông thôn Ireland, cô thấy nó thuần hậu, thân thiện và khác xa với cuộc sống trong xã hội thượng lưu mà cô quen thuộc.
+- Scarlett gặp Bridie, người hầu phòng, và cô ấy hứa sẽ dạy Bridie về những yêu cầu của một phu nhân.
+- Scarlett và Colum gặp Daniel O'Hara, một người anh của cha Scarlett, và cô nhận được lời chúc phúc từ ông.
+- Scarlett được Kathleen cho biết về cách sắp xếp chỗ ở cho cả gia đình trong ngôi nhà nhỏ.
+- Scarlett và Colum rời nhà bà nội khi bà đang ngủ sau bữa ăn trưa.
+- Scarlett thể hiện hứng thú muốn thăm sông Boyne, nơi có lịch sử liên quan đến dòng họ O'Hara.
+- Molly sẽ thết Scarlett một tuần trà, cho Scarlett cơ hội để làm quen với gia đình của cô ấy trước khi trở về Charleston.
+"""

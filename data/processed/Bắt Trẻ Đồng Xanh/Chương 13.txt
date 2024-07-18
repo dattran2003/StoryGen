@@ -1,0 +1,12 @@
+"""
+- Nhân vật chính đi bộ về khách sạn qua bốn dãy phố, không vì thích mà chỉ vì chán phải ngồi taxi.
+- Nhân vật nhớ lại việc thường leo bộ lên phòng mình trên tầng mười hai khi còn nhỏ.
+- Anh ta tức giận vì đôi găng tay bị mất, nhưng nhận ra mình không đủ can đảm để đối mặt với kẻ đã lấy nó.
+- Nhân vật tự nhận mình là một kẻ nhút nhát, không thích việc đấu tranh hoặc đánh nhau.
+- Trong quá trình đi về, nhân vật quyết định dừng lại tại một quán bar nhưng thay đổi ý định sau khi gặp hai người say.
+- Khi về đến khách sạn, nhân vật cảm thấy chán chường và mệt mỏi, quyết định thử gọi một cô gái lên phòng.
+- Nhân vật thay đổi ý định sau khi gặp cô gái, cảm thấy không hứng thú và quyết định trả cô ấy tiền mà không làm gì.
+- Nhân vật chia sẻ về việc anh ta chưa từng quan hệ tình dục, mặc dù đã cố gắng nhiều lần.
+- Nhân vật mua sách để học về tình dục, muốn chuẩn bị cho việc lập gia đình trong tương lai.
+- Cuối cùng, nhân vật cảm thấy buồn và thất vọng sau cuộc gặp gỡ với cô gái.
+"""

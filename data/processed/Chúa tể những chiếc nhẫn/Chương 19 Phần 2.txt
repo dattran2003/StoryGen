@@ -1,0 +1,12 @@
+"""
+- Khi Mặt Trời lên trên quận xám, một nhân vật không rõ danh tính rời đi trước bình minh mà không để lại lời nào, di chuyển từ Vùng Đất Hoang Dã Hơn tới bờ Tây, qua hang rồng và cánh cửa ẩn tàng, rừng sâu và bóng tối.
+- Nhân vật này du hành cùng nhiều chủng tộc khác nhau như Người Lùn, Hobbit, Elves và Con Người, hiểu rõ ngôn ngữ của mọi loài.
+- Với thanh gươm sắc bén và cánh tay mạnh mẽ, nhân vật này chịu đựng gánh nặng vô vàn và vẫn tiếp tục cuộc hành trình mặc dù mệt mỏi.
+- Frodo và Sam thảo luận về những người Elves, và Sam bày tỏ sự tò mò về phép thuật của họ.
+- Frodo nhớ đến Gandalf, không chỉ những pháo hoa mà còn những đặc điểm cá nhân của ông.
+- Frodo và Sam cảm thấy bồn chồn khi họ cảm nhận được sắp có cuộc chia ly, và Frodo nhận ra rằng anh sắp phải rời Lothlurien.
+- Công Nương Galadriel xuất hiện và dẫn Frodo và Sam tới Chiếc Gương của Galadriel, một công cụ phép thuật cho phép họ thấy hình ảnh từ quá khứ, hiện tại và tương lai.
+- Sam nhìn vào Chiếc Gương và thấy hình ảnh về Quận, bao gồm việc phá hủy cây cối và những thay đổi đáng sợ khác.
+- Galadriel giải thích rằng Chiếc Gương không chỉ cho thấy những gì đã xảy ra, mà còn những gì có thể xảy ra, và nó có thể là công cụ hướng dẫn nguy hiểm.
+- Frodo quyết định không nhìn vào Chiếc Gương, nhưng vẫn sẵn lòng mạo hiểm.
+"""

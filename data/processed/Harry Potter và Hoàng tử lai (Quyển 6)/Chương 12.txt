@@ -1,0 +1,15 @@
+"""
+- Dumbledore không xuất hiện thường xuyên tại trường như trước, khiến Harry cảm thấy bị bỏ rơi.
+- Học sinh được cho phép đi đến Hogsmeade, dù có các biện pháp an ninh tăng cường.
+- Harry đọc sách "Pha chế độc dược cao cấp" của Hoàng tử Lai, khám phá nhiều bùa chú và thần chú.
+- Harry thử một thần chú từ sách và vô tình treo ngược Ron.
+- Hermione phản đối việc Harry thử nghiệm các bùa chú không rõ nguồn gốc.
+- Harry nhận ra cha mình từng sử dụng thần chú tương tự.
+- Harry nhận được thư từ Dumbledore, thông báo về buổi học tiếp theo.
+- Ginny đưa cho Harry một cuộn giấy da, có lẽ từ Dumbledore.
+- Harry, Ron và Hermione đi đến Hogsmeade, nhưng bị làm phiền bởi thời tiết xấu.
+- Họ gặp Mundungus Fletcher, người bị cáo buộc đã ăn trộm đồ từ nhà Sirius Black.
+- Katie Bell gặp tai nạn sau khi chạm vào một sợi dây chuyền ngọc mắt mèo có thể bị nguyền rủa.
+- Harry tin rằng Draco Malfoy có liên quan đến sợi dây chuyền, nhưng không có bằng chứng.
+- Giáo sư McGonagall không tin vào cáo buộc của Harry về Malfoy.
+"""

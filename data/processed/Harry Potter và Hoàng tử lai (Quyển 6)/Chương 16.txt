@@ -1,0 +1,21 @@
+"""
+- Harry và Ron đang gọt cải Bruxen tại trang trại Hang Sóc, nơi họ đang chuẩn bị cho Giáng sinh. 
+- Harry kể cho Ron về việc Snape đề nghị giúp đỡ Draco Malfoy, điều này được thực hiện thông qua một "Lời Thề Không thể phá vỡ".
+- Ron giải thích rằng nếu một Lời Thề như vậy bị phá vỡ, người thề sẽ chết.
+- Fred và George xuất hiện, trêu chọc Ron về mối quan hệ của anh với Lavender Brown.
+- Ron và Harry tiếp tục công việc gọt cải Bruxen khi Fred và George rời đi.
+- Bà Weasley thông báo về việc sắp xếp chỗ ngủ cho mọi người trong dịp Giáng sinh.
+- Fred hỏi về Percy, nhưng bà Weasley cho biết anh ta đang bận rộn tại Bộ Pháp thuật và không thể về nhà.
+- Harry và Ron tiếp tục thảo luận về Snape và Malfoy, với Harry dự định kể mọi chuyện cho Dumbledore.
+- Harry không có cơ hội nói chuyện với Hermione trước khi nghỉ lễ Giáng sinh.
+- Đêm Giáng sinh, Harry chia sẻ thông tin với ông Weasley và thầy Lupin.
+- Harry đặt nghi vấn về lòng trung thành của Snape, nhưng Lupin khẳng định niềm tin của mình vào Snape và Dumbledore.
+- Lupin tiết lộ rằng ông đang sống với nhóm người sói, làm gián điệp cho Dumbledore.
+- Harry hỏi Lupin về "Hoàng Tử Lai", người đã viết chú giải trong cuốn sách Độc dược mà Harry đang sở hữu.
+- Lupin cho biết cuốn sách của Harry có thể chứa thông tin về thời gian mà "Hoàng Tử Lai" học tại Hogwarts.
+- Trong buổi sáng sau Giáng sinh, Ron nhận được một dây chuyền từ Lavender, làm anh ta khó chịu.
+- Harry nhận được một số quà Giáng sinh, bao gồm một hộp giòi từ Kreacher.
+- Percy Weasley và Bộ trưởng Scrimgeour xuất hiện tại bữa ăn Giáng sinh, gây ngạc nhiên cho mọi người.
+- Scrimgeour cố gắng thuyết phục Harry hợp tác với Bộ Pháp thuật, nhưng Harry từ chối, chỉ trích Bộ vì cách họ xử lý Stan Shunpike và cách họ cố gắng sử dụng danh tiếng của Harry.
+- Scrimgeour hỏi về những hoạt động của Dumbledore, nhưng Harry từ chối cung cấp thông tin.
+"""

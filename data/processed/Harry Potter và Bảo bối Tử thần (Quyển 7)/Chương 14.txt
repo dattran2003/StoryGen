@@ -1,0 +1,18 @@
+"""
+- Harry thức dậy trong một cánh rừng, không nhớ rõ chuyện gì đã xảy ra.
+- Harry, Ron và Hermione dường như đã bị lạc trong rừng, không rõ vị trí.
+- Ron bị thương nghiêm trọng, Hermione sử dụng Tinh chất Bạch tiễn để chữa trị.
+- Hermione tiết lộ rằng khi họ độn thổ, Yaxley đã nắm bắt được cô và cô không thể thoát ra.
+- Họ đã đến một nơi mà Hermione nghĩ là an toàn, nhưng Yaxley có thể đã nhìn thấy và biết đến nơi này.
+- Harry lấy ra con mắt của thầy Mắt Điên, tiết lộ rằng chính vì nó mà họ bị phát hiện.
+- Hermione dẫn họ đến khu rừng nơi Cúp Quidditch Thế giới diễn ra.
+- Hermione dựng lên lều và đặt các bùa chú bảo vệ xung quanh khu vực.
+- Hermione lấy được mặt dây chuyền - một trong những Trường Sinh Linh Giá.
+- Họ không thể mở mặt dây chuyền, nhưng cảm nhận được nó đang 'sống'.
+- Harry và Hermione chia phiên canh gác, nhưng không có dấu hiệu của kẻ thù.
+- Harry bắt đầu cảm thấy lo lắng và không chắc chắn về kế hoạch tiếp theo.
+- Harry có những giấc mơ kỳ lạ liên quan đến Voldemort và Gregorovitch, người chế tạo đũa phép.
+- Harry chứng kiến Voldemort tra tấn Gregorovitch và sau đó giết ông ta.
+- Harry nhớ lại khuôn mặt của tên trộm đã ăn cắp một vật gì đó từ Gregorovitch.
+- Ron và Harry suy đoán rằng Voldemort có thể đang tìm kiếm một vật để tạo ra Trường Sinh Linh Giá thứ hai.
+"""

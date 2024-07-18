@@ -1,0 +1,11 @@
+"""
+- Scarlett O'Hara, giống như mọi người khác, không đánh giá đúng khả năng chịu đựng của mình. Cô đòi phải có người đến nhà Molly để lấy đồ và ra lệnh cho Bridie chuẩn bị hành lý, trong khi Kathleen sửa lại bộ váy.
+- Scarlett tỏ ra nóng nảy, giọng điệu khô khan, khiến Bridie sợ hãi. Cô cũng cố gắng mặc corset dù đau đớn.
+- Colum đi đến Trim, thuê xe và thông báo với gia đình và bạn bè về tình trạng của Scarlett. Scarlett rời đi vội vã, tránh việc từ biệt gia đình.
+- Scarlett từ giã bà Katie Scarlett, người đã bày tỏ lòng tiếc nuối vì Scarlett không thể ở lại đến lúc bà qua đời.
+- Scarlett và Bridie lên xe đi Mullyngar và tàu lửa đi Galway. Scarlett quyết định đi cùng Colum để xem con tàu, không muốn ở lại khách sạn một mình.
+- Scarlett muốn gặp thuyền trưởng để lên đường ngay lập tức. Cô gặp Frank Mahoney, người mang thư từ Mỹ.
+- Colum tìm thư từ anh trai mình trong số những bức thư mà Frank mang từ Mỹ. Scarlett ngất xỉn sau khi nhận thư.
+- Họ trở về khách sạn, Scarlett được chăm sóc bởi Colum và Bridie. Bác sĩ nói Scarlett chỉ bị ngất và sẽ hồi phục.
+- Colum lo lắng về Scarlett, thắc mắc liệu cô có thể phục hồi. Anh phát hiện ra một mẩu báo về đám cưới của Anne Hampton và Rhett Butler.
+"""

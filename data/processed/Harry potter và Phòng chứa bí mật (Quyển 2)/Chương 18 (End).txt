@@ -1,0 +1,18 @@
+"""
+- Ron, Harry, Ginny, và thầy Lockhart xuất hiện đầy mình dính rác nhớp nháp và máu sau cuộc phiêu lưu. 
+- Bà Weasley và ông Weasley, sau cơn sốc, ôm chầm lấy Ginny.
+- Harry và Ron được giáo sư Dumbledore và giáo sư McGonagall khen ngợi sau khi giải cứu thành công Ginny.
+- Harry trình bày chi tiết về cuộc truy tìm và khám phá Phòng chứa Bí mật.
+- Harry giải thích cách Fawkes và cái nón Phân loại đã giúp anh thoát hiểm.
+- Dumbledore giải thích về Tom Riddle và mối liên kết giữa anh và Harry.
+- Harry được trao thưởng Huy chương Công lao Đặc biệt và 200 điểm cho nhà Gryffindor.
+- Thầy Lockhart bị mất trí nhớ sau một vụ tai nạn trong Phòng chứa Bí mật.
+- Dumbledore thông báo về việc sẽ có một bữa tiệc ăn mừng.
+- Harry được giải thích về khả năng nói Xà ngữ và lý do anh thuộc về nhà Gryffindor.
+- Ông Malfoy xuất hiện và bị cáo buộc đã cố gắng gây rối loạn thông qua cuốn nhật ký của Riddle.
+- Harry dùng mánh khóe để giúp Dobby giành lại tự do từ ông Malfoy.
+- Dobby cảm ơn Harry và hứa sẽ không can thiệp vào cuộc sống của Harry nữa.
+- Trường Hogwarts tổ chức một bữa tiệc mừng vì sự an toàn của tất cả học sinh và việc Harry và Ron đã cứu Ginny.
+- Giáo sư Lockhart rời trường do mất trí nhớ.
+- Học kỳ kết thúc với nhiều thay đổi và học sinh trở về nhà cho kỳ nghỉ hè.
+"""

@@ -1,0 +1,17 @@
+"""
+- Elizabeth mong đợi sự hiện diện của Wickham tại buổi dạ vũ nhưng anh ta không xuất hiện, khiến cô cảm thấy thất vọng.
+- Elizabeth nghi ngờ Darcy có thể đã loại bỏ Wickham khỏi danh sách khách mời nhưng sau đó biết rằng Wickham đang bận công việc ở thành phố.
+- Elizabeth tức giận với Darcy vì sự vắng mặt của Wickham và cô quyết định không nói chuyện với anh ta.
+- Elizabeth trải qua buổi dạ vũ khó chịu khi nhảy với anh Collins, nhưng cảm thấy thoải mái hơn khi nhảy với một sĩ quan khác.
+- Darcy mời Elizabeth khiêu vũ, khiến cô ngạc nhiên và sau đó hai người có cuộc trò chuyện đầy mỉa mai và thách thức.
+- Elizabeth nói về Wickham với Darcy, khiến anh ta trở nên nghiêm túc và lạnh lùng.
+- Caroline Bingley cố gắng làm tổn thương Elizabeth bằng cách nói về quá khứ của Wickham nhưng không thành công.
+- Elizabeth và Jane nói về Wickham và Bingley, Jane tỏ ra hạnh phúc với Bingley.
+- Anh Collins cố gắng tự giới thiệu với Darcy nhưng Elizabeth cố ngăn anh, tuy nhiên anh vẫn tiếp tục và gặp phản ứng lạnh lùng từ Darcy.
+- Bà Bennet nói về hy vọng về cuộc hôn nhân giữa Jane và Bingley, không biết rằng Darcy đang nghe.
+- Mary biểu diễn ca hát nhưng không nhận được phản hồi tích cực, Elizabeth cố gắng ngăn cô nhưng không thành công.
+- Anh Collins tiếp tục trêu chọc Elizabeth và không cho cô nhảy với người khác, nhưng sau đó Charlotte Lucas giúp cô.
+- Elizabeth nhận ra rằng gia đình cô đã tự phô bày một cách xấu hổ trong buổi dạ vũ.
+- Gia đình Longbourn rời buổi dạ vũ sau khi chờ đợi và nhận lời mời từ Bingley đến thăm nhà họ sau khi anh trở về từ London.
+- Bà Bennet hy vọng Jane sẽ kết hôn với Bingley và Elizabeth với Collins, mặc dù bà không thích Elizabeth lắm.
+"""

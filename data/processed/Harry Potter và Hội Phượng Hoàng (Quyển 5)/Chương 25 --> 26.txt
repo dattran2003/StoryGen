@@ -1,0 +1,22 @@
+"""
+    - Chương 25 bắt đầu với việc Harry nhận được câu trả lời cho câu hỏi của mình khi tờ Nhật Báo Tiên Tri được gửi đến, tiết lộ rằng mười Tử Thần Thực Tử đã vượt ngục khỏi Azkaban. 
+    - Hermione đọc thông tin trên trang nhất của tờ báo với những bức ảnh đen trắng của những Tử Thần Thực Tử và thông tin về tội ác mà họ đã gây ra.
+    - Harry đặc biệt chú ý vào bức ảnh của Bellatrix Lestrange, người đã tra tấn và làm mất khả năng của Frank và Alice Longbottom.
+    - Cornelius Fudge, Bộ trưởng Bộ Pháp Thuật, thông báo rằng họ đã thông báo cho Thủ tướng dân Muggle về sự nguy hiểm của những Tử Thần Thực Tử trốn thoát.
+    - Fudge cho rằng Sirius Black, người từng vượt ngục khỏi Azkaban, có thể đã giúp đỡ những Tử Thần Thực Tử khác trốn thoát.
+    - Harry, Ron và Hermione thảo luận về việc Fudge đổ lỗi cho Sirius Black và khả năng rằng Black không liên quan đến vụ vượt ngục.
+    - Hermione đề xuất gửi một bức thư, nhưng không tiết lộ chi tiết.
+    - Harry nhận ra rằng Hagrid đang trong thời gian thử thách và cảm thấy lo lắng cho ông.
+    - Sự vượt ngục của mười Tử Thần Thực Tử trở thành chủ đề chính trong trường, gây ra sự sợ hãi và lo lắng.
+    - Harry bắt đầu cảm thấy khó chịu với vết sẹo trên trán, và thường xuyên mơ về Cục Những Điều Bí Ẩn.
+    - Harry gặp Cho Chang cho một cuộc hẹn hò, nhưng cuộc gặp gỡ trở nên khó khăn khi Cho bắt đầu hỏi về Cedric Diggory.
+    - Cho cảm thấy khó chịu khi Harry nói rằng anh sẽ gặp Hermione sau cuộc hẹn hò của họ.
+    - Cho bỏ đi trong cơn khóc, và Harry cảm thấy bối rối về những gì đã xảy ra.
+    - Harry gặp Hagrid tại quán Ba Cây Chổi Thần và thấy Hagrid đang trong tâm trạng buồn bã.
+    - Hermione, cùng với Rita Skeeter và Luna Lovegood, đề xuất việc viết một bài báo để Harry có thể nói sự thật về Voldemort.
+    - Rita Skeeter đồng ý viết bài báo, và Harry bắt đầu kể lại những chi tiết về đêm Voldemort trở lại.
+    - Cho Chang sau đó xin lỗi Harry và nói rằng cô đã đọc bài phỏng vấn và nó đã làm cô khóc.
+    - Harry sau đó gặp phải một cơn đau dữ dội ở vết sẹo, và trải qua một giấc mơ mà anh trở thành Voldemort, gặp Rookwood, một trong những Tử Thần Thực Tử đã trốn thoát.
+    - Harry chia sẻ với Ron về giấc mơ và nghi ngờ rằng Rookwood đã giúp Voldemort tìm ra cách lấy một vũ khí mà Bode đã cố gắng lấy.
+    - Hermione và Ron khuyên Harry nên tập trung vào việc học phép Phong Tỏa Trí để ngăn chặn những giấc mơ như vậy.
+"""

@@ -1,0 +1,16 @@
+"""
+- main character must walk due to inability to call a taxi at late hour. He walks towards the station, enduring the cold and snow with his luggage.
+- He was physically assaulted by someone named Stradlater, which left him with a painful lip and nose.
+- He arrives at the station and waits for the train, using the time to clean his face with snow.
+- On the train, he enjoys the night ride but isn't interested in the usual activities like reading magazines or eating sandwiches.
+- A woman sits next to him on the nearly empty train. She recognizes his Pencey Prep school luggage label.
+- The woman's son, Ernest Morrow, attends the same school as the protagonist. The protagonist doesn't like Ernest, describing him as disrespectful.
+- The woman, presumably Ernest's mother, asks about Pencey and her son. The protagonist lies, portraying Ernest in a positive light to please her.
+- They continue their conversation, with the protagonist still lying about Ernest and Pencey. 
+- The woman declines the offer of a drink from the bar car.
+- The protagonist fabricates a story about needing brain surgery to explain why he is going home early.
+- After the woman leaves the train, the protagonist attempts to make phone calls but can't decide who to call. He eventually gives up.
+- He mistakenly tells the taxi driver his home address, then corrects himself when he realizes his mistake.
+- He asks the taxi driver about the ducks in Central Park, but the driver dismisses him.
+- He decides to stay at the Edmont Hotel after leaving the taxi, removing his hunting hat to avoid appearing strange.
+"""

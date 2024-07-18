@@ -1,0 +1,20 @@
+"""
+- Harry dựa vào niềm vui được gặp chú Sirius để vượt qua thời gian khó khăn sau khi trở thành quán quân của trường.
+- Sự căng thẳng và nỗi sợ hãi về bài thi đầu tiên bắt đầu len lỏi vào Harry, tạo ra cảm giác như cuộc đời anh đang đi đến tận cùng.
+- Harry cảm thấy lo lắng và khó chịu trước bài báo của Rita Skeeter, làm tăng cảm giác khó chịu và ngượng ngùng của anh.
+- Hermione và Harry lập kế hoạch để gặp Sirius mà không bị ai làm phiền.
+- Cuộc sống của Harry trở nên tồi tệ hơn khi bài báo của Rita Skeeter xuất bản, làm anh trở thành mục tiêu của những lời trêu chọc và bình luận từ các bạn học, đặc biệt là từ nhóm Slytherin.
+- Hermione chịu đựng những lời bình phẩm và đối mặt với chúng một cách mạnh mẽ.
+- Harry và Ron vẫn chưa hòa giải, dù Hermione cố gắng làm mối.
+- Viktor Krum dành nhiều thời gian ở thư viện, gây tò mò cho Harry.
+- Hermione và Harry đi thăm Hogsmeade, nơi Harry tận dụng Áo Khoác Tàng Hình để tránh bị chú ý.
+- Rita Skeeter và bạn của cô xuất hiện tại Hogsmeade, Harry nghi ngờ cô ta đang chờ đợi cuộc thi đấu đầu tiên.
+- Harry và Hermione ghé quán Ba Cây Chổi Thần, nơi họ gặp Ron nhưng Harry chọn cách tránh mặt.
+- Hagrid muốn gặp Harry vào nửa đêm tại căn chòi của mình, điều này làm phức tạp kế hoạch gặp Sirius của Harry.
+- Hagrid dẫn Harry đến gặp Madame Maxime và cùng nhau họ chứng kiến những con rồng mà các quán quân sẽ phải đối mặt trong bài thi đầu tiên.
+- Harry thấy rõ sự nguy hiểm của bài thi nhưng cũng biết được thông tin quan trọng trước khi cuộc thi diễn ra.
+- Trong khi trở về, Harry gặp Karkaroff, cho thấy rằng ông cũng đang cố gắng tìm hiểu về bài thi đầu tiên.
+- Harry cuối cùng gặp chú Sirius, người khuyên Harry cảnh giác với Karkaroff và thông báo rằng Karkaroff từng là một Tử thần Thực tử.
+- Sirius cũng cảnh báo Harry về hoạt động của Tử thần Thực tử và khả năng Voldemort có thể đã biết về cuộc Thi đấu Tam Pháp thuật.
+- Sirius gợi ý có cách để Harry có thể đối phó với rồng, nhưng không kịp nói rõ khi có người đến gần.
+"""

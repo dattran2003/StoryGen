@@ -1,0 +1,13 @@
+"""
+- Harry không rõ làm thế nào để quay lại tiệm Công tước Mật và trở về lâu đài, sau khi nghe được câu chuyện về việc ba mẹ mình bị phản bội. 
+- Ron và Hermione quan sát Harry suốt bữa ăn tối, không dám bàn luận về những gì họ nghe được.
+- Fred và George nổ bom phân trong phòng sinh hoạt chung, Harry tránh họ và lên phòng ngủ.
+- Harry tìm đến cuốn album hình ảnh mà Hagrid tặng, tìm đến hình ảnh của cha mẹ mình và thấy hình ảnh của Sirius Black, người bạn thân đã phản bội họ.
+- Harry cảm thấy sự căm ghét mạnh mẽ đối với Black và suy nghĩ về việc Black đã không bị ảnh hưởng bởi những viên giám ngục Azkaban.
+- Harry thức dậy muộn và biết rằng mọi người đã rời đi, bắt đầu kỳ nghỉ lễ.
+- Hermione và Ron lo lắng về việc Harry có thể tìm kiếm Black và khuyên anh ta không nên làm điều gì nguy hiểm.
+- Harry và bạn bè quyết định đi thăm Hagrid, nơi họ phát hiện ra rằng con Bằng Mã của Hagrid, Buckbeak, đang phải đối mặt với phiên tòa của Ủy ban Bài trừ Sinh vật Nguy hiểm.
+- Harry, Ron và Hermione quyết định giúp Hagrid chuẩn bị cho phiên tòa.
+- Harry nhận được một cây chổi thần mới, một cây Tia Chớp, nhưng không biết ai đã tặng nó.
+- Hermione lo ngại về nguồn gốc của cây chổi và thông báo cho giáo sư McGonagall, người quyết định tịch thu cây chổi để kiểm tra xem có bị ếm bùa hay không.
+"""

@@ -1,0 +1,20 @@
+"""
+- Rhett dẫn Scarlett lên phòng riêng và hỏi tại sao cô ở đây.
+- Scarlett giải thích rằng cô tới vì thư của Dì Eulalie nói rằng Rhett muốn cô đến, nhưng cô không thể rời Atlanta vì cửa hàng.
+- Rhett cáo buộc Scarlett cố gắng lừa dối anh, Scarlett chấp nhận và nói rằng cô ở đây vì muốn ở bên anh.
+- Rhett đề nghị họ chỉ nên là bạn và khuyên Scarlett nên quay về Atlanta vì anh không còn yêu cô.
+- Scarlett khẳng định cô là vợ của anh và không cho phép ly dị.
+- Scarlett đe dọa sẽ tiết lộ sự thật nếu Rhett đuổi cô đi, điều này sẽ làm đau lòng mẹ Rhett.
+- Rhett sau cùng chấp nhận Scarlett ở lại, nhưng dự đoán cô sẽ không ở lâu.
+- Scarlett khẳng định cô yêu Charleston, nhưng Rhett nghi ngờ.
+- Scarlett và Rhett tiếp tục tranh cãi về cuộc sống và mối quan hệ của họ.
+- Rhett yêu cầu Scarlett cho anh xem quần áo của cô, anh bắt đầu phê bình và chỉnh sửa trang phục của cô.
+- Scarlett mua giày bốt khi đi cùng mẹ, và cô phàn nàn rằng Rhett không mua một chiếc xe cho mẹ.
+- Rhett giải thích lý do anh không mua xe và cách anh muốn giữ cho mẹ anh không nổi bật so với bạn bè.
+- Scarlett và Rhett tiếp tục tranh cãi về việc cô phô trương.
+- Rhett yêu cầu Scarlett mặc một chiếc áo phù hợp cho buổi tối và rời khỏi phòng.
+- Scarlett mặc áo ngủ của Rhett, cảm nhận sự hiện diện của anh và bắt đầu suy nghĩ về mối quan hệ của họ.
+- Trong khi đó, Rhett đưa những thành viên khác về nhà trong cơn mưa.
+- Emma Anson và Sally Brewton thảo luận về Scarlett và khả năng cô có thể thay đổi.
+- Họ cũng nhận xét về việc Scarlett tỏ ra yêu Rhett và cảm xúc của Anne khi nhìn thấy Rhett.
+"""

@@ -1,0 +1,16 @@
+"""
+- Ông Heathcliff trở về bất ngờ sau khi đi vắng, làm Cathy và Hareton ngạc nhiên. Họ cố gắng rời đi nhưng bị ông giữ lại.
+- Heathcliff bày tỏ sự rối loạn nội tâm, ông đã cố gắng phá hủy hai gia đình và bây giờ cảm thấy không còn hứng thú với việc hủy hoại nữa.
+- Ông trải qua những thay đổi tâm lý không rõ ràng, cảm thấy khó chịu nhưng không sợ chết. Ông cảm thấy không thể chịu đựng cuộc sống hiện tại.
+- Trong vài ngày, ông không ăn cùng mọi người, sau đó rời khỏi nhà vào ban đêm và trở về với vẻ mặt tái nhợt nhưng mắt sáng lên.
+- Ông nói rằng mình đã đến ngưỡng cửa địa ngục và thấy thiên đường của mình.
+- Ông chỉ thị cho Joseph về công việc trang trại và dành thời gian ngồi nhìn vào bức tường với ánh mắt long lanh.
+- Heathcliff yêu cầu gọi luật sư để lập di chúc, và từ chối lời khuyên về việc ăn năn hối cải.
+- Ông tuyên bố mình gần đạt được thiên đàng của mình, và không quan tâm đến thiên đàng của người khác.
+- Heathcliff qua đời trong phòng cũ của Catherine Earnshaw, bị phát hiện khi cửa sổ mở toang và ông nằm trên giường, mặc dù mưa tạt vào.
+- Joseph và Hareton phản ứng với cái chết của ông, Hareton đặc biệt đau buồn.
+- Heathcliff được chôn bên cạnh Catherine, nhưng dường như không an nghỉ, với lời đồn ông vẫn lang thang.
+- Hareton và Cathy dự định kết hôn và chuyển về ấp.
+- Joseph quyết định ở lại ngôi nhà, trong khi phần còn lại của ngôi nhà sẽ bỏ không cho những linh hồn.
+- Ellen Dean kết thúc câu chuyện, và người kể rời đi trước khi Hareton và Cathy trở về.
+"""

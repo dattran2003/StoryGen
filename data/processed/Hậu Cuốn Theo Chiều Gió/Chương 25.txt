@@ -1,0 +1,20 @@
+"""
+- Rhett cấm Scarlett và Rosemary đến gần hồ, sắp đặt cho họ việc khám phá khu vườn bỏ hoang.
+- Trong khi dạo chơi, Scarlett nhận ra sự khác biệt giữa khu đồn điền và Tara, quê hương của cô.
+- Rosemary chia sẻ về những kỷ niệm tuổi thơ tại khu vườn, tạo nên sự hiểu biết sâu sắc về nơi này.
+- Scarlett cảm nhận được sự yêu mến của Rosemary dành cho khu đồn điền, điều này làm cô nhận ra rằng họ có thể hòa hợp.
+- Rosemary miêu tả về hồ nước và cuộc sống trước chiến tranh tại Dunmore, nơi mà Rhett dự định phục hồi.
+- Scarlett mệt mỏi với việc dạo chơi và chọn ngồi lại, suy nghĩ về cuộc sống ở Dunmore so với Tara.
+- Rosemary chia sẻ về những lo lắng của cô về mùa hè và bệnh sốt rét, điều này giúp Scarlett hiểu rõ hơn về lịch trình của Rhett.
+- Scarlett và Rosemary phát hiện một tượng đài đá trắng, Rosemary giải thích đó là mộ phần của gia đình Butler.
+- Scarlett cảm thấy bối rối trước sự trường cửu của gia đình Butler, và hiểu rõ hơn về nguồn gốc của Rhett.
+- Scarlett và Rosemary thu thập cành thông để trang trí cho ngôi nhà cho ngày lễ.
+- Rhett khen ngợi việc trang trí cho buổi tiếp tân sắp tới và yêu cầu Scarlett, Rosemary và Pansy tránh tiếp xúc với khách.
+- Scarlett cảm thấy buồn chán vì việc cô phải tránh xa mọi người và không thể tham gia vào các hoạt động.
+- Scarlett tìm lại niềm vui trong các buổi tiệc, nhưng nhanh chóng nhận ra rằng cô không còn ở tuổi 16 và không còn hứng thú với việc chinh phục những người đàn ông khác.
+- Scarlett nhận ra rằng cô muốn chinh phục Rhett nhưng không thể tiến gần được đến anh, điều này làm cô cảm thấy lo lắng.
+- Scarlett tỏ ra giận dữ với Tommy Cooper, người mà Rhett dành thời gian cho, làm tăng thêm nỗi ghen tuông của cô.
+- Scarlett cố gắng làm cho Rhett ghen bằng cách tiếp cận Middleton Courtney, một người giàu có và hấp dẫn.
+- Scarlett và Middleton bắt đầu một mối quan hệ công khai, điều này trở thành đề tài bàn tán trong mùa chơi.
+- Vợ của Middleton, Edith, bắt đầu cảm thấy khó chịu, trong khi Rhett giữ thái độ thản nhiên, làm cho xã hội Charleston tò mò.
+"""

@@ -1,0 +1,13 @@
+"""
+- Ông Bennet và các con gái không thể tìm hiểu nhiều về Mr Bingley từ ông chồng bà Bennet. Thông tin về Bingley cuối cùng đến từ bà hàng xóm Lucas, theo đó, Bingley là một thanh niên trẻ, đẹp trai, dễ mến và dự định mang nhiều khách đến buổi dạ vũ.
+- Bà Bennet bày tỏ mong muốn con gái có cuộc sống hạnh phúc tại Netherfield.
+- Bingley đáp lại thăm viếng của ông Bennet nhưng không gặp được các cô con gái. Các cô con gái sau đó quan sát anh từ cửa sổ.
+- Bingley từ chối lời mời ăn tối của bà Bennet vì có việc ở London, điều này gây thất vọng cho bà Bennet.
+- Tin tức sau đó cho hay Bingley sẽ dẫn theo nhiều người đến dạ vũ, nhưng sau cùng chỉ có năm người.
+- Tại dạ vũ, Bingley tỏ ra thân thiện và sôi động, trong khi người bạn Darcy của anh ta lại bị coi là kiêu hãnh và khó gần.
+- Darcy từ chối khiêu vũ với bất kỳ phụ nữ nào khác ngoài hai chị em của Bingley.
+- Elizabeth Bennet phải ngồi ngoài hai bản khiêu vũ và nghe Darcy từ chối lời mời khiêu vũ từ Bingley.
+- Darcy nói Elizabeth không đủ xinh để thu hút anh, điều này gây ra sự không thiện cảm từ Elizabeth.
+- Tuy nhiên, gia đình Bennet hài lòng với buổi dạ vũ, đặc biệt là khi thấy Jane nhận được sự chú ý từ Bingley.
+- Khi trở về nhà, bà Bennet kể về buổi dạ vũ cho ông Bennet, đồng thời chia sẻ về thái độ thô lỗ của Darcy.
+"""

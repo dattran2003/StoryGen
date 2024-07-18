@@ -1,0 +1,19 @@
+"""
+- Nhân vật chính liên tục bị gợi nhớ về ấn tượng ban đầu của mình về Thornfield Hall.
+- Bà Fairfax vẫn giữ tính cách tốt bụng, trầm tĩnh.
+- Cô học trò ban đầu hư hỏng do được nuông chiều, nhưng sau đó đã cải thiện và trở nên vâng lời.
+- Tháng Mười, Mười Một và Chạp trôi qua êm ả với sự hài lòng tại đây.
+- Nhân vật chính thường đi dạo một mình hoặc ngắm cảnh từ sân thượng.
+- Cô cảm thấy được mọi người quan tâm và an toàn tại Thornfield Hall.
+- Ngoài giờ dạy, cô thường sống một mình, cố gắng hòa nhập với cuộc sống ở đây.
+- Cô chú ý đến Grace Poole, người ít nói và có hành vi khiến cô tò mò.
+- Bạn thân nhất của cô là bà Fairfax và Adele.
+- Trong một buổi chiều giá lạnh, cô đi gửi thư cho bà Fairfax.
+- Cô tận hưởng chuyến đi bộ trong mùa đông.
+- Cô gặp một người lạ bị ngã ngựa và giúp anh ta.
+- Người lạ này được xác định là chủ của Thornfield Hall, ông Rochester.
+- Ông Rochester gặp tai nạn, ngựa trượt chân và ông bị bong gân.
+- Cô đã giúp ông Rochester đứng dậy và cưỡi lên ngựa.
+- Khi cô trở về, cô thấy rằng bà Fairfax và Adele đang gặp ông Rochester.
+- Cô cũng biết rằng John đã đi mời bác sĩ vì tai nạn của ông Rochester.
+"""

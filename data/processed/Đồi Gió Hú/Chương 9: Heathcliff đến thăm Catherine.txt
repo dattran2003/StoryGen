@@ -1,0 +1,15 @@
+"""
+- Truyện diễn ra trong ba ngày, người kể chuyện mang một bức thư dành cho Catherine, quyết định không trao nó khi Edgar có mặt vì lo ngại phản ứng của cô.
+- Heathcliff chờ đợi suốt ngày và đêm trong khu vườn, trong khi người kể chuyện không rời khỏi nhà để tránh bị cậu ta đe dọa.
+- Đến Chủ Nhật, mọi người đi lễ nhà thờ, người kể chuyện ở lại chăm sóc Catherine và tìm cách để cậu đầy tớ ra ngoài để có thể đưa thư cho Catherine.
+- Catherine trông xanh xao, u buồn, không chú tâm vào thế giới xung quanh và không chạm vào cuốn sách mà Edgar để lại.
+- Người kể chuyện trao thư của Heathcliff cho Catherine, cô nhận ra tên của Heathcliff và biểu hiện sự nôn nóng.
+- Heathcliff xuất hiện, ôm Catherine và hôn cô trong một thời gian dài, tỏ rõ sự đau lòng khi nhìn thấy tình trạng của cô.
+- Catherine trách mắng cả Edgar và Heathcliff đã làm tan nát trái tim cô, và thách thức Heathcliff về khả năng sống sót sau khi cô qua đời.
+- Heathcliff và Catherine tranh luận về việc cô đã phản bội anh, nhưng cuối cùng họ ôm nhau và khóc, Heathcliff tha thứ cho Catherine.
+- Edgar trở về, người kể chuyện cảnh báo Heathcliff, buộc cậu phải rời đi nhưng Catherine cố gắng giữ lại.
+- Heathcliff quyết định ở lại, ngay cả khi Edgar có thể tấn công, và tuyên bố anh sẽ chết với lời ban phước trên môi.
+- Edgar phát hiện Heathcliff và định tấn công, nhưng dừng lại khi thấy Catherine bất tỉnh.
+- Heathcliff rời đi sau khi đảm bảo Catherine được chăm sóc, và tuyên bố sẽ đợi trong vườn cho đến sáng hôm sau.
+- Heathcliff giữ lời và chờ đợi suốt đêm trong vườn.
+"""

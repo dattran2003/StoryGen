@@ -1,0 +1,13 @@
+"""
+- Đến cuối tháng tám, sân cỏ ở quảng trường Grimmauld Place đã héo queo dưới nắng. Nhà số 12, nơi cư trú của Harry và những người bạn, vẫn vô hình với thế giới Muggle.
+- Những người theo dõi nhà này, mặc dù không bình thường, đã thu hút sự chú ý của cư dân Muggle xung quanh.
+- Trong nhà số 12, Harry vừa trở về từ việc theo dõi và phát hiện ra rằng Severus Snape đã trở thành hiệu trưởng mới của Hogwarts.
+- Tin tức này gây sốc cho Harry, Ron và Hermione. Snape đã được Bộ Pháp thuật và Voldemort ủng hộ.
+- Harry, Ron và Hermione đã thảo luận về kế hoạch xâm nhập Bộ Pháp thuật để tìm hiểu thông tin, dự định thực hiện kế hoạch vào ngày hôm sau.
+- Hermione lo ngại về mối liên hệ giữa Harry và Voldemort, và yêu cầu Harry cố gắng ngăn chặn việc Voldemort xâm nhập tâm trí của Harry.
+- Trong một giấc mơ, Harry thấy Voldemort đang săn lùng Gregorovitch, người chế tạo đũa phép.
+- Sáng hôm sau, ba người bạn đã thực hiện kế hoạch xâm nhập Bộ Pháp thuật bằng cách giả dạng những nhân viên của Bộ, sử dụng thuốc Đa Quả dịch và kẹo Ói.
+- Hermione giả dạng Mafalda Hopkirk, Ron giả dạng Reg Cattermole và Harry giả dạng một nhân viên khác. Họ đã vào được Bộ Pháp thuật nhưng vẫn chưa tìm thấy Umbridge.
+- Ron bị Yaxley, một Tử Thần Thực Tử, gọi đi sửa chữa văn phòng đang mưa của mình, đặt ra một tình huống khó khăn.
+- Hermione và Harry quyết định tiếp tục tìm Umbridge trong khi Ron xử lý vấn đề với Yaxley.
+"""

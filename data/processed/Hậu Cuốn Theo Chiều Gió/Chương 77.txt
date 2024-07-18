@@ -1,0 +1,13 @@
+"""
+- Scarlett đến Dublin bằng tàu từ Trim và được Evans, hầu gái của Charlotte, đón tại ga.
+- Cô bị kích thích bởi cảnh náo nhiệt của Dublin và mê mẩn thành phố này.
+- Scarlett gặp Charlotte và cùng bà này dùng trà sau khi thợ may Sims và các phụ tá đã đo niêm áo cho cô.
+- Ngày hôm sau, Scarlett thức dậy bởi tiếng xe cộ và được thưởng thức cà phê, thứ mà cô yêu thích.
+- Cô được chuẩn bị bởi đội ngũ thợ may và thợ làm tóc, Serafina, để mặc vào một chiếc áo dạ hội xa hoa.
+- Scarlett được giới thiệu với họa sĩ Francois Hervé, người sẽ vẽ chân dung cô.
+- Sau những buổi làm mẫu và mua sắm, Scarlett trở về Ballihara với nhiều quà tặng.
+- Cô đã dành thời gian chơi với con gái mình, Cat, và gửi quà cho Colum và bà Fitz.
+- Scarlett gặp John Devoy, người Mỹ đến từ Mỹ, bạn của Colum.
+- Cô tham gia vào buổi lễ Thánh nữ Brigid và sau đó quay lại Dublin để tham dự Mùa Lâu đài.
+- Trong khi đó, Colum có cuộc tranh luận với Devoy về chính trị, đặc biệt liên quan đến Parnell và tương lai của Ireland.
+"""

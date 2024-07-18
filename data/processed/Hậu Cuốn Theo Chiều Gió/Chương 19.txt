@@ -1,0 +1,19 @@
+"""
+- Eleanor Butler lo lắng về việc tàu đến sớm và sợ Rosemary không tìm thấy họ trong đêm, cũng như lo ngại về sự vô tư của hầu gái.
+- Rhett đảm bảo rằng tàu không thể đến sớm hơn nữa và đã chuẩn bị phương tiện di chuyển.
+- Scarlett dự định hỏi Rhett về cô em gái Rosemary và lo sợ Rosemary không yêu quý cô.
+- Scarlett không muốn Rosemary đến nhà và chiếm sự chú ý của Rhett.
+- Rosemary cuối cùng đã đến nhà và Scarlett nhận ra cô ấy giống Rhett.
+- Scarlett cảm thấy Rosemary thiếu sự tinh tế và quyết định giúp cô ấy.
+- Ross xuất hiện trong tình trạng khẩn cấp, đã bắn một người Yankee và cần sự giúp đỡ của Rhett để trốn thoát.
+- Rhett giúp Ross trốn khỏi cảnh sát và khuyên mọi người giữ bí mật.
+- Quân đội Liên bang đến nhà và lục soát, nhưng không tìm thấy gì.
+- Scarlett, Eleanor và Rosemary phải đối mặt với quân đội Liên bang và xử lý tình huống một cách bình tĩnh.
+- Ross và Rhett cuối cùng đã an toàn.
+- Scarlett và Eleanor lo lắng về việc Rhett giúp Ross trốn thoát và hậu quả có thể xảy ra.
+- Người dân Charleston phản ứng dữ dội trước những hành động của quân đội Liên bang.
+- Rhett thông báo Ross đã được an toàn và cả nhà mừng rỡ.
+- Scarlett cảm thấy lo sợ khi dự lễ cưới Lucinda nhưng Rhett trấn an cô.
+- Rhett hài lòng vì Ross đã vô tình tạo ra cơ hội cho người dân Charleston để vui mừng và tự hào.
+- Rosemary đau lòng khi chứng kiến cách Rhett đối xử với Scarlett và không hiểu vì sao anh lại độc ác với vợ mình.
+"""

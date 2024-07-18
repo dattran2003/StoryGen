@@ -1,0 +1,29 @@
+"""
+- Phượng Hoàng than khóc, tạo bầu không khí buồn bã.
+- Harry từ chối rời Dumbledore, nhưng bị dẫn đi bởi một bàn tay nhỏ, sau đó nhận ra là Ginny.
+- Ginny dẫn Harry trở lại lâu đài qua đám đông, trong khi tiếng nấc, tiếng khóc và tiếng la chém vang lên.
+- Ginny và Harry tiếp tục đi tới bệnh thất.
+- Harry tỏ ra lo lắng vì những người còn sống, hỏi Ginny nếu còn ai khác đã chết.
+- Ginny đảm bảo rằng không ai trong nhóm của họ đã chết, nhưng Bill bị Greyback tấn công và không còn như cũ nữa.
+- Neville và giáo sư Flitwick cũng bị thương nhưng sẽ hồi phục.
+- Harry và nhóm bạn gặp lại Ron, Hermione, Luna, cô Tonks và thầy Lupin ở bệnh thất.
+- Bill bị thương nặng sau cuộc tấn công của Greyback.
+- Harry thông báo cho mọi người rằng Snape đã giết Dumbledore.
+- Thông tin về Snape cung cấp cho Voldemort thông tin dẫn đến cái chết của bố mẹ Harry.
+- Snape sau đó tỏ ra hối hận và ăn năn, nhưng sau cùng đã phản bội Dumbledore.
+- Snape đã giúp Malfoy và nhóm Tử thần thực tử xâm nhập trường.
+- Harry và nhóm bạn đã cố gắng ngăn chặn Malfoy nhưng không thành công.
+- Malfoy đã dẫn nhóm Tử thần thực tử vào trường qua Tủ Biến mất.
+- Một trận chiến nổ ra, trong đó một thành viên Tử thần thực tử, Gibbon, đã chết.
+- Snape đã trốn thoát sau khi giết Dumbledore.
+- Fleur phản ứng trước việc Bill bị thương, khẳng định tình yêu của cô đối với Bill.
+- Thầy Lupin và cô Tonks thảo luận về mối quan hệ của họ.
+- Giáo sư McGonagall muốn biết về những gì Harry và Dumbledore đã làm, nhưng Harry từ chối tiết lộ.
+- Harry thông báo cho giáo sư McGonagall về việc bà Rosmerta bị trúng Lời nguyền Độc đoán.
+- Nhóm giáo viên thảo luận về việc có nên tiếp tục mở trường sau cái chết của Dumbledore.
+- Hagrid, mặc dù đau buồn, vẫn đồng ý ở lại và dạy nếu có học sinh muốn.
+- Harry yêu cầu để học sinh ở lại cho đến sau đám tang của Dumbledore.
+- Bộ trưởng và đoàn tùy tùng của ông sắp đến.
+- Harry trốn tránh cuộc gặp mặt với Bộ trưởng và trở về phòng sinh hoạt chung của nhà Gryffindor.
+- Harry và Ron thảo luận về việc tìm Trường Sinh Linh Giá, nhưng nó đã bị ai đó lấy mất và thay bằng một bản sao giả.
+"""

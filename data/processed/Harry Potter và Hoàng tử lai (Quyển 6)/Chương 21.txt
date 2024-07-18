@@ -1,0 +1,23 @@
+"""
+- Harry cố gắng tìm cách thuyết phục Thầy Slughorn giao bản ký ức thật, nhưng không thành công, nên anh ta nghiên cứu cuốn sách Độc dược hy vọng tìm ra lời giải.
+- Hermione khuyên Harry không nên phụ thuộc vào cuốn sách và nhắc nhở anh ta rằng chỉ có Harry mới có thể lấy được ký ức từ Thầy Slughorn.
+- Harry tìm thấy một câu thần chú "Cắt sâu mãi mãi!" được ghi chú bên lề cuốn sách Độc dược, nhưng quyết định không thử trước mặt Hermione.
+- Thông báo về kỳ kiểm tra Độn thổ khiến Ron lo lắng vì anh ta chưa biết cách thực hiện kỹ thuật này.
+- Hermione đã thành công hai lần trong việc Độn thổ, trong khi Harry phải chờ đến tháng bảy mới đủ tuổi để tham gia kiểm tra.
+- Ron đang cố gắng hoàn thành bài luận văn khó khăn của Thầy Snape, trong khi Harry và Hermione đã hoàn thành từ lâu.
+- Hermione chỉ trích Ron vì sử dụng cây viết "Tự-kiểm-tra-chính-tả" của Fred và George, dẫn đến nhiều lỗi chính tả trong bài luận.
+- Hermione giúp Ron sửa lại bài luận của mình bằng cách sử dụng cây đũa phép.
+- Harry vẫn không tìm thấy lời giải từ cuốn sách Độc dược, nhưng sau cùng nhận ra Malfoy có thể đang sử dụng Phòng theo yêu cầu.
+- Kreacher và Dobby đều theo dõi Malfoy theo yêu cầu của Harry, nhưng không thể phát hiện rõ ràng những gì Malfoy đang làm.
+- Harry và nhóm nhận ra rằng Malfoy có thể đã ăn cắp Đa quả dịch từ Thầy Slughorn và sử dụng chúng để biến hình thành người khác, đặc biệt là khi anh ta muốn vào Phòng theo yêu cầu mà không bị phát hiện.
+- Hermione khuyên Harry nên tập trung vào việc lấy ký ức của Thầy Slughorn thay vì tập trung vào việc theo dõi Malfoy.
+- Harry quyết định thử vào Phòng theo yêu cầu, nhưng không thành công dù đã thử nhiều cách khác nhau.
+- Trong lớp học Phòng chống nghệ thuật hắc ám, Harry và Ron bị Thầy Snape trừ điểm vì trễ và vì lời bình luận của Ron về cách phân biệt Âm binh và con ma.
+- Harry cố gắng tiếp cận Thầy Slughorn sau mỗi buổi học Độc dược, nhưng không thành công do thầy luôn rời đi nhanh chóng.
+- Harry gặp cô Tonks trên hành lang, cô này đang tìm Thầy Dumbledore nhưng không tìm thấy.
+- Harry không thể vào Phòng theo yêu cầu dù đã thử nhiều khẩu lệnh khác nhau.
+- Cô Tonks xuất hiện, trông rất mệt mỏi và buồn bã, cô ấy nói rằng cô muốn gặp Thầy Dumbledore nhưng thầy không có mặt.
+- Ron thông báo anh ta đã có tiến triển trong việc Độn thổ, dù vẫn còn cần cải thiện.
+- Hermione hoàn thành tốt bài học Độn thổ và cả nhóm sau đó đi uống nước tại quán Ba cây chổi.
+- Harry chia sẻ với Ron và Hermione về việc gặp cô Tonks, và cả nhóm thảo luận về việc cô ấy có thể đang buồn vì chú Sirius.
+"""

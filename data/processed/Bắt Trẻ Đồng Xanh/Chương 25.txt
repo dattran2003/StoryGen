@@ -1,0 +1,16 @@
+"""
+- Khi ra khỏi nhà, tôi bắt đầu đi bộ không định hướng dưới trời lạnh lẽo, cuối cùng đi đến Lexington và xuống tàu điện ngầm đến nhà ga trung tâm. Tôi quyết định ngủ tại phòng chờ, nhưng cảm giác khá tởm.
+- Tôi ngủ đến 9 giờ, buộc phải đặt chân xuống do nơi đây quá đông người. Đầu tôi nhức, tâm trạng tồi tệ, và tôi bắt đầu suy nghĩ về thầy Antolini.
+- Tôi suy nghĩ về việc thầy Antolini sẽ nói gì với vợ mình khi thấy tôi không ngủ đêm ở nhà họ. Tôi cảm thấy khó chịu với việc thầy Antolini xoa đầu tôi khi tôi ngủ.
+- Tôi đọc một tạp chí mà ai đó để quên, nhưng nó chỉ khiến tôi cảm thấy tồi tệ hơn, đặc biệt là sau khi đọc bài viết về hóc môn và dấu hiệu nhận biết bệnh ung thư.
+- Tôi quyết định đi dạo và ăn sáng, mặc dù không đói, nhưng cần lót dạ. Trên đường đi, tôi thấy hai người đang cõng một cây thông lớn và bắt đầu cười, nhưng sau đó lại buồn nôn.
+- Tôi quyết định ăn tại một quán ăn rẻ tiền, nhưng không thể ăn nổi. Tôi chỉ uống cà phê và sau đó đi về phía đại lộ số Năm.
+- Tôi cảm thấy sợ hãi mỗi khi cần phải qua đường, nhưng tôi tiếp tục đi. Tôi đã đi đến phố Sáu mươi và quyết định rằng tôi sẽ không về nhà, không đi học nữa, và sẽ đi về phía Tây.
+- Tôi mua một cuốn sổ tay và cây bút chì để viết một bức thư cho em gái tôi, Phoebe, hẹn gặp ở viện bảo tàng.
+- Tôi đến trường cũ, viết thư và nhờ chuyển cho Phoebe. Tôi xóa những lời tục tĩu trên tường, nhưng không thể xóa hết.
+- Tôi chờ Phoebe tại viện bảo tàng, gặp hai đứa trẻ và dẫn họ đến xem xác ướp.
+- Phoebe xuất hiện, nhưng mang theo một chiếc vali lớn, muốn đi cùng tôi. Tôi từ chối và đưa vali của cô ấy vào phòng giữ áo khoác.
+- Phoebe tỏ ra giận dữ, nhưng sau cùng đồng ý đi dạo với tôi đến vườn bách thú.
+- Tôi mua vé cho Phoebe chơi đu quay, cô ấy vui vẻ và không còn giận tôi nữa.
+- Cuối cùng, khi trời mưa, tôi cảm thấy hạnh phúc khi nhìn Phoebe vui vẻ trên đu quay, mặc dù tôi bị ướt sũng.
+"""

@@ -1,0 +1,12 @@
+"""
+- Nhân vật chính tự nhận mình là người thường xuyên nói dối, thậm chí khi mua báo, anh ta sẽ nói đang đi xem ca kịch.
+- Anh ta nói dối ông già Spencer về việc phải đến phòng tập thể thao để dọn dẹp.
+- Anh ta đang sống trong khu ký túc xá mới được đặt tên theo Ossenburger, một cựu sinh viên trường Pencey, người đã trở nên giàu có nhờ mở một chuỗi văn phòng mai táng.
+- Anh ta miêu tả Ossenburger như một người giả tạo, và không thích cách trường Pencey tôn vinh ông ta.
+- Anh ta đã mua một chiếc mũ đỏ ở New York và thích đội nó ngược.
+- Anh ta đọc cuốn sách "Giữa rừng thẳm Châu Phi" của Isak Dinesen mà anh ta đã mượn nhầm từ thư viện.
+- Anh ta thích tác giả D.B. và Ring Lardner, và không thích đọc sách viết về chiến tranh hoặc truyện trinh thám.
+- Robert Ackley, người hàng xóm khó chịu của anh ta, liên tục xâm phạm không gian riêng tư của anh ta.
+- Anh ta có một cuộc tranh cãi nhỏ với Ackley, người liên tục hỏi về bạn cùng phòng của anh ta, Stradlater.
+- Stradlater vào phòng và hỏi anh ta có đi đâu vào buổi tối không, sau đó yêu cầu mượn chiếc áo blouson da của anh ta.
+"""

@@ -1,0 +1,21 @@
+"""
+- Elizabeth hỏi Darcy về khởi đầu của tình yêu của anh dành cho cô.
+- Darcy không thể xác định rõ thời điểm anh bắt đầu yêu Elizabeth.
+- Elizabeth trêu Darcy về việc anh vẫn yêu cô dù cô thường cư xử xấc xược với anh.
+- Darcy giải thích rằng anh thích sự sinh động trong tâm hồn của Elizabeth.
+- Darcy không thích phụ nữ chỉ cố gắng thu hút anh bằng cách nói năng và hành động.
+- Darcy giải thích rằng anh đã chú ý đến Elizabeth bởi vì cô khác biệt so với những người khác.
+- Darcy nói rằng anh không nhận ra rõ ràng phẩm chất tốt của Elizabeth khi anh đang yêu cô.
+- Elizabeth hỏi Darcy về thái độ của anh khi Jane bị bệnh ở Netherfield.
+- Darcy giải thích rằng anh đã nhút nhát với Elizabeth do cô nghiêm túc và yên lặng.
+- Elizabeth và Darcy thảo luận về việc anh đã đến Netherfield và việc anh không thể nói chuyện nhiều hơn.
+- Elizabeth và Darcy nói về sự can thiệp của bà Catherine và những cố gắng không thể biện minh của bà.
+- Darcy tiết lộ rằng mục đích chính của anh khi đến Netherfield là gặp Elizabeth.
+- Elizabeth viết thư cho cậu và dì của mình, thông báo về cuộc hôn nhân sắp tới của cô với Darcy.
+- Darcy viết thư cho bà Catherine, thông báo về hôn nhân sắp tới với Elizabeth.
+- Cô Bingley viết thư cho Jane, tỏ ra vui mừng về cuộc hôn nhân sắp tới của cô với Darcy.
+- Elizabeth nhận tin từ anh Collins rằng họ sẽ trở về nhà Lucas.
+- Phu nhân Catherine trở nên giận dữ sau khi nhận được thư từ Darcy, và Charlotte quyết định tránh xa bà cho đến khi cơn bão đi qua.
+- Elizabeth gặp khó khăn trong việc đối mặt với thái độ thô lỗ của bà Phillips.
+- Elizabeth mong muốn một tương lai trong đó cô và Darcy có thể sống thoải mái và thanh lịch ở Pemberley.
+"""

@@ -1,0 +1,13 @@
+"""
+- Đại Sảnh Đường Hogwarts được ếm bùa tối đen với những vì sao, nơi tập trung học sinh và giáo viên, chuẩn bị cho việc di tản hoặc chuẩn bị cho cuộc chiến sắp tới.
+- Giáo sư McGonagall thông báo về việc di tản do Filch và bà Pomfrey phụ trách, với sự hỗ trợ của huynh trưởng các nhà. 
+- Ernie Macmillan từ Hufflepuff hỏi về việc ở lại và chiến đấu, nhận được sự ủng hộ từ nhiều học sinh.
+- Giáo sư McGonagall cho phép học sinh đủ tuổi trưởng thành ở lại và chiến đấu.
+- Một học sinh hỏi về việc mang theo đồ đạc cá nhân, nhưng giáo sư McGonagall nói rằng an toàn là ưu tiên.
+- Giáo sư Snape đã rời khỏi trường.
+- Voldemort giao thông điệp qua những bức tường, đe dọa sẽ tấn công nếu Harry Potter không được giao nộp.
+- Pansy Parkinson chỉ ra Harry Potter, nhưng học sinh từ các nhà khác đứng lên bảo vệ anh.
+- Các nhà bắt đầu di tản, với Slytherin đi trước, sau đó là Ravenclaw.
+- Kế hoạch chiến đấu được giáo sư McGonagall và Kingsley chia sẻ, với giáo viên và Hội Phượng Hoàng lãnh đạo.
+- Harry Potter nhận nhiệm vụ tìm kiếm một vật phẩm cụ thể, sau đó chạy ra khỏi Đại Sảnh Đường để bắt đầu nhiệm vụ.
+"""

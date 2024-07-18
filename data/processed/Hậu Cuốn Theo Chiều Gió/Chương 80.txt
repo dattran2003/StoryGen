@@ -1,0 +1,11 @@
+"""
+- Harriet Stewart Kelli, con gái của một mục sư Tin Lành, đến Ballihara cùng với con trai sau khi bỏ trốn với một chàng giữ ngựa, Danny Kelli.
+- Harriet trở thành gia sư trong gia đình Scarlett sau cuộc phiêu lưu lãng mạn kết thúc không như mong đợi.
+- Danny bị bắt vì tấn công một sĩ quan Anh, Harriet cố gắng bảo vệ chồng nhưng không thành công.
+- Scarlett đề nghị Harriet ở lại làm gia sư cho con gái mình, Cat, sau khi Harriet muốn trở về Anh.
+- Scarlett cảm thấy Harriet là một người bạn dễ chịu và bổ sung cho sự thiếu vắng của Charlotte Montague.
+- Scarlett gặp lại bạn bè cũ tại buổi tiếp tân ở Roscommon, nhưng không thể tha thứ cho Charles Ragland vì hành động đánh chết một người đàn ông.
+- Scarlett gặp sự cố khi con gái mình, Cat, bị bỏng và tìm sự giúp đỡ từ bà phù thủy Grainne.
+- Scarlett quyết định tổ chức buổi dạ vũ mừng Stephen trở về Ireland và sau đó, Stephen mang về tin tức rằng ông ngoại Robillard đã chết và để lại tài sản cho hai dì Pauline và Eulalie.
+- Một cơn mưa đá tàn phá mùa màng, nhưng Scarlett quyết tâm cứu mùa và hứa với dân làng rằng Ballihara sẽ không bị đói kém.
+"""

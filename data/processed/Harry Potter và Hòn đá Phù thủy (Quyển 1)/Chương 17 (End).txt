@@ -1,0 +1,14 @@
+"""
+- Chương 17 mở đầu với việc tiết lộ rằng người cố gắng lấy Hòn đá Phù thủy không phải là thầy Snape mà là thầy Quirrell.
+- Harry Potter ngạc nhiên khi phát hiện ra điều này và không thể tin rằng thầy Quirrell, người luôn co giật, lại là kẻ phản bội.
+- Thầy Quirrell giải thích rằng ông đã sử dụng Snape như một phần của kế hoạch để làm cho mọi người nghi ngờ Snape thay vì mình.
+- Harry nhận ra rằng Quirrell đã thả con quỷ khổng lồ và đã cố gắng giết anh trong trận đấu Quidditch.
+- Quirrell đã dùng Harry để tìm Hòn đá trong Tấm gương Ảo ảnh, nhưng Harry đã lừa dối ông bằng cách nói rằng anh nhìn thấy mình cùng với Dumbledore.
+- Trong cuộc đấu trí, Harry đã tìm cách lấy Hòn đá từ gương mà không để Quirrell biết.
+- Quirrell đã bị phơi bày khi Harry nhìn thấy khuôn mặt thứ hai trên đầu ông, hóa ra là Voldemort.
+- Harry đã chống lại Quirrell và Voldemort, và trong cuộc chiến, anh đã nhận ra rằng mình không thể bị Quirrell chạm vào mà không gây đau cho ông.
+- Harry đã tận dụng điều này để chiến đấu và cuối cùng đã giành lại Hòn đá.
+- Dumbledore đã xuất hiện và cứu Harry, sau đó đã tiêu hủy Hòn đá.
+- Trong khi hồi phục, Harry đã được giải thích nhiều bí ẩn, bao gồm lý do tại sao Quirrell không thể chạm vào anh.
+- Cuối cùng, trong bữa tiệc cuối năm, Harry và bạn bè của anh đã giành Cúp Nhà sau một loạt các sự kiện đầy kịch tính.
+"""

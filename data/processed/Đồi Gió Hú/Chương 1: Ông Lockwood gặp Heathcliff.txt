@@ -1,0 +1,12 @@
+"""
+- Tôi vừa trở về sau chuyến thăm ông Heathcliff, người láng giềng duy nhất và cũng sẽ là người gây phiền phức cho tôi.
+- Ấn tượng đầu tiên về ông Heathcliff là một người khá lạnh lùng và thiếu thân thiện, phù hợp với mong muốn sống biệt lập của tôi.
+- Ông Heathcliff cho phép tôi thuê nhà tại ấp Thrushcross nhưng tỏ ra không muốn ai gây phiền phức cho ông.
+- Tôi đã thăm ngôi nhà Đỉnh Gió Hú của ông Heathcliff, một nơi khá hoang sơ, nằm giữa vùng Yorkshire.
+- Trong ngôi nhà, tôi gặp phải sự tấn công từ đàn chó hung dữ và được cứu bởi một người phụ nữ từ nhà bếp.
+- Dù có chút bất hòa, tôi và ông Heathcliff đã chúc nhau sức khỏe qua một ly rượu và tôi hẹn sẽ trở lại thăm.
+- Hôm sau, tôi quay lại Đỉnh Gió Hú trong thời tiết giá lạnh và mù sương.
+- Tại đó, tôi gặp một thiếu phụ trẻ, cô Heathcliff, người tỏ ra lạnh lùng và không thân thiện.
+- Heathcliff giải thích rằng cô Heathcliff là con dâu của ông, không phải vợ.
+- Cuối cùng, tôi gặp Hareton Earnshaw, người tự xưng không phải con trai của Heathcliff nhưng có mối quan hệ nào đó với gia đình này.
+"""

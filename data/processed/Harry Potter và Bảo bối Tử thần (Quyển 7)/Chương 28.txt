@@ -1,0 +1,14 @@
+"""
+- Harry, Ron và Hermione đặt chân trở lại con phố Cao của Hogsmeade. Cả ba nhớ lại cuộc hành trình đầy thử thách cùng Dumbledore.
+- Sự xuất hiện của họ bị phát hiện bởi một nhóm Tử thần thực tử, buộc họ phải trốn tránh.
+- Một cuộc tấn công bất ngờ từ nhóm Tử thần thực tử buộc Harry phải triệu hồi thần hộ mệnh để tự vệ.
+- Cụ chủ quán Đầu Heo, Aberforth, giúp họ trốn tránh và an toàn tại quán của mình.
+- Aberforth tỏ ra giận dữ với quyết định của Harry, Ron và Hermione khi trở lại Hogsmeade và khuyên họ nên rời khỏi nơi này.
+- Harry đề cập về nhiệm vụ mà Dumbledore đã giao cho anh, nhưng Aberforth nghi ngờ về mục đích thực sự của anh trai mình.
+- Aberforth chia sẻ về quá khứ đau thương của gia đình mình, liên quan đến việc em gái của anh, Ariana, bị tấn công bởi ba thằng Muggle.
+- Ariana sau đó trở nên không ổn định về mặt tâm lý và năng lực pháp thuật, và cuối cùng đã qua đời trong một cuộc xung đột giữa Albus, Aberforth và Grindelwald.
+- Harry chia sẻ về những khó khăn mà Dumbledore đã trải qua, khiến Aberforth suy nghĩ lại về quan điểm của mình.
+- Harry khẳng định rằng họ sẽ tiếp tục chiến đấu, bất chấp nguy hiểm, để hoàn thành nhiệm vụ mà Dumbledore đã giao phó.
+- Aberforth cuối cùng đồng ý giúp họ vào Hogwarts thông qua một lối vào bí mật, dẫn đến bởi bức tranh của Ariana.
+- Neville Longbottom xuất hiện từ lối vào này, bày tỏ niềm vui khi gặp lại Harry và bạn bè.
+"""

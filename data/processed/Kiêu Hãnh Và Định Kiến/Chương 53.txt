@@ -1,0 +1,18 @@
+"""
+- Wickham tỏ ra hài lòng với cuộc trò chuyện với vợ, tránh nhắc lại những chuyện cũ.
+- Lydia và Wickham rời đi, gây ra sự phân ly dài hạn với gia đình Bennet.
+- Mrs. Bennet đau buồn vì sự mất mát của Lydia, nhưng hy vọng vẫn còn bốn cô con gái khác chưa kết hôn.
+- Wickham từ giã gia đình với vẻ mặt tình cảm và lời nói tốt bụng.
+- Mr. Bennet ca ngợi Wickham, so sánh anh với William Lucas.
+- Mrs. Bennet cảm thấy cô đơn sau khi Lydia ra đi.
+- Tin đồn Bingley sắp trở lại Netherfield làm dấy lên hy vọng trong lòng Mrs. Bennet.
+- Jane tỏ ra đau khổ khi nghe tin Bingley sắp về, nhưng khẳng định mình không còn cảm xúc gì với anh.
+- Elizabeth nghi ngờ về lý do thực sự Bingley quay lại.
+- Jane và Elizabeth đều cảm thấy khó xử trước sự trở lại của Bingley và Darcy.
+- Bingley đã quay lại và gặp lại gia đình Bennet, Darcy đi cùng.
+- Elizabeth và Jane đều cảm thấy bối rối khi gặp lại Darcy.
+- Darcy hỏi về gia đình Gardiner nhưng không trò chuyện nhiều hơn.
+- Wickham và Lydia đã di chuyển đến Newcastle, và Wickham đã rời quân đội dân quân để gia nhập quân đội.
+- Mrs. Bennet mời Bingley và Darcy đến ăn tối, nhắc lại lời hứa của Bingley từ mùa đông trước.
+- Bingley và Darcy rời đi sau lời mời của Mrs. Bennet.
+"""

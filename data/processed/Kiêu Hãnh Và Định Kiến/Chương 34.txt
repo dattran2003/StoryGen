@@ -1,0 +1,24 @@
+"""
+- Elizabeth xem xét lại thư của Jane và nhận ra nỗi buồn không nói của chị qua từng dòng chữ.
+- Elizabeth cảm nhận rõ nỗi đau của Jane qua lời khoe khoang của Darcy về khả năng gây đau khổ.
+- Elizabeth cảm thấy nhẹ nhõm khi nghĩ về việc Darcy sẽ rời Kent sau hai ngày nữa.
+- Elizabeth nhận ra rằng cô cũng sẽ không buồn khi Đại tá Fitzwilliam rời đi.
+- Elizabeth ngạc nhiên khi Darcy xuất hiện, anh tỏ ý quan tâm về sức khỏe của cô.
+- Darcy thú nhận tình cảm sâu sắc của anh dành cho Elizabeth.
+- Elizabeth tỏ ra kinh ngạc và hoài nghi trước lời thú nhận này.
+- Darcy tiếp tục trình bày lý do khiến tình cảm anh dành cho Elizabeth nảy nở.
+- Darcy nói về những khó khăn anh gặp phải do vị thế xã hội và gia đình.
+- Elizabeth, mặc dù không thích Darcy, vẫn cảm thấy chút thương hại cho anh.
+- Darcy hy vọng Elizabeth sẽ đáp lại tình cảm của anh.
+- Elizabeth từ chối lời cầu hôn của Darcy và chỉ trích thái độ của anh.
+- Darcy tỏ ra tức giận và bực bội trước câu trả lời của Elizabeth.
+- Elizabeth tiếp tục chỉ trích Darcy về những hành động gây tổn thương cho người khác.
+- Darcy không phủ nhận những hành động của mình và tỏ ra không hối hận.
+- Elizabeth chỉ trích Darcy về việc anh đã làm với Wickham.
+- Darcy nói rằng Elizabeth quá quan tâm đến vấn đề của Wickham.
+- Elizabeth và Darcy tiếp tục tranh cãi về những hành động trong quá khứ.
+- Darcy thừa nhận những lỗi lầm của mình nhưng không tỏ ra hối hận.
+- Elizabeth từ chối lời cầu hôn của Darcy một cách quyết đoán.
+- Darcy rời đi sau cuộc tranh cãi gay gắt.
+- Elizabeth rơi nước mắt và cảm thấy đau đớn sau cuộc gặp gỡ.
+"""

@@ -1,0 +1,12 @@
+"""
+- Tác giả theo Stradlater vào phòng tắm và họ trò chuyện trong khi Stradlater cạo râu.
+- Stradlater và tác giả đều sống trong điều kiện không vệ sinh, đặc biệt là Stradlater mặc dù bề ngoài luôn gọn gàng.
+- Stradlater yêu cầu tác giả viết bài luận cho anh ta vì anh ta cần học một trăm trang lịch sử.
+- Tác giả tỏ ra không vui vì việc này nhưng cuối cùng đồng ý.
+- Stradlater nhận xét về chiếc mũ săn mới của tác giả.
+- Họ thảo luận về việc Stradlater hẹn hò với Jane Gallagher, bạn cũ của tác giả.
+- Tác giả nhớ lại những kỷ niệm về Jane, bao gồm việc chơi cờ nhảy và việc mẹ cô ấy ly dị.
+- Tác giả cảm thấy bực bội khi Stradlater chuẩn bị đi hẹn hò với Jane.
+- Stradlater rời đi, và tác giả còn lại với suy nghĩ về Jane.
+- Ackley xuất hiện, ngồi trong phòng của tác giả và làm phiền anh ta cho đến khi đi ăn tối.
+"""

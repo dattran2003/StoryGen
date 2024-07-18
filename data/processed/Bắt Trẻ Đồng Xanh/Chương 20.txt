@@ -1,0 +1,15 @@
+"""
+- Tôi ngồi trong quán bar, chờ Tina và Janine nhưng họ không xuất hiện. Một người đàn ông trông giống phụ nữ bắt đầu chơi đàn dương cầm và sau đó, Valencia, một người phụ nữ duyên dáng, bắt đầu hát.
+- Tôi cố gắng tán tỉnh Valencia nhưng không thành công. Khi cô ấy rời đi, tôi nhờ đầu bếp chuyển lời mời cô ấy uống rượu nhưng không chắc liệu lời mời đã được chuyển.
+- Tôi tiếp tục uống rượu cho đến một giờ sáng, trở nên hoàn toàn say. Trong trạng thái say, tôi cảm thấy có như một viên đạn trong tôi, khiến tôi đau đớn.
+- Tôi định gọi điện cho Jane nhưng sau đó quyết định gọi cho Sally thay vào đó.
+- Tôi gọi Sally, trong tình trạng say xỉn, và đề nghị cô ấy gặp tôi trước Giáng Sinh để trang trí cây thông.
+- Tôi nói với Sally rằng tôi đã bị thương, nhưng sau đó cô ấy kết thúc cuộc gọi.
+- Sau cuộc gọi, tôi đã ở trong trạm điện thoại một thời gian dài trước khi vào nhà vệ sinh, rửa mặt và ngồi trên máy thông hơi.
+- Tôi gặp lại người đàn ông chơi dương cầm và cố gắng nói chuyện với anh ta, nhưng anh ta không mặn mà.
+- Cuối cùng, tôi rời quán bar, khóc không rõ lý do, có lẽ do cảm giác cô đơn.
+- Tôi đánh rơi và phá hỏng một đĩa hát quan trọng, khiến tôi càng cảm thấy buồn hơn.
+- Tôi đi đến một công viên, cố gắng tìm một cái hồ nhưng không thể, và sau đó ngồi trên một băng ghế, lo lắng rằng tôi có thể chết vì bệnh phổi.
+- Tôi lo lắng về việc Phoebe, em gái tôi, sẽ đối mặt sau khi tôi chết. Tôi quyết định trở về nhà để nhìn thấy cô ấy một lần nữa, mặc dù tôi lo lắng về việc cha mẹ tôi có thể nghe thấy tôi.
+- Tôi rời công viên, đi bộ về nhà trong đêm lạnh giá.
+"""

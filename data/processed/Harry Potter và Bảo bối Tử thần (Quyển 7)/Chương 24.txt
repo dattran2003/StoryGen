@@ -1,0 +1,18 @@
+"""
+- Harry và nhóm đã đến nơi an toàn sau cuộc thoát hiểm từ Malfoy Manor, nhưng Dobby, người đã cứu họ, đã chết trong quá trình này.
+- Harry chôn cất Dobby một cách trang trọng, không sử dụng phép thuật.
+- Hermione được Ron đưa vào nhà sau khi bị tra tấn, nhưng không có chi tiết cụ thể về tình trạng của cô.
+- Harry muốn tổ chức một tang lễ đàng hoàng cho Dobby, không sử dụng phép thuật, và hỏi về việc có thể có một chiếc thuyền để đào mộ.
+- Harry đã đào mộ cho Dobby một mình, sử dụng công việc này như một cách để đối mặt với sự mất mát.
+- Trong lúc đào, Harry đã suy nghĩ về những Bảo bối tử thần và Trường sinh linh giá, và đã đạt được một số nhận thức mới.
+- Harry đã đưa ra quyết định quan trọng sau khi hoàn thành việc chôn cất Dobby, nhưng chi tiết cụ thể chưa được tiết lộ.
+- Harry muốn nói chuyện riêng với Grip-hook và Ollivander, mặc dù anh Bill và Fleur tỏ ra lo lắng và mệt mỏi.
+- Harry đã giải thích với nhóm rằng Dumbledore đã giao cho họ một nhiệm vụ, nhưng không thể tiết lộ thêm chi tiết.
+- Harry đã yêu cầu Grip-hook giúp đỡ để xâm nhập vào một hầm an toàn ở Gringotts, nhưng Grip-hook đã từ chối.
+- Hermione đã nói với Grip-hook về sự đối xử không công bằng với những người gốc Muggle như cô, và về việc Harry đã giải phóng Dobby.
+- Harry đã nói với Ollivander về việc sửa chữa cây đũa phép bị hỏng của mình, nhưng Ollivander nói rằng không thể sửa chữa.
+- Harry đã hỏi Ollivander về khả năng một cây đũa phép có thể 'chọn' chủ nhân, và về việc nếu một người phải giết chủ trước đó để chiếm hữu một cây đũa phép.
+- Harry đã tiết lộ với nhóm rằng Voldemort đang tìm kiếm cây Đũa phép Cơm nguội, và rằng Dumbledore có thể đã sở hữu nó trước đó.
+- Harry khẳng định rằng nhiệm vụ của họ là tìm kiếm Trường Sinh Linh Giá, không phải cây đũa phép.
+- Cuối cùng, Harry đã trải qua một loạt hình ảnh và suy nghĩ về Voldemort và việc hắn đang tìm cách lấy cây Đũa phép Cơm nguội, và Harry đã chứng kiến cảnh Voldemort lấy cây đũa phép này từ mộ Dumbledore.
+"""

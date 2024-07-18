@@ -1,0 +1,22 @@
+"""
+- Scarlett bị choáng ngợp bởi vẻ đẹp lộng lẫy của phòng khiêu vũ khi cô bước vào.
+- Cô ngưỡng mộ căn phòng rộng lớn lấp lánh dưới ánh nến, với đèn chùm pha lê và các tấm gương cao mạ vàng.
+- Scarlett mỉm cười thích thú khi cô bước vào buổi dạ hội.
+- Rhett hỏi Scarlett liệu cô có thích buổi dạ hội hay không, cô trả lời rằng đây là buổi khiêu vũ tuyệt vời nhất trong mùa.
+- Buổi dạ hội diễn ra tốt đẹp với âm nhạc, tiếng cười và niềm vui.
+- Scarlett ban đầu thất vọng vì danh sách những người khiêu vũ đã được ghi trước nhưng sau đó nhận ra rằng nó được sắp xếp rất kỹ lưỡng.
+- Cô nhận ra rằng cô không phải lo lắng về việc khiêu vũ với Middleton Conrtney.
+- Cô thấy Rhett không khiêu vũ với Anne Hampton.
+- Scarlett cảm thấy hạnh phúc và thích thú, cô cũng thấy các dì của mình đang say sưa và tận hưởng buổi dạ hội.
+- Scarlett nhận ra Rhett đã khiêu vũ với ba cô gái nhưng không có Anne Hampton.
+- Buổi dạ hội kết thúc với bản Sông Danuble xanh vào một giờ sáng.
+- Miles Brewton mời mọi người xuống dùng bữa tối và thưởng thức món canh sò.
+- Scarlett và Rhett nói chuyện với Edward Cooper trước khi họ xuống ăn tối.
+- Miles nói rằng Rhett không nên tước đi vinh hạnh của anh theo hầu người vợ tuyệt vời của anh.
+- Rhett nói với Scarlett rằng Tommy đã bị phạt vì kết quả học tập sa sút do ảnh hưởng của Rhett.
+- Họ quyết định đi xe điện về nhà thay vì xe ngựa.
+- Scarlett và Rhett vui vẻ hát theo bài hát của những hành khách trên xe điện.
+- Họ dừng lại để ngắm bầu trời đêm và lắng nghe tiếng nước vỗ đều.
+- Scarlett muốn Rhett đưa cô đi trên một con tàu, và Rhett đồng ý.
+- Buổi dạ hội kết thúc vào ba giờ sáng, và tiếng chuông nhà thờ thông báo cho thành phố rằng giờ đã muộn.
+"""

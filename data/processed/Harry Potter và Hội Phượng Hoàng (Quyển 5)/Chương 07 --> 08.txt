@@ -1,0 +1,22 @@
+"""
+- Harry thức dậy vào lúc 5:30 sáng, lo lắng về phiên tòa kỷ luật sắp tới.
+- Harry mặc quần jeans và áo thể thao được chuẩn bị sẵn.
+- Tranh trên tường trống rỗng cười nhếch với Harry.
+- Ron vẫn đang ngủ say, không biết gì về tình hình.
+- Harry rời phòng và đi xuống bếp, cố không nghĩ về việc gặp lại Ron sau khi họ có thể không còn là bạn học cùng nhau tại Hogwarts.
+- Harry gặp ông bà Weasley, Sirius, Lupin, và Tonks đã chờ sẵn tại bếp.
+- Harry ăn bữa sáng trong tình trạng lo lắng, chỉ ăn được bánh mì nướng.
+- Harry cảm thấy sự hỗ trợ từ mọi người tại bữa sáng, nhưng vẫn không thể tập trung.
+- Harry và ông Weasley rời đi để đến Bộ Pháp Thuật, chọn đi bộ thay vì dùng phép thuật để tạo ấn tượng tốt.
+- Họ đi qua các tuyến tàu điện ngầm, mua vé và lên tàu đến trung tâm London.
+- Họ đến một trạm điện thoại cũ để vào Bộ Pháp Thuật, nơi Harry nhận được huy hiệu với tên mình và mục đích đến.
+- Họ di chuyển xuống lòng đất qua trạm điện thoại, đến một tiền sảnh rộng lớn và sáng lấp lánh.
+- Harry và ông Weasley làm thủ tục tại bàn an ninh, nơi Harry phải để lại đũa thần.
+- Họ đi qua nhiều tầng trong Bộ Pháp Thuật, gặp nhiều nhân viên và nghe về nhiều phòng ban khác nhau.
+- Harry và ông Weasley đến văn phòng của ông Weasley, nơi họ nhận thông tin rằng phiên tòa của Harry đã bị thay đổi thời gian và địa điểm.
+- Harry và ông Weasley vội vã đến phòng xử án số 10, nơi phiên tòa của Harry diễn ra.
+- Harry phải đối mặt với các thẩm phán và đưa ra lời bào chữa của mình trước các cáo buộc.
+- Cụ Dumbledore xuất hiện như người bào chữa cho Harry.
+- Một người chứng minh, bà Figg, được đưa ra để chứng minh rằng hai Dementor đã tấn công Harry và anh trai họ của anh ấy.
+- Cuộc thảo luận về việc liệu Harry có vi phạm Đạo Luật Giới Hạn Hợp Lý dành cho Phù Thuỷ Vị Thành Niên hay không vẫn đang diễn ra.
+"""

@@ -1,0 +1,23 @@
+"""
+- Vợ chồng thầy Antolini, sống trong căn hộ sang trọng tại Setton Blace, nơi tôi thường đến sau khi rời Elkton Hills. 
+
+- Tôi quyết định đi bộ đến nhà họ để tiết kiệm tiền nhưng do đầu óc quay cuồng nên đã gọi taxi.
+
+- Thầy Antolini mở cửa đón tôi, mặc dù hơi say nhưng vẫn tinh tế, và cô Antolini đang ở bếp chuẩn bị cà phê.
+
+- Trong cuộc trò chuyện, thầy Antolini hỏi về kết quả học tập của tôi, đặc biệt là môn tiếng Anh. 
+
+- Tôi chia sẻ về khó khăn trong môn nói và việc bị rớt môn này.
+
+- Thầy Antolini khuyên tôi nên tập trung vào một chủ đề khi trình bày, nhưng tôi thích lạc đề vì thấy thú vị hơn.
+
+- Tôi mô tả về một học sinh, Richard Kinsella, người bị chỉ trích vì thường lạc đề nhưng lại kể những câu chuyện hấp dẫn.
+
+- Thầy Antolini hỏi tôi về việc hiểu và chấp nhận tính thời điểm và vị trí của mọi thứ, và tôi chia sẻ về việc mình không ghét ai nhiều, thậm chí buồn khi thiếu vắng họ.
+
+- Thầy Antolini lo lắng về hướng đi của tôi và khuyên tôi nên nghiêm túc hơn với việc học.
+
+- Ông trích dẫn Wilhelm Stekel, "Dấu hiệu thiếu chín chắn của con người là ở chỗ, anh ta muốn chết cho sự nghiệp chính nghĩa, còn dấu hiệu chín chắn là anh ta muốn sống yên bình vì sự nghiệp chính nghĩa".
+
+- Cuối cùng, tôi quyết định rời đi sau một sự cố khi thầy Antolini có hành động khiến tôi cảm thấy không thoải mái.
+"""

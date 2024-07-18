@@ -1,0 +1,15 @@
+"""
+- Winston thức dậy sau một giấc mơ phức tạp, trong đó anh nhớ lại việc mình có thể đã "giết" mẹ mình trong quá khứ.
+- Julia hỏi về giấc mơ, nhưng Winston không thể diễn đạt được sự phức tạp của nó.
+- Trong giấc mơ, Winston nhớ lại hình ảnh cuối cùng của mẹ mình và những sự kiện quanh đó, khi anh còn nhỏ, trong hoàn cảnh chiến tranh và thiếu thốn.
+- Winston nhớ rõ cảnh mẹ mình mất tích sau một cuộc cãi vã về một miếng chocolate.
+- Winston đã kể cho Julia về việc mẹ mình mất tích.
+- Họ thảo luận về việc liệu họ có nên dừng lại trước khi quá muộn và không gặp lại nhau nữa, nhưng quyết định tiếp tục.
+- Họ nói về việc giữ nhân tính, dù rằng điều này không thay đổi được số phận của họ.
+- Họ gặp O'Brien, người chứng tỏ rằng anh ta có thể tắt máy truyền hình, chứng tỏ anh ta có quyền lực đặc biệt.
+- Winston và Julia bày tỏ mong muốn gia nhập hội âm mưu chống lại Đảng.
+- O'Brien hỏi về sự cam kết của họ, từ việc sẵn lòng hy sinh mạng sống cho đến việc sẵn lòng tự tử nếu cần.
+- Họ được nói rõ về hoạt động trong hội âm mưu, bao gồm việc không bao giờ biết rõ số lượng hội viên và không nhận được sự hỗ trợ khi bị bắt.
+- O'Brien giải thích về sách của Goldstein, cuốn sách mà họ sẽ nhận được, giúp họ hiểu rõ hơn về xã hội mà họ đang sống.
+- Cuối cùng, họ rời khỏi nơi gặp gỡ O'Brien, với lời hứa sẽ gặp lại ở "nơi không có bóng tối".
+"""

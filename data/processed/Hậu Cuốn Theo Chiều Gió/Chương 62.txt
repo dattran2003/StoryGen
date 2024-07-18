@@ -1,0 +1,25 @@
+"""
+- Ba người phụ nữ trẻ, Annie Doyle, Mary Moran và Peggy Quinn, rời khỏi căn phòng mà Scarlett đã chọn trong tòa nhà lớn. Họ đã làm việc và giờ đây họ đang chuẩn bị rời đi trước khi trời mưa.
+
+- Bà Fitzpatrick nhắc nhở họ về việc phải đến sớm vào thứ hai để bù lại.
+
+- Bà Fitzpatrick bày tỏ sự thất vọng nhưng cũng thừa nhận rằng họ đã cố gắng và đã làm việc chăm chỉ.
+
+- Scarlett và bà Fitzpatrick thảo luận về việc cải tạo căn phòng. Scarlett lo lắng rằng mọi việc không thể hoàn tất trước khi cô sinh con.
+
+- Bà Fitzpatrick đề xuất họ nên tận dụng căn phòng hiện tại bằng cách tạo ra không gian ấm cúng hơn.
+
+- Scarlett đồng ý và cả hai người khám phá ra một chiếc giường kiểu lớn trong kho. 
+
+- Scarlett và bà Fitzpatrick tiếp tục thảo luận về việc trang trí và chuẩn bị cho căn phòng, nhưng Scarlett bắt đầu cảm thấy đau và phát hiện ra rằng cô đã vỡ ối.
+
+- Bà Fitzpatrick rời đi để tìm bác sĩ trong khi Scarlett cố gắng chịu đựng cơn đau và chảy máu.
+
+- Trong khi chờ đợi, Scarlett cảm thấy sợ hãi và cô đơn, lo lắng về tình trạng sức khỏe của mình.
+
+- Bà Fitzpatrick trở lại với những vật dụng cần thiết và thông báo rằng họ đã tìm thấy một bà đỡ để giúp Scarlett.
+
+- Scarlett sinh con trong một cảnh tượng hỗn loạn, với sự giúp đỡ của một người phụ nữ bí ẩn được gọi là "cailleach", người đã sử dụng các phương pháp truyền thống để cứu sống cả mẹ và con.
+
+- Scarlett sinh một bé gái, sau một quá trình sinh nở khó khăn. Cậu bé này có vẻ ngoài khá xinh xắn, không giống như những đứa trẻ sơ sinh khác.
+"""

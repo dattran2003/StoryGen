@@ -1,0 +1,14 @@
+"""
+- Boo Rayley đứng dậy không chắc chắn, ông ho dữ dội và phải ngồi xuống. Ông tìm trong túi và lấy ra khăn tay, lau trán.
+- Ông đi đến phòng Jem, dù đã quen với sự vắng mặt của Boo, tôi ngạc nhiên khi thấy ông đã ở đó suốt thời gian.
+- Boo nhìn Jem từ xa, tò mò như chưa từng thấy một cậu con trai. Ông giơ tay ra nhưng lại buông xuống.
+- Boo chạm nhẹ tay vào tóc Jem khi tôi giải thích rằng Jem đang ngủ.
+- Boo muốn tôi đưa ông về nhà và ông thì thầm như một đứa trẻ sợ bóng tối.
+- Tôi dẫn Boo về nhà ông, Boo mở cửa và đi vào trong, tôi không bao giờ gặp lại ông nữa.
+- Boo đã tặng chúng tôi nhiều món quà, nhưng chúng tôi không bao giờ trả lại ông ta gì, điều đó làm tôi buồn.
+- Tôi quay về nhà và nhìn lại mọi nơi từ góc nhìn mới, tôi cảm thấy như mình đang ở địa vị của Boo.
+- Tôi nhận ra rằng chúng tôi chưa thực sự hiểu Boo cho đến khi tôi ở vào địa vị của ông.
+- Về nhà, Atticus đang đọc cho Jem, tôi hỏi ông đọc gì và ông nói đó là cuốn sách "The Gray Ghost".
+- Tôi cố gắng thức nhưng cuối cùng ngủ quên, và khi thức dậy, Atticus đã đưa tôi về phòng và giúp tôi mặc đồ ngủ.
+- Atticus nhắc nhở tôi rằng hầu hết mọi người đều dễ thương khi bạn cuối cùng gặp họ.
+"""

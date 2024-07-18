@@ -1,0 +1,20 @@
+"""
+    - Ron thắc mắc về quan điểm của Dumbledore về việc Voldemort đang trở lại mạnh mẽ.
+    - Harry kể cho Ron và Hermione về những gì nó đã thấy trong chậu Tưởng Ký và những gì Dumbledore đã nói với nó sau đó.
+    - Họ thảo luận về việc Dumbledore tin tưởng Snape, mặc dù ông từng là một Tử thần Thực tử.
+    - Hermione nhớ lại những điều Rita Skeeter đã nói và suy đoán rằng Skeeter có thể đã biết về việc Ludo Bagman từng chuyển giao thông tin cho Tử thần Thực tử.
+    - Hermione cũng nhắc đến việc Winky gọi Ludo Bagman là "một pháp sư tồi", gợi ý rằng Bagman có thể đã bị Crouch tức giận vì không bị kết án.
+    - Ron và Harry nói về việc Fudge cho rằng Madame Maxime tấn công Crouch.
+    - Họ nhận ra rằng họ chưa thực hành lời nguyền Trăn Trở và quyết định tập luyện cho bài thi thứ ba.
+    - Harry cảm thấy buồn cho Neville sau khi nghe về mẹ cha của cậu từ Dumbledore.
+    - Hermione và Ron dành thời gian giúp Harry chuẩn bị cho bài thi cuối cùng thay vì tập luyện cho kỳ thi của họ.
+    - Harry cảm thấy tự tin hơn cho bài thi thứ ba sau khi đã luyện tập nhiều lời nguyền và bùa chú.
+    - Hermione, Ron và Harry nhận được sự hỗ trợ từ Sirius, người khuyên họ tập trung vào bài thi cuối cùng trước khi quan tâm đến những vấn đề khác.
+    - Rita Skeeter viết một bài báo gây tranh cãi về Harry, gọi cậu là "rối rắm và nguy hiểm" và đặt nghi vấn về khả năng thi đấu của cậu.
+    - Harry cảm thấy hạnh phúc khi gia đình Weasley tới xem nó thi đấu, trong khi gia đình Dursley không có mặt.
+    - Trước bài thi cuối cùng, Harry, Cerdic, Fleur và Krum bước vào mê cung, đối mặt với nhiều thử thách và chướng ngại vật.
+    - Harry và Cerdic hợp tác để vượt qua Krum, người đã tấn công Cerdic bằng lời nguyền Không Thể Tha Thứ.
+    - Họ cũng phải đối mặt với một con Nhân sư, giải đố để tiếp tục cuộc thi.
+    - Trong cuộc đua cuối cùng tới Cúp Tam Pháp thuật, cả hai đã giúp nhau vượt qua con nhện khổng lồ.
+    - Harry và Cerdic quyết định cùng cầm lấy Cúp, chia sẻ chiến thắng.
+"""

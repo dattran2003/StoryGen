@@ -1,0 +1,33 @@
+"""
+- Dumbledore站起来，露出对Barty Crouch的厌恶，并用魔杖将其束缚。
+- Dumbledore让McGonagall留在那里看守Crouch，而他则带Harry上楼。
+- Snape被要求叫Madame Pomfrey来并找到Cornelius Fudge。
+- Dumbledore询问Harry的情况，在Harry感到眩晕和疼痛时支撑着他。
+- 在前往Dumbledore办公室的路上，他们遇见了等待的Sirius。
+- Dumbledore开始向Sirius叙述Barty Crouch的供述，而Harry只模糊地听着。
+- Fawkes the phoenix离开他的栖木，飞到Harry的膝上，使Harry感到一种舒适感。
+- Dumbledore要求Harry描述在迷宫中触摸港口钥匙后发生的事情。
+- Sirius建议让Harry休息，但Dumbledore坚持Harry需要面对并讲述事件。
+- Harry开始讲述他在夜晚的遭遇，包括Voldemort的复活和与Death Eaters的遭遇。
+- 当Harry提到Wormtail刺伤他的手臂时，Sirius发出愤怒的声音，Dumbledore突然站起。
+- Dumbledore解释说，Voldemort使用Harry的血使自己更强大，并且受到Harry母亲遗留给他的保护。
+- 当两根魔杖连接在一起时，Dumbledore提到"Priori Incantatem"，即魔杖无法相互对抗，但被迫战斗时会释放过去的咒语。
+- Harry描述了从魔杖中出现的回声，包括Cedric、一位老人、Bertha Jorkins以及他的父母。
+- Fawkes的泪水治愈了Harry腿上的伤口。
+- Dumbledore决定Harry应该在医院翼度过夜晚，以便得到一些宁静和平静。
+- 在医院翼，Weasley夫人、Bill、Ron和Hermione聚集在困惑的Madame Pomfrey周围，询问Harry的情况。
+- Dumbledore要求其他人不要过多询问Harry，让他有时间休息和恢复。
+- Harry被给予一剂无梦睡眠药水，然后睡着了。
+- 第二天早上，当Harry醒来时，他听到Fudge和McGonagall之间的争论。
+- Fudge带了一个Azkaban的看守来审问Crouch，导致Crouch遭受Dementor之吻，失去了灵魂。
+- Dumbledore和Fudge就Voldemort的回归进行了辩论，Dumbledore坚持认为Harry的证词和Crouch的供述是可信的。
+- Fudge拒绝接受Voldemort回归的事实，质疑Harry的可信度和Dumbledore的判断。
+- Harry坚持他亲眼目睹了Voldemort的复活，并提到了Malfoy和其他Death Eaters的名字。
+- Dumbledore警告Fudge必须采取行动，驱逐Azkaban的看守，并派遣使者与巨人接触，以防止Voldemort的力量增长。
+- Fudge拒绝采取行动，离开学校，留下Dumbledore和其他人继续他们的计划。
+- Sirius变回人形，Weasley夫人认出他是Sirius Black，但Ron安慰她没有问题。
+- Snape和Sirius之间的紧张关系，他们勉强握手。
+- Dumbledore分配任务给Sirius和Snape，Sirius要通知Remus Lupin等人，Snape有准备好的秘密任务。
+- Harry表达了对Cedric死亡的内疚，但Weasley夫人安慰他这不是他的错。
+- Harry喝下无梦睡眠药水，陷入深度睡眠。
+"""

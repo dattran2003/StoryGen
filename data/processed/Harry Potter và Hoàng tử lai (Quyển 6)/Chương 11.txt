@@ -1,0 +1,19 @@
+"""
+- Hermione dự đoán đúng, học viên năm thứ 6 phải đối mặt với khối lượng công việc lớn, không còn thời gian rảnh rỗi như Ron mong đợi.
+- Harry và Hermione đều gặp khó khăn trong việc theo dõi bài giảng của Giáo sư McGonagall.
+- Độc dược trở thành môn học tốt nhất của Harry, nhờ cuốn sách của Hoàng tử máu lai.
+- Học sinh phải học cách sử dụng lời chú câm không chỉ trong Phòng chống Nghệ thuật Hắc Ám mà còn trong môn Bùa chú và Biến hình.
+- Harry, Ron và Hermione không có thời gian để thăm Hagrid, và Hagrid cũng không còn ăn trưa ở bàn giáo viên.
+- Harry, Ron và Hermione dự định giải thích cho Hagrid nhưng quyết định đi sau buổi tuyển chọn Quidditch.
+- Hermione giải thích rằng mọi người quan tâm đến Harry vì anh đã chiến đấu với Voldemort hai lần và sống sót.
+- Harry nhận được cuốn sách "Chế tạo độc dược bậc cao" từ Flourish và Blotts và quyết định giữ cuốn sách cũ của Hoàng tử.
+- Stanley Shunpike, người soát vé trên chiếc xe đò Hiệp khách quen thuộc trong giới phù thủy, bị bắt vì nghi vấn liên quan đến hoạt động của Tử Thần Thực Tử.
+- Harry, Ron và Hermione tham dự buổi tuyển chọn Quidditch, và Ron được chọn làm Thủ quân sau khi chơi xuất sắc.
+- Họ gặp Hagrid sau buổi tuyển chọn, Hagrid đang lo lắng vì Aragog, con nhện khổng lồ, có dấu hiệu bị ốm.
+- Cormac McLaggen, người đã không được chọn vào đội Quidditch, trông như đã bị iểm chú Mất Hướng, và Hermione thừa nhận mình đã làm điều đó.
+- Giáo sư Slughorn mời Harry và Hermione đến bữa tối tại nhà mình, nhưng Harry không thể tham dự vì có buổi phạt với Giáo sư Snape.
+- Arthur Weasley đã tìm kiếm tại dinh thự Malfoy nhưng không tìm thấy vật gì nguy hiểm, dựa trên thông tin mà Harry đã cung cấp.
+- Hermione cho rằng Malfoy không thể mang vật nguy hiểm vào trường vì đã có kiểm tra, nhưng Harry cho rằng có thể Malfoy nhận vật đó qua cú đưa tin.
+- Ron tỏ ra không vui vì không được mời đến bữa tiệc của Slughorn và quyết định đi ngủ sớm.
+- Harry nhận được tin nhắn từ Giáo sư Snape, yêu cầu anh đến phòng của ông vào 8:30 tối cho buổi phạt.
+"""

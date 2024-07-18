@@ -1,0 +1,19 @@
+"""
+- Tom đe dọa khiến các Hobbit thức dậy sớm, rời bàn ăn khi bữa sáng sắp hết. Tom và Goldberry không có mặt, nhưng tiếng họ vang lên từ khắp nơi trong nhà.
+- Các Hobbit thưởng thức buổi sáng yên bình nhìn ra thung lũng sương mù, khi mây đen kéo lại, mưa bắt đầu rơi.
+- Goldberry hát một bài hát về mưa và dòng sông, Frodo cảm thấy niềm vui và tạm hoãn chuyến đi.
+- Mưa lớn ở phía Tây, biến con đường thành dòng sông nhỏ. Tom Bombadil vẫn khô ráo dù ở ngoài trời, ngồi vào ghế lớn và gọi các Hobbit lại bên mình.
+- Tom thông báo hôm nay là ngày tắm rửa của Goldberry, một ngày tốt để kể chuyện.
+- Tom kể cho họ nghe nhiều câu chuyện ly kỳ, về cuộc sống trong Rừng và những con vật, cây cỏ, những bí mật.
+- Tom chuyển sang nói về những con suối trẻ trên những ngọn thác, về Gò Đất Vĩ Đại, những vương quốc nhỏ, và những ngôi mộ của vua và hoàng hậu.
+- Các Hobbit nhận ra ngôi nhà của Tom nằm ngay bên dưới những ngọn đồi kinh khiếp này, cảm giác lo lắng.
+- Tom kể thêm về những vùng đất kỳ lạ, về ánh sao thời cổ đại, rồi đột nhiên gục đầu như đang ngủ.
+- Frodo hỏi về Tom, Tom trả lời rằng ông đã có ở đây trước cả dòng sông và cây cỏ, trước cả con người và Người Nhỏ.
+- Goldberry thông báo mưa đã chấm dứt, họ cùng ăn uống, vui vẻ.
+- Tom và Goldberry dọn bàn, các Hobbit ăn bữa khuya ngon miệng, vui vẻ.
+- Sau bữa ăn, Tom hỏi han về họ, Frodo kể về Bilbo, những hi vọng và nỗi sợ hãi của mình.
+- Tom yêu cầu xem chiếc Nhẫn, Frodo đưa cho Tom, nhưng Tom không biến mất khi đeo nhẫn.
+- Frodo thử đeo nhẫn, thành công trong việc biến mất trước mặt mọi người, nhưng Tom vẫn nhìn thấy ông.
+- Tom khuyên họ nên di chuyển sớm hôm sau, tránh Gò Đất, và dạy họ một bài hát để hát khi gặp nguy hiểm.
+- Cuối cùng, Tom dẫn họ trở lại phòng ngủ.
+"""

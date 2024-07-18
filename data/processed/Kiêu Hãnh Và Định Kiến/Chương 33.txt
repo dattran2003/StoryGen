@@ -1,0 +1,10 @@
+"""
+- Elizabeth tình cờ gặp Darcy trong vườn nhiều lần, tạo ra sự bối rối. Darcy bắt đầu hỏi những câu hỏi không liên quan, gợi ý rằng anh muốn cô ở lại Rosings khi cô đến Kent.
+- Trong cuộc đi dạo cuối cùng, Darcy đưa ra những biểu hiện lạ khiến Elizabeth cảm thấy khó chịu.
+- Elizabeth gặp Đại tá Fitzwilliam trong một cuộc đi dạo khác, sau khi đang suy nghĩ về thư của Jane. Họ thảo luận về việc tự lập và sự phụ thuộc.
+- Fitzwilliam khẳng định Darcy thích làm theo ý mình nhưng tất cả mọi người đều như vậy. Họ tiếp tục trò chuyện về việc tự lập tài chính.
+- Fitzwilliam tiết lộ Darcy đã can thiệp vào mối quan hệ của một người bạn để tránh một cuộc hôn nhân khinh suất. Elizabeth suy đoán rằng người bạn đó có thể là Bingley.
+- Elizabeth tức giận khi nghe Darcy đã can thiệp, cô cảm thấy anh không có quyền phán đoán tình cảm của người khác.
+- Sau cuộc trò chuyện, Elizabeth nghĩ về việc Darcy có thể đã chia cách Bingley và Jane, cô cảm thấy đau lòng và phẫn nộ.
+- Elizabeth quyết định không đi đến Rosings cho bữa tiệc trà vì sức khỏe và không muốn gặp Darcy. Bà Collins hiểu và không ép buộc cô.
+"""

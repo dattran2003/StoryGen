@@ -1,0 +1,14 @@
+"""
+- Cảnh mở đầu mô tả một khung cảnh u ám với gió, dòng sông bẩn thỉu, và một con cáo đang tìm kiếm thức ăn.
+- Một người lạ mặt, đội mũ trùm, xuất hiện sau một tiếng nổ, làm cho con cáo dừng lại và dò xét.
+- Một người lạ mặt khác xuất hiện và một cuộc rượt đuổi bắt đầu, kết thúc bằng cái chết của con cáo.
+- Hai người phụ nữ, Narcissa và Bella, xuất hiện, trong đó Narcissa đang cố gắng tìm kiếm ai đó.
+- Bella cảnh báo Narcissa về việc tiết lộ kế hoạch, nhưng Narcissa quyết tâm và tiếp tục đi.
+- Họ đến nhà của Severus Snape, người họ tin tưởng sẽ giúp đỡ.
+- Bella nghi ngờ Snape và đặt ra nhiều câu hỏi về lòng trung thành của anh ta.
+- Snape trả lời tất cả các câu hỏi một cách bình tĩnh và thuyết phục, giải thích về những hành động của mình trong quá khứ.
+- Narcissa tiết lộ rằng con trai cô, Draco, đã được Chúa tể Hắc ám giao một nhiệm vụ nguy hiểm.
+- Bella tỏ ra không đồng tình với mối lo ngại của Narcissa và tin rằng Draco sẽ thành công.
+- Narcissa van Snape giúp đỡ Draco, và sau một hồi thảo luận, Snape đồng ý và hứa với Narcissa thông qua Lời nguyền Vĩnh viễn.
+- Bella, mặc dù không hài lòng, cũng tham gia vào lời hứa này, kết thúc cảnh bằng một liên kết lửa giữa ba người họ.
+"""

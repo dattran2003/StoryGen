@@ -1,0 +1,13 @@
+"""
+- Frodo thắc mắc về lý do Sauron muốn biến những Hobbits thành nô lệ.
+- Gandalf giải thích rằng Sauron đã theo dõi sự tồn tại của những Hobbits và việc biến họ thành nô lệ sẽ đem lại niềm vui cho hắn.
+- Frodo hỏi về mối liên hệ giữa Bilbo, bản thân và chiếc nhẫn. Gandalf nói rằng mọi thứ đều liên quan đến nhau và Frodo chưa hiểu được toàn bộ vấn đề.
+- Frodo lấy ra chiếc nhẫn từ túi khóa và đưa cho Gandalf. Chiếc nhẫn trở nên rất nặng khi Gandalf chạm vào nó.
+- Gandalf kiểm tra chiếc nhẫn và nhận ra không có dấu hiệu nào trên đó.
+- Gandalf thử ném chiếc nhẫn vào bếp lửa và Frodo thấy những ký tự lạ xuất hiện trên chiếc nhẫn.
+- Gandalf dịch những ký tự đó và tiết lộ rằng đó là những dòng thơ cổ đại của người Elves, nói về chiếc Nhẫn Chủ Nhân.
+- Gandalf giải thích rằng chiếc nhẫn này chính là Chiếc Nhẫn Số Một mà Sauron đã mất, và hắn muốn lấy lại nó để tăng cường quyền lực.
+- Gandalf kể về lịch sử của chiếc nhẫn, từ lúc Sauron bị đánh bại, cho đến khi nó rơi vào tay Smjagol, sau này trở thành Gollum.
+- Gandalf nói rằng Gollum đã bị chiếc nhẫn tàn phá nhưng vẫn còn một phần tâm trí không bị ảnh hưởng.
+- Cuối cùng, Gandalf nói rằng chiếc nhẫn đã tìm cách trở về với Sauron, và việc Bilbo tìm thấy nó không phải là tình cờ.
+"""

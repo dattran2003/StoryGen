@@ -1,0 +1,18 @@
+"""
+- Buổi sáng một tuần sau khi Bingley tỏ tình với Jane, một chiếc xe lạ kéo bởi ngựa trạm đến thăm gia đình Bennet. Người đến là Phu nhân Catherine de Bourgh.
+- Sự xuất hiện của bà gây ngạc nhiên cho tất cả mọi người, đặc biệt là Elizabeth.
+- Phu nhân Catherine bước vào với vẻ khiếm nhã, chỉ gật đầu đáp lại lời chào của Elizabeth và không nói gì thêm.
+- Bà Bennet, mặc dù ngạc nhiên, đón tiếp Phu nhân Catherine với lòng kính trọng.
+- Phu nhân Catherine bắt đầu cuộc trò chuyện bằng những lời phê phán về khu vườn và căn phòng của gia đình Bennet.
+- Bà từ chối lời đề nghị thức uống của bà Bennet.
+- Phu nhân Catherine yêu cầu Elizabeth dẫn bà đi thăm khu vườn.
+- Trong cuộc dạo chơi, Phu nhân Catherine tiết lộ mục đích đến là để cảnh báo Elizabeth về việc tránh xa cháu trai bà, anh Darcy.
+- Bà nói rằng anh Darcy đã hứa hôn với con gái bà, Anne de Bourgh từ khi còn nhỏ.
+- Elizabeth phản ứng lại với sự khinh thường và không chấp nhận áp lực từ Phu nhân Catherine.
+- Phu nhân Catherine tiếp tục cố gắng thuyết phục Elizabeth từ bỏ hy vọng với Darcy nhưng không thành công.
+- Phu nhân Catherine đe dọa Elizabeth rằng gia đình Darcy sẽ không công nhận cô nếu cô cố tình làm trái ý muốn của họ.
+- Elizabeth khẳng định rằng nếu Darcy yêu cô, cô sẽ không từ chối anh ấy chỉ vì áp lực từ gia đình anh.
+- Phu nhân Catherine tiếp tục chỉ trích về vấn đề danh dự và uy tín của Darcy nếu anh kết hôn với Elizabeth.
+- Elizabeth không chịu khuất phục trước những lời đe dọa và chỉ trích của Phu nhân Catherine.
+- Phu nhân Catherine rời đi với sự tức giận, không nói lời từ biệt và không gửi lời thăm hỏi đến gia đình Bennet.
+"""

@@ -1,0 +1,16 @@
+"""
+- Heathcliff thăm ấp Thrushcross để thăm Catherine và thử nghiệm sự chịu đựng của Edgar Linton. Catherine tiếp đón anh ấy một cách bình tĩnh hơn, khiến tâm trạng của Edgar dịu lại.
+- Isabella, 18 tuổi và quyến rũ, tỏ ra không khỏe, hay cáu kỉnh và uể oải.
+- Catherine khuyên Isabella nên nghỉ ngơi và gọi bác sĩ, nhưng Isabella phản ứng, cho rằng Catherine đang hành động quá đáng.
+- Isabella bày tỏ cảm xúc phức tạp đối với Heathcliff, gây ra sự bất đồng giữa cô và Catherine.
+- Catherine cảnh báo Isabella về tính cách thực sự của Heathcliff, mô tả anh như một sinh vật hoang dã và ích kỷ.
+- Isabella từ chối nghe lời Catherine, khẳng định rằng cô tin Heathcliff có một tâm hồn cao quý.
+- Edgar Linton vắng nhà, Heathcliff thăm ấp và gây ra xung đột với Catherine và Isabella.
+- Catherine cố gắng "đưa" Isabella và Heathcliff lại với nhau, nhưng kết quả là Isabella chạy ra khỏi phòng trong sự giận dữ.
+- Heathcliff tỏ ra dửng dưng trước mọi việc, gây thêm sự căng thẳng.
+- Catherine và Heathcliff tiếp tục cuộc thảo luận, trong đó Heathcliff tỏ ra không quan tâm đến Isabella.
+- Heathcliff gặp Isabella một mình trong vườn, khiến Catherine tức giận và yêu cầu anh dừng lại.
+- Heathcliff tuyên bố rằng anh sẽ lấy Isabella dù không yêu cô, chỉ để trả thù Catherine.
+- Edgar Linton cấm Heathcliff đến thăm nhà mình sau một cuộc cãi vã giữa anh và Heathcliff.
+- Catherine khóa cửa phòng mình và từ chối ăn uống trong hai ngày, trong khi Edgar ở trong thư viện, chờ đợi Catherine qua cơn giận.
+"""

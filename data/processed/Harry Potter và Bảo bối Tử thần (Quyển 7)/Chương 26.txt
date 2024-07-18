@@ -1,0 +1,19 @@
+"""
+- Gringotts đã được lên kế hoạch tấn công, với việc chuẩn bị cuối cùng được hoàn tất.
+- Hermione sẽ giả dạng Bellatrix Lestrange, sử dụng cây đũa phép thực sự của mụ để tăng tính xác thực.
+- Hermione không thoải mái với cây đũa phép này, cảm thấy nó không ăn khớp với cô.
+- Hermione nhớ cây đũa phép của mình, hy vọng ông Olivander có thể chế tạo cho cô một cây khác.
+- Luna đã nhận được một cây đũa phép mới từ ông Olivander.
+- Harry nhận thấy cây đũa phép táo gai của Malfoy hoạt động tốt với anh, nhưng Hermione chưa chiếm được sự thuần phục của cây đũa phép óc chó.
+- Grook xuất hiện, làm Harry bất an. Harry và nhóm quyết định sẽ rời đi vào ngày mai và giữ bí mật về kế hoạch của họ.
+- Cả nhóm lo lắng về việc làm thế nào để chia tay Grook mà không phải trao lại thanh gươm Griffindor.
+- Đêm trước cuộc tấn công, Harry gặp khó khăn trong việc ngủ, lo lắng về kế hoạch.
+- Hermione và Ron đã cải trang thành Bellatrix Lestrange và Dragomir Despard, một người nước ngoài.
+- Travers, một Tử Thần Thực Tử, nhận ra Hermione giả dạng và đặt ra nghi vấn, nhưng Hermione đã giải quyết bằng cách thể hiện sự thống trị.
+- Nhóm tiến vào Gringotts, gặp phải rắc rối khi yêu tinh muốn kiểm tra cây đũa phép của Hermione.
+- Harry đã sử dụng Lời nguyền Khống chế lần đầu tiên, làm cho yêu tinh và Travers tuân theo mệnh lệnh của anh.
+- Nhóm tiếp tục xuống hầm an toàn, nhưng bị phát hiện do một cơn mưa sập trộm đã làm mất đi mọi ẩn dấu pháp thuật.
+- Họ đối mặt với một con rồng bị xích, nhưng đã tìm cách vượt qua bằng cách dùng âm thanh leng keng.
+- Nhóm tìm thấy Cúp Hufflepuff, một Trường Sinh Linh Giá, nhưng phải đối mặt với lời nguyền nảy nở khi cố gắng lấy nó.
+- Họ thoát khỏi hầm an toàn và Gringotts bằng cách cưỡi con rồng, trong khi Grook biến mất, bỏ lại nhóm mà không giữ lời hứa.
+"""

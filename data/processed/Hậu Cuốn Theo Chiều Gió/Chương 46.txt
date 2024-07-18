@@ -1,0 +1,19 @@
+"""
+- Kathleen tỏ ra lo lắng khi Scarlett chọn đôi hài màu xanh thay vì giày bốt để dự lễ hội tại Công viên Porsyth.
+- Scarlett bày tỏ mong muốn làm hỏng đôi giày trong một tuần và yêu cầu Kathleen chải tóc và buộc bằng dải nơ xanh.
+- Scarlett ngủ ngắn ngủi sau lễ hội nhưng đủ sức để nhảy múa suốt đêm.
+- Scarlett nhảy múa với Daniel tại khu vực lót đá hoa cương, quay tít trong ánh sáng lung linh từ vòi nước.
+- Scarlett cảm thấy tuyệt vời khi nhảy múa và tận hưởng niềm vui.
+- Scarlett thức dậy đau chân sau buổi lễ hội, nhưng không muốn ai biết.
+- Scarlett cảm thấy buồn nôn và mệt mỏi, nghi ngờ mình đã ăn phải thức ăn đã thiu.
+- Scarlett được gia đình chăm sóc sau khi họ phát hiện cô bị ốm.
+- Scarlett quyết định đi thăm bà nội của mình tại Ireland thay vì trở về Charleston.
+- Scarlett cảm thấy ghét Charleston và mong muốn trải nghiệm cuộc sống tự do ở Ireland.
+- Scarlett quyết định tham gia vào chuyến du lịch đến Ireland.
+- Scarlett đã hồi phục và chuẩn bị lên đường, với kế hoạch gặp bà nội mừng sinh nhật 100 tuổi.
+- Scarlett và Kathleen lên tàu đến Ireland sau khi tiễn Stephen đi Boston.
+- Scarlett đã chuẩn bị cho chuyến đi bằng cách lấy tín dụng thư từ ngân hàng.
+- Scarlett, Kathleen và Colum đến cảng Savannah và lên tàu Brian Boru.
+- Trên tàu, Scarlett nhận ra rằng mình sẽ dùng tên Scarlett O Hara thay vì Butler.
+- Scarlett sẽ tận dụng cơ hội này để tận hưởng cuộc sống tự do ở Ireland.
+"""

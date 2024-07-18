@@ -1,0 +1,18 @@
+"""
+    - Những bóng đen, hóa ra là các Tử thần Thực tử, chặn lối đi của Harry và bạn bè. Lucius Malfoy yêu cầu Harry đưa cho hắn quả cầu tiên tri.
+    - Harry cố gắng trì hoãn, yêu cầu biết vị trí của Sirius trước khi đưa ra quả cầu.
+    - Bellatrix Lestrange và Malfoy cười nhạo và đe dọa, khẳng định rằng Chúa Tể Hắc Ám biết tất cả.
+    - Harry và bạn bè bị vây khốn, nhưng họ cố gắng chống lại và tìm cách trốn thoát.
+    - Malfoy tiết lộ rằng chỉ có chính chủ nhân của quả cầu tiên tri mới có thể lấy nó ra khỏi Sở Cơ Mật, giải thích lý do Voldemort muốn Harry lấy quả cầu.
+    - Harry và bạn bè dùng lời nguyền để phá vỡ những ngăn kéo và tạo ra sự hỗn loạn, tạo cơ hội để chạy trốn.
+    - Harry nhận ra rằng quả cầu tiên tri chứa lời tiên tri quan trọng liên quan đến mình và Voldemort, và nhận ra rằng Voldemort đã cố gắng giết anh khi còn nhỏ.
+    - Harry và bạn bè chạy trốn qua các phòng và hành lang, gặp phải nhiều Tử thần Thực tử, trong quá trình đó Hermione, Ron, và Ginny bị thương.
+    - Harry và Neville cố gắng chống lại Tử thần Thực tử, trong khi cố gắng giữ cho Hermione, Ron, và Ginny an toàn.
+    - Neville bị trúng lời nguyền Cruciatus từ Bellatrix Lestrange, nhưng Harry và bạn bè được cứu bởi sự xuất hiện của Sirius, Lupin, Moody, Tonks, và Kingsley.
+    - Trong cuộc chiến, Sirius bị Bellatrix Lestrange đánh trúng và rơi qua một cánh cửa bí ẩn, biến mất và không thể trở lại.
+    - Harry, trong cơn giận dữ, đuổi theo Bellatrix Lestrange, nhưng bị giữ lại bởi Lupin và sau đó bởi Dumbledore, người đã đến và giải quyết các Tử thần Thực tử.
+    - Harry tìm cách đối mặt với Bellatrix Lestrange để trả thù cho cái chết của Sirius, nhưng bị ngăn lại bởi Dumbledore.
+    - Voldemort xuất hiện và đe dọa Harry, nhưng Dumbledore can thiệp và hai người chiến đấu trong một trận đấu ma thuật mãnh liệt.
+    - Harry bị Voldemort kiểm soát trong một thời điểm, nhưng sau đó được giải thoát nhờ sự can thiệp của Dumbledore.
+    - Voldemort cuối cùng biến mất, và Harry được Dumbledore đưa trở lại Hogwarts sau khi cuộc chiến kết thúc.
+"""

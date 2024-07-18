@@ -1,0 +1,17 @@
+"""
+- Cathy trốn khỏi Đồi Gió Hú, thuyết phục Linton giúp cô trong lúc Heathcliff vắng nhà.
+- Cathy hy vọng được ở lại Ấp sau tang lễ, và suy nghĩ về khả năng Linton chuyển đến sống với cô.
+- Heathcliff xuất hiện, tuyên bố quyền kiểm soát và đưa Cathy trở lại Đồi Gió Hú, đồng thời nhắc nhở cô về trách nhiệm chăm sóc Linton.
+- Heathcliff từ chối đề nghị để Cathy ở lại Ấp và dự định cho thuê nơi này.
+- Cathy chấp nhận mệnh lệnh của Heathcliff, nhưng khẳng định tình yêu với Linton và thách thức Heathcliff xúc phạm Linton.
+- Heathcliff cảnh báo Cathy về tương lai khó khăn của cô và Linton.
+- Cathy rời đi, với lời tạm biệt Ellen và cảnh báo Heathcliff về cuộc sống cô đơn của ông.
+- Cathy gặp khó khăn trong việc chăm sóc Linton, bị Heathcliff từ chối hỗ trợ y tế.
+- Tình hình sức khỏe của Linton trở nên tồi tệ, Cathy tuyệt vọng và cuối cùng thông báo với Zillah về tình trạng của Linton.
+- Linton qua đời, Heathcliff kiểm soát toàn bộ tài sản của Cathy, cô trở nên hoàn toàn phụ thuộc vào ông.
+- Cathy sống cô độc, lạnh lẽo trong hai tuần, sau đó buộc phải xuống nhà vì thời tiết lạnh.
+- Hareton cố gắng tiếp cận và làm bạn với Cathy, nhưng bị cô từ chối.
+- Cathy bắt đầu sống cô độc dưới sự kiểm soát của Heathcliff, cô trở nên thô lỗ với mọi người.
+- Ellen Dean, người kể câu chuyện, cân nhắc việc giúp Cathy thoát khỏi Đồi Gió Hú nhưng không tìm ra giải pháp khả thi.
+- Ellen Dean kết thúc câu chuyện, và quyết định quay trở về Luân Đôn.
+"""

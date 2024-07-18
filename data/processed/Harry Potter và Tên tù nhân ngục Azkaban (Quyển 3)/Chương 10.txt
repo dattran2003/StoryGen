@@ -1,0 +1,31 @@
+"""
+- Harry nghỉ ngơi tại bệnh thất sau tai nạn, không chịu để bà Pomfrey vứt đi tàn tích chiếc Nimbus 2000. 
+
+- Nhiều người đến thăm Harry, bao gồm Hagrid, Ginny và đội Quidditch Gryffindor, nhưng không ai có thể làm cho Harry cảm thấy khá hơn.
+
+- Harry không chia sẻ về Hung tinh với ai, lo sợ nó sẽ tiếp tục gây ra tai nạn.
+
+- Harry cảm nhận rõ sự hiện diện của giám ngục Azkaban, gây ra nỗi kinh hoàng và hồi tưởng về cái chết của mẹ.
+
+- Harry trở lại sự ồn ào của trường sau khi nghỉ ngơi, chịu đựng sự châm chọc của Malfoy.
+
+- Malfoy bắt chước hành động của giám ngục Azkaban, khiến Ron phản ứng và bị trừ điểm.
+
+- Giáo sư Lupin trở lại dạy và thông báo rằng không cần viết bài luận về người sói, điều này khiến Hermione thất vọng vì đã hoàn thành.
+
+- Harry chia sẻ với giáo sư Lupin về những trải nghiệm khó khăn với giám ngục Azkaban, và Lupin hứa sẽ dạy Harry cách chống đỡ chúng.
+
+- Harry cảm thấy phấn chấn sau khi giáo sư Lupin hứa sẽ dạy cách chống đỡ giám ngục Azkaban.
+
+- Fred và George tặng Harry bản đồ của đạo tặc, giúp Harry đến được làng Hogsmeade.
+
+- Harry sử dụng bản đồ để trốn ra khỏi trường và đi đến làng Hogsmeade.
+
+- Harry gặp Ron và Hermione tại làng Hogsmeade, và họ thảo luận về bản đồ và Sirius Black.
+
+- Harry nghe giáo sư McGonagall, giáo sư Flitwick, Hagrid, bà Rosmerta và Bộ trưởng Fudge nói về Sirius Black.
+
+- Họ nói về việc Sirius Black đã phản bội gia đình Potter và giết Peter Pettigrew, và sau đó bị giam trong Azkaban.
+
+- Harry cảm thấy bàng hoàng sau khi biết được sự thật về Sirius Black.
+"""

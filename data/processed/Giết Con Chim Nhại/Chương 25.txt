@@ -1,0 +1,13 @@
+"""
+- Trong Chương 25, Scout và Jem vẫn đang ngủ ở hàng hiên phía sau nhà giữa thời tiết mùa Hè nóng bức kéo dài sang tháng Chín.
+- Scout tìm thấy một con bọ bi nhỏ trong nhà và bắt đầu chơi với nó, nhưng Jem can ngăn cô không để giết nó.
+- Jem bắt đầu thể hiện lòng nhân từ đối với tất cả các loài động vật, điều này làm Scout hơi bực bội.
+- Scout nhớ về Dill, người bạn đã chia tay họ vào đầu tháng và hứa hẹn sẽ trở lại trong kỳ nghỉ học.
+- Dill đã kể với Scout và Jem về chuyến đi của họ đến nhà Tom Robinson với bố Atticus.
+- Họ chứng kiến cảnh Atticus gặp gỡ gia đình Tom Robinson và cách anh ta đối xử với Helen, vợ của Tom.
+- Sau cái chết của Tom Robinson, Maycomb bắt đầu lan truyền những tin đồn và phán đoán về sự kiện này.
+- Atticus cố gắng giúp Tom Robinson trong quá trình tố tụng, nhưng cuối cùng không thành công.
+- Ông Underwood, người chủ báo, viết một bài xã luận so sánh cái chết của Tom với việc giết những con chim biết hót một cách vô ý thức.
+- Quan điểm của Bob Ewell về cái chết của Tom Robinson được lan truyền khắp Maycomb qua Stephanie Crawford.
+- Jem khuyên Scout không nên nói với Atticus về những điều họ đã biết, nếu không anh sẽ không bao giờ nói chuyện với cô nữa.
+"""

@@ -1,0 +1,16 @@
+"""
+- Tặng ông Lee và Alice, chương đầu tiên kể về việc Jem, anh trai của tôi, bị gãy khuỷu tay khi sắp 13 tuổi.
+- Jem ít nghĩ về chấn thương của mình sau khi hồi phục, dù cánh tay trái của anh ấy ngắn hơn cánh tay phải.
+- Chúng tôi bắt đầu thảo luận về những sự kiện dẫn đến tai nạn này, tôi cho rằng bắt nguồn từ nhà Ewell, nhưng Jem nói rằng bắt đầu từ khi Dill đến chơi với chúng tôi.
+- Dill, người sắp bảy tuổi, đã mớm ý tưởng kéo Bob Radley ra khỏi nhà, bắt đầu một loạt sự kiện.
+- Chúng tôi quay trở lại quá khứ, bắt đầu từ thời điểm Andrew Jackson đẩy người Da đỏ Creek ra khỏi Alabama.
+- Simon Finch, tổ tiên của chúng tôi, di cư từ Anh đến Alabama, lập trang trại và xây dựng gia đình.
+- Trang trại Finch's Landing tồn tại và phát triển, dù trải qua nhiều thăng trầm từ cuộc chiến giữa Bắc và Nam.
+- Atticus, bố tôi, trở về Maycomb để học luật sau khi giúp em trai mình học y.
+- Maycomb, nơi chúng tôi sống, được mô tả là một thị trấn cổ và tĩnh lặng.
+- Chúng tôi sống cùng Calpurnia, người nấu ăn cho gia đình, và Dill, người đến chơi mỗi mùa hè, đã tạo ra nhiều cuộc phiêu lưu.
+- Dill, với trí tưởng tượng phong phú, gợi ý kế hoạch để dụ Boo Radley, người sống trong ngôi nhà bí ẩn, ra ngoài.
+- Ngôi nhà Radley, nơi Boo sống, là một nơi bí ẩn và đáng sợ đối với trẻ em trong thị trấn.
+- Cuộc sống của gia đình Radley, đặc biệt là Boo Radley, được miêu tả một cách chi tiết, bao gồm cả những tin đồn và bí ẩn.
+- Cuối cùng, Jem, dưới áp lực từ Dill, quyết định thách thức mình bằng cách chạm vào ngôi nhà Radley.
+"""

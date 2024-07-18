@@ -1,0 +1,13 @@
+"""
+- Ngày hôm sau tại Longbourn, anh Collins quyết định cầu hôn Elizabeth mà không lãng phí thời gian.
+- Anh Collins yêu cầu bà Bennet cho phép anh nói chuyện riêng với Elizabeth, một yêu cầu mà bà nhanh chóng đồng ý.
+- Trước khiElizabeth có thể phản ứng, bà Bennet đã sai Kitty ra khỏi phòng.
+- Elizabeth cố gắng tránh né, nhưng bà Bennet kiên trì yêu cầu cô ở lại.
+- Anh Collins bắt đầu bày tỏ tình cảm của mình với Elizabeth, nêu rõ ý định hôn nhân của anh và lý do anh chọn cô.
+- Elizabeth ngắt lời anh Collins và từ chối lời cầu hôn của anh.
+- Mặc dù Elizabeth đã từ chối, anh Collins vẫn không nản lòng, cho rằng cô chỉ đang từ chối theo truyền thống.
+- Elizabeth khẳng định rằng cô thật lòng từ chối và không có ý định thay đổi.
+- Anh Collins vẫn tin rằng lời từ chối của Elizabeth chỉ là tạm thời và rằng cô đang khuyến khích anh tiếp tục theo đuổi.
+- Elizabeth phản đối, nói rằng cô không hề khuyến khích anh Collins và rằng cô không thể rõ ràng hơn về ý định từ chối của mình.
+- Cuối cùng, Elizabeth rời khỏi phòng, quyết định rằng nếu anh Collins vẫn không hiểu, lời từ chối từ cha cô sẽ phải rõ ràng hơn.
+"""

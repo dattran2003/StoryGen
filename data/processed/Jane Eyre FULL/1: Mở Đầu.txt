@@ -1,0 +1,13 @@
+"""
+- Hôm đó, dù thời tiết không thuận lợi, chúng tôi vẫn quyết định đi dạo. Tuy nhiên, sau bữa tối, gió lạnh và mưa đã cản trở mọi hoạt động ngoài trời.
+- Tôi không thích đi bộ dài trong thời tiết lạnh lẽo, đặc biệt khi phải chịu sự càu nhàu từ chị Bessie và sự áp đảo từ Eliza, John và Georgia Reed.
+- Khi trở về, gia đình Reed đang tận hưởng niềm vui bên mẹ họ trong khi tôi bị loại trừ ra khỏi mọi vui vẻ.
+- Bà Reed cấm tôi tham gia vui chơi với con cái bà, yêu cầu tôi phải thể hiện sự ngoan ngoãn và hòa hợp hơn.
+- Tôi tìm đến phòng ăn điểm tâm nhỏ, chọn một cuốn sách và tìm sự bình yên trên bệ cửa sổ.
+- Trong khi đọc, tôi bị John Reed và các em làm phiền. John bắt nạt tôi, thậm chí tấn công tôi bằng một cuốn sách, khiến tôi bị thương.
+- Trong cơn giận dữ, tôi đã gọi John là độc ác, hành động của tôi khiến tôi bị nhốt trong phòng đỏ.
+- Trong phòng đỏ, tôi phải đối mặt với nỗi sợ hãi và sự bất công, tôi nhớ lại lời hứa của ông Reed với vợ rằng sẽ chăm sóc tôi như con ruột.
+- Sự việc càng trở nên đáng sợ khi tôi nghĩ đến hồn ma của ông Reed có thể xuất hiện, tôi đã la hét và gọi Bessie để giải thoát.
+- Mặc dù Bessie và Abbot đến, nhưng bà Reed vẫn giữ lời hứa của mình, không tha thứ cho tôi và để tôi ở trong phòng đỏ.
+- Cuối cùng, tôi đã tuyệt vọng kêu gọi sự thương xót từ bà Reed nhưng không thành công, tôi bị nhốt lại trong bóng tối của phòng đỏ.
+"""

@@ -1,0 +1,15 @@
+"""
+- Những phụ nữ tại Longbourn đến thăm Netherfield và được thăm viếng trả lễ.
+- Jane Bennet chinh phục bà Hurst và cô Bingley bởi tư cách dễ mến của mình, mặc dù họ không thích gia đình cô.
+- Elizabeth nhận ra vẻ kiêu kì của Bingley và Hurst trong cách họ đối xử với người khác, bao gồm Jane.
+- Jane và Mr Bingley ngày càng thân thiết hơn, nhưng Jane vui vì không ai nhận ra điều này.
+- Charlotte Lucas khuyên Jane nên thể hiện rõ hơn tình cảm của mình với Mr Bingley.
+- Darcy bắt đầu nhận ra vẻ thông minh và vẻ đẹp của Elizabeth sau khi ban đầu chỉ chú ý để chê bai cô.
+- Darcy bắt đầu muốn tìm hiểu thêm về Elizabeth, dẫn đến việc tham gia vào cuộc trò chuyện của cô với người khác.
+- Elizabeth và Darcy có cuộc trò chuyện ngắn sau khi cô trêu Đại tá Forster về việc tổ chức một buổi dạ vũ.
+- Elizabeth biểu diễn ca hát tại một buổi họp mặt nhà Lucas.
+- Mary, em gái Elizabeth, biểu diễn piano sau Elizabeth, nhưng không nhận được nhiều sự khen ngợi.
+- Darcy tỏ ra không ấn tượng với buổi tối và cách mọi người dành thời gian.
+- Ông William cố gắng thuyết phục Darcy khiêu vũ với Elizabeth, nhưng cô từ chối.
+- Darcy thừa nhận rằng anh đang suy nghĩ về vẻ đẹp của Elizabeth, điều này gây ngạc nhiên cho cô Bingley.
+"""

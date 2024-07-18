@@ -1,0 +1,14 @@
+"""
+- Buổi sáng thứ bảy, Elizabeth và anh Collins gặp mặt trước khi mọi người khác xuất hiện. Anh Collins bày tỏ lời chia tay lịch sự và cảm ơn Elizabeth vì đã thăm nhà họ.
+- Anh Collins thừa nhận cuộc sống đơn giản, nhà cửa khiêm tốn và ít tiếp xúc với thế giới bên ngoài có thể khiến Huntsford trở nên buồn chán đối với một phụ nữ trẻ như Elizabeth, nhưng họ đã cố gắng hết sức để cô cảm thấy thoải mái.
+- Elizabeth cảm ơn anh Collins và khẳng định cô đã tận hưởng sáu tuần ở đó.
+- Anh Collins tiếp tục, khẳng định họ đã giới thiệu Elizabeth với một xã hội quý tộc và cuộc sống tại Rosings đã tạo ra sự thay đổi so với cuộc sống thường ngày tại nhà họ.
+- Anh Collins khuyên Elizabeth kể lại những điều tốt đẹp về cuộc sống tại Huntsford khi cô trở về Herfordshire.
+- Cuối cùng, anh Collins khẳng định tình yêu và sự hiểu biết sâu sắc giữa anh và Charlotte.
+- Elizabeth đồng ý rằng hôn nhân giữa Charlotte và anh Collins là hạnh phúc, nhưng cô không khỏi buồn khi nhìn thấy Charlotte sống giữa những người như vậy.
+- Cuối cùng, sau những lời chia tay, Elizabeth và Maria rời Huntsford, đi qua khu vườn hoa, và anh Collins gửi lời thăm hỏi đến gia đình Elizabeth.
+- Trên đường đi, Maria và Elizabeth nhận ra rằng họ đã quên gửi lời chào đến Rosings, nhưng họ hứa sẽ gửi lời cảm ơn sau.
+- Họ đến nhà ông Gardiner, nơi họ lưu lại vài ngày trước khi trở về nhà.
+- Jane trông khỏe mạnh, nhưng Elizabeth không có cơ hội tìm hiểu tâm tư của chị.
+- Elizabeth đã kể cho Jane về lời tỏ tình của anh Darcy, một việc khiến Jane ngạc nhiên nhưng cũng làm Elizabeth cảm thấy hài lòng về bản thân.
+"""

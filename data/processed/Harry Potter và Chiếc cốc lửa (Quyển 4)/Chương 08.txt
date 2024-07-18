@@ -1,0 +1,16 @@
+"""
+- Ông Weasley dẫn lũ trẻ đi qua cánh rừng với những thư mua được trong tay, họ đi tới sân vận động Quidditch thế giới.
+- Harry và nhóm đi xuyên qua cánh rừng khoảng 20 phút, trong khi hàng ngàn người đang di chuyển xung quanh, tạo nên không khí náo nức.
+- Họ tới sân vận động Quidditch siêu vĩ đại, đủ rộng để chứa khoảng 100.000 người.
+- Ông Weasley giải thích về sân vận động và cách nó được xây dựng.
+- Họ tiếp tục lên cầu thang đến khán đài danh dự, nơi họ gặp một con gia tinh tên là Winky.
+- Winky nói về Dobby, người đã được Harry giải thoát, và về cuộc sống mới của Dobby sau khi được tự do.
+- Harry và nhóm gặp lại ông Malfoy và gia đình, một cuộc gặp gỡ căng thẳng.
+- Trước trận đấu, các phước thần và linh vật của hai đội Bungari và Ái Nhĩ Lan trình diễn.
+- Các tiên nữ của Bungari và quỷ râu rậm của Ái Nhĩ Lan tạo ra một màn trình diễn tuyệt vời.
+- Trận Quidditch thế giới bắt đầu giữa hai đội Bungari và Ái Nhĩ Lan.
+- Trận đấu diễn ra nhanh chóng, căng thẳng với nhiều pha bóng hấp dẫn.
+- Viktor Krum từ đội Bungari sử dụng chiến thuật Wronski Feint để đánh bại tầm thủ Lynch của Ái Nhĩ Lan.
+- Trận đấu kết thúc với chiến thắng bất ngờ của Ái Nhĩ Lan khi Krum bắt được trái Snitch nhưng không đủ để cân bằng tỷ số.
+- Cúp Quidditch thế giới được trao cho đội Ái Nhĩ Lan.
+"""

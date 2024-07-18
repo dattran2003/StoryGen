@@ -1,0 +1,12 @@
+"""
+- Mùa xuân đến, Lowood thay đổi, muôn hoa đua nở, thiên nhiên tươi đẹp.
+- Học sinh tận hưởng cảnh sắc mùa xuân vào những buổi chiều thứ năm nghỉ nửa ngày.
+- Nhưng Lowood, xây dựng trên vùng đầm lầy, trở thành nơi ẩm thấp, sương mù, bệnh tật.
+- Sự sống phát triển nhanh chóng do mùa xuân, đồng thời bệnh đậu lào cũng lan rộng, gây cảnh chết chóc.
+- 45 trong số 80 học sinh mắc bệnh đậu lào, trường học tạm nghỉ, kỷ luật lỏng lẻo.
+- Tình hình cải thiện khi Brocklehurst và gia đình không còn xuất hiện, bà quản gia cứng nhắc được thay thế.
+- Tuy nhiên, Helen vẫn bị bệnh, được cho nằm riêng, và sau đó được thông báo rằng cô bị bệnh lao.
+- Một buổi tối tháng sáu, Jane hiểu rằng Helen sắp chết.
+- Jane quyết tâm gặp Helen, lên thăm cô trong đêm, và họ chia sẻ những giây phút cuối cùng.
+- Helen qua đời trong giấc ngủ, Jane thức dậy để biết rằng Helen đã ra đi.
+"""

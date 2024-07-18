@@ -1,0 +1,13 @@
+"""
+- Trường học đã khai giảng, Jem bắt đầu lớp bảy và tôi lên cấp ba, lịch học của chúng tôi giờ khác nhau.
+- Nhà Radley không còn làm tôi khiếp sợ nhưng vẫn mang nét ảm đạm, chúng tôi biết Boo vẫn ở đó.
+- Jem tham gia môn bóng bầu dục, mặc dù nhỏ và yếu nhưng anh ấy nhiệt tình giúp đội bóng.
+- Tôi vẫn nhớ những món quà Boo đã để lại trong cây và vẫn thường xuyên đảo mắt tìm ông ta mỗi khi đi ngang qua nhà Radley.
+- Atticus khuyên tôi không nên cố gắng nhìn thấy Boo Radley vì đó là việc riêng của ông ta.
+- Quá nhiều sự kiện đã xảy ra, Boo Radley không còn là nỗi sợ hãi lớn nhất của chúng tôi.
+- Atticus tái đắc cử vào ban lập pháp của bang mà không có sự phản đối nào.
+- Trong lớp học, chúng tôi có tiết học về các sự kiện hiện tại, nhưng không phải ai cũng hiểu rõ về nó.
+- Cecil Jacobs trình bày về Adolf Hitler và việc ông ta ngược đãi người Do Thái, cô Gates dạy chúng tôi về dân chủ và sự khác biệt giữa Mỹ và Đức.
+- Tôi thấy mâu thuẫn trong việc cô Gates ghét Hitler nhưng cũng có những quan điểm phân biệt chủng tộc tại nhà, tôi hỏi Jem nhưng anh ấy nổi giận và không muốn nói về phiên tòa Tom Robinson.
+- Atticus giải thích rằng Jem đang cố gắng quên đi những sự kiện đã xảy ra và cần thời gian để sắp xếp lại cảm xúc.
+"""

@@ -1,0 +1,11 @@
+"""
+- Harry đang trong một giấc mơ, di chuyển dọc theo một con đường núi trong ánh bình minh, tìm kiếm một người đàn ông mà Voldemort cũng đang săn lùng, người mà Harry gọi tên là Gregorovitch.
+- Harry tỉnh dậy, thẹo trên trán đang nhói đau. Anh ta nhớ mơ thấy Gregorovitch, nhưng không thể nhớ rõ người này là ai.
+- Harry và Ron suy đoán về Gregorovitch, nhưng không thể nhớ rõ về người này.
+- Harry mừng sinh nhật 17 tuổi, nhận được nhiều món quà từ gia đình và bạn bè, bao gồm một cuốn sách "Mười Hai Cách Khỏi-Lo-Thất-Bại Để Bỏ Bùa Các Nàng Phù Thuỷ" từ Ron và một cái kính Mách lẻo mới từ Hermione.
+- Harry và Ginny có một khoảnh khắc riêng tư, nhưng bị gián đoạn bởi sự xuất hiện của Ron và Hermione.
+- Trong bữa tiệc sinh nhật của Harry, Bộ trưởng Pháp thuật, Rufus Scrimgeour, xuất hiện và thông báo về di chúc của Dumbledore.
+- Scrimgeour trao lại cho Harry, Ron và Hermione những di vật mà Dumbledore để lại cho họ, bao gồm một Tắt sáng cho Ron, cuốn "Những Chuyện Kể của Beedle the Bard" cho Hermione và trái banh Snitch cho Harry.
+- Scrimgeour cố gắng truy cứu thông tin từ ba người về lý do Dumbledore để lại những di vật này, nhưng không thu được thông tin gì cụ thể.
+- Harry phát hiện ra rằng trái banh Snitch có một thông điệp bí mật từ Dumbledore: "Ta mở vào lúc kết."
+"""

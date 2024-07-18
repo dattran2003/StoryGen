@@ -1,0 +1,13 @@
+"""
+- Một giờ sau khi Scarlett lên phòng, ông ngoại của cô, Pierre Robillard, rời ngôi nhà của mình để đi đến nhà thờ. Mặc dù trời nắng và mùa xuân đang đến, ông vẫn cảm thấy lạnh.
+- Đến nhà thờ, ông ngồi vào chỗ quen thuộc và sau khi lễ xong, ông trở về nhà và ngủ cho đến giờ ăn trưa. Những chuyến đi hàng tuần đến nhà thờ làm ông mệt mỏi.
+- Scarlett đã gây rối trong nhà ông vì những đòi hỏi của cô, theo Jérome, người đầy tớ.
+- Scarlett đang thực hiện những ý nguyện của ông ngoại mình mà không hề biết, ông muốn cô điều khiển mọi việc trong nhà theo cách của mình.
+- Scarlett đang ở tại khu chợ trung tâm với gia đình O'Hara sau khi rời nhà ông ngoại.
+- Scarlett đã không tham gia bữa ăn trưa tại nhà O'Hara và trở về nhà ông ngoại.
+- Scarlett gặp Kathleen, một thành viên trong gia đình O'Hara, và họ thảo luận về gia đình họ.
+- Ông Robillard không nhắc lại về gia đình O'Hara trước mặt Scarlett, và cho cô biết ông hài lòng với bữa ăn.
+- Scarlett nhận được thư từ Mẹ bề trên, báo rằng Đức giám mục đang xét duyệt yêu cầu mua lại mảnh đất hồi môn của Carreen.
+- Scarlett mơ về việc xây dựng lại Tara và hình dung cảnh ngôi nhà trong mùa hè.
+- Scarlett nhận ra rằng Rhett không thể đi Dunmore vì sợ sốt rét rừng vào mùa hè, vì vậy họ sẽ ở Charleston từ tháng mười cho tới tháng sáu, và sau đó ở Tara vào mùa hè.
+"""

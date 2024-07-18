@@ -1,0 +1,15 @@
+"""
+- Một bài hát buồn về một Elf thiếu nữ và Amroth, vị vua Elf, được Legolas trình bày.
+- Legolas giải thích về bài hát, nói về sự rời bỏ của nhiều Elf từ Nimrodel và sự vắng mặt của Amroth.
+- Gimli và Legolas tiếp tục thảo luận về việc Người Lùn không tạo ra ma quỷ.
+- Aragorn đề nghị nhóm ngủ trên cành cây như Galadhrim, những người Elf sống trong cây.
+- Legolas leo lên một cây lớn, gọi là Mellyrn, trong khi Pippin tỏ ra không thoải mái với ý tưởng ngủ trên cao.
+- Legolas gặp những người Elf đang sống trong cây, những người đã nghe giọng hát của anh và biết về Frodo và cuộc hành trình của họ.
+- Một thang dây thừng được thả xuống để Frodo và Sam có thể leo lên, và họ được đưa tới một cái nền treo trên cây.
+- Frodo và Sam gặp Haldir, một Elf sống trong rừng, cùng với anh em của anh ta.
+- Frodo giới thiệu nhóm của mình, bao gồm Legolas, bốn Hobbits, hai con người và một Người Lùn.
+- Haldir ban đầu phản đối việc cho phép Người Lùn đi qua Lurien nhưng sau cùng đồng ý nếu Người Lùn bị bịt mắt.
+- Merry và Pippin lên cây và cảm thấy sợ hãi và mệt mỏi.
+- Frodo cuối cùng ngủ thiếp đi sau khi nghe tiếng hát của Legolas.
+- Frodo thức dậy vào giữa đêm và nghe thấy tiếng cười và bước chân của những Orcs dưới đất.
+"""

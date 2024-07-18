@@ -1,0 +1,11 @@
+"""
+- Harry Potter đang chịu đựng nỗi đau về việc mất cây đũa phép của mình, cảm giác như mình đã mất đi một phần lớn sức mạnh pháp thuật.
+- Cơn giận dữ với Albus Dumbledore đang bùng cháy trong lòng Harry, cảm giác bị phản bội bởi người mà cậu đã tin tưởng.
+- Hermione đã tìm thấy cuốn sách "Chuyện đời và chuyện xạo của Albus Dumbledore" trong nhà bà Bathilda và phát hiện ra một tấm hình liên quan đến Dumbledore và Gellert Grindelwald.
+- Grindelwald, người đã từng là bạn của Dumbledore, được tiết lộ là một trong những phù thủy Hắc ám nguy hiểm nhất mọi thời đại.
+- Cuốn sách tiết lộ về mối quan hệ giữa Dumbledore và Grindelwald, bao gồm những kế hoạch thống trị dân Muggle của họ khi còn trẻ.
+- Dumbledore đã từng nuôi ý tưởng về việc lật đổ Đạo luật về Bí mật và thống trị dân Muggle, một sự thật gây sốc cho Harry.
+- Cái chết của em gái Dumbledore, Ariana, đã tạo ra sự đổ vỡ giữa Dumbledore và Grindelwald.
+- Hermione cố gắng làm dịu cơn giận của Harry, nhắc nhở cậu rằng Dumbledore đã thay đổi và chiến đấu chống lại Nghệ thuật Hắc ám suốt đời mình.
+- Harry cảm thấy bị phản bội và không tin rằng Dumbledore đã từng thương cậu, cảm thấy rằng ông đã chia sẻ nhiều hơn với Grindelwald so với chính Harry.
+"""

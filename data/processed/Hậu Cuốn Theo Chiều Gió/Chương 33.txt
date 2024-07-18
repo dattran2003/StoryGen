@@ -1,0 +1,22 @@
+"""
+- Scarlett tới ngôi nhà màu hồng của ông ngoại Robillard, một khám phá mới cho cô sau thời gian dài không đến.
+- Cô bước vào ngôi nhà màu hồng với nội thất màu hồng, trắng và vàng, một biểu hiện rõ ràng về sự giàu có và danh giá của gia đình.
+- Scarlett cảm thấy ấn tượng và tự hào khi nghĩ rằng Rhett sẽ thấy cô thuộc về một gia đình danh giá không kém gia đình cậu.
+- Cô cảm thấy tức giận khi nhớ lại rằng ông ngoại không giúp cô sau chiến tranh.
+- Scarlett cảm thấy mạnh mẽ và quyết tâm, không ai có thể áp đặt điều gì lên cô nữa.
+- Cô tự tin với trang phục mới của mình so với trang phục cũ ở Charleston.
+- Scarlett và hai bà dì của cô gặp ông ngoại Robillard, một người già yếu nhưng vẫn giữ được sự uy quyền.
+- Scarlett nhận ra sự khác biệt giữa ông ngoại bây giờ và trước kia, ông giờ chỉ còn là một người già yếu.
+- Cô cảm thấy khó chịu với thái độ của ông ngoại, nhưng cũng cảm thấy sợ hãi trước ánh nhìn sắc lẹm của ông.
+- Scarlett gặp lại bức chân dung bà ngoại mình, Solange Robillard, một người phụ nữ quyến rũ, trẻ trung và đầy mê hoặc.
+- Cô cảm thấy mình cũng có những khao khát tương tự như bà ngoại, và tự hỏi liệu mình có sai lầm khi cảm nhận như vậy không.
+- Scarlett cảm thấy tức giận với bữa tối ít ỏi và quyết định tự đi lấy thức ăn.
+- Cô ra lệnh cho Jérome mang lại thức ăn, bắt đầu tạo ra một chút rối loạn trong ngôi nhà.
+- Scarlett muốn tìm hiểu thêm về gia đình mình ở Savannah, nhưng nhận ra rằng họ hàng không còn nhiều.
+- Cô cảm thấy cô đơn ở Charleston và thoải mái hơn trong ngôi nhà mà mẹ cô từng sinh ra và lớn lên.
+- Scarlett không thể gặp Rhett như dự định, làm cô cảm thấy lạnh lẽo và thất vọng.
+- Cô tham dự một buổi dạ hội âm nhạc, nơi cô cảm thấy mình nổi bật hơn những người khác nhờ vẻ trẻ trung và phong cách thời trang.
+- Scarlett gửi điện cho bác Henry, hỏi về việc Rhett có chuyển tiền cho cô hay không.
+- Cô đi thăm tu viện Dòng Chúa Nhân từ, nơi cô hy vọng sẽ gặp được Mẹ bề trên và xin sự can thiệp của Đức giám mục.
+- Scarlett gặp khó khăn khi cố gắng gặp Mẹ bề trên, nhưng quyết định quay lại vào buổi chiều.
+"""

@@ -1,0 +1,17 @@
+"""
+- Nhà Harington, xây dựng từ đá Portland, nằm sau làng Pike Corner. Scarlett được đón bởi một người hầu và sau đó được dẫn đến gặp Alice Harrington.
+- Alice Harrington, một phụ nữ mập ú và ồn ào, chào đón Scarlett và mời cô chơi bóng chày, trò chơi mà cô chưa từng chơi.
+- Scarlett tham gia vào đội 'Băng Xanh' và chơi rất tốt, nhận được lời khen từ Đại tướng Smith-Burns.
+- Sau trận đấu, Alice mời mọi người dùng trà dưới bóng mát của cây dẻ gai.
+- Scarlett được giới thiệu với nhiều khách khác bao gồm Sir Francis Kinsman và vợ ông, và bà Louisa Ferncliff.
+- Scarlett được đưa lên phòng riêng và được thông báo về thời gian thay quần áo và bữa tối.
+- Cô hầu Sarah hỗ trợ Scarlett và chia sẻ thông tin về cư dân địa phương.
+- Scarlett nhận ra mình đã mang ít quần áo hơn so với những gì cần thiết cho chuyến đi.
+- Trong bữa tối, Scarlett gặp nhiều khó khăn về việc ăn mặc và trang sức.
+- Cuối cùng, Scarlett tham gia vào các hoạt động khác như đi thuyền, bắn cung, và quần vợt.
+- Đêm thứ bảy, mọi người chơi trò chơi hóa trang và Scarlett đóng vai Titama.
+- Scarlett nhận ra mình đã bỏ lỡ một sự kiện quan trọng tại Ballihara và hối hận vì đã không tôn trọng những tập tục truyền thống của người Ireland.
+- Scarlett được mời đến hai cuộc tiếp tân khác sau đó nhưng từ chối.
+- Scarlett gặp Charlotte Montague, một phụ nữ muốn thảo luận về việc hợp tác kinh doanh.
+- Charlotte Montague đề nghị hỗ trợ Scarlett trong việc xây dựng hình ảnh và uy tín tại Ireland, đồng thời mong muốn nhận lại lợi ích cá nhân.
+"""

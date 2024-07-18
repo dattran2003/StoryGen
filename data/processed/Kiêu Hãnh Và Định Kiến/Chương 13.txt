@@ -1,0 +1,13 @@
+"""
+- Trong bữa sáng, ông Bennet thông báo về việc một người đàn ông lạ mặt sẽ tới thăm nhà họ vào buổi tối.
+- Sự tò mò của bà Bennet và con gái bà tăng lên khi ông mô tả người khách này không phải là Mr Bingley, người họ đang chờ đợi.
+- Ông Bennet tiết lộ rằng người khách là Mr Collins, người sẽ có quyền thừa kế ngôi nhà sau khi ông qua đời.
+- Bà Bennet phản ứng dữ dội với thông tin này, cảm thấy tức giận vì người thừa kế không phải là một trong năm cô con gái của mình.
+- Jane và Elizabeth cố gắng giải thích về luật thừa kế nhưng không thành công.
+- Ông Bennet đọc lá thư của Mr Collins, người muốn hòa giải mối bất hòa giữa họ và bày tỏ ý định thăm gia đình.
+- Gia đình có những phản ứng khác nhau về lá thư: Jane và Mary nhìn nhận nó một cách tích cực, Elizabeth thấy nó phô trương, Lydia và Catherine không quan tâm.
+- Bà Bennet ban đầu phản ứng tiêu cực nhưng sau đó trở nên bình tĩnh hơn sau khi đọc thư.
+- Mr Collins đến đúng hẹn, được gia đình chào đón lịch sự. Ông khen ngợi gia đình Bennet và năm cô con gái.
+- Ông cũng tán dương ngôi nhà và bữa tối, gây cảm giác không thoải mái cho gia đình vì sợ rằng ông đang coi ngôi nhà như gia sản tương lai của mình.
+- Ông xin lỗi vì đã hỏi về người nấu bữa tối, khiến bà Bennet cảm thấy không hài lòng. 
+"""

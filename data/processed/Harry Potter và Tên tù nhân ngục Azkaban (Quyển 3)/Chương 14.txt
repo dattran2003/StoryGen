@@ -1,0 +1,15 @@
+"""
+- Đêm đó, không ai trong tháp Gryffindor có thể ngủ được vì lo lắng về việc tìm kiếm Sirius Black.
+- Sáng hôm sau, giáo sư McGonagall thông báo Black đã thoát khỏi lực lượng tìm kiếm một lần nữa.
+- An ninh trong lâu đài được tăng cường với nhiều biện pháp như giáo dục cửa để nhận diện Sirius Black, việc cắm chốt khắp nơi và thay đổi quản lý chân dung.
+- Harry nhận thấy bức tường của mụ phù thủy một mắt vẫn không khóa hay canh gác, một lối đi bí mật mà chỉ có ít người biết.
+- Ron trở nên nổi tiếng sau sự kiện Black cố gắng tấn công anh.
+- Neville bị phạt không được đi thăm Hogsmeade và bị cấm nói mật khẩu vào tháp Gryffindor.
+- Neville nhận Thư Sấm từ bà của mình sau sự cố.
+- Harry và Ron nhận thư từ Hagrid, mời họ dùng trà và có vẻ muốn nghe về sự cố với Black.
+- Trong cuộc họp, Hagrid nhắc nhở Harry và Ron về tình bạn với Hermione và trách nhiệm của họ.
+- Harry và Ron dự định đi thăm Hogsmeade một lần nữa thông qua lối đi bí mật, bất chấp lời đe dọa của Hermione.
+- Trong chuyến đi, Harry gặp rắc rối với Snape khi bị phát hiện dưới áo Tàng hình.
+- Harry bị gọi vào văn phòng của Snape, nhưng may mắn thoát tội nhờ sự can thiệp của giáo sư Lupin.
+- Cuối cùng, Hermione thông báo rằng Hagrid đã thua kiện và con Bằng Mã Buckbeak sắp bị xử tử.
+"""

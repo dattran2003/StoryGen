@@ -1,0 +1,15 @@
+"""
+- Tháng 11, thời tiết trở lạnh, mùa Quidditch bắt đầu tại Hogwarts. 
+- Harry chuẩn bị cho trận đấu đầu tiên của mình, Gryffindor vs Slytherin, mà nếu thắng, đội nhà sẽ lên hạng hai trong cuộc đua giành cúp vô địch.
+- Harry giữ bí mật về việc luyện tập để tạo bất ngờ cho đội nhà. Tin tức về việc anh là Tầm thủ gây ra nhiều phản ứng trái chiều.
+- Hermione trở thành bạn thân thiết với Harry và Ron, giúp họ ôn tập bài vở.
+- Trước trận đấu, Hermione dùng phép thuật tạo ra lửa ấm áp trong lọ để sưởi ấm. 
+- Snape phát hiện họ vi phạm nội quy, lấy cuốn "Quidditch qua các thời đại" mà Hermione cho Harry mượn và trừ năm điểm của Gryffindor.
+- Trong đêm trước trận đấu, Harry cố gắng đòi lại cuốn sách từ Snape, vô tình chứng kiến Snape đang băng bó vết thương trên đầu gối, nghi ngờ ông đang tìm cách vượt qua con chó ba đầu.
+- Harry nghi ngờ Snape đã thả con quỷ khổng lồ trong Halloween để đánh lạc hướng mọi người khỏi mục tiêu đánh cắp vật gì đó.
+- Ngày trận đấu, Harry cảm thấy lo lắng, nhưng tấm biểu ngữ cổ vũ lớn của bạn bè giúp anh thêm tự tin.
+- Trận đấu diễn ra với nhiều diễn biến gay cấn, trong đó, Harry cuối cùng cũng đã bắt được Snitch sau những cố gắng khó khăn.
+- Hermione đã can thiệp, làm cháy áo Snape để ngăn chặn ông ta làm phép thuật gây hại cho cây chổi của Harry.
+- Sau trận đấu, họ chia sẻ với Hagrid nghi ngờ về Snape, nhưng Hagrid từ chối tin và nhắc nhở họ không nên quan tâm đến những gì họ không nên biết.
+- Hagrid vô tình tiết lộ thông tin về một nhân vật tên Nicolas Flamel liên quan đến vấn đề mà họ đang tìm hiểu.
+"""

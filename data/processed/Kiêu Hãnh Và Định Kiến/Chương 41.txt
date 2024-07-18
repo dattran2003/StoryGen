@@ -1,0 +1,12 @@
+"""
+- Sau hai tuần trở về nhà, các cô gái trẻ trong gia đình Bennet đang buồn bã vì trung đoàn sắp rời Meryton. Chỉ hai cô con gái lớn là vẫn duy trì cuộc sống bình thường, điều này đã gây ra sự oán giận từ Kitty và Lydia.
+- Lydia và Kitty không thể hiểu tại sao hai chị gái họ có thể không bị ảnh hưởng bởi sự ra đi của trung đoàn.
+- Bà Bennet đồng cảm với nỗi buồn của họ, nhắc lại cảm xúc tương tự của mình từ hai mươi năm trước.
+- Lydia, sau tất cả, đã nhận được lời mời từ bà Forster, vợ của Đại tá trung đoàn, để đi theo bà đến Brington. Điều này đã làm giảm bớt sự ảm đạm của cô.
+- Elizabeth đã cố gắng khuyên cha cô không cho Lydia đi Brington, lo ngại về hành vi thiếu kiểm soát của Lydia và ảnh hưởng tiêu cực mà cô có thể gây ra. 
+- Ông Bennet đã từ chối lời khuyên của Elizabeth, tin rằng Lydia sẽ được bảo vệ bởi Đại tá Forster.
+- Lydia mơ mộng về cuộc sống tại Brington, không biết rằng Elizabeth đã cố gắng ngăn cản chuyến đi của cô.
+- Elizabeth chuẩn bị gặp Wickham lần cuối. Cô đã nhận ra rằng cô không còn cảm thấy hứng thú với anh như trước.
+- Trong cuộc trò chuyện cuối cùng của họ, Wickham tỏ ra quan tâm đến việc Elizabeth đã gặp Darcy và Đại tá Fitzwilliam, nhưng Elizabeth đã không để lộ bất kỳ thông tin chi tiết nào.
+- Lydia rời Longbourn với bà Forster, không để ý đến lời chia tay nhẹ nhàng từ hai chị gái. 
+"""

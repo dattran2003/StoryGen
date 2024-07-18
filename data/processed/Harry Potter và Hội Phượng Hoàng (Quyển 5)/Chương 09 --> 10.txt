@@ -1,0 +1,20 @@
+"""
+    - Chương 9 mở đầu với việc Harry Potter bị đưa ra phiên tòa và quyết định không xử tội anh.
+    - Trong phiên tòa, bà Bones yêu cầu những người đồng ý với việc xử trắng án giơ tay, sau đó là những người đồng ý với bản án. Cornelius Fudge, Bộ trưởng Bộ Pháp thuật, và những người khác sau đó giơ tay, nhưng cuối cùng, bản án trắng án được tuyên bố.
+    - Dumbledore, giáo sư Hogwarts, rời khỏi phòng xử án sau khi kết quả được công bố, khiến Harry bất ngờ.
+    - Harry cảm thấy hỗn độn giữa cảm giác nhẹ nhõm và choáng váng sau phiên tòa.
+    - Ông Weasley, người đang đợi Harry ở cửa, được thông báo về quyết định xử trắng án. Ông vui mừng và ôm Harry, sau đó đưa anh trở lại Grimmauld Place.
+    - Trở về Grimmauld Place, Harry gặp lại Ron và Hermione, người rất vui mừng khi nghe tin tốt lành.
+    - Harry và gia đình Weasley có một bữa ăn mừng sự trắng án của Harry.
+    - Tuy nhiên, cuộc vui bị cắt đứt khi Harry gặp lại Lucius Malfoy, một người mà Harry ghét cay ghét đắng, tại Bộ Pháp thuật.
+    - Malfoy và Fudge nói chuyện với nhau, điều này làm Harry và gia đình Weasley cảm thấy bất an.
+    - Harry và gia đình Weasley sau đó thảo luận về mối quan hệ giữa Malfoy và Fudge, cũng như khả năng Malfoy dùng phép thuật Imperius lên Fudge.
+    - Harry nhận được tin mình được trắng án từ phiên tòa và chuẩn bị quay trở lại Hogwarts.
+    - Ron được chọn làm Huynh trưởng, điều này làm Harry ngạc nhiên và cảm thấy một chút ghen tị.
+    - Bà Weasley rất vui mừng và hào hứng với việc Ron được chọn làm Huynh trưởng.
+    - Hermione cũng được chọn làm Huynh trưởng, điều này làm cô bé vui mừng.
+    - Sirius Black, người chăm sóc Harry, cảm thấy buồn khi Harry sắp quay lại Hogwarts.
+    - Trong khi chuẩn bị đồ đạc cho năm học mới, Harry nhận ra rằng mình đã mong muốn được chọn làm Huynh trưởng hơn Ron.
+    - Harry và gia đình Weasley chuẩn bị cho năm học mới tại Hogwarts, nhưng vẫn lo lắng về mối đe dọa từ Voldemort.
+    - Harry gặp lại Luna Lovegood trên tàu tốc hành Hogwarts, và cả hai cùng các bạn khác chia sẻ những trải nghiệm và tin tức trong mùa hè.
+"""

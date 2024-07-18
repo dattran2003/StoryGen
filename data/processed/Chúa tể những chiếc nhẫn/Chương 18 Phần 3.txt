@@ -1,0 +1,13 @@
+"""
+- Sự yên tĩnh tràn ngập khắp nơi, Frodo cảm thấy biết ơn vì họ không bị phát hiện trên mặt đất. Những cây cung cấp một sự bảo vệ nhỏ.
+- Frodo rút thanh Chích ra, nó lóe lên và lấp lánh như một ngọn lửa xanh, mặc dù sau đó mờ đi nhưng cảm giác nguy hiểm không rời Frodo.
+- Frodo nghe thấy những chuyển động lén lút dưới những gốc cây và nhìn thấy một đôi mắt lờ mờ. 
+- Haldir xuất hiện và giải thích rằng có cái gì đó trong cây mà ông chưa từng thấy, không phải Orcs. 
+- Một đội quân Orcs hùng mạnh vừa đi qua, chúng tìm kiếm khắp mặt đất nhưng Haldir và người em đã vượt lên và giả vờ nói chuyện để dẫn chúng đi sâu vào rừng.
+- Buổi sáng, Frodo và đội quân tiếp tục hành trình theo hướng dẫn của Haldir và Rumil.
+- Họ băng qua sông Celebrant bằng cách dùng dây thừng, Gimli từ chối bị bịt mắt khi đi vào Lurien.
+- Gimli cuối cùng đồng ý bị bịt mắt sau khi Aragorn đề nghị tất cả mọi người bị bịt mắt.
+- Họ đến Cerin Amroth, trái tim của Vương quốc cổ đại, nơi Frodo và Sam cảm thấy như mình đang trong một bài hát.
+- Frodo cảm nhận rõ rệt cuộc sống bên trong cây cỏ, và họ nhìn thấy pháo đài Miền Nam Mirkwood phía sau sông.
+- Aragorn bị cuốn hút bởi nơi này, nhớ lại kỷ niệm và nói với Frodo rằng đây là trái tim của tộc người Elves trên thế giới.
+"""

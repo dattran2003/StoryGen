@@ -1,0 +1,15 @@
+"""
+- Harry rời lều vào buổi sáng sớm để tìm một cây cổ thụ và chôn con mắt của thầy Moody Mắt Điên dưới đó, đánh dấu bằng một thập tự giá.
+- Harry, Hermione và Ron quyết định không ở một chỗ quá lâu và chọn nơi tiếp theo gần chỗ có thức ăn.
+- Hermione giải bùa chú quanh khu đất, trong khi Harry và Ron xóa dấu vết cắm trại, sau đó Độn thổ đến một thị trấn nhỏ.
+- Harry tìm thức ăn dưới Áo khoác Tàng hình nhưng bị ngăn cản bởi sự xuất hiện của Giám ngục, gây ra cơn đau và sợ hãi.
+- Harry không thể triệu hồi Thần Hộ mệnh để chống lại Giám ngục, gây thất vọng cho Hermione và Ron.
+- Hermione nhận ra Harry bị ảnh hưởng bởi Trường Sinh Linh Giá và quyết định không đeo nó liên tục.
+- Cả ba tiếp tục di chuyển khắp nơi, gặp khó khăn trong việc kiếm thức ăn và tránh sự phát hiện.
+- Ron bắt đầu tỏ ra khó chịu và thất vọng về cuộc hành trình, trong khi Hermione cố gắng duy trì tinh thần.
+- Cả ba đi đến Luân Đôn để tìm cô nhi viện mà Voldemort từng sinh sống nhưng chỉ thấy một tòa nhà văn phòng.
+- Harry bắt đầu nghi ngờ Hermione và Ron đang nói sau lưng mình và không còn tin tưởng vào khả năng lãnh đạo của mình.
+- Trong một cuộc tranh cãi, Ron rời bỏ Harry và Hermione, bỏ lại Trường Sinh Linh Giá và chọn không trở lại.
+"""
+
+Lưu ý: Các ý chính được tóm tắt theo dòng thời gian của câu chuyện.

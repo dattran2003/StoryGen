@@ -1,0 +1,12 @@
+"""
+- Ngôn Mới, ngôn ngữ chính thức của Đại Dương, được sáng chế để phục vụ ý hệ Anh Xã. 
+- Ngôn Mới chưa trở thành phương tiện thông tin độc nhất vào năm 1984, nhưng dự kiến sẽ thay thế Ngôn Cũ (Anh Ngữ thông dụng) vào khoảng 2050.
+- Mục đích của Ngôn Mới là để cung cấp một phương tiện biểu lộ nhân sinh quan và tập quán tinh thần của tín đồ Anh Xã, đồng thời ngăn chặn mọi lối tư duy khác.
+- Ngôn Mới dựa trên tiếng Anh hiện đại nhưng với nhiều đặc điểm khác biệt như cấu trúc ngữ pháp đổi lẫn, tính đều đặn, và sự phân loại từ vựng thành từ vựng A, B, và C.
+- Từ vựng A bao gồm những từ cơ bản cho hoạt động hàng ngày với ý nghĩa được xác định rõ ràng, không có nghĩa đôi.
+- Từ vựng B bao gồm những từ chính trị và tinh thần, được thiết kế để áp đặt trạng thái tư duy mong muốn trên người sử dụng.
+- Từ vựng C gồm các từ khoa học kỹ thuật, với định nghĩa rõ ràng và không chứa ý nghĩa phụ.
+- Ngôn Mới được thiết kế để giảm bớt từ vựng và hạn chế khả năng diễn đạt ý tưởng không chính thống.
+- Ngôn Mới dự kiến sẽ cắt đứt mọi liên lạc với quá khứ thông qua việc loại bỏ Ngôn Cũ.
+- Việc dịch văn chương quá khứ sang Ngôn Mới là một công việc khó khăn và chậm chạp, nhưng cần thiết để phù hợp với triết lý Anh Xã.
+"""

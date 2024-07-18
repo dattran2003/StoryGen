@@ -1,0 +1,10 @@
+"""
+- Harry bị thương do vô tình đạp phải một cái tách trà và nghi ngờ đây là một trò đùa của Dudley.
+- Harry nhận ra rằng vết cắt sâu trên ngón tay có thể gây rắc rối cho anh ta khi chỉ còn bốn ngày nữa là có thể sử dụng phép thuật.
+- Harry đã dành buổi sáng để sắp xếp hành lý cho năm học mới, lần đầu tiên kể từ khi anh ta bắt đầu học tại Hogwarts.
+- Trong quá trình sắp xếp, Harry tìm thấy mảnh vỡ của chiếc gương mà Sirius đã tặng, gây ra vết cắt trên tay anh.
+- Harry đọc bài viết về Albus Dumbledore trong tờ báo và cảm nhận sự mất mát sâu sắc.
+- Harry nhận ra rằng anh ta không biết nhiều về quá khứ của Dumbledore sau khi đọc bài viết.
+- Harry phát hiện ra một bài viết khác nói về cuốn sách sắp ra về cuộc đời Dumbledore do Rita Skeeter viết, điều này khiến anh ta tức giận và ghê tởm.
+- Trong lúc suy nghĩ, Harry tưởng chừng nhìn thấy ánh sáng màu xanh từ mảnh gương vỡ, nhưng sau cùng anh ta nghĩ rằng mình chỉ tưởng tượng ra mà thôi.
+"""

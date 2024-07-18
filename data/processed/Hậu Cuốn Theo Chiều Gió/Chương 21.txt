@@ -1,0 +1,23 @@
+"""
+- Scarlett thức dậy muộn vào Chủ nhật sau lời thúc giục của cô Pauline và cô Eulalie để tham dự buổi lễ nhà thờ.
+- Cô không muốn tham gia trở lại giáo hội và phàn nàn về việc phải thức dậy sớm.
+- Cô Pauline và cô Eulalie nhắc nhở Scarlett về cách cư xử phù hợp trong Mùa chơi.
+- Scarlett cảm thấy bực bội với những lời giảng dạy này, nhưng cô vẫn tuân thủ.
+- Scarlett nghe tin đồn về hai chiếc váy khiêu vũ mới của cô, điều này có thể ảnh hưởng đến tiếng tăm của cô.
+- Scarlett lo lắng về những tin đồn có thể làm hỏng nỗ lực của Rhett để phục hồi địa vị trong xã hội Charleston.
+- Dì Pauline tiết lộ những tin đồn về quá khứ của Rhett, bao gồm những vấn đề về tiền bạc và danh tiếng.
+- Scarlett cảm thấy tức giận và lo lắng về những tin đồn này và quyết định báo cho Rhett.
+- Scarlett cố gắng kiên nhẫn với dì Pauline và Eulalie, nhưng cô muốn rời đi để thông báo cho Rhett.
+- Scarlett gặp Rhett và cố gắng chia sẻ những tin đồn với anh, nhưng Rhett chỉ cười và khuyên cô nên chia sẻ với mẹ của anh.
+- Scarlett chia sẻ với mẹ Rhett, bà Eleanor Butler, những tin đồn và những lời chỉ trích từ dì cô.
+- Bà Eleanor Butler phản ứng một cách điềm tĩnh, chỉ ra rằng họ không cần phải sợ dư luận và khuyên cô nên thận trọng hơn.
+- Scarlett nhận ra rằng Rhett vẫn còn ghen với Ashley và quyết định sử dụng điều này để giành lại anh.
+- Scarlett và gia đình tham gia vào việc chuẩn bị cho Giáng sinh và Mùa chơi, trong khi cũng cố gắng đối phó với sự hiện diện của quân đội Yankee.
+- Scarlett hy vọng rằng Mùa chơi sẽ giúp cô thu hút sự chú ý của Rhett.
+- Scarlett chuẩn bị cho Vũ hội, quyết định mặc trang phục đẹp nhất và đeo nữ trang, mặc dù Rhett đã khuyên cô không nên.
+- Scarlett đến Vũ hội, cảm thấy bất ngờ về cách tổ chức và các tập tục ở Charleston.
+- Scarlett tận hưởng buổi Vũ hội, mặc dù cô cảm thấy khó chịu với một số tập tục.
+- Scarlett nhận ra rằng Rhett cũng đang quyến rũ những người khác, điều này làm cô cảm thấy ghen tị.
+- Scarlett quyết định không để những điều này làm phiền cô và tận hưởng buổi Vũ hội.
+- Scarlett và gia đình trở về nhà sau buổi Vũ hội, với Rhett hỗ trợ mẹ mình và Rosemary trò chuyện với anh.
+"""

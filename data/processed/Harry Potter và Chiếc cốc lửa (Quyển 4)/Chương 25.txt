@@ -1,0 +1,14 @@
+"""
+- Harry quyết định tắm vào ban đêm để khám phá bí mật trong cái trứng vàng, vì anh ta tin rằng sẽ có đủ thời gian cần thiết và ít bị quấy rầy hơn.
+- Anh ta lên kế hoạch cẩn thận để tránh bị thầy giám thị Filch bắt, sử dụng Áo khoác Tàng hình và Bản đồ của Đạo Tặc.
+- Harry dùng mật khẩu 'Tươi như cây thông' mà Cerdic đã cung cấp để vào buồng tắm của các huynh trưởng.
+- Trong buồng tắm, sau khi thử nhiều loại xà phòng và bọt xà phòng khác nhau từ các vòi nước, Harry mở cái trứng vàng nhưng chỉ nghe thấy tiếng khóc la không hiểu nghĩa.
+- Con ma khóc nhè Myrtle xuất hiện, khuyên Harry đặt trứng vào nước. Harry làm theo và cuối cùng nghe được bài ca từ trứng khi ngụp lặn dưới nước.
+- Bài ca từ trứng gợi ý về việc tìm một sinh vật sống dưới nước và mất một thứ quan trọng trong khoảng thời gian nhất định.
+- Harry nhận ra rằng người cá có thể là mục tiêu và bắt đầu lo lắng về khả năng bơi lội của mình.
+- Trong lúc này, Harry nhận thấy Bartemius Crouch đang lén lút ở văn phòng của giáo sư Snape.
+- Harry gặp rắc rối khi cái trứng vàng rơi xuống cầu thang và bị mắc kẹt, khiến thầy Filch và sau đó thầy Snape, thầy Moody và bà Noris đến kiểm tra.
+- Thầy Moody cứu Harry khỏi tình huống khó khăn, lấy lại tấm bản đồ của Đạo Tặc và che đậy cho Harry.
+- Thầy Snape nhận ra Harry đang có mặt ở đó nhưng thầy Moody đã ngăn chặn kịp thời.
+- Thầy Moody sau đó giữ lại tấm bản đồ và gợi ý rằng Harry nên suy nghĩ về nghề Thần Sáng.
+"""

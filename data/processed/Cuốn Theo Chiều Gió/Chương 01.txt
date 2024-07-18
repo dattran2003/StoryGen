@@ -1,0 +1,14 @@
+"""
+- Scarlett O'Hara, mặc dù không đẹp theo chuẩn mực thông thường, vẫn cuốn hút nam giới bởi vẻ duyên dáng và sự kết hợp hài hòa giữa nét kiều diễm từ mẹ và nét thô犷 từ cha.
+- Cô đang ngồi cùng hai anh em song sinh Tarleton dưới mái hiên nhà đồn điền Tara trong một buổi chiều nắng tháng Tư năm 1861.
+- Hai anh em Tarleton vừa bị trục xuất khỏi Đại học Georgia, trường học thứ tư trong vòng 2 năm đuổi họ ra, nhưng họ không quá quan tâm đến chuyện học hành.
+- Scarlett và hai anh em Tarleton đang thảo luận về khả năng sắp xảy ra của cuộc chiến tranh giữa các tiểu bang miền Nam và Liên bang, nhưng Scarlett không muốn nghe về nó.
+- Scarlett hứa sẽ dành thời gian cho hai anh em Tarleton trong buổi dạ vũ sắp tới, bất chấp việc họ vừa bị đuổi học.
+- Scarlett tỏ ra không quan tâm khi họ thông báo về việc Ashley Wilkes và Melanie Hamilton sắp đính hôn.
+- Scarlett không mời hai anh em Tarleton ở lại ăn tối, điều này khiến họ cảm thấy hơi bất bình.
+- Hai anh em Tarleton và Scarlett đã biết nhau từ khi còn nhỏ, nhưng họ mới nhận ra vẻ quyến rũ của cô khi cô trở thành một thiếu nữ trưởng thành.
+- Scarlett đã cố gắng thu hút sự chú ý của hai anh em, khiến họ đều yêu cô.
+- Scarlett không mời hai anh em Tarleton ăn tối, điều này làm họ cảm thấy hơi thất vọng.
+- Hai anh em Tarleton quyết định ăn tối tại nhà Cade Calvert thay vì trở về nhà để đối mặt với mẹ họ.
+- Họ cũng dự định ghé thăm Able Quynce, người đang huấn luyện đội quân mới, và xem xét việc gia nhập quân đội nếu cuộc chiến tranh nổ ra.
+"""

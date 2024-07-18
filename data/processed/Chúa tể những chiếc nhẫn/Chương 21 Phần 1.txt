@@ -1,0 +1,15 @@
+"""
+- Sam đánh thức Frodo dậy tại bờ tây Dòng Sông Vĩ Đại, Anduin. 
+- Họ bắt đầu cuộc hành trình trước khi nắng lên cao, với quyết tâm của Aragorn để tiết kiệm sức lực.
+- Trong 3 ngày đầu, họ chứng kiến cảnh vật thay đổi từ rừng cây xanh mướt sang vùng đất khô cằn, trống trải.
+- Aragorn giải thích về Những Vùng Đất Nâu, một vùng đất hoang hóa mà Kẻ Thù đã gây ra.
+- Họ thấy thiên nga đen bay qua, một biểu tượng cho vùng đất rộng lớn, trống rỗng và thê lương.
+- Trong khi tiếp tục hành trình, cảm giác bất an ngày càng tăng, họ đẩy thuyền mạnh mẽ suốt cả ngày.
+- Sam nhìn thấy một vật thể bí ẩn, sau này xác nhận là Gollum, theo dõi họ từ xa.
+- Gollum tiếp tục xuất hiện, khiến họ phải tăng tốc và cẩn trọng hơn.
+- Họ nhận thấy sự thay đổi nhanh chóng trong cảnh quan, từ những vách đá đến rừng cây, với nhiều loài chim xuất hiện.
+- Một con đại bàng xuất hiện, khiến Aragorn hoài nghi về thông tin đã bị lộ.
+- Trong đêm thứ 8, họ gặp phải Sarn Gebir, nơi có nhiều nguy hiểm tiềm ẩn.
+- Bọn Orc tấn công họ từ bờ phía đông, nhưng may mắn thoát nạn nhờ áo giáp của Frodo và sự can đảm của Legolas.
+- Họ gặp phải một bóng tối kinh hoàng, một sinh vật cánh đen khổng lồ tấn công họ, nhưng Legolas đã cứu họ khỏi nguy hiểm bằng mũi tên của mình.
+"""

@@ -1,0 +1,15 @@
+"""
+- Scarlett trở về từ bệnh viện, cảm thấy mệt mỏi và bực bội sau một ngày làm việc căng thẳng. 
+- Cô từ chối tháp tùng Melanie, Pittypat, Wade và Prissy trong chuyến thăm hàng tuần của họ.
+- Khi chắc chắn không ai ở nhà, Scarlett lẻn vào phòng riêng của Melanie và khóa cửa lại.
+- Scarlett đọc lén những lá thư mà Ashley viết cho Melanie, cảm thấy xấu hổ và lo sợ bị bắt gặp nhưng sau đó cảm giác này biến mất.
+- Scarlett quan tâm chủ yếu đến việc Ashley có viết những lời âu yếm trong thư không, nhưng chỉ thấy những dòng chữ tràn đầy suy tư, không phải là thơ tình.
+- Scarlett cảm thấy tự phụ và thỏa mãn khi nhận ra Ashley vẫn còn tình cảm với mình.
+- Scarlett cũng cảm thấy bối rối với những suy tư sâu xa của Ashley trong thư, không hiểu tại sao anh ta lại sợ hãi điều gì.
+- Scarlett nhớ lại tình cảm không thay đổi của mình dành cho Ashley từ khi cô mới 14 tuổi.
+- Scarlett kết luận rằng Ashley vẫn còn tình cảm với mình, dù anh ta đã kết hôn với Melanie.
+- Scarlett cảm thấy hôn nhân với Charles không mang lại cho cô bất kì sự thú vị nào.
+- Scarlett vẫn còn duy trì tình yêu với Ashley, không liên quan đến lạc thú hay hôn nhân.
+- Scarlett cảm thấy tự tin khi nhìn thấy vẻ đẹp của mình trong gương, đặc biệt là đôi mắt xanh biếc và đồng tiền lúm trên má.
+- Scarlett không cảm thấy hối hận về việc yêu trộm chồng người khác hay đọc lén thư của người khác.
+"""

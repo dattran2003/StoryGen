@@ -1,0 +1,15 @@
+"""
+- Harry và bạn bè đến nấm mộ của một người họ Abbott, nghi ngờ có ai đó đang theo dõi họ.
+- Họ cảm thấy lo lắng và quyết định rời khỏi nghĩa trang, đồng thời trùm lại Áo khoác Tàng hình.
+- Trong lúc đi, họ thấy một vật gì đó nhúc nhích sau bụi cây nhưng kết luận đó chỉ có thể là một con mèo hoặc chim.
+- Harry và Hermione sau đó tìm đến nhà bà Bathilda.
+- Họ nhận ra ngôi nhà của cha mẹ Harry, nơi đã bị phá hủy, và thấy một tấm bảng tưởng niệm họ.
+- Một người phụ nữ, mà họ sau này xác định là bà Bathilda, xuất hiện và dẫn họ về nhà mình.
+- Bà Bathilda dẫn Harry lên lầu một mình, trong khi Hermione ở lại dưới.
+- Trong phòng riêng, bà Bathilda biến thành con rắn, tấn công Harry.
+- Trong cuộc đấu tranh, Harry và Hermione thoát ra khỏi nhà và con rắn.
+- Sau cuộc đấu tranh, Harry rơi vào trạng thái bất tỉnh, chỉ tỉnh lại sau vài giờ.
+- Hermione cho biết Harry đã bị con rắn cắn và đã sử dụng bùa Tùng Xẻo để lấy Trường Sinh Linh Giá ra khỏi Harry.
+- Harry và Hermione thảo luận về sự cố, và Harry nói rằng con rắn đã giả dạng bà Bathilda để tấn công họ.
+- Harry nhận ra cây đũa phép của mình đã bị hỏng sau cuộc chiến đấu, và Hermione không thể chữa lành nó.
+"""

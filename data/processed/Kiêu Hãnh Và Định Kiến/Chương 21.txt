@@ -1,0 +1,13 @@
+"""
+- Cuộc tranh cãi về lời cầu hôn của anh Collins sắp kết thúc, gây ra sự khó chịu cho Elizabeth do thái độ của mẹ và sự im lặng cứng nhắc của anh Collins.
+- Anh Collins chuyển sự chăm sóc của mình sang cô Lucas, điều này làm giảm bớt áp lực cho Elizabeth.
+- Anh Collins, mặc dù bực bội, quyết định không rút ngắn thời gian thăm viếng và sẽ ở lại cho đến thứ Bảy.
+- Elizabeth và các chị em đi đến Meryton, gặp anh Wickham, người giải thích lý do vắng mặt tại dạ hội.
+- Wickham và một sĩ quan đi cùng họ về Longbourn, tạo cơ hội để Elizabeth giới thiệu anh ta với cha mẹ.
+- Một lá thư từ Netherfield thông báo rằng gia đình Bingley đã rời đi và không có kế hoạch trở lại.
+- Caroline Bingley viết rằng họ đang theo anh Bingley tới London và hy vọng mối quan hệ với Jane sẽ được duy trì qua thư từ.
+- Elizabeth và Jane bàn về lá thư, Elizabeth tin rằng Caroline Bingley cố gắng giữ anh Bingley ở lại London và thuyết phục Jane rằng anh không còn quan tâm.
+- Jane tỏ ra không tin rằng Caroline Bingley có thể lừa dối ai đó, nhưng Elizabeth khuyên chị nên tin rằng Caroline đã tự lừa dối mình.
+- Hai chị em đồng ý giữ bí mật về việc gia đình Bingley rời đi với mẹ, để tránh làm mẹ lo lắng. 
+- Mặc dù vậy, Elizabeth tin rằng Bingley sẽ trở lại và mọi chuyện sẽ ổn.
+"""

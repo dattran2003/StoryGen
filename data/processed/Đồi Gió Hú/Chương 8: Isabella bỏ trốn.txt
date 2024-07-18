@@ -1,0 +1,13 @@
+"""
+- Ba ngày sau khi cô Linton phải mở chốt cửa vì sức khỏe yếu kém, cô được phát hiện đã trốn đi cùng Heathcliff.
+- Edgar Linton, anh trai của Isabella, bị sốc trước thông tin này và từ chối tin rằng em gái mình đã tự nguyện rời đi.
+- Cô Linton sau đó được xác nhận mắc bệnh viêm não và Edgar chăm sóc cô tận tụy.
+- Hai tháng sau, cô Linton hồi phục và thể hiện niềm vui trước sự sống trở lại của thiên nhiên.
+- Trong thời gian này, Isabella viết thư cho Ellen, bày tỏ sự sợ hãi và nghi ngờ về Heathcliff.
+- Isabella mô tả trải nghiệm đáng sợ của mình tại Đồi Gió Hú, nơi cô gặp Hindley Earnshaw, anh trai của Catherine.
+- Hindley đe dọa giết Heathcliff và biểu lộ sự thù hận sâu sắc đối với anh ta.
+- Edgar từ chối viết thư cho Isabella, chỉ mong cô thuyết phục Heathcliff rời khỏi vùng này.
+- Ellen đến thăm Isabella tại Đồi Gió Hú, nhận thấy cảnh tượng hỗn loạn và Isabella đang sống trong điều kiện tồi tệ.
+- Heathcliff đòi hỏi được gặp Catherine, bất chấp hậu quả.
+- Ellen cuối cùng đồng ý giúp Heathcliff gặp Catherine, mang theo bức thư của anh ta cho cô chủ và cảm thấy buồn bã trên đường về nhà.
+"""

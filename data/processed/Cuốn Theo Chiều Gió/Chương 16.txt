@@ -1,0 +1,18 @@
+"""
+- Scarlett lấy một món đồ mà cô đã giấu trong ngăn kéo của bà Iloncé sau khi mọi người đã rời đi.
+- Scarlett gọi Pork và tặng anh ta chiếc đồng hồ vàng của cha cô, dù Pork ban đầu từ chối vì lo ngại.
+- Scarlett thuyết phục Pork nhận món quà, và Pork cuối cùng chấp nhận nó với lòng biết ơn.
+- Scarlett gặp Ashley, đề nghị anh ta giúp cô quản lý xưởng máy và chia nửa lợi nhuận.
+- Ashley từ chối đề nghị của Scarlett, quyết định đi miền Bắc để làm việc tại một ngân hàng.
+- Scarlett cố gắng thuyết phục Ashley ở lại bằng cách nói về tình trạng mang thai của mình, nhưng anh vẫn kiên trì với quyết định.
+- Ashley nói rằng anh cảm thấy mình không xứng đáng với Scarlett và anh đã không thể bảo vệ cô khi cô cần anh nhất.
+- Scarlett khóc vì thất vọng, nhưng cuối cùng Ashley đồng ý ở lại Atlanta sau khi Meloni can thiệp và thuyết phục anh.
+- Ashley, Meloni và con trai họ chuyển đến Atlanta và sống trong một ngôi nhà nhỏ.
+- Melanie trở thành trung tâm của cộng đồng, tạo ra một không gian thân thiện và an ủi cho những người đang gặp khó khăn sau chiến tranh.
+- Melanie tham gia nhiều tổ chức và câu lạc bộ, trở thành một nhân vật quan trọng trong việc tái thiết cộng đồng.
+- Scarlett thường xuyên tham gia các buổi tụ tập ở nhà Melanie, mặc dù cô cảm thấy chán chường với những cuộc thảo luận về chiến tranh.
+- Scarlett muốn trở lại công việc sau khi sinh con, nhưng cô lo lắng về hiệu suất làm việc của Hiu và Ashley.
+- Scarlett cân nhắc việc thuê lao động tù nhân để cải thiện hiệu suất, nhưng Frank phản đối mạnh mẽ.
+- Scarlett thất vọng với hiệu suất làm việc của Ashley, nhưng vẫn kiên nhẫn và hỗ trợ anh.
+- Scarlett quyết định rằng sau khi sinh con, cô sẽ không sinh thêm con nữa để tập trung vào công việc kinh doanh.
+"""

@@ -1,0 +1,29 @@
+"""
+    - Chương 19 bắt đầu với Harry cảm nhận như đang mang một bùa chú rực ngời trong lồng ngực suốt 2 tuần, điều này giúp nó vượt qua những tiết học khó khăn của Umbridge và giữ tinh thần lạc quan.
+
+    - Harry và nhóm DA tiếp tục hoạt động chống lại Umbridge ngay dưới mũi bà, điều này tạo niềm vui cho Harry mỗi khi nó nhớ lại những thành công của nhóm.
+
+    - Hermione phát minh ra một hệ thống liên lạc thông qua những đồng Galleon giả, những đồng tiền này có khả năng thay đổi ngày và giờ họp qua Bùa Không Kiên Định.
+
+    - Những buổi họp của nhóm DA trở nên không cố định, điều này giúp tránh sự theo dõi.
+
+    - Trước trận Quidditch đầu tiên giữa Gryffindor và Slytherin, những buổi tập Quidditch của Gryffindor bị ảnh hưởng do Snape ưu ái cho Slytherin.
+
+    - Ron, thủ môn mới của đội, cảm thấy áp lực từ những lời bình phẩm và chế giễu từ Slytherin.
+
+    - Trận đấu diễn ra trong điều kiện thời tiết lạnh lẽo, và Ron bắt đầu trận đấu trong trạng thái căng thẳng.
+
+    - Đội Slytherin chế giễu Ron qua bài hát "Weasley là vị vua của chúng ta", điều này làm tăng áp lực lên Ron.
+
+    - Mặc dù Ron để lọt một số bàn thắng, Harry cuối cùng cũng bắt được Snitch, giúp Gryffindor giành chiến thắng.
+
+    - Harry và George bị cấm chơi Quidditch suốt đời sau khi họ tấn công Malfoy, một quyết định gây ra bởi Umbridge.
+
+    - Bác Hagrid trở lại, mặc dù trong tình trạng bị thương nặng, từ một nhiệm vụ bí mật tìm gặp những người khổng lồ.
+
+    - Bác Hagrid chia sẻ về cuộc gặp gỡ với những người khổng lồ, bao gồm cả việc tìm kiếm sự ủng hộ từ họ chống lại Kẻ-mà-ai-cũng-biết-là-ai, nhưng không thành công.
+
+    - Bác Hagrid bị thanh tra bởi Umbridge, người tỏ ra nghi ngờ về việc Hagrid đã đi đâu và làm gì trong thời gian vắng mặt.
+
+    - Hermione khuyên Hagrid nên cẩn thận với những sinh vật nguy hiểm trong lớp học của mình, để tránh sự quan tâm không mong muốn từ Umbridge.
+"""

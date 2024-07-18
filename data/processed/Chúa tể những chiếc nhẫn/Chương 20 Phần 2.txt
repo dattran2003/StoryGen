@@ -1,0 +1,12 @@
+"""
+- Aragorn dừng thuyền khi thuyền Thiên Nga đến gần. Công Nương Galadriel chào họ và đề nghị một bữa tiệc tiễn đưa.
+- Celeborn nhắc về cuộc hành trình sắp tới của họ, mô tả chi tiết về địa hình và cảnh báo về những nguy hiểm tiềm ẩn.
+- Sau bữa ăn, Galadriel và Celeborn tặng quà cho từng thành viên của đội hành trình, bao gồm Aragorn, Boromir, Merry, Pippin, Legolas, Sam, Gimli và Frodo.
+- Galadriel tặng Aragorn một bao gươm chạm khắc và một viên ngọc xanh lớn, tượng trưng cho hi vọng.
+- Boromir, Merry, Pippin và Legolas nhận những món quà tương ứng như thắt lưng vàng, thắt lưng bạc, cung và một số tên.
+- Sam nhận một hộp gỗ chứa đất từ vườn cây ăn quả của Galadriel.
+- Gimli yêu cầu một sợi tóc từ Galadriel và nhận được nó như một món quà.
+- Frodo nhận một ống pha lê chứa ánh sáng của ngôi sao Edrendil.
+- Galadriel hát một bài hát bằng ngôn ngữ cổ của người Elves, không ai hiểu rõ nghĩa nhưng Frodo dịch lại sau này.
+- Đội Đồng Hành rời Lothlorien, bắt đầu cuộc hành trình mới trên dòng sông, với niềm vui và nỗi buồn lẫn lộn.
+"""

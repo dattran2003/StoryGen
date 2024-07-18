@@ -1,0 +1,14 @@
+"""
+- Bác Alexandra và ông Tate thảo luận về tình hình sau cái chết của Bob Ewell. Bác Alexandra cố gắng đứng dậy và ông Tate cung cấp sự hỗ trợ nhưng bị từ chối.
+- Atticus có vẻ mất tập trung và mệt mỏi, biểu hiện rõ nét tuổi tác.
+- Ông Tate xác nhận rằng Bob Ewell đã chết và không thể gây hại thêm cho ai.
+- Bác Alexandra đề nghị mọi người chuyển sang phòng khách nhưng ông Tate muốn ở lại để kiểm tra vết thương của Jem.
+- Atticus tỏ ra mơ màng và không tập trung vào cuộc trò chuyện, điều này khiến Bác Alexandra cảm thấy mình là người thừa.
+- Scout được yêu cầu kể lại sự vụ đã xảy ra.
+- Trong quá trình đi về nhà, Jem và Scout nghĩ rằng họ đang bị theo dõi, và sau đó họ nhận ra rằng kẻ đang theo dõi họ là Bob Ewell.
+- Trong lúc vật lộn, bộ trang phục của Scout đã cứu mạng cô bé, ngăn chặn những đòn tấn công của Ewell.
+- Atticus và Tate đồng ý rằng Ewell có ý đồ xấu từ lúc anh ta đe dọa Atticus.
+- Sau cuộc vật lộn, Boo Radley xuất hiện, cứu hai đứa trẻ khỏi Ewell.
+- Boo sau đó đã trở về chỗ khuất, và không ai nhận ra sự xuất hiện của ông ta ngoại trừ Scout.
+- Cuối cùng, Scout nhận ra Boo và chào ông, kết thúc sự việc. 
+"""

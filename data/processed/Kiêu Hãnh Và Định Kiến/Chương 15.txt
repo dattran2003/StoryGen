@@ -1,0 +1,15 @@
+"""
+- Anh Collins, một người không nhạy cảm và giáo dục không giúp cải thiện điều này, định cư với một ngôi nhà khang trang và thu nhập ổn định.
+- Collins định cưới vợ và nhắm đến một trong các cô con gái của gia đình Longbourn, như một cách chuộc lỗi vì kế hoạch thừa kế tài sản của ông Bennet.
+- Ban đầu, Collins quan tâm đến Jane, nhưng sau đó chuyển sự chú ý đến Elizabeth sau khi trò chuyện với bà Bennet.
+- Bà Bennet hy vọng rằng cả hai con gái cô sẽ đính hôn, mặc dù cô không thích Collins.
+- Lydia và các cô chị quyết định đi Meryton, với Collins đi theo để chăm sóc họ.
+- Trong chuyến đi, họ gặp một chàng trai trẻ không rõ danh tính, sau đó được biết đến là Wickham, người đã gây ấn tượng mạnh mẽ với tất cả mọi người.
+- Wickham gặp Darcy và Bingley, gây ra phản ứng mạnh mẽ và ngạc nhiên từ cả hai.
+- Bingley và Darcy rời đi, bỏ lại Wickham và các cô gái tiếp tục cuộc trò chuyện.
+- Wickham và Danny đi cùng các cô gái đến nhà ông Phillips, sau đó từ giã.
+- Bà Phillips, vui mừng khi gặp lại các cô gái, được giới thiệu với Collins và đón tiếp anh một cách lịch sự.
+- Bà Phillips hứa sẽ mời Collins đến dùng bữa tối nếu gia đình Bennet cũng tham dự.
+- Trên đường về, Elizabeth kể cho Jane về thái độ kỳ lạ của Darcy.
+- Collins làm cho bà Bennet cảm động khi khen ngợi thái độ và cử chỉ lịch sự của bà Phillips.
+"""

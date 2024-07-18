@@ -1,0 +1,10 @@
+"""
+- Người kể chuyện chia sẻ rằng anh ta không muốn nói thêm về việc mình ốm tại nhà hay kế hoạch học tập sau khi xuất viện.
+- Nhiều người, đặc biệt là những nhà phân tích tâm lý, thường hỏi liệu anh ta có cố gắng trở lại học vào mùa thu hay không, điều mà anh ta cho là câu hỏi vô nghĩa vì tương lai không thể đoán trước.
+- Anh D.B, dù khác với mọi người, cũng đã đặt ra một loạt câu hỏi khác.
+- Anh D.B đã tới gặp người kể chuyện cùng với một nữ diễn viên Anh sẽ tham gia trong bộ phim của anh.
+- Sau khi cô gái rời đi, D.B hỏi về suy nghĩ của người kể chuyện về tất cả những gì đã xảy ra, nhưng người kể chuyện không biết phải trả lời như thế nào.
+- Người kể chuyện tự nhận ra rằng anh ta không rõ mình đang nghĩ gì, mặc dù anh ta đã chia sẻ rất nhiều với mọi người về vấn đề này.
+- Anh ta nhận ra mình vẫn nhớ những người mà anh ta đã kể với mọi người, bao gồm Stradlater, Ackley và thậm chí cả người xấu xa Morice.
+- Người kể chuyện yêu cầu bạn đọc không nên kể cho ai về những người mà anh ta nhớ, trừ khi bạn đọc cũng cảm thấy buồn khi thiếu họ.
+"""

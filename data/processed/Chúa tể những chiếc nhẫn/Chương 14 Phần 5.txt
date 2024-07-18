@@ -1,0 +1,12 @@
+"""
+- Gandalf nói rằng một nhân vật mạnh mẽ, Iarwain (hay Bombadil), dù có quyền lực lớn nhưng không thể chống lại sức mạnh của chiếc Nhẫn.
+- Erestor đề xuất gửi chiếc Nhẫn cho Iarwain nhưng Gandalf phản đối, nói rằng Iarwain không quan tâm đến quyền lực và sẽ không giữ nó.
+- Glorfinder đề xuất gửi chiếc Nhẫn ra biển nhưng Gandalf phản đối, nói rằng biển không an toàn vĩnh viễn.
+- Elrond và Gandalf khẳng định rằng không ai trong hội đồng có thể sử dụng sức mạnh của chiếc Nhẫn vì nó sẽ làm mất đi sự thiện lương của họ.
+- Boromir đề xuất sử dụng chiếc Nhẫn như một vũ khí chống lại kẻ thù nhưng Elrond và Gandalf giải thích rằng điều này sẽ biến bất kỳ ai sử dụng nó thành một kẻ độc tài mới.
+- Gluin hỏi về việc phá hủy chiếc Nhẫn và Elrond trả lời rằng họ không chắc chắn về hậu quả nhưng hy vọng rằng ba chiếc nhẫn khác sẽ trở nên tự do.
+- Elrond nhấn mạnh rằng không có sức mạnh hay sự khôn ngoan nào có thể mang họ đi xa trên con đường phá hủy chiếc Nhẫn, nhưng mục đích này có thể đạt được bằng sự mềm yếu và hi vọng.
+- Bilbo đề xuất tự mình kết thúc câu chuyện bằng cách mang chiếc Nhẫn đi nhưng Gandalf nói rằng Bilbo không còn đủ sức mạnh. 
+- Frodo tự nguyện nhận nhiệm vụ mang chiếc Nhẫn đi và Elrond đồng ý, cho rằng Frodo là người phù hợp nhất.
+- Sam, người bạn của Frodo, lo lắng khi biết Frodo sẽ phải đối mặt với gánh nặng này một mình, nhưng Elrond đảm bảo rằng Sam sẽ đi cùng Frodo.
+"""

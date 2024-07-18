@@ -1,0 +1,18 @@
+"""
+- Scarlett và Colum gặp nhau tại sân ga Mullyngar, cả hai đều ngạc nhiên về cách xuất hiện của nhau.
+- Colum giới thiệu Liam Ryan, một cảnh sát hoàng gia Ireland, là người bạn đồng hành của anh.
+- Scarlett quan tâm liệu Colum có mang vàng của cô không, và anh xác nhận anh đã mang theo.
+- Scarlett và Colum thỏa thuận việc chuyển vàng và mua lại Ballyhara.
+- Scarlett bắt đầu liệt kê tất cả các công việc cần làm để phục hồi Ballyhara, từ tìm thợ rèn, thợ xe, thợ cày, thợ mộc, thợ kiếng, thợ lợp mái, thợ sơn...
+- Scarlett và Colum đồng ý gặp nhau ba ngày sau tại nhà bác Daniel.
+- Colum thuyết phục Scarlett ăn tối tại nhà Jim Ryan trước khi tiếp tục công việc.
+- Scarlett tức giận khi Colum không về nhà cùng cô sau bữa tối.
+- Colum tổ chức một cuộc họp bí mật với những người đàn ông tại quán rượu của Jim Ryan, họ thảo luận về việc xây dựng lại Ballyhara.
+- Colum đến Ballyhara theo lịch hẹn, mang theo người thợ rèn Scarlett cần.
+- Scarlett đã chuẩn bị mọi thứ cho ngôi nhà của mình tại Ballyhara, từ việc dán giấy dầu lên cửa sổ đến việc chuẩn bị dụng cụ nấu nướng.
+- Scarlett và Colum thảo luận về việc xây dựng lại Ballyhara, việc mở quán rượu đầu tiên, và việc Scarlett đang mang thai.
+- Scarlett quyết tâm làm việc không ngừng nghỉ, mặc dù cô đang mang thai, và cô lo lắng về tình trạng sức khỏe của mình.
+- Scarlett thăm bà nội và chị Kathleen, chia sẻ về công việc tại Ballyhara.
+- Scarlett dự định tặng nhà cho các thành viên trong gia đình sau khi Ballyhara hoàn thành.
+- Scarlett mơ ước về ngôi nhà lớn của mình tại Ballyhara, và hy vọng đứa trẻ cô mang trong bụng sẽ là một bé gái.
+"""

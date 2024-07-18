@@ -1,0 +1,14 @@
+"""
+- Scarlett chỉ trích bà Fitzpatrick về việc chi tiêu quá mức và đề nghị cắt giảm nhân sự.
+- Bà Fitzpatrick phản bác lại, lo ngại việc này sẽ tăng thêm số người ăn xin.
+- Scarlett khẳng định không muốn đuổi họ ra đường nhưng vẫn cần giảm chi tiêu.
+- Bà Fitzpatrick chỉ ra rằng ngựa của Scarlett còn tốn kém hơn cả đám người hầu.
+- Scarlett tức giận đuổi bà Fitzpatrick ra khỏi phòng.
+- Scarlett cảm thấy khó chịu vì vấn đề tài chính và nhớ về niềm vui săn bắn.
+- Scarlett nhận ra mình đã dành quá nhiều thời gian cố gắng kiếm tiền và cảm thấy thiếu thách thức.
+- Scarlett nhận được hai lá thư cầu hôn, trong đó có một từ Charles Ragland, người cô thấy đáng quý nhất ở Ireland.
+- Scarlett từ chối lời cầu hôn của Charles vì cô vẫn còn yêu Rhett.
+- Scarlett tham dự buổi tiếp tân cuối cùng trong năm và gặp lại Charles Ragland.
+- Scarlett quyết định mời Charles ăn tối, nhưng sau đó cô nhận ra mình không thể yêu ai khác ngoài Rhett.
+- Scarlett bật khóc và yêu cầu Charles rời đi, Charles hiểu và rời khỏi cô trong im lặng.
+"""

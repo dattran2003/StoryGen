@@ -1,0 +1,10 @@
+"""
+- Harry cùng nhóm gồm Lupin, Pettigrew, Ron, Snape, Sirius Black và Hermione di chuyển qua đường hầm dưới sự dẫn đường của Crookshanks.
+- Trong quá trình di chuyển, Sirius Black tiết lộ với Harry rằng anh ta là cha đỡ đầu của Harry, và gợi ý Harry có thể sống cùng anh ta sau khi danh dự của Sirius được phục hồi.
+- Harry hào hứng với khả năng sống cùng Sirius, rời khỏi gia đình Dursley.
+- Lupin, người đang trong trạng thái người sói vì không uống thuốc, tấn công nhóm, buộc Sirius biến hình thành một con chó lớn để đối phó.
+- Pettigrew lợi dụng tình hình để trốn thoát, biến hình thành một con chuột và chạy thoát.
+- Trong khi Sirius đuổi theo Pettigrew, Harry và Hermione phải đối mặt với một đội quân lớn của giám ngục Azkaban.
+- Harry cố gắng sử dụng phép thuật để chống lại giám ngục, nhưng sức lực của cậu dần cạn kiệt.
+- Harry cảm thấy như có một tia sáng màu bạc cứu cậu khỏi giám ngục, và sau đó, cậu ngất xỉn.
+"""

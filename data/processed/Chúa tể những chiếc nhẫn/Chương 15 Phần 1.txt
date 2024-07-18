@@ -1,0 +1,39 @@
+"""
+- Sau ngày hội đồng, các Hobbit tổ chức cuộc họp riêng tại phòng của Bilbo. Merry và Pippin tức giận vì Sam đã được chọn làm bạn đồng hành của Frodo.
+
+- Frodo bày tỏ rằng anh cảm thấy như đang bị kết án với cuộc hành trình nguy hiểm này, không phải được khen thưởng.
+
+- Merry và Pippin bày tỏ mong muốn đi cùng Frodo, dù biết rằng đây sẽ là một hình phạt.
+
+- Gandalf nói rằng chưa có quyết định nào được đưa ra và mọi người đang lo lắng không cần thiết.
+
+- Gandalf thông báo rằng một số trinh sát đã được cử đi, và họ sẽ lùng sục vùng đất trước khi cuộc hành trình bắt đầu.
+
+- Frodo và Sam hy vọng rằng họ sẽ còn ở lại Rivendell khá lâu, nhưng Bilbo cảnh báo rằng họ không thể đợi đến mùa xuân.
+
+- Gandalf nói rằng họ không thể bắt đầu hành trình cho đến khi biết được thông tin về nhóm Kỵ sĩ.
+
+- Gandalf tuyên bố rằng ông sẽ đi cùng Frodo, khiến Frodo vui mừng.
+
+- Frodo và Bilbo thảo luận về cuốn sách của họ, và Frodo đã nghĩ đến nhiều kết thúc nhưng tất cả đều đen tối và bất an.
+
+- Các Hobbit tiếp tục thảo luận về hành trình và nguy hiểm phía trước, nhưng niềm vui và sự yên bình của Rivendell giúp họ xua tan nỗi sợ.
+
+- Trong khoảng hai tháng, các Hobbit ở lại Rivendell, và những người trinh sát bắt đầu trở về. 
+
+- Không có dấu hiệu hay tin tức về Kỵ sĩ hay kẻ thù nào khác, tuy nhiên, những con sói hoang vẫn tụ tập và săn mồi.
+
+- Gandalf nói rằng có vẻ như Kỵ sĩ đã biến mất về phương Bắc.
+
+- Elrond nói rằng nếu Nhẫn phải đi, nó phải đi sớm. Frodo đồng ý giữ lời và sẽ đi cùng Sam.
+
+- Elrond thông báo rằng đội đồng hành của Nhẫn sẽ gồm chín người, bao gồm Gandalf, Frodo, Sam, Legolas, Gimli, Aragorn, và Boromir.
+
+- Frodo và Bilbo có một cuộc trò chuyện cuối cùng, trong đó Bilbo tặng Frodo thanh gươm 'Sting' và một chiếc áo giáp người lùn.
+
+- Đội Đồng Hành chuẩn bị khởi hành trong đêm, mặc dù Elrond cảnh báo họ phải cẩn thận với kẻ phục vụ của Kẻ Thù.
+
+- Mỗi thành viên của đội đồng hành được mô tả với trang phục và vũ khí của mình.
+
+- Con ngựa lùn Bill, đã hồi phục sức khỏe tại Rivendell, được chọn làm thú chở hàng, và nó là thành viên duy nhất không tỏ ra căng thẳng.
+"""

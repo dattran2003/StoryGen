@@ -1,0 +1,14 @@
+"""
+- Harry không thể tập trung vào kỳ thi vì lo sợ Voldemort xâm nhập bất kỳ lúc nào.
+- Dù thời tiết nóng bức, học sinh vẫn phải thi viết và thực hành các môn học với sự giám sát của các giáo sư.
+- Harry chịu đựng những cơn đau ở vết thẹo trên trán, và những giấc mơ ác mộng liên quan đến Voldemort.
+- Ron và Hermione ít lo lắng hơn về Hòn đá Phù thủy so với Harry.
+- Cuối cùng, học sinh kết thúc kỳ thi với môn Lịch sử Pháp thuật và được tự do trong một tuần.
+- Hermione cho rằng bài thi dễ hơn dự kiến, nhưng Harry vẫn cảm thấy bất an.
+- Harry nhận ra rằng Hagrid có thể đã vô tình tiết lộ cách qua con Fluffy cho một người lạ, có thể là Snape hoặc Voldemort.
+- Harry, Ron, và Hermione quyết định gặp Hagrid và sau đó đi báo cho giáo sư Dumbledore.
+- Họ không thể gặp Dumbledore vì ông đã ra đi vì một cuộc gọi khẩn cấp từ Bộ trưởng Pháp Thuật.
+- Giáo sư McGonagall không tin tưởng vào lo lắng của Harry về Hòn đá Phù thủy.
+- Harry, Ron, và Hermione quyết định tự mình hành động để bảo vệ Hòn đá Phù thủy.
+- Họ lên kế hoạch theo dõi Snape và vượt qua các rào cản để đến được Hòn đá Phù thủy.
+"""

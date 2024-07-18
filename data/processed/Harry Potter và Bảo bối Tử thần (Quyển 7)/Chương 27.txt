@@ -1,0 +1,19 @@
+"""
+- Harry, Ron và Hermione trốn thoát trên lưng một con rồng sau khi đột nhập vào hầm an toàn của Lestranges, cảm thấy mừng vì đã thoát khỏi tình huống nguy hiểm.
+- Trong khi bay, họ lo lắng về việc làm thế nào và khi nào sẽ rời khỏi lưng con rồng.
+- Harry tự hỏi về thời gian Voldemort sẽ biết về việc họ đột nhập và lấy đi một Trường Sinh Linh Giá.
+- Con rồng bay xuyên qua mây và qua vùng nông thôn, tiếp tục bay về phía bắc.
+- Ron hỏi Harry con rồng đang tìm kiếm gì và Harry không biết, nhưng họ đều lo lắng nếu con rồng bay ra biển rộng.
+- Con rồng bắt đầu bay thấp hơn, dường như tìm kiếm nước ngọt dựa trên ánh sáng phản chiếu.
+- Họ quyết định nhảy xuống khi con rồng bay thấp, trước khi nó nhận ra họ trên lưng.
+- Họ nhảy xuống một hồ, bơi tới bờ và nghỉ ngơi, sau đó Harry dựng lên một bùa bảo vệ.
+- Harry, Ron và Hermione đều bị thương và mệt mỏi sau chuyến bay trên lưng con rồng.
+- Họ thay quần áo, bôi tinh dầu lên vết thương và uống nước bí.
+- Harry đặt Trường Sinh Linh Giá xuống, và họ thảo luận về việc tiếp theo sẽ làm gì.
+- Harry có một cơn đau đầu dữ dội, thấy Voldemort tức giận và sợ hãi khi biết về việc họ đã lấy đi một Trường Sinh Linh Giá.
+- Voldemort đã giết những người đã mang thông tin về vụ đột nhập này.
+- Voldemort lo lắng về việc Harry biết các Trường Sinh Linh Giá khác và đi kiểm tra chúng.
+- Harry thức dậy và thông báo với Ron và Hermione về những gì đã xảy ra trong đầu Voldemort.
+- Họ quyết định phải đi đến Hogwarts để tìm Trường Sinh Linh Giá cuối cùng trước khi Voldemort kiểm tra nó.
+- Họ chui vào Áo khoác Tàng hình và chuẩn bị đi đến Hogsmeade.
+"""

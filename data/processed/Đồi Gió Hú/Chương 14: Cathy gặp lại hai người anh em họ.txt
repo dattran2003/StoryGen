@@ -1,0 +1,15 @@
+"""
+- Ba năm sau sống yên bình tại ấp Thrushcross, với việc không tổ chức lễ mừng sinh nhật Cathy vì nó cũng là ngày giỗ của mẹ cô.
+- Ngày sinh nhật thứ 16 của Cathy, cô và tôi (Ellen) đi dạo trên vùng đồng hoang theo sự cho phép của cha cô.
+- Trong chuyến đi, Cathy và tôi vô tình đi lạc vào lãnh thổ của ông Heathcliff.
+- Heathcliff phát hiện ra Cathy là con gái của Linton và mời cô đến nhà mình.
+- Dù tôi khuyên ngăn, Cathy vẫn quyết định theo Heathcliff và gặp Linton, con trai của Heathcliff.
+- Heathcliff tiết lộ kế hoạch muốn Cathy và Linton kết hôn để chia sẻ tài sản.
+- Cathy và Linton tái ngộ và họ trở nên thân thiết.
+- Heathcliff khuyên Cathy không nên tiết lộ việc cô đến nhà mình với cha cô.
+- Cathy bất tuân lời cha và tiếp tục viết thư cho Linton.
+- Tôi khám phá ra mối liên hệ bí mật giữa họ và chặn thư của Cathy.
+- Cathy khóc khi phát hiện thư của mình bị lấy đi.
+- Cuối cùng, tôi đồng ý không nói với cha cô về việc này nhưng yêu cầu cô phải hủy bỏ mọi thư từ.
+- Tôi gửi thư đến Heathcliff, khuyên ông dừng việc viết thư.
+"""

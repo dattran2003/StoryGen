@@ -1,0 +1,16 @@
+"""
+- Jem rơi nước mắt giận dữ sau phiên tòa, cảm thấy việc Tom Robinson bị kết tội là không công bằng.
+- Atticus, mặc dù trông bình tĩnh, cũng thừa nhận rằng tình hình không công bằng.
+- Bác Alexandra, mặc dù lo lắng, vẫn cố gắng an ủi Jem và Atticus.
+- Jem, trong lòng đầy nghi ngờ và đau khổ, thắc mắc vì sao Atticus không ngăn chặn được việc này.
+- Sáng hôm sau, Atticus giải thích rằng họ sẽ kháng án và mọi thứ sẽ tốt hơn.
+- Gia đình nhận được nhiều món quà từ cộng đồng, thể hiện sự tôn trọng và lòng biết ơn họ dành cho Atticus.
+- Dill chia sẻ phản ứng của cô Rachel về việc Atticus 'đâm đầu' vào cuộc chiến khó khăn này.
+- Jem khuyên Dill nên thông báo cho cô Rachel về những di chuyển của mình để tránh làm cô ấy lo lắng.
+- Jem, Dill và tôi nhận được lời mời từ cô Maudie để ăn bánh, và cô ấy cố gắng an ủi Jem.
+- Cô Maudie giải thích rằng Atticus đã làm việc mà ít người khác dám làm, và rằng những người như Atticus giúp hướng dẫn thị trấn trong những thời điểm khó khăn.
+- Cô Maudie nhắc nhở Jem về việc Thẩm phán Taylor đã chọn Atticus làm luật sư bào chữa cho Tom Robinson không phải ngẫu nhiên.
+- Cuối cùng, cô Maudie khẳng định rằng dù không thể thắng trong vụ án, nhưng Atticus đã gây ra ảnh hưởng đáng kể, khiến bồi thẩm đoàn phải họp kín lâu hơn so với những vụ án tương tự.
+- Dill bày tỏ ý định trở thành một 'anh hề mới', người cười nhạo mọi người.
+- Cô Stephanie, cô Rachel và ông Avery cảnh báo chúng tôi về mối đe dọa từ Boo Radley, người đã tấn công Atticus.
+"""

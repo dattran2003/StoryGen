@@ -1,0 +1,14 @@
+"""
+- Charlotte và Scarlett thuê phòng tại khách sạn Shelbourne tại Dublin cho ngày hội. Scarlett ấn tượng bởi sự vĩ đại và đồ sộ của nơi này.
+- Charlotte giải thích rằng họ sẽ chọn thời điểm để được mọi người chú ý.
+- Scarlett theo người giúp việc lên lầu đến phòng của mình, được mô tả giống như một hoàng hậu theo lời Charlotte.
+- Scarlett được giới thiệu với nhiều nhân vật quan trọng và được hướng dẫn về nghi lễ, cách hành xử.
+- Scarlett tham gia triều yết, trải qua cảm giác hồi hộp nhưng vẫn giữ được vẻ tự tin.
+- Scarlett nhận được thư mời từ Quan đại thần cho một sự kiện ngoại lệ - Vũ hội quốc gia.
+- Scarlett trở thành tâm điểm của mùa chơi, nhận được nhiều sự chú ý và thiệp mời.
+- Scarlett từ chối những món quà trang sức, khẳng định giá trị của việc trả lễ.
+- Cô được đề cao trong các bài báo và được nhiều người tìm gặp.
+- Scarlett tham dự dạ hội, gặp lại Rhett Butler và họ cùng nhảy múa.
+- Scarlett cảm nhận được sự thay đổi trong bản thân, trở thành một phụ nữ thanh thản, quyến rũ.
+- Scarlett thức giấc giữa đêm, bật khóc, suy nghĩ về Rhett và những "nếu như".
+"""

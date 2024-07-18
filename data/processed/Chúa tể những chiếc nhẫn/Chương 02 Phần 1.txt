@@ -1,0 +1,21 @@
+"""
+- Sự biến mất lần thứ hai của Bilbo Baggins tạo ra xôn xao khắp Hobbiton, trở thành câu chuyện kể bên bếp lửa và ông trở thành nhân vật trong truyền thuyết.
+- Ý kiến chung cho rằng Bilbo đã hoá điên và đã mất tích trong vùng Xanh, và trách nhiệm được đổ lên Gandalf.
+- Frodo tổ chức tiệc sinh nhật cho Bilbo mỗi năm, khẳng định rằng anh không nghĩ Bilbo đã chết.
+- Frodo bắt đầu gánh danh tiếng kỳ quặc của Bilbo, từ chối mặc đồ tang và giữ tập quán tổ chức tiệc sinh nhật cho Bilbo.
+- Frodo bắt đầu đi lang thang một mình, khám phá những vùng đất hoang dã, và thỉnh thoảng đi thăm người Elves như Bilbo.
+- Frodo giữ được vẻ ngoài tráng kiện và tràn đầy sinh lực, khiến mọi người cảm thấy kỳ quặc.
+- Frodo cảm thấy hối tiếc vì không đi cùng Bilbo, và bắt đầu mơ về việc vượt qua Sông.
+- Frodo bắt đầu cảm thấy mất ngủ khi anh sắp đến tuổi năm mươi, và anh thường gặp những người lùn lạ đang tìm chỗ trốn tránh.
+- Tin đồn về những sự kiện kỳ lạ đang xảy ra bên ngoài thế giới, và Frodo thu thập tất cả tin tức có thể.
+- Những người Elves rời khỏi Giữa Đất và không quan tâm đến những rắc rối của nó, trong khi những người lùn xuất hiện nhiều hơn trên con đường.
+- Frodo bắt đầu nghe về Kẻ Thù và Mordor, và những quyền lực ma quỷ ở Mirkwood.
+- Những tin tức về những sự kiện kỳ lạ lan rộng, và Frodo thấy những người lùn lạ đang tìm chỗ trốn tránh ở phía Tây.
+- Frodo bắt đầu gặp những người lùn lạ đang gặp rắc rối và nói về Kẻ Thù và Mordor.
+- Gandalf xuất hiện sau thời gian dài vắng mặt, và Frodo chào đón ông với niềm vui mừng.
+- Gandalf và Frodo thảo luận về những sự kiện kỳ lạ, và Frodo nghe về những nguy hiểm của chiếc nhẫn.
+- Gandalf giải thích rằng chiếc nhẫn có nhiều sức mạnh, và cuối cùng sẽ xâm chiếm bất kỳ ai sở hữu nó.
+- Frodo biết về những nguy hiểm của việc sử dụng chiếc nhẫn, và Gandalf giải thích về ảnh hưởng của nó lên Bilbo.
+- Gandalf nói rằng Bilbo đã cảm thấy khá hơn, và Frodo không cần phải lo lắng cho Bilbo.
+- Gandalf quan tâm đến Frodo và những người hobbit, và lo lắng về nguy cơ Quyền Lực Hắc Ám tràn ngập vùng Quận.
+"""

@@ -1,0 +1,17 @@
+"""
+- Ngày trôi qua bình thường, bà Hurst và cô Bingley dành thời gian buổi sáng để thăm Jane.
+- Buổi tối, mọi người tụ tập trong phòng khách. Darcy viết thư, bị cô Bingley làm phân tâm.
+- Ông Hurst và Bingley chơi bài, trong khi bà Hurst xem họ.
+- Elizabeth ngồi đan thêu nhưng quan sát cuộc trò chuyện giữa Darcy và cô Bingley.
+- Trong cuộc trò chuyện, cô Bingley liên tục khen ngợi Darcy và yêu cầu anh gửi lời chào đến cô Darcy, nhưng Darcy không đáp lại.
+- Bingley và Darcy trao đổi về cách viết thư và cách họ trình bày ý tưởng của mình.
+- Elizabeth góp ý rằng Bingley không công bằng với chính mình.
+- Darcy chia sẻ ý kiến về việc hấp tấp và việc lắng nghe bạn bè.
+- Sau cuộc trò chuyện, Darcy hoàn tất lá thư của mình và sau đó yêu cầu Elizabeth và cô Bingley chơi nhạc.
+- Trong khi chơi nhạc, Darcy nhìn Elizabeth, gây ra sự ghen tỵ của cô Bingley.
+- Darcy mời Elizabeth khiêu vũ, nhưng cô từ chối và trêu chọc anh.
+- Cô Bingley sau đó cố gắng khích lệ Darcy xem thường Elizabeth và gia đình cô.
+- Khi gặp Elizabeth và bà Hurst trong vườn, cô Bingley tỏ ra bối rối về những gì cô đã nói trước đó.
+- Darcy đề nghị mở rộng con đường để cả nhóm có thể đi chung, nhưng Elizabeth từ chối và chọn đi một mình.
+- Elizabeth hy vọng có thể trở về nhà sớm vì Jane đã dần hồi phục.
+"""

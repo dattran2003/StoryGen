@@ -1,0 +1,12 @@
+"""
+- Anh Collins không được yên để suy ngẫm về cuộc tình sắp thành của mình bởi sự xuất hiện của bà Bennet. Bà đã chứng kiến cuộc trò chuyện giữa Collins và Elizabeth và sau đó chúc mừng anh Collins với niềm vui.
+- Anh Collins tin rằng sự từ chối của Elizabeth chỉ là biểu hiện của sự khiêm tốn và bẽn lẽn, tuy nhiên, lời giải thích của anh khiến bà Bennet ngạc nhiên.
+- Bà Bennet cho rằng Elizabeth cần được thuyết phục và cô ấy sẽ nói chuyện trực tiếp với con gái mình.
+- Anh Collins bày tỏ sự e dè với việc ép buộc Elizabeth nếu cô ấy thực sự không muốn.
+- Bà Bennet đã thuyết phục chồng mình, ông Bennet, để thuyết phục Elizabeth chấp nhận lời cầu hôn. Tuy nhiên, ông Bennet không quan tâm và tỏ ra không muốn can thiệp.
+- Elizabeth từ chối lời cầu hôn của anh Collins và ông Bennet nói rằng cô sẽ trở thành người xa lạ với ông hoặc với mẹ nếu cô không thay đổi quyết định.
+- Anh Collins, sau khi bị từ chối, vẫn ở một mình suy nghĩ về tình hình, không hiểu được lý do tại sao Elizabeth từ chối anh.
+- Charlotte Lucas đến thăm nhà Bennet và Lydia chia sẻ với cô về sự kiện. Bà Bennet mong muốn Charlotte thuyết phục Elizabeth.
+- Elizabeth vẫn kiên trì với quyết định của mình, mặc cho những lời đe dọa từ mẹ và bà Bennet tiếp tục tỏ ra tức giận với cô.
+- Anh Collins sau cùng quyết định rút lại lời cầu hôn và xin lỗi với bà Bennet, cho rằng việc này không nên bị ép buộc.
+"""

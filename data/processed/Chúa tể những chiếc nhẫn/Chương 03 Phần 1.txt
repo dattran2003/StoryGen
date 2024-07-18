@@ -1,0 +1,10 @@
+"""
+- Gandalf khuyên Frodo nên rời đi sớm và lặng lẽ từ Bag End, nhưng Frodo muốn chờ đến mùa thu, vào hoặc sau Lễ Sinh Nhật.
+- Frodo quyết định rời đi vào dịp sinh nhật thứ năm mươi của mình, ngày mà cũng là sinh nhật thứ 128 của Bilbo.
+- Frodo mua một căn nhà nhỏ ở Crickhollow, Buckland, nơi ông sẽ dường như định cư vĩnh viễn, nhưng thực tế đây chỉ là một bước dừng chân.
+- Gandalf rời đi vào cuối tháng Sau, với mục đích thu thập tin tức ở biên giới phía nam và hứa hẹn sẽ trở lại trước buổi tiệc chia tay của Frodo.
+- Frodo bắt đầu lo lắng khi Gandalf không trở lại, nhưng vẫn tiếp tục với kế hoạch của mình, bán Bag End cho nhà Sackville-Bagginses và chuẩn bị cho cuộc hành trình.
+- Frodo, Pippin, Sam và Merry khởi hành vào buổi tối sinh nhật Frodo, đi bộ từ Hobbiton đến Bucklebury Ferry.
+- Frodo và nhóm dừng lại và cắm trại trên đỉnh một ngọn đồi, dưới chân một cây linh sam lớn.
+- Buổi sáng hôm sau, Frodo thức dậy đầu tiên và cảm thấy khó chịu vì ngủ trên rễ cây.
+"""

@@ -1,0 +1,17 @@
+"""
+- Harry thức dậy trong phòng khách và cảm thấy cô đơn, nhớ về cuộc sống bình thường chỉ sau 24 tiếng.
+- Harry nhớ về những món đồ Dumbledore để lại mà không giải thích và cảm thấy giận dữ, nghi ngờ tình yêu mà Dumbledore dành cho mình.
+- Harry khám phá căn phòng cũ của Sirius và tìm thấy bức ảnh cũ với cha mình, Sirius, Remus Lupin và Peter Pettigrew.
+- Harry tìm thấy một lá thư từ mẹ mình, Lily Potter, viết cho Sirius, nói về sinh nhật đầu tiên của Harry và thông tin về Dumbledore.
+- Harry muốn tìm hiểu thêm về Dumbledore từ Bathilda Bagshot, người mà mẹ anh quen biết.
+- Hermione và Ron tìm thấy Harry trong phòng cũ của Sirius và họ thảo luận về kế hoạch tiếp theo.
+- Họ phát hiện ra một phòng khác với tên của Regulus Arcturus Black, em của Sirius.
+- Họ tìm hiểu về Regulus, một Death Eater trước đây, và khả năng rằng anh ta có thể là R.A.B., người đã lấy đi một trong những Horcruxes của Voldemort.
+- Hermione gợi ý rằng Regulus có thể đã cố gắng chống lại Voldemort sau khi nhận ra lỗi lầm của mình.
+- Họ tìm kiếm trong phòng của Regulus nhưng không tìm thấy Horcrux.
+- Harry nhớ lại mặt dây chuyền mà Kreacher, gia tinh, đã lấy lại từ những thứ họ đã vứt đi.
+- Kreacher xác nhận anh ta đã có mặt dây chuyền nhưng nó đã bị Mundungus Fletcher đánh cắp.
+- Kreacher tiết lộ rằng Regulus đã tự hi sinh để thay thế Horcrux trong hang của Voldemort.
+- Harry, Hermione và Ron quyết định tìm Mundungus để lấy lại mặt dây chuyền.
+- Harry tặng Kreacher mặt dây chuyền giả và ra lệnh cho anh ta tìm Mundungus, Kreacher chấp nhận và rời đi.
+"""

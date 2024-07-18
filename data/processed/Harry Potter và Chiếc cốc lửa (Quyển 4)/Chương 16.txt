@@ -1,0 +1,19 @@
+"""
+- Ron kinh ngạc khi thấy Viktor Krum, cầu thủ Quidditch nổi tiếng, là học sinh của Durmstrang.
+- Hermione tỏ ra không quá ấn tượng với Krum, chỉ xem anh như một cầu thủ Quidditch.
+- Ron và Harry thảo luận về việc xin chữ ký của Krum.
+- Harry nhận thấy học sinh Durmstrang tỏ ra thích thú với Đại sảnh của Hogwarts.
+- Filch thêm vào 4 ghế tại dãy bàn giáo viên, khiến Harry và Ron thắc mắc.
+- Dumbledore chào mừng học sinh từ các trường khác và thông báo về cuộc thi đấu sắp diễn ra.
+- Ron bị cuốn hút bởi một học sinh nữ từ Beauxbatons, người mà Hermione gọi không phải Tiên nữ.
+- Ludo Bagman và Bartemius Crouch xuất hiện tại bữa tiệc.
+- Dumbledore giới thiệu Chiếc Cốc Lửa, sẽ chọn ra các quán quân cho cuộc thi đấu.
+- Dumbledore nhấn mạnh rằng việc đăng ký vào cuộc thi đấu là một cam kết nghiêm túc.
+- Fred và George Weasley thử dùng Độc dược Lão hóa để vượt qua "Lằn tuổi" nhưng thất bại.
+- Angelina Johnson từ Gryffindor đăng ký tham gia cuộc thi đấu.
+- Hermione đề nghị Hagrid tham gia H.V.Đ.C.Q.L.G.T., nhưng Hagrid từ chối.
+- Harry, Ron và Hermione gặp Hagrid và thảo luận về cuộc thi đấu.
+- Hagrid mặc đồ đẹp và dùng nước hoa, dường như để hẹn hò với Madame Maxime.
+- Viktor Krum, Fleur Delacour và Cedric Diggory được chọn làm quán quân.
+- Chiếc Cốc Lửa bất ngờ chọn ra Harry Potter làm quán quân thứ tư, bất chấp việc Harry chưa đủ tuổi. 
+"""

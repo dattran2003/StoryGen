@@ -1,0 +1,18 @@
+"""
+- Harry, Ron và Hermione gặp Draco Malfoy trong Đại Sảnh đường, nơi Malfoy đang giải trí cho nhóm Slytherin bằng cách nhại Harry.
+- Hermione khuyên tụi nó nên bỏ qua Malfoy, nhưng Pansy Parkinson từ Slytherin chọc ghẹo Harry, khiến cho tình hình trở nên căng thẳng.
+- Harry, Ron và Hermione nhận thời khóa biểu học kỳ mới từ George, và họ nhận ra rằng Hermione có lịch học quá tải.
+- Hermione khẳng định cô đã sắp xếp mọi thứ với giáo sư McGonagall, khiến Ron và Harry không thể hiểu làm thế nào cô có thể tham gia được nhiều lớp học cùng một lúc.
+- Hagrid xuất hiện, thông báo rằng anh sẽ dạy lớp học đầu tiên của mình sau bữa ăn trưa, khiến cho Harry, Ron và Hermione cảm thấy lo lắng.
+- Trong hành trình đến Tháp Bắc, Harry, Ron và Hermione gặp một hiệp sĩ trong bức tranh, ông này dẫn đường cho chúng đến lớp học.
+- Họ gặp giáo sư Trelawney, giáo viên dạy Tiên Tri, người đưa ra những tiên đoán gây lo lắng, đặc biệt là với Neville và Harry.
+- Trong lớp học, giáo sư Trelawney giải thích về môn Tiên Tri và yêu cầu học sinh chia thành cặp để bói lá trà.
+- Trong lúc bói lá trà, giáo sư Trelawney cảnh báo Harry về 'Hung tinh', một điềm báo tử thần, tạo ra một không khí căng thẳng.
+- Harry, Ron và Hermione rời lớp Tiên Tri với tâm trạng nặng nề và tiếp tục học lớp Biến của giáo sư McGonagall.
+- Giáo sư McGonagall giảm bớt nỗi lo lắng của họ bằng cách giải thích rằng tiên đoán của giáo sư Trelawney thường không chính xác.
+- Trong bữa trưa, Ron và Hermione cãi vã về ý nghĩa của 'Hung tinh' và Hermione rời đi tức giận.
+- Trong lớp Chăm sóc Sinh vật Huyền bí với Hagrid, học sinh được giới thiệu về Bằng Mã, những sinh vật nửa ngựa nửa đại bàng.
+- Harry là người đầu tiên tiếp cận và cưỡi một Bằng Mã, Buckbeak, trong khi Malfoy xúc phạm Buckbeak và bị thương do móng vuốt của nó.
+- Hagrid lo lắng về việc có thể mất công việc do vụ việc với Malfoy, nhưng Harry, Ron và Hermione đảm bảo rằng họ sẽ làm chứng cho ông.
+- Họ sau đó thăm Hagrid sau giờ học, nơi ông đang uống rượu và lo lắng về tình hình. Họ cố gắng làm ông yên tâm và sau đó trở về tòa lâu đài theo lệnh của Hagrid.
+"""

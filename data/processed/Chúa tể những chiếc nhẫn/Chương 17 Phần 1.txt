@@ -1,0 +1,13 @@
+"""
+- Đội Đồng Hành của Chiếc Nhẫn đứng yên lặng bên cạnh ngôi mộ của Balin, gợi nhớ về Bilbo và tình bạn lâu dài của ông với Balin.
+- Họ bắt đầu tìm kiếm thông tin về số phận của Balin và những gì đã xảy ra với người của ông.
+- Họ khám phá ra một cuốn sách đã bị hỏng, chứa lịch sử và sự kiện liên quan đến Balin và cuộc sống ở Moria.
+- Gandalf đọc cuốn sách, thu thập thông tin về những năm đầu tiên của Balin tại Moria, chiến thắng và mất mát, và sự chiếm đóng của Orcs.
+- Cuốn sách cũng tiết lộ rằng Balin đã ngã xuống tại Thung Lũng Dimrill, và sự chiếm đóng của Orcs đã trở nên mạnh mẽ.
+- Gandalf thông báo rằng họ biết vị trí của họ và kế hoạch thoát ra khỏi Moria.
+- Tuy nhiên, âm thanh từ bên dưới gợi ý rằng Orcs đang tiến gần, và họ đang bị mắc kẹt.
+- Gandalf và đội đồng hành cố gắng chặn cửa và chuẩn bị cho cuộc tấn công, nhưng Orcs đã xâm nhập.
+- Frodo đã cứu Boromir bằng cách dùng thanh Chích của mình, và đội đồng hành chống lại cuộc tấn công.
+- Gandalf ra lệnh cho mọi người chạy trốn, trong khi ông giữ lại để giữ cửa.
+- Frodo tuyên bố anh ta có thể đi, và đội đồng hành chạy xuống cầu thang, trong khi Gandalf vẫn ở lại trên cao, giữ cửa.
+"""

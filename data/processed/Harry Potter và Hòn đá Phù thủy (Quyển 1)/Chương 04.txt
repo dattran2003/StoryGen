@@ -1,0 +1,13 @@
+"""
+- Người bên ngoài đập cửa làm thức Dudley và ông Dursley xuất hiện với khẩu súng.
+- Một người khổng lồ, sau đó được biết là Rubeus Hagrid, phá cửa và bước vào.
+- Hagrid, người giữ khóa và gác sân ở Hogwarts, yêu cầu một tách trà sau chuyến đi dài.
+- Hagrid tặng Harry một bánh sô-cô-la lớn cho sinh nhật và tiết lộ mình từ Hogwarts.
+- Hagrid giải thích mình là người giữ khóa và gác sân ở Hogwarts và bắt đầu nấu ăn.
+- Trong lúc Hagrid chuẩn bị bữa ăn, ông Dursley cố gắng ngăn cản Harry biết về Hogwarts.
+- Hagrid tiết lộ với Harry rằng anh là một phù thủy và đã được chấp nhận vào Hogwarts.
+- Harry nhận lá thư từ Hogwarts và biết mình được mời tham gia khóa học bắt đầu vào ngày 1 tháng 9.
+- Ông Dursley phản đối việc Harry đi học tại Hogwarts nhưng Hagrid khẳng định Harry sẽ đi.
+- Hagrid kể cho Harry về quá khứ của mình và lý do vì sao anh bị đuổi học từ Hogwarts.
+- Cuối cùng, Hagrid cung cấp cho Harry một chiếc áo khoác để ngủ, trong đó có hai con chuột nhắt.
+"""

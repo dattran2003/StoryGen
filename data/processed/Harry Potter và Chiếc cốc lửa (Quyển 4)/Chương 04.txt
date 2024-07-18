@@ -1,0 +1,13 @@
+"""
+- Ngày hôm sau vào lúc 12 giờ, Harry đã đóng gói xong hành lý cho năm học mới tại Hogwarts, bao gồm áo khoác tàng hình, cây chổi Tia Chớp và bản đồ trường Hogwarts.
+- Harry dọn trống kho tàng thực phẩm bí mật, kiểm tra mọi xó xỉnh trong phòng để đảm bảo không bỏ sót bất kỳ cuốn sách thần chú hoặc cây viết lông ngỗng nào.
+- Trong khi đó, không khí tại nhà số 4 đường Privet Drive căng thẳng khi gia đình Dursley lo lắng về việc gia đình Weasley sẽ đến đón Harry vào lúc 5 giờ chiều.
+- Dượng Vernon yêu cầu Harry nhắc nhở gia đình Weasley ăn mặc "đúng cách", nhưng Harry nghi ngờ họ sẽ không tuân theo.
+- Trong buổi ăn trưa yên lặng, Dượng Vernon hỏi Harry về phương tiện gia đình Weasley sẽ sử dụng để đến đón Harry.
+- Harry nghĩ rằng họ sẽ dùng xe hơi, nhưng họ đến muộn, gây ra sự lo lắng.
+- Đến 5 giờ kém 15, gia đình Weasley cố gắng đến qua lò sưởi bằng bột Floo nhưng đã bị chặn bởi lò sưởi đã bị bịt kín.
+- Sau một loạt sự cố, họ đã phá vỡ lò sưởi, xuất hiện trước gia đình Dursley trong một đám mây bụi và gạch vụn.
+- Ông Weasley cố gắng giải thích và xin lỗi về sự cố, nhưng gia đình Dursley không hiểu và sợ hãi.
+- Harry và gia đình Weasley rời khỏi nhà Dursley, nhưng trước khi đi, Dursley ăn phải một viên kẹo làm sưng lưỡi, gây ra một cuộc hỗn loạn.
+- Trong sự hỗn loạn, Harry và gia đình Weasley rời đi bằng bột Floo, để lại ông Weasley cố gắng giải quyết tình huống với gia đình Dursley.
+"""

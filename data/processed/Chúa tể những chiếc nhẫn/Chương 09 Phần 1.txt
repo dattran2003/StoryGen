@@ -1,0 +1,12 @@
+"""
+- Bree là ngôi làng chính trong vùng Bree, một vùng đất nhỏ giữa những vùng đất hoang, bao gồm các ngôi làng Staddle, Combe và Archet.
+- Người dân Bree có tóc nâu, thân hình thấp, vui vẻ và độc lập, nhưng thân thiện với Hobbits, Người Lùn, Elves và cư dân khác.
+- Người dân Bree không biết rõ nguồn gốc của những người gọi là 'Ranger', người cao hơn họ và có khả năng đặc biệt.
+- Có nhiều gia đình Hobbit sống ở Bree, coi mình là những người Hobbit định cư lâu đời nhất.
+- Người dân Bree, lớn và nhỏ, tập trung vào công việc của mình và ít ra khỏi vùng đất của họ.
+- Quán trọ Bree, do Barliman Butterburr làm chủ, là nơi tụ tập của người dân và là nơi nghỉ ngơi của những người lang thang và du khách.
+- Frodo và nhóm của mình đến Bree vào ban đêm, gặp gỡ người giữ cổng nghi ngờ và cuối cùng đến quán Ngựa Lồng.
+- Frodo và nhóm của mình gặp Barliman, chủ quán, và nhận phòng để nghỉ ngơi.
+- Frodo, Pippin và Sam quyết định tham gia vào nhóm khách khác trong quán, trong khi Merry chọn ở lại một mình.
+- Frodo gặp một người lạ gọi là Strider, người cảnh báo Frodo về việc nên cẩn thận với những người lạ trong quán.
+"""

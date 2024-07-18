@@ -1,0 +1,12 @@
+"""
+- Scarlett trở về nhà, bị cuốn hút bởi mùi thịt gà rán và sau đó gặp ông ngoại, Pierre Robillard.
+- Pierre muốn gặp Scarlett ngay khi cô về nhưng cô quyết định ăn trước vì đói.
+- Scarlett và Pierre có cuộc cãi vã về việc tuân thủ giờ giấc và kỷ luật.
+- Scarlett thách thức ông ngoại và sau đó ông này tỏ ra tức giận nhưng cuối cùng cười và cho phép cô ăn.
+- Scarlett yêu cầu một bữa ăn thịnh soạn sau cuộc cãi vã.
+- Scarlett nói với các dì của mình về cuộc cãi vã và họ tỏ ra kinh ngạc nhưng đồng thời cũng cảm thấy hạnh phúc vì cô ở nhà.
+- Scarlett thông báo ý định thăm các bác và cô bên họ O'Hara.
+- Scarlett và Pansy có kế hoạch trở về Atlanta nhưng chưa rõ thời gian cụ thể.
+- Scarlett tìm lại mối liên hệ với gia đình O'Hara và gặp Jamie O'Hara, anh họ của cô.
+- Scarlett nhận lời tham dự bữa tiệc sinh nhật con gái Jamie.
+"""

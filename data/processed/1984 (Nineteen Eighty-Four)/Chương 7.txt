@@ -1,0 +1,17 @@
+"""
+- Winston đi trên con đường nhỏ trong rừng, tới điểm hẹn sớm hơn và anh không gặp rắc rối nào trong chuyến đi.
+- Anh gặp một gia đình đông người trên chuyến tàu, họ đang về quê và dự định bán bơ chợ đen.
+- Anh tới con đường mòn mà cô gái đã chỉ, nơi hoa huệ dại mọc rậm.
+- Anh gặp cô gái (sau này được biết tên là Julia), họ tìm tới một nơi kín đáo trong rừng để tránh bị theo dõi.
+- Julia chỉ cho Winston biết nơi họ đang ở là an toàn, không có máy ghi âm, và cô đã kiểm tra kỹ.
+- Họ nói chuyện, Winston tiết lộ những nỗi lo ngại về bản thân và tuổi tác, nhưng Julia khẳng định những điều đó không quan trọng.
+- Julia chia sẻ về việc cô giả vờ ủng hộ Đảng để đảm bảo an toàn.
+- Họ chia sẻ xúc cô la từ thị trường chợ đen và Winston nhớ lại một kỷ niệm mơ hồ.
+- Họ rời khu rừng, và Winston nhận ra cảnh quan xung quanh giống như giấc mơ mà anh thường thấy, gọi nó là 'Xứ Vàng'.
+- Họ dừng lại dưới bóng cây hạt dẻ, lắng nghe tiếng chim chích chòe hót.
+- Winston và Julia dành thời gian riêng tư, sau đó họ trở lại khu rừng thưa.
+- Julia tiết lộ rằng cô đã từng có nhiều mối quan hệ trước đây, chủ yếu với Đảng viên.
+- Winston bày tỏ niềm vui khi biết Julia không giữ sự tinh khiết và mong muốn mọi người đều hư hỏng, như một cách để làm yếu Đảng.
+- Họ trải qua một cuộc gặp gỡ thân mật và sau đó, họ ngủ một giấc ngắn.
+- Khi tỉnh dậy, Winston nhìn Julia và suy nghĩ về những thay đổi trong xã hội hiện đại so với quá khứ.
+"""

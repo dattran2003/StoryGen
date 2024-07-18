@@ -1,0 +1,12 @@
+"""
+- Scarlett quyết định thay đổi cuộc sống của mình, cô đặt mục tiêu và dồn sức để đạt được.
+- Cô dự định tạo ra một chiến lược khi tới Charleston để thuyết phục Rhett quay lại với mình.
+- Bà Marie và bác Henry Hamilton phản ứng trái ngược trước kế hoạch của Scarlett, nhưng cuối cùng họ hỗ trợ cô.
+- Scarlett đã vượt qua những khó khăn về sức khỏe và đã lấy lại vẻ ngoài tươi trẻ.
+- Scarlett rời Atlanta, cô tự khẳng định không để Atlanta đánh bại mình.
+- Scarlett gửi điện tín ngắn gọn cho các bà dì thông báo về chuyến thăm bằng tàu hỏa.
+- Cô gặp lại những ký ức đau thương khi nhìn thấy một người đàn ông trong quân phục Liên bang, nhưng quyết tâm không để nó làm ảnh hưởng đến kế hoạch.
+- Scarlett tới Charleston, gặp lại các bà dì và chuẩn bị gặp lại Rhett.
+- Cô gặp một số khó khăn và bất ngờ khi tới Charleston, bao gồm việc phải đối mặt với sự hiện diện của quân đội Liên bang.
+- Scarlett gặp lại mẹ của Rhett, bà Eleanor Butler, và nhận được sự đón tiếp nồng hậu.
+"""

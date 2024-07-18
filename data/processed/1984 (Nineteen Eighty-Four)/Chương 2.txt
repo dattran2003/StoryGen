@@ -1,0 +1,13 @@
+"""
+- Winston nhận ra anh đã để mở quyển nhật ký trên bàn với những dòng chữ ĐẢ ĐẢO BÁ ĐẢO BÁC được viết to.
+- Anh mở cửa và gặp bà Parsons, vợ một người láng giềng, đang cầu cứu vì bồn rửa bát trong bếp bị tắc.
+- Winston sửa chữa bồn rửa bát và nhận thấy căn nhà của gia đình Parsons lộn xộn và có mùi mồ hôi đặc trưng.
+- Parsons, chồng bà, là đồng nghiệp của Winston, được mô tả như một người mập mạp, nhiệt tình nhưng ngu xuẩn.
+- Cả hai con của bà Parsons, mặc trang phục của Đoàn Gián Điệp, bắt chước trò chơi bạo lực và gọi Winston là 'quân phản bội'.
+- Winston nhớ lại một giấc mơ trước đây, trong đó O'Brien, một người mà anh không chắc liệu anh ta là bạn hay thù, nói rằng "Chúng ta sẽ gặp nhau tại một nơi không có bóng tối."
+- Một tin tức từ máy truyền hình thông báo về một chiến thắng lớn của quân đội, nhưng cũng cảnh báo về việc giảm khẩu phần xúc cô la.
+- Winston cảm thấy cô đơn, bị lạc lõng trong thế giới của Anh Xã, và tự hỏi liệu có ai khác chia sẻ quan điểm của mình.
+- Anh nhận ra rằng, dù có thể bị phát hiện và tiêu diệt, việc viết nhật ký là cách duy nhất để anh giữ vững tinh thần và sự thật.
+- Winston nhận ra rằng tội tư tưởng không chỉ dẫn đến cái chết mà chính là cái chết.
+- Anh cố gắng che dấu dấu vết bằng cách cọ sạch mực trên tay và cất nhật ký vào ngăn kéo, đồng thời để một hạt bụi làm dấu.
+"""

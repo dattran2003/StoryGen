@@ -1,0 +1,14 @@
+"""
+- Ông cảm thấy sự hiện diện của 'Con Mắt' từ Ngọn Tháp Hắc Ám, nhận ra ông đang nhìn và cảm nhận sự cuồng nhiệt hoang dại đang tìm kiếm ông.
+- Frodo đang đấu tranh với bản thân, giữa việc giữ Chiếc Nhẫn và việc tháo nó ra.
+- Frodo nhận ra chính mình và quyết định tháo Chiếc Nhẫn ra, cảm thấy tự do và nhẹ nhõm.
+- Frodo quyết định rằng Chiếc Nhẫn cần phải rời khỏi Đội Đồng Hành để tránh tác hại và ông sẽ đi một mình.
+- Frodo gặp Boromir, sau đó ông biến mất và băng xuống ngọn đồi.
+- Các thành viên khác trong đội ngồi lại và thảo luận về Frodo và Chiếc Nhẫn, suy nghĩ về việc Frodo đã lựa chọn như thế nào.
+- Aragorn, Legolas, Gimli và Sam đều đồng ý rằng họ không thể rời Frodo, và họ sẽ đi theo ông.
+- Merry và Pippin tỏ ra lo lắng về việc Frodo định đi một mình và cố gắng ngăn cản ông.
+- Boromir gặp Frodo và sau đó Frodo biến mất, Boromir không thể tìm thấy ông.
+- Aragorn, Sam, Merry, Pippin, Legolas và Gimli đều cố gắng tìm Frodo.
+- Frodo đã lên thuyền, định đi một mình nhưng Sam đã theo kịp và cùng Frodo khởi hành, đánh dấu sự bắt đầu của chặng cuối của Nhiệm Vụ.
+- Frodo và Sam đã cập bờ và bắt đầu hành trình vào Lãnh Địa Bóng Tối, đánh dấu kết thúc phần đầu tiên của Cuộc Chiến Của Chiếc Nhẫn.
+"""

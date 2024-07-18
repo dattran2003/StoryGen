@@ -1,0 +1,13 @@
+"""
+- Thầy phù thủy bất ngờ thay đổi giọng nói, tạo ra một không khí đe dọa, khiến mọi người rùng mình và dừng lại.
+- Gandalf nói về lời nguyền trong ngôn ngữ cổ xưa, làm nổi bật sức mạnh của kẻ thù.
+- Elrond nhắc lại rằng không ai dám nói ngôn ngữ đó trong Imladris, và Gandalf đồng ý rằng không ai nên nói nó nữa.
+- Gandalf tiết lộ thông tin thu được từ Gollum, bao gồm việc hắn đã đến Mordor và tiết lộ thông tin về Chiếc Nhẫn.
+- Boromir thắc mắc về Gollum, và Aragorn giải thích rằng Gollum đang chịu đựng đau khổ lớn và bị tra tấn bởi Sauron.
+- Legolas thông báo rằng Gollum đã trốn thoát, gây lo lắng cho mọi người.
+- Legolas giải thích về cách mà Gollum trốn thoát và việc những Orc đã tấn công để giải cứu hắn.
+- Gandalf nhấn mạnh rằng không có thời gian để tìm Gollum trở lại, và rằng hắn có thể đóng một vai trò không thể lường trước.
+- Gandalf kể về cuộc gặp gỡ với Radagast, người cảnh báo về sự xuất hiện của Bộ Chín và mối nguy hiểm họ mang lại.
+- Gandalf quyết định tìm Saruman để tìm kiếm sự giúp đỡ, nhưng nhận ra rằng mình đã mắc một sai lầm lớn khi không trở lại Quận.
+- Gandalf kể về cuộc gặp gỡ với Saruman, trong đó Saruman đề xuất một liên minh với Quyền lực mới đang trỗi dậy.
+"""

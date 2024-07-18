@@ -1,0 +1,17 @@
+"""
+- Hai ngày sau khi ông Bennet trở về, Jane và Elizabeth gặp bà Hill, người thông báo rằng có thư khẩn từ ông Gardiner.
+- Thư này tiết lộ vị trí của Lydia và Wickham tại London.
+- Mr. Gardiner đề nghị một thỏa thuận hôn nhân giữa Lydia và Wickham, gồm một khoản thừa kế năm nghìn bảng sau khi cha mẹ Lydia qua đời, cùng với một trăm bảng mỗi năm khi cha cô còn sống.
+- Elizabeth và Jane hy vọng họ sẽ kết hôn, nhưng sau khi đọc thư, họ biết rằng họ chưa kết hôn.
+- Lydia và Wickham sẽ kết hôn nếu họ chấp thuận các điều kiện được đề xuất.
+- Elizabeth và Jane ngạc nhiên trước việc Wickham có chút ít tiền sau khi trả nợ.
+- Cha của họ, ông Bennet, chưa trả lời thư của Gardiner, nhưng ông sẽ làm điều đó.
+- Jane và Elizabeth thảo luận về việc liệu Wickham thực sự yêu Lydia hay không.
+- Họ cũng bàn về việc liệu Lydia có thể hiểu được lòng nhân từ của cậu mợ cô và bà mợ cô hay không.
+- Jane và Elizabeth nhận ra rằng mẹ họ, bà Bennet, vẫn chưa biết về thỏa thuận hôn nhân.
+- Họ đọc thư của Gardiner cho mẹ, bà vô cùng sung sướng và bắt đầu lên kế hoạch cho đám cưới.
+- Jane cố gắng nhắc nhở mẹ về lòng tốt của Gardiner và khả năng rằng ông đã hứa hỗ trợ tài chính cho Wickham.
+- Bà Bennet bắt đầu lên kế hoạch chi tiêu cho đám cưới, nhưng Jane thuyết phục bà đợi cho đến khi hỏi ý kiến cha.
+- Bà Bennet quyết định đi đến Meryton để chia sẻ tin mừng với gia đình và bạn bè.
+- Elizabeth trở về phòng mình để suy nghĩ về tình hình hiện tại và tương lai của Lydia.
+"""

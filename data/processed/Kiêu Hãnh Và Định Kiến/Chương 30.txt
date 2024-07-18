@@ -1,0 +1,16 @@
+"""
+- William chỉ lưu lại Huntsford trong một tuần, đủ thời gian để tin rằng con gái ông được an cư ổn thỏa.
+- Anh Collins dành thời gian đưa William tham quan đồng quê, sau khi William rời đi, gia đình trở lại cuộc sống bình thường.
+- Elizabeth vui mừng vì ít gặp anh Collins, người dành thời gian đọc sách và làm việc trong vườn.
+- Catherine băn khoăn về việc không tụ họp ở phòng ăn, nhưng sớm hiểu lý do khi nhận ra việc này giúp hạn chế sự xuất hiện của anh Collins.
+- Anh Collins thường xuyên thăm Rosings, trong khi vợ anh đôi khi không đi cùng.
+- Elizabeth hiểu việc anh Collins dành nhiều thời gian tại Rosings để tránh những sinh hoạt gia đình khác.
+- Phu nhân Rosings kiểm soát mọi hoạt động trong giáo xứ và giải quyết mọi vấn đề.
+- Họ được mời ăn tối tại Rosings hai lần mỗi tuần, nhưng sau khi William rời đi, những buổi tiệc không còn thú vị như trước.
+- Elizabeth cảm thấy thoải mái và tận hưởng thời gian ngoại vi tại Huntsford.
+- Một nhân vật mới, Darcy, sắp đến Rosings, tạo thêm đối tượng quan sát cho Elizabeth.
+- Cả khu vực biết về sự xuất hiện sắp tới của Darcy nhờ anh Collins.
+- Darcy đến Rosings cùng với Đại tá Fitzwilliam.
+- Đại tá Fitzwilliam chứng tỏ là người phong nhã, trong khi Darcy giữ sự trầm lặng.
+- Darcy hỏi về sức khỏe gia đình Elizabeth, cô hỏi lại về chị gái của mình nhưng Darcy đáp rằng chưa gặp.
+"""

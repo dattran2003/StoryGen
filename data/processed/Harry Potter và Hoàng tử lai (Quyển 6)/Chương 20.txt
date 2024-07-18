@@ -1,0 +1,21 @@
+"""
+- Harry và Ron rời khỏi bệnh thất, sức khỏe đã hoàn toàn hồi phục. Hermione đã hòa giải với Ron.
+- Hermione thông báo rằng Gin và Dean đã cãi nhau.
+- Harry, Ron và Hermione quan tâm đến nguyên nhân cãi vã giữa Gin và Dean.
+- Luna Lovegood mang cho Harry một lá thư từ giáo sư Dumbledore.
+- Luna được khen vì bình luận trận đấu Quidditch.
+- Ron nhận một vật lạ từ Luna, một loại rễ cây.
+- Lavender Brown tỏ ra giận dữ với Ron vì không thông báo rằng anh đã ra khỏi bệnh thất.
+- Hermione giúp Harry hoàn thành bài luận môn Dược thảo học.
+- Giáo sư Trelawney rời khỏi văn phòng của giáo sư Dumbledore, tức giận vì giáo sư Firenze vẫn còn dạy.
+- Dumbledore giải thích rằng giáo sư Trelawney không biết nguy hiểm nếu cô ra khỏi tòa lâu đài.
+- Dumbledore nhắc nhở Harry về việc lấy ký ức của thầy Slughorn.
+- Harry nhận ra rằng mình đã không tập trung vào nhiệm vụ này.
+- Dumbledore cảm thấy thất vọng vì Harry không hoàn thành nhiệm vụ.
+- Dumbledore muốn Harry lấy ký ức của thầy Slughorn để tiếp tục học.
+- Dumbledore cho Harry xem ký ức liên quan đến Chúa tể Voldemort.
+- Voldemort sau khi rời Hogwarts, đã làm việc tại tiệm Borgin và Burkes.
+- Dumbledore từ chối yêu cầu của Voldemort để trở lại dạy học tại Hogwarts.
+- Voldemort sau này trở lại Hogwarts để xin dạy học một lần nữa nhưng lại bị từ chối.
+- Voldemort tỏ ra tức giận và ra đi sau khi yêu cầu của mình bị từ chối.
+"""

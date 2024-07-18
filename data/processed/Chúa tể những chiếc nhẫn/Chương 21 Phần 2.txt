@@ -1,0 +1,20 @@
+"""
+- Aragorn dẫn Đội Đồng Hành ngược dòng sông, dừng lại tại một vịnh nhỏ và quyết định chờ đến bình minh.
+- Họ không dựng trại hay nhóm lửa, thay vào đó, họ neo thuyền lại sát nhau.
+- Gimli khen ngợi kỹ năng bắn cung của Legolas trong bóng tối.
+- Frodo và Boromir cảm nhận được một sự hiện diện lạnh lẽo, gợi nhớ về bóng tối của Moria và Balrog.
+- Aragorn cảnh báo mọi người rằng kẻ thù vẫn đang ẩn nấp và họ không được phép ngủ trong đêm.
+- Sam và Frodo nhận ra sự thay đổi kỳ lạ về thời gian, Mặt Trăng không di chuyển như bình thường.
+- Legolas giải thích rằng thời gian không chậm trễ, nhưng mỗi vùng đất có tốc độ phát triển riêng.
+- Frodo đề cập đến quyền lực của Công Nương Galadriel giữ thời gian tại Caras Galadhon.
+- Aragorn xác nhận rằng họ đã mất một tháng thời gian thực tế trong thế giới bên ngoài.
+- Đêm trôi qua yên tĩnh, không có dấu hiệu của kẻ thù.
+- Sương mù che phủ sông, nhưng cũng giúp họ tránh bị nhìn thấy.
+- Boromir đề nghị bỏ thuyền và đi bộ, nhưng Aragorn phản đối.
+- Aragorn và Legolas đi tìm đường, sau đó trở lại an toàn.
+- Họ quyết định vác thuyền đi bộ, vượt qua Sarn Gebir, và tiếp tục hành trình.
+- Họ vượt qua Argonath, 'Cây Cột của Vua', và Frodo cảm thấy nỗi sợ hãi.
+- Aragorn tự nhận mình là một vị vua trở về quê hương.
+- Họ tiếp tục hành trình qua một khe núi dài và tối, sau cùng ra đến vùng hồ Nen Hithoel.
+- Aragorn chỉ ra Tol Brandir và hai ngọn đồi Amon Lhaw và Amon Hen.
+"""

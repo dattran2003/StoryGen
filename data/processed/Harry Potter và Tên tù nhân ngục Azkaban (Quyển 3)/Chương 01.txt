@@ -1,0 +1,27 @@
+"""
+- Harry Potter, một cậu bé đặc biệt ghét mùa hè và yêu thích việc làm bài tập, điều mà cậu phải thực hiện trong bí mật. 
+
+- Cậu đang cố gắng viết một bài luận về việc thiêu sống phù thủy vào thế kỷ 14, dựa trên sách "Một Trang Sử Pháp Thuật" của Adabert Waffling.
+
+- Harry sống với gia đình Dursley, những người không có phép thuật và không thích Harry vì ba mẹ cậu là phù thủy và pháp sư.
+
+- Harry phải làm bài tập trong bí mật để tránh sự phát hiện của gia đình Dursley.
+
+- Một sự kiện bất thường khác là Harry đã trở thành một phù thủy.
+
+- Harry đã nhận được một cuộc gọi từ bạn thân Ron Weasley, khiến gia đình Dursley tức giận.
+
+- Harry cảm thấy cô đơn khi không nhận được liên lạc từ bạn bè trong suốt năm tuần lễ đầu tiên của kỳ nghỉ hè.
+
+- Harry đã nhận được món quà sinh nhật đầu tiên trong đời từ gia đình Weasley và bạn gái Hermione Granger.
+
+- Gia đình Weasley đã dành giải thưởng lớn từ cuộc xổ số hàng năm của Nhật báo Tiên Tri và họ đang đi nghỉ ở Ai Cập.
+
+- Ron đã gửi cho Harry một ống kính Mách lẻo bỏ túi, còn Hermione tặng Harry bộ đồ lễ bảo quản chổi thần.
+
+- Hagrid đã gửi cho Harry một cuốn sách kỳ lạ "Quái Thư Về Quái Vật", cuốn sách này có khả năng di chuyển và cắn.
+
+- Harry đã nhận được thư từ trường Hogwarts thông báo về việc bắt đầu năm học mới và việc học sinh năm thứ ba có thể thăm làng Hogsmeade.
+
+- Harry lo lắng về việc làm sao để gia đình Dursley ký vào giấy phép cho phép cậu đến làng Hogsmeade.
+"""

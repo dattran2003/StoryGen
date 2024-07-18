@@ -1,0 +1,18 @@
+"""
+- Scarlett cảm thấy bồn chồn khi mùa đông đến gần, lo ngại về việc xây dựng nhà cửa bị ảnh hưởng bởi thời tiết.
+- Joe Colleton đã đào tầng hầm nhưng việc đổ xi măng bị cản trở do mưa.
+- Scarlett lo ngại về việc mua gỗ trước khi sẵn sàng xây tường, sợ rằng ông Wilkes sẽ nghi ngờ.
+- Scarlett tự hỏi tại sao mình lại dám đầu tư vào thời điểm kinh tế khó khăn.
+- Scarlett cảm thấy cô đơn vào ban đêm, khi cô phải đối mặt với những suy nghĩ của mình.
+- Scarlett mong muốn sự hiện diện của con cái và bạn bè, nhưng họ đều vắng mặt vì những lý do khác nhau.
+- Scarlett mua nhiều quà để ăn mừng khi thời tiết chuyển biến, cho phép công trình xây dựng tiếp tục.
+- Scarlett mua quà cho mọi người trong dịp Giáng sinh, từ con cái, chị em đến cả những người làm việc cho cô.
+- Scarlett quyết định không tặng quà cho Beau và không dám gửi dao cắt xì gà bằng vàng cho Rhett.
+- Scarlett tự trang trí nhà cửa cho Giáng sinh, hy vọng Rhett sẽ trở về.
+- Scarlett nghe về buổi dạ hội hoá trang và quyết định tham gia bằng cách mua vé thông qua việc tham gia đoàn xe diễu hành.
+- Scarlett chọn trang phục và nữ trang cho dạ hội, quyết định hoá trang thành một con đầm.
+- Scarlett tham gia vào cuộc diễu hành Carnaval, chứng kiến nhiều cảnh tượng đáng nhớ.
+- Scarlett tham dự dạ hội hoá trang, gặp gỡ nhiều người và tận hưởng niềm vui.
+- Scarlett gặp lại Rhett tại dạ hội, dù anh hoá trang thành cướp biển và cả hai khiêu vũ cùng nhau.
+- Scarlett cảm thấy bối rối và buồn khi Rhett rời đi sau buổi dạ hội, không rõ ý định của anh.
+"""

@@ -1,0 +1,13 @@
+"""
+- Elizabeth thức dậy với tâm trạng đầy suy tư, cô không thể tập trung vào bất kỳ việc gì và quyết định đi dạo để lấy lại tinh thần.
+- Trong lúc đi dạo, Elizabeth gặp Darcy, người đưa cho cô một lá thư.
+- Mặc dù ban đầu muốn tránh Darcy, nhưng sau khi nghe tên mình được gọi, Elizabeth quay lại và nhận lá thư từ anh.
+- Darcy giải thích rằng anh đã đi dạo với hy vọng gặp cô và yêu cầu cô đọc thư.
+- Sau khi Darcy rời đi, Elizabeth mở lá thư và bắt đầu đọc.
+- Trong thư, Darcy giải thích rằng anh không viết thư để cầu xin thêm lần nữa, mà để giải thích về hành vi của mình.
+- Anh nói rằng Elizabeth đã kết án anh với hai tội danh: ngăn cách anh Bingley khỏi Jane và hủy hoại sự sung túc tức thời và triển vọng của Wickham.
+- Darcy giải thích rằng anh tin rằng Jane không yêu Bingley như anh ấy tin tưởng, dựa trên quan sát của anh.
+- Anh cũng giải thích về mối quan hệ phức tạp giữa anh và Wickham, bao gồm việc cha anh đã hỗ trợ Wickham, và sau đó Wickham đã lừa dối Georgiana, em gái của Darcy.
+- Darcy khẳng định rằng anh đã cố gắng bảo vệ bạn bè và gia đình mình khỏi những hành động của Wickham.
+- Anh kết thúc thư bằng lời cầu nguyện cho phúc lành cho Elizabeth.
+"""

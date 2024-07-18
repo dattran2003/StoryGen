@@ -1,0 +1,22 @@
+"""
+- Trong bóng tối, người kể chuyện thấy Ackley thức trên giường nhờ ánh sáng từ phòng bên.
+- Anh gọi Ackley và Ackley xác nhận rằng anh chưa ngủ.
+- Người kể chuyện vấp phải một chiếc giường trong bóng tối.
+- Ackley đứng dậy, mặt đầy kem chống mụn, tạo ra hình ảnh ma mị trong bóng tối.
+- Người kể chuyện hỏi Ackley đang làm gì và Ackley tỏ ra bực bội vì tiếng ồn từ người kể chuyện và Stradlater.
+- Người kể chuyện tìm công tắc đèn, cuối cùng tìm thấy và bật lên, làm Ackley phải che mắt.
+- Ackley nhận ra người kể chuyện đầy máu và hỏi lý do, người kể chuyện giải thích rằng anh bị thương trong cuộc chiến với Stradlater.
+- Người kể chuyện đề nghị chơi canasta, nhưng Ackley từ chối vì anh muốn đi ngủ sớm.
+- Người kể chuyện đề nghị ngủ trên giường của Ely, Ackley tỏ ra không thoải mái với điều này.
+- Người kể chuyện giải thích lý do anh đánh nhau với Stradlater là vì Ackley, điều này làm Ackley sửng sốt.
+- Người kể chuyện tỏ ra buồn và thất vọng với mọi thứ đang xảy ra.
+- Ackley hỏi lý do họ đánh nhau và người kể chuyện nói rằng anh đã bảo vệ Ackley trước Stradlater.
+- Người kể chuyện chỉ trích mùi hôi trong phòng và Ackley phản ứng giận dữ.
+- Người kể chuyện nằm trên giường Ely, suy nghĩ về Jane và những sự kiện vừa qua.
+- Người kể chuyện yêu cầu Ackley kể về mình, nhưng Ackley muốn tắt đèn và đi ngủ sớm.
+- Người kể chuyện quyết định ngủ lại trên giường Ely, nhưng Ackley không hài lòng với điều này.
+- Người kể chuyện quyết định rời khỏi Pencey ngay lập tức, không chờ đến thứ Tư.
+- Anh thu xếp đồ đạc, chuẩn bị rời đi và cảm thấy buồn khi phải để lại đôi giày trượt tuyết mà mẹ vừa tặng.
+- Người kể chuyện kiểm tra lại tiền bạc và thu hồi lại máy đánh chữ từ Frederick Woodroff.
+- Trước khi rời đi, người kể chuyện nhìn lại hành lang và gào lên một lời chia tay đầy xúc cảm.
+"""

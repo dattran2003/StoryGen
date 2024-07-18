@@ -1,0 +1,11 @@
+"""
+- Bố Atticus, gần năm mươi tuổi, không thể tham gia vào các hoạt động thể thao như các bố khác vì lý do tuổi tác.
+- Jem, anh trai của tôi, rất mê bóng bầu dục nhưng Atticus thường từ chối chơi với anh ấy vì lý do tuổi tác.
+- Atticus không làm những việc mà các bố khác làm như đi săn, câu cá hay uống rượu.
+- Atticus không dạy chúng tôi cách bắn súng, thay vào đó, chú Jack là người dạy chúng tôi.
+- Atticus khuyên chúng tôi không nên giết chim nhại vì điều đó là tội lỗi.
+- Atticus, dù già, vẫn không bị chìm khuất như chúng tôi mong đợi, ông là luật sư biện hộ cho Tom Robinson.
+- Atticus có những kỹ năng và sở thích riêng như chơi cờ, chơi thụ cầm Do Thái và viết di chúc.
+- Atticus đã bắn chết một con chó điên, Tim Johnson, cứu cả khu phố. Đây là lần đầu tiên chúng tôi chứng kiến khả năng bắn súng tuyệt vời của ông.
+- Sau sự kiện đó, Jem và tôi nhận ra rằng Atticus không chỉ là một người già yếu mà còn là một người đàn ông quý phái, một quý ông.
+"""

@@ -1,0 +1,27 @@
+"""
+- Rhett Butler chế giễu bộ dạng của Scarlett, mặc dù cô đã cố gắng phối hợp trang phục của mình.
+- Scarlett mặc một bộ trang phục thành thị, đi kèm với một chiếc mũ rơm và một chiếc ô lụa màu xanh.
+- Rhett, mặc quần cũ và áo sơ mi nhàu, nhận xét về trang phục của Scarlett.
+- Scarlett thách thức Rhett và yêu cầu anh thực hiện lời hứa hẹn đi chơi.
+- Scarlett nghi ngờ kế hoạch của Rhett khi anh cười một cách mập mờ.
+- Scarlett và Rhett lên thuyền, và cô ngạc nhiên vì nó nhỏ hơn so với tưởng tượng.
+- Rhett giải thích về thủy triều và lý do phải khởi hành sớm.
+- Scarlett suýt té nhưng được Rhett đỡ.
+- Rhett chuẩn bị một đôi giày vải để giúp Scarlett trên thang trơn.
+- Scarlett cảm thấy an tâm khi Rhett đỡ cô lên thuyền.
+- Rhett kiểm tra dây thừng và buồm, chuẩn bị khởi hành.
+- Scarlett ngồi ở đuôi thuyền trong khi Rhett điều khiển.
+- Scarlett thấy hạnh phúc khi thuyền ra khơi, mặc dù quần áo bị ướt.
+- Scarlett cảm nhận sự tự do và hạnh phúc khi thuyền vượt sóng.
+- Rhett giúp Scarlett mặc áo len để tránh lạnh.
+- Gió làm rối tóc Scarlett, nhưng cô thấy mình đẹp hơn bao giờ hết.
+- Scarlett và Rhett thưởng thức cảnh cá heo chơi đùa.
+- Họ gặp cơn bão, nhưng Rhett bình tĩnh hướng dẫn Scarlett cách đối phó.
+- Thuyền bị lật, và cả hai phải lặn xuống dưới vỏ thuyền.
+- Scarlett và Rhett phải đối mặt với lạnh giá và nguy hiểm trong bão.
+- Rhett giúp Scarlett giữ ấm và động viên cô.
+- Họ tìm thấy túi của Rhett và rượu rhum, giúp họ ấm lên.
+- Scarlett và Rhett hát để giữ tinh thần.
+- Rhett cuối cùng đưa Scarlett an toàn lên bờ sau cơn bão.
+- Scarlett và Rhett có những giây phút thân mật sau khi thoát khỏi nguy hiểm.
+"""

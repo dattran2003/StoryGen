@@ -1,0 +1,22 @@
+"""
+- Scarlett bước xuống tàu La Toison d'or tại Ireland, gặp Colum, người đón cô và giúp cô qua hải quan.
+- Scarlett và Colum mất gần một giờ để đi từ cảng đến ga tàu do tắc đường do các cuộc đua ở Galway.
+- Scarlett và Colum đi xe lửa buổi chiều đến Balhmasloe vì không thể tìm thấy chỗ ở tại Galway.
+- Scarlett tiếc vì không có chuyến tàu trực tiếp về Mullingar, cô muốn trở về nhà.
+- Scarlett hỏi Colum về tình hình đồng ruộng và vụ mùa.
+- Scarlett choáng ngợp trước sự chào đón nồng hậu từ người dân Ballyhara.
+- Scarlett gặp bà Fitzpatrick và những người khác tại Toà nhà lớn, cô chơi đùa cùng con gái nhỏ Cat.
+- Scarlett tận hưởng không gian tự do sau thời gian dài ngồi yên tại nơi làm việc và trên tàu.
+- Scarlett và Cat xây nhà trong đống rơm, chơi đùa và cười đùa.
+- Scarlett gặp Kathleen và nhận nhiều bức điện từ Savannah.
+- Scarlett gặp sự bất hòa từ Seamus và Pegeen do không tham dự đám cưới của họ.
+- Scarlett cố gắng hòa giải nhưng gặp sự cộc cằn từ Pegeen.
+- Scarlett giải quyết vấn đề về tiền thuê đất và việc ở nhà của Seamus và Pegeen.
+- Kathleen thông báo việc sắp cưới Kevin O'Connor.
+- Scarlett tổ chức đám cưới cho Kathleen nhưng không thể tổ chức tại Toà nhà lớn.
+- Scarlett cảm thấy nhớ nhà và đau lòng khi không thể trở lại ngôi nhà tranh do Pegeen.
+- Scarlett tránh nghĩ về việc tái giá như Colum gợi ý.
+- Scarlett lo lắng khi con gái Cat ít nói, nhưng cuối cùng bé nói "Mama".
+- Scarlett tham gia vào ngày hội mùa, vui mừng với một vụ mùa bội thu.
+- Scarlett đối mặt với sự xuất hiện của đội cảnh sát, cuối cùng giải quyết tình huống bằng sự thông minh và duyên dáng của mình.
+"""

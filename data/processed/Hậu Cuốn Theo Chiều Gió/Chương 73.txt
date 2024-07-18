@@ -1,0 +1,17 @@
+"""
+- Cat muốn đi chơi nhưng bị từ chối, điều này gây tổn thương cho Scarlett.
+- Scarlett lo lắng về mối nguy hại tiềm ẩn đối với Cat và quyết định chuẩn bị cho một cuộc săn.
+- Bà Fitzpatrick giúp Scarlett chuẩn bị quần áo và giầy cho cuộc săn.
+- Scarlett cưỡi con ngựa hồng Bán Nguyệt, giống ngựa Hung, chuẩn bị cho cuộc săn tại Dunsany.
+- Scarlett cảm thấy lo lắng về việc cưỡi ngựa theo kiểu phụ nữ, nhưng quyết tâm không để Rhett thấy mình yếu đuối.
+- Scarlett tham gia cuộc săn, ban đầu cảm thấy sợ hãi nhưng sau đó thích thú và mạo hiểm.
+- Scarlett vượt qua mọi khó khăn, thậm chí vượt qua Rhett, và tận hưởng niềm vui của cuộc săn.
+- Scarlett được Sir John Morland hoan nghênh và tặng chân con chồn như một chiến lợi phẩm.
+- Scarlett gặp Rhett, người đã cố gắng làm cho Scarlett trở thành trò cười, nhưng Scarlett quyết tâm không để mình bị chế nhạo.
+- Scarlett tham gia một buổi tiệc sau cuộc săn, nơi cô nhận được sự ngưỡng mộ và gặp lại Rhett.
+- Scarlett trở về Drogheda và đưa Cat đến Tara, nơi cô chia sẻ với con về gia đình và gốc gác Ireland.
+- Scarlett tìm hiểu về dòng họ Butler tại Ireland và mối liên kết của họ với Rhett.
+- Scarlett gặp lại Sir John Morland, người tặng cô chân con chồn và bày tỏ sự ngưỡng mộ về chuồng ngựa của cô.
+- Scarlett và Sir John Morland thảo luận về Rhett và những tin đồn xoay quanh anh.
+- Scarlett nhận lời mời dự buổi tiếp tân của Alice Harrington, một người phụ nữ mà cô gặp trong cuộc săn.
+"""

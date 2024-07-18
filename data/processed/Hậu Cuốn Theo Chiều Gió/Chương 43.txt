@@ -1,0 +1,16 @@
+"""
+- Scarlett an ủi Pansy trước khi cô bé lên tàu đi Atlanta một mình, đồng thời đã chuẩn bị mọi thứ cần thiết cho chuyến đi.
+- Pansy lo lắng vì chưa từng đi tàu một mình và không biết phải làm gì mà không có Scarlett.
+- Scarlett không chắc ngày trở về và việc này phụ thuộc vào Rhett.
+- Scarlett cảm ơn Maureen vì đã đón nhận cô tại nhà và dù ban đầu cô cảm thấy không thoải mái với sự ồn ào của gia đình O'Hara.
+- Maureen an ủi Scarlett và cho cô biết cô sẽ thích cuộc sống ở đây.
+- Scarlett chuyển đến sống với gia đình O'Hara, cô ở trong phòng của Daniel và Brian trên tầng hai.
+- Scarlett thích nghi với cuộc sống mới và trở thành một phần của gia đình O'Hara.
+- Scarlett tham gia các hoạt động hàng ngày của gia đình, như đi chợ, nấu ăn, trò chuyện.
+- Buổi tối, gia đình thường tụ tập tại nhà Matt để nghe nhạc, do Colum dẫn dắt.
+- Scarlett bị cuốn hút bởi tài năng chơi nhạc cụ của Colum và cảm thấy anh ấy có sức mạnh ma thuật.
+- Colum chuẩn bị cho một bài phát biểu tại cuộc họp của những người Ireland tình nguyện, không cho phép phụ nữ tham dự.
+- Scarlett giúp Maureen chuẩn bị món cháo sò huyết cho Colum, mặc dù đang trong mùa chay.
+- Colum và Scarlett đều ăn món cháo mặc dù đang trong mùa chay, vì gia đình O'Hara được miễn chay do những khó khăn trong quá khứ.
+- Scarlett và Maureen chia sẻ với nhau những kỷ niệm đau buồn về thời kỳ đói kém ở Ireland và Tara sau cuộc chiến.
+"""

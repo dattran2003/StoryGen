@@ -1,0 +1,18 @@
+"""
+- Hai chàng trai rời Rosings, anh Collins sau đó thông báo họ vẫn khỏe mạnh và tinh thần tốt. Anh Collins đi đến Rosings để an ủi Phu nhân Catherine và con gái bà.
+- Elizabeth suy nghĩ về việc bà Catherine có thể xem cô như con dâu tương lai và cảm thấy buồn cười với những phản ứng tiềm năng của bà.
+- Phu nhân Catherine tỏ ra buồn bã vì sự ra đi của hai chàng trai và nói về mối liên kết mạnh mẽ của họ với Rosings.
+- Anh Collins ca tụng và làm cho bà mẹ và cô con gái mỉm cười.
+- Phu nhân Catherine mời Elizabeth ở lại lâu hơn, nhưng Elizabeth từ chối vì phải trở về vào thứ bảy.
+- Bà Catherine cố gắng thuyết phục Elizabeth ở lại thêm hai tuần, nhưng Elizabeth nói rằng cha cô không cho phép.
+- Bà Catherine đề nghị đưa Elizabeth đến London, nhưng Elizabeth kiên trì với kế hoạch đã định.
+- Bà Catherine nhấn mạnh rằng hai cô gái không nên đi một mình và yêu cầu bà Collins phái một người hầu đi cùng.
+- Elizabeth nói rằng cậu cô sẽ gửi một người hầu đón họ.
+- Phu nhân Catherine hỏi chi tiết về chuyến đi của Elizabeth và gợi ý những nơi họ nên thay đổi ngựa.
+- Elizabeth suy nghĩ về lá thư của Darcy, cảm xúc của cô thay đổi tùy theo từng thời điểm.
+- Elizabeth cảm thấy bực mình và tiếc nuối về hành vi của mình trong quá khứ, và lo lắng về sự thiếu giáo dục của các em gái mình.
+- Elizabeth lo lắng cho Jane sau khi biết rõ hơn về tình cảm chân thành của Bingley.
+- Elizabeth cũng cảm thấy buồn bã khi nhớ lại Wickham.
+- Trong tuần cuối cùng, họ tiếp tục thăm Rosings, và Phu nhân Catherine đưa ra nhiều chỉ thị về việc sắp xếp hành lý.
+- Khi họ rời đi, Phu nhân Catherine chào họ và hy vọng họ sẽ quay lại Huntsford vào năm sau.
+"""

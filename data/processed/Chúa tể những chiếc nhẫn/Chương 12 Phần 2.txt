@@ -1,0 +1,14 @@
+"""
+- Merry bày tỏ lo lắng về tình trạng sức khỏe của Frodo và nghi vấn về khả năng chữa trị tại Rivendel.
+- Người Sải Bước đồng ý rằng họ không thể đi xa hơn và xác nhận rằng Frodo đã bị vũ khí độc hại của Kẻ Thù tấn công.
+- Frodo nằm mơ mộng, tưởng tượng về những kẻ săn lùng mình.
+- Trong đêm lạnh, họ nhóm lửa và cố gắng giữ ấm.
+- Sáng sớm, họ cảm thấy tinh thần phấn chấn hơn nhờ ánh sáng mặt trời.
+- Người Sải Bước và Merry đi khám phá vùng đất phía đông, tìm ra họ đang đi đúng hướng.
+- Họ quyết định quay lại Con Đường, mặc dù nó đầy nguy hiểm, nhưng đó là con đường duy nhất đến Khúc Cạn.
+- Frodo cảm thấy khá hơn nhưng vẫn còn dấu hiệu của bệnh tật.
+- Pippin phát hiện ra một con đường mới, dẫn họ đến một hang động cũ kỹ của quỷ khổng lồ.
+- Họ quyết định tiếp tục đi xuống, dù lo lắng về những nguy hiểm có thể ẩn nấp trong rừng.
+- Họ phát hiện ra những quỷ khổng lồ hóa đá, khiến họ hồi tưởng lại lịch sử và cung cấp một chút niềm vui và tinh thần lạc quan.
+- Merry đề nghị ai đó hát, và Sam chia sẻ một bài thơ hài hước về một quỷ khổng lồ, kết thúc phần này của câu chuyện với tiếng cười.
+"""

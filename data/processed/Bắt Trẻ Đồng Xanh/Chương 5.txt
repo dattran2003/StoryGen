@@ -1,0 +1,12 @@
+"""
+- Mỗi thứ bảy, chúng tôi được phục vụ cùng một thực đơn kể từ ngày đầu tiên tới Pencey, bao gồm bít tết, một phần bị đánh giá cao chỉ vì sự xuất hiện của phụ huynh vào Chủ nhật và chất lượng thực sự của nó không tốt.
+- Sau bữa ăn, chúng tôi ra ngoài dạo chơi trong tiết trời tuyệt đẹp với tuyết rơi nhẹ. Chúng tôi chơi trò ném tuyết, dù đó là trò trẻ con nhưng rất vui.
+- Tôi rủ Mal Brossard, bạn cùng đội đấu kiếm, rời khỏi trường vào buổi tối thứ bảy để ăn và xem phim. Chúng tôi cũng mời Ackley, mặc dù Mal không thích nó lắm.
+- Ackley cuối cùng cũng quyết định đi cùng sau khi biết Mal Brossard cũng đi. Trong khi chờ Ackley chuẩn bị, tôi chơi với tuyết nhưng cuối cùng không ném nó đi.
+- Trên đường đi, người bán vé yêu cầu tôi vứt cục tuyết đi nhưng tôi giải thích tôi không định ném nó vào ai.
+- Sau khi ăn, cả nhóm quyết định chơi máy tự động thay vì xem phim. Tôi không tiếc vì tôi nghĩ phim đó chỉ là một bộ hài kịch không đáng xem.
+- Khi trở về ký túc xá, Brossard đi chơi bridge trong khi Ackley lại tới phòng tôi. Ackley kể về một cô gái mà anh ta "quen" từ mùa hè trước, nhưng tôi không tin vào những câu chuyện đó.
+- Tôi cố gắng tập trung viết bài luận cho Stradlater nhưng Ackley làm phiền tôi. Cuối cùng, tôi phải yêu cầu Ackley ra khỏi phòng để tôi có thể tập trung.
+- Tôi viết bài luận về chiếc găng tay bóng chày của em trai tôi, Allie, thay vì mô tả một ngôi nhà như yêu cầu. Allie đã mất do bệnh máu trắng và tôi đã nhớ về anh ấy, một người rất thông minh và dễ thương.
+- Tôi hoàn thành bài luận và sau đó ngồi ngắm cảnh tuyết rơi ngoài cửa sổ. Mặc dù Ackley gây ra nhiều tiếng ồn, tôi vẫn cảm thấy chút lòng thương cho anh ta vì những vấn đề sức khỏe của anh ta.
+"""

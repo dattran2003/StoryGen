@@ -1,0 +1,18 @@
+"""
+- Harry thức dậy vào sáng chủ nhật, nhớ lại sự kiện đêm trước và nhận ra Ron đã xuống ăn sáng.
+- Harry tránh gặp mọi người trong Gryffindor vì sợ bị đối xử như anh hùng.
+- Hermione mang cho Harry bữa sáng và đề nghị đi dạo.
+- Harry kể cho Hermione nghe sự kiện đêm qua, Hermione tin vào Harry và họ thảo luận về ai đã đăng ký cho Harry tham gia cuộc thi.
+- Ron ganh tỵ với Harry, điều này làm phức tạp mối quan hệ của họ.
+- Hermione khuyên Harry viết thư cho Sirius để thông báo sự kiện, nhưng Harry lo ngại Sirius sẽ trở lại.
+- Harry và Hermione gặp khó khăn trong việc tìm cú để gửi thư.
+- Harry viết thư cho Sirius, nói về việc mình trở thành quán quân thứ tư trong cuộc Thi đấu Tam Pháp thuật.
+- Hedwig, con cú của Harry, phản ứng tiêu cực khi Harry dùng cú trường để gửi thư.
+- Harry gặp nhiều vấn đề khi trở lại trường, bao gồm cả việc bị bạn bè và giáo viên xa lánh.
+- Harry cảm thấy cô đơn và bị cô lập, điều này làm tăng thêm áp lực.
+- Harry gặp khó khăn trong việc thực hành Bùa Triệu tập.
+- Harry và Malfoy có cuộc đụng độ, kết quả là Hermione bị ảnh hưởng bởi một phép thuật.
+- Harry bị phạt và phải chịu thêm áp lực từ thầy Snape.
+- Harry được gọi lên để tham gia buổi cân đũa phép, nơi mà đũa phép của các quán quân được kiểm tra.
+- Rita Skeeter, một phóng viên, cố gắng phỏng vấn Harry và viết một bài báo về cuộc thi.
+"""

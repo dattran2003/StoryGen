@@ -1,0 +1,12 @@
+"""
+- Frodo thức dậy sớm, cảm thấy hồi phục sức khỏe và tận hưởng khung cảnh tuyệt đẹp của thung lũng.
+- Frodo và Sam gặp Gandalf và Bilbo, chuẩn bị cho Hội Đồng Elrond.
+- Một chuông lớn báo hiệu bắt đầu hội đồng.
+- Frodo, Bilbo và Sam tham dự Hội Đồng Elrond, gặp nhiều nhân vật khác như Glorfindel, Gluin, Người Sải Bước (Aragorn), Boromir và nhiều người khác.
+- Elrond giới thiệu Frodo cho mọi người và bắt đầu hội đồng.
+- Gluin kể về những sự kiện xảy ra ở Người Lùn, kể về việc Balin đã đi đến Moria và mất liên lạc, và về cuộc gặp gỡ với một người đại diện cho Sauron, người đề nghị giao dịch với những chiếc nhẫn và thông tin về Frodo.
+- Boromir, người đến từ Gondor, chia sẻ về tình hình khó khăn ở quê hương mình, bị đe dọa bởi sự trở lại của Sauron.
+- Elrond kể về lịch sử của Sauron, về việc rèn những chiếc nhẫn quyền lực và về cuộc chiến cuối cùng giữa Sauron và liên minh giữa Elves và Con Người.
+- Elrond nhắc đến việc Isildur đã không hủy chiếc Nhẫn, mà giữ nó làm kỷ niệm, dẫn đến những hậu quả tiêu cực.
+- Boromir bày tỏ quan điểm về Gondor và mong muốn tiếp tục chiến đấu chống lại Sauron.
+"""

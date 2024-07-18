@@ -1,0 +1,15 @@
+"""
+- Scarlett tỉnh dậy trong trạng thái mơ hồ, cảm nhận được giọng nói và ánh sáng. Cô nhớ ra rằng cô đang lo lắng về đứa con của mình.
+- Scarlett khám phá ra sự thật đau lòng rằng, theo cảm nhận của cô, đứa trẻ đã chết.
+- Scarlett rơi vào trạng thái tuyệt vọng, nhưng sau đó được cho uống một loại chất lỏng giúp cô thiếp đi.
+- Scarlett dần tỉnh lại, cảm nhận đau đớn, và được anh họ cô, Colum, giúp đỡ.
+- Scarlett nhận ra đứa trẻ không chết, mà là một bé gái.
+- Scarlett, đầy tình yêu thương, nhận ra bé giống Rhett, người vắng mặt.
+- Scarlett từ chối uống thuốc giảm đau, thay vào đó chọn chăm sóc bé gái.
+- Scarlett quyết định cho bé bú mẹ, mặc dù trước đây cô thường tránh điều này.
+- Scarlett tổ chức rửa tội cho bé gái, đặt tên cô bé là Katie Colum O'Hara.
+- Scarlett nhận ra tình yêu mãnh liệt dành cho Katie, cảm xúc này vượt lên trên mọi đau đớn.
+- Tin đồn và dị đoan lan rộng về việc sinh nở của Scarlett, nhưng Rosaleen Fitzpatrick cam kết bảo vệ Katie.
+- Scarlett, hồi phục, muốn rời khỏi phòng và khám phá thế giới với Katie.
+- Scarlett quyết định đặt biệt danh cho Katie là Kitty Cat và giới thiệu cô bé với Rosaleen Fitzpatrick.
+"""

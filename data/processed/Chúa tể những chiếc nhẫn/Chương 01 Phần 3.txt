@@ -1,0 +1,17 @@
+"""
+- Bilbo cố gắng đặt phong bì lên đồng hồ nhưng thất bại và nó rơi xuống đất. Gandalf lấy nó và đặt đúng chỗ. Một cơn giận rồi thư giãn và cười xuất hiện trên khuôn mặt của Bilbo.
+- Bilbo và Gandalf ra tiền sảnh. Bilbo chọn cây gậy yêu thích và huýt sáo. Ba người lùn xuất hiện từ những phòng khác.
+- Bilbo kiểm tra mọi thứ đã sẵn sàng cho chuyến đi và quyết định bắt đầu hành trình.
+- Bilbo rời khỏi nhà, bước vào một đêm trăng sáng, bầu trời đầy sao. Ông bày tỏ niềm vui và sự phấn khích về việc rong ruổi cùng những người lùn.
+- Gandalf và Bilbo nói lời tạm biệt, Bilbo rời đi trong lặng lẽ, nhảy qua vùng đất thấp và đi vào vùng cỏ tối.
+- Gandalf nhìn theo Bilbo một lúc lâu trước khi trở lại trong nhà.
+- Frodo gặp Gandalf và họ thảo luận về việc Bilbo đã thực sự rời đi.
+- Gandalf thông báo cho Frodo về một chiếc nhẫn vàng mà Bilbo để lại cho Frodo.
+- Frodo cảm thấy trách nhiệm của mình là phải chào tạm biệt khách, những lời đồn đã lan rộng khắp khu vực.
+- Frodo tiếp tục tiếp đón mọi người, nhưng không nói nhiều hơn về việc Bilbo đã rời đi.
+- Bilbo đã để lại nhiều món quà được phân loại với những nhãn dán đặc biệt cho nhiều người.
+- Frodo đối mặt với nhiều khó khăn từ đám đông và gia đình Sackville-Baggins.
+- Frodo dùng nhiều món đồ nhỏ để làm dịu Lobelia Sackville-Baggins.
+- Gandalf trở lại, khuyên Frodo phải cẩn thận với chiếc nhẫn và nên dùng nó ít nhất hoặc không nên dùng.
+- Gandalf rời đi và Frodo cảm thấy ông ấy trông như đang mang một gánh nặng lớn.
+"""

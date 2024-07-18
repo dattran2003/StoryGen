@@ -1,0 +1,14 @@
+"""
+- Jem đang trải qua giai đoạn tuổi teen với những thay đổi về hành vi và thái độ, gây khó khăn cho việc sống chung với anh.
+- Atticus giải thích rằng Jem đang lớn lên và đang hình thành hệ thống giá trị mới, khuyên tôi nên kiên nhẫn với anh.
+- Sự vắng mặt của Dill trong mùa hè gây ra sự trống trải lớn.
+- Atticus phải rời đi vì công việc, làm tăng thêm cảm giác cô đơn.
+- Một biếm họa về Atticus xuất hiện trên báo, Jem giải thích rằng đó là một lời khen ngợi.
+- Calpurnia đề nghị đưa Jem và tôi đi nhà thờ với bà, chúng tôi đồng ý.
+- Trước khi đi nhà thờ, Calpurnia chăm sóc chúng tôi cẩn thận, từ việc tắm rửa đến lựa chọn trang phục.
+- Chúng tôi gặp Lula, một phụ nữ da đen phản đối việc chúng tôi, những đứa trẻ da trắng, đến nhà thờ da đen. Calpurnia và Jem đã xử lý tình huống này.
+- Chúng tôi chứng kiến hoạt động và nghi lễ tại nhà thờ da đen, bao gồm việc hát thánh ca không cần sách và quyên góp tiền cho vợ của Tom Robinson.
+- Calpurnia giải thích rằng Tom Robinson đang bị buộc tội hãm hiếp và vợ anh, Helen, đang gặp khó khăn trong việc tìm việc làm.
+- Calpurnia cũng tiết lộ rằng bà đã dạy chữ cho Zeebo, con trai bà, từ cuốn Kinh Thánh và một cuốn sách khác do ông nội của Jem và tôi tặng.
+- Cuối cùng, Calpurnia cho phép tôi đến thăm bà sau giờ làm việc.
+"""

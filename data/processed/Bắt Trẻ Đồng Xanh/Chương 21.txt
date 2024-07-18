@@ -1,0 +1,13 @@
+"""
+- Nhân vật chính đã trở về nhà và phát hiện nhân viên gác thang máy quen thuộc, Peter, không trực. Một người mới đã thay thế.
+- Nhân vật chính đã may mắn tránh được việc gặp bố hoặc mẹ khi về nhà.
+- Nhân vật chính đã thuyết phục thành công nhân viên mới đưa mình lên tầng của gia đình Dicksteins mặc dù họ không có nhà.
+- Nhân vật chính đã thành công trong việc lén lút vào nhà mình mà không bị phát hiện.
+- Nhân vật chính đã tìm đến phòng của em gái mình, Phoebe, nhưng cô bé không có ở đó.
+- Nhân vật chính đã tìm thấy Phoebe đang ngủ ở phòng của anh trai họ, D.B, khi anh ấy không có nhà.
+- Nhân vật chính đã xem xét những cuốn sách và sổ ghi chú của Phoebe, thấy rõ sự chăm chỉ học hành của cô bé.
+- Nhân vật chính đã đánh thức Phoebe và họ đã có cuộc trò chuyện.
+- Phoebe cho biết cô bé sẽ tham gia một vở kịch tại trường và hy vọng anh trai mình sẽ đến xem.
+- Nhân vật chính đã thông báo cho Phoebe rằng anh đã bị đuổi học, khiến cô bé rất buồn và lo lắng.
+- Nhân vật chính đã thảo luận với Phoebe về kế hoạch của mình để tránh sự trừng phạt từ bố mẹ sau khi họ biết tin anh bị đuổi học.
+"""

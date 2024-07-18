@@ -1,0 +1,13 @@
+"""
+- Mười giờ sáng, ánh nắng ấm áp của tháng tư chiếu sáng phòng của Scarlett, làm nổi bật màu sắc của nội thất.
+- Scarlett đang lo lắng về việc chọn trang phục cho bữa dạ yến, muốn nổi bật trước Ashley.
+- Cô đã thử và loại bỏ nhiều chiếc áo, cuối cùng quyết định mặc một chiếc áo màu loè loẹt dù không thích lắm.
+- Scarlett và Mammy có một cuộc tranh cãi về việc ăn uống trước khi tham dự bữa tiệc.
+- Scarlett cuối cùng đồng ý ăn một chút sau khi Mammy nới lỏng quy tắc.
+- Scarlett và Mammy tiếp tục cuộc thảo luận về việc ăn uống, trang phục, và việc tìm chồng.
+- Scarlett muốn thay đổi chiến thuật để thu hút Ashley, thậm chí sẵn sàng dùng những thủ đoạn mà cô thường ghét.
+- Scarlett cảm thấy vui mừng vì mẹ và Mammy không tham dự bữa tiệc, giảm bớt áp lực lên cô.
+- Scarlett và gia đình cô chuẩn bị đến đồn điền Wilkes cho bữa dạ yến.
+- Trên đường đi, Scarlett và gia đình gặp gỡ gia đình Tarleton, họ trao đổi thông tin và câu chuyện.
+- Scarlett cố gắng giữ bình tĩnh khi nghe tin Ashley sắp đính hôn, quyết định sẽ chiếm được anh trước khi ngày tàn.
+"""

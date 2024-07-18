@@ -1,0 +1,13 @@
+"""
+- Harry cảm thấy tác dụng của Phúc lạc dược giảm dần khi anh ta trở về tòa lâu đài và suýt bị phát hiện bởi con ma Peeves.
+- Bà béo từ chối cho Harry vào phòng chung vì mật khẩu đã thay đổi và Harry phải tìm đến giáo sư Dumbledore.
+- Harry trình bày với giáo sư Dumbledore rằng anh đã lấy được ký ức của thầy Slughorn.
+- Trong ký ức, Tom Riddle đã hỏi thầy Slughorn về 'Trường sinh linh giá', một thuật ngữ liên quan đến việc tách rời một phần linh hồn khỏi cơ thể và giấu nó trong một vật chứa.
+- Slughorn giải thích rằng việc tạo ra một 'Trường sinh linh giá' đòi hỏi việc phạm một tội ác lớn, như giết người.
+- Riddle hỏi về khả năng tạo ra nhiều 'Trường sinh linh giá', nhưng Slughorn tỏ ra bất an và khuyên Riddle không nên theo đuổi điều này.
+- Dumbledore xác nhận rằng Voldemort đã tạo ra nhiều 'Trường sinh linh giá' và một trong số đó là cuốn Nhật ký của Riddle.
+- Dumbledore đã phá hủy một 'Trường sinh linh giá' khác, đó là chiếc nhẫn của Marvolo Gaunt.
+- Có khả năng Voldemort đã tạo ra tổng cộng bảy 'Trường sinh linh giá', với sáu cái còn lại chưa được tìm thấy.
+- Dumbledore và Harry đều đồng ý rằng họ cần phải tìm và phá hủy những 'Trường sinh linh giá' còn lại để có thể tiêu diệt Voldemort.
+- Dumbledore tin rằng sức mạnh tình yêu của Harry, mà Voldemort không bao giờ hiểu, sẽ là vũ khí quan trọng nhất chống lại Voldemort.
+"""

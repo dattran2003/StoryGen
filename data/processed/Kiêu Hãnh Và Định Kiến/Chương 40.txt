@@ -1,0 +1,12 @@
+"""
+- Jane từ chối tiếp tục chia sẻ thông tin với Elizabeth, làm Elizabeth tự mình kể về mối quan hệ với Mr. Darcy.
+- Jane tiếc nuối cách Mr. Darcy tỏ tình và cảm thông cho sự thất vọng của anh sau khi bị Elizabeth từ chối.
+- Elizabeth tiết lộ về lá thư của Mr. Darcy, làm Jane sốc vì sự thật về Wickham.
+- Jane và Elizabeth thảo luận về việc nên hay không nên tiết lộ sự thật về Wickham, cuối cùng quyết định giữ bí mật.
+- Elizabeth chia sẻ nỗi lo lắng của mình với Jane, giúp cô cảm thấy nhẹ nhõm hơn.
+- Elizabeth không dám chia sẻ tất cả lá thư của Darcy, đặc biệt là phần liên quan đến việc anh ta nói về Jane.
+- Jane vẫn còn nhớ đến Mr. Bingley và tình cảm của cô dành cho anh ta.
+- Bà Bennet nói về việc Jane và Mr. Bingley không thể tái hợp, và nói về cuộc sống thoải mái của gia đình Collins.
+- Bà Bennet tin rằng Charlotte Collins là một người quản lý gia đình giỏi, tiết kiệm tiền bạc.
+- Bà cũng nói về khả năng gia đình Collins sẽ nhận quyền thừa kế Longbourn sau khi ông Bennet qua đời.
+"""

@@ -1,0 +1,16 @@
+"""
+- Aragorn thông báo với Đội Đồng Hành rằng họ không thể ở lại nơi này lâu hơn và họ cần phải tiếp tục hành trình không có Gandalf.
+- Aragorn chỉ ra "Cầu Thang Dimrill" và con đường họ sẽ đi nếu may mắn.
+- Gimli nhắc lại lời Gandalf và bày tỏ sự buồn bã.
+- Đội Đồng Hành bắt đầu di chuyển xuống con đường từ Cổng, nhìn thấy những tàn tích của công trình bằng đá.
+- Họ dừng lại tại "Mirrormere", nơi Gimli và Frodo dành thời gian chiêm ngưỡng.
+- Aragorn cảnh báo về sự tiếp cận của Orcs và nhấn mạnh rằng họ cần phải đi xa trước khi đêm xuống.
+- Frodo và Sam gặp khó khăn trong việc theo kịp tốc độ của nhóm, do những vết thương của họ.
+- Aragorn xin lỗi vì đã quên rằng Frodo và Sam bị thương và quyết định chăm sóc cho họ.
+- Frodo và Sam được chăm sóc, vết thương của Sam được kiểm tra và Frodo được khám nghiệm về cái áo giáp mithril.
+- Gimli và Frodo đi cuối cùng, lắng nghe bất kỳ tiếng động nào từ phía sau.
+- Frodo nghĩ rằng ông nghe thấy tiếng bước chân và thấy một đôi mắt phía sau, nhưng Gimli không nghe thấy gì.
+- Họ đến Lothlurien, nơi Aragorn hy vọng những đức hạnh của người Elves sẽ bảo vệ họ.
+- Boromir bày tỏ lo ngại về việc đi qua Lothlurien, nhưng Aragorn khẳng định rằng không có lựa chọn nào khác.
+- Legolas dẫn họ băng qua dòng suối Nimrodel và kể về lịch sử của Lothlurien.
+"""

@@ -1,0 +1,16 @@
+"""
+- Winston cảm thấy mình kiệt sức sau chuỗi ngày làm việc liên tục.
+- Cả cơ thể anh mệt mỏi đến mức cảm thấy như nó trong suốt và nhũn như keo.
+- Ông đã làm việc quá 90 giờ trong vòng 5 ngày và cuối cùng đã hoàn thành công việc.
+- Winston có 6 tiếng để nghỉ ngơi tại nơi trú ẩn và 9 tiếng để ngủ tại nhà.
+- Trong túi xách của anh là một cuốn sách mà anh chưa từng mở ra hoặc xem qua.
+- Tin tức về việc Đại Dương không còn chiến tranh với Âu Á mà chuyển hướng chiến tranh với Đông Á.
+- Một diễn giả từ Đảng Trong đã diễn thuyết với sự thay đổi đột ngột này giữa câu mà không ngập ngừng hoặc phạm cú pháp.
+- Trong lúc lộn xộn, một người đàn ông đã đưa cho Winston một chiếc cặp mà anh ta không nhận ra.
+- Winston và tất cả nhân viên trong Bộ Sự Thật phải làm việc thêm giờ để sửa lại các tài liệu liên quan đến chiến tranh.
+- Công việc rất nặng nề và phức tạp, đòi hỏi sự cẩn thận và trí tưởng tượng.
+- Đến ngày thứ ba, mắt Winston đau đớn và anh phải lau kính mỗi vài phút.
+- Đến sáng thứ sáu, lượng công việc giảm và mọi người được nghỉ đến sáng hôm sau.
+- Winston mệt mỏi nhưng không còn buồn ngủ, anh mở cửa sổ, châm bếp dầu và chuẩn bị cà phê.
+- Cuốn sách "Lý thuyết và Thực hành của Chủ nghĩa Tập thể Quả Đầu" của Emmanuel Goldstein được Winston bắt đầu đọc.
+"""

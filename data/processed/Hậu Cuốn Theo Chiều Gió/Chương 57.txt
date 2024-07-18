@@ -1,0 +1,16 @@
+"""
+- Scarlett ăn điểm tâm mà không để ý mình đang ăn gì, với mục đích lấy lại sức.
+- Sau bữa ăn, Scarlett yêu cầu Bridie trở lại sau hai giờ và bắt đầu viết nhiều bức thư với sự tập trung cao độ.
+- Scarlett viết hai bức thư, sau đó ngồi lặng thinh trước bàn, nhìn vào tập giấy trắng.
+- Scarlett bắt đầu viết thư cho bác Henry, người duy nhất cô tin cậy, để nhờ giúp đỡ trong việc quản lý công việc tại Atlanta.
+- Scarlett cảm thấy mệt mỏi và lo lắng khi nghĩ về việc bác Henry quản lý công việc thay cô.
+- Scarlett quyết định bán phần thừa kế của Caree và xây dựng các bất động sản ngoại ô thành phố, mặc dù điều này gây hao hụt tài chính.
+- Scarlett viết thư cho bác Henry, nói rằng cô sẽ đi nghỉ vài ngày và không thể liên lạc.
+- Scarlett chuẩn bị cắt đứt mọi liên lạc với Rhett và không muốn anh biết về việc cô mang thai.
+- Scarlett gặp Colum, thông báo rằng cô sẽ không đi cùng anh và Bridie nữa và quyết định ở lại Ireland.
+- Scarlett chia sẻ với Colum về mối quan hệ phức tạp với Rhett và lý do cô không thể trở về Mỹ.
+- Scarlett nhờ Colum gửi những lá thư của cô về Mỹ và mang nữ trang và số vàng từ ngân hàng Savannah về Ireland.
+- Scarlett dự định mua lại Ballyhara, mảnh đất tổ tiên O'Hara, để đứa bé có sản nghiệp.
+- Colum cố gắng thuyết phục Scarlett đợi thêm thời gian trước khi đưa ra quyết định, nhưng Scarlett kiên quyết.
+- Scarlett chuẩn bị đồ tang và quyết định từ bỏ những món đồ cũ, bắt đầu cuộc sống mới tại Ireland.
+"""

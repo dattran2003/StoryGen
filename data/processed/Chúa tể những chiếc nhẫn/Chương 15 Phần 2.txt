@@ -1,0 +1,19 @@
+"""
+- Buổi chia tay diễn ra trong hội trường với ngọn lửa, chờ đợi Gaffer, người vẫn chưa xuất hiện.
+- Bilbo, Frodo, Aragorn và Elrond có mặt, còn những người khác chỉ như những bóng mờ trong màn đêm.
+- Sam đang đứng bên cạnh con ngựa lùn, Bill, và nhìn vào vùng tối mờ mịt.
+- Gandalf và Aragorn thảo luận về việc vượt qua Cổng Sừng Đỏ, và quyết định rằng họ sẽ phải rời đi khi trời còn tối.
+- Aragorn nói rằng ngọn lửa của họ không tạo ra nhiều khói và cần phải dập tắt nó.
+- Pippin bày tỏ sự không hài lòng khi không có lửa và phải tiếp tục hành trình vào ban đêm.
+- Đội Đồng Hành ẩn náu suốt ngày và bắt đầu hành trình vào lúc hoàng hôn, hướng về Caradhras.
+- Frodo thấy hoặc cảm nhận một bóng đen băng qua những ngôi sao, Gandalf và Aragorn cũng cảm nhận được điều tương tự.
+- Họ tiếp tục hành trình trong hai đêm, leo lên những ngọn đồi và núi, Caradhras xuất hiện trước mặt họ.
+- Gandalf và Aragorn lo ngại về việc Cổng Sừng Đỏ có thể đang bị canh chừng và thời tiết khắc nghiệt.
+- Boromir khuyên mỗi người nên mang theo củi, và Gandalf đồng ý, nhưng nhấn mạnh rằng họ không được dùng củi trừ khi không còn lựa chọn nào khác.
+- Trong quá trình leo lên Caradhras, họ gặp phải tuyết rơi dày đặc và gió mạnh.
+- Gandalf tạo ra một ngọn lửa để ấm mình, nhưng tuyết vẫn tiếp tục rơi.
+- Họ quyết định rút lui, nhưng việc này rất khó khăn do tuyết phủ dày.
+- Legolas, Boromir và Aragorn tìm cách mở đường qua lớp tuyết dày, và cuối cùng, họ thành công.
+- Frodo cảm thấy đau nhức và mệt mỏi, nhìn thấy những đốm đen trên bầu trời, mà Aragorn xác nhận là những con chim.
+- Gandalf nói rằng họ không thể dừng lại, họ phải tiếp tục hành trình xuống núi, dù Caradhras đã đánh bại họ.
+"""

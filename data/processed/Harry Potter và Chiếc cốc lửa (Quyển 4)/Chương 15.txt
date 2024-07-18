@@ -1,0 +1,16 @@
+"""
+- Harry thức dậy với một kế hoạch và viết thư cho Sirius, nói rằng những cơn đau ở vết thẹo chỉ là do tưởng tượng và mọi thứ ở Hogwarts đều ổn.
+- Harry trèo ra khỏi lỗ chân dung, vượt qua Peeves, và đưa thư cho Hedwig tại chuồng cú.
+- Harry thuyết phục Hedwig gửi thư cho Sirius và nhận ra rằng Hedwig vẫn còn giận vì thái độ của Harry hôm trước.
+- Harry gặp Ron và Hermione tại bữa sáng, và sau khi tiết lộ việc viết thư cho Sirius, Hermione chỉ trích hành động của Harry là nói dối.
+- Harry cố gắng tránh suy nghĩ về Sirius trong hai tuần sau đó, nhưng không thể ngăn mình lo lắng cho anh.
+- Trong lớp Phòng chống Nghệ thuật Hắc ám của thầy Moody, Harry và bạn bè được thử nghiệm với lời nguyền Độc đoán.
+- Harry đã kháng cự được lời nguyền, dù gặp chút khó khăn, và thầy Moody tỏ ra ấn tượng.
+- Harry, Ron và Hermione nhận thấy khối lượng công việc tăng lên đáng kể trong học kỳ này.
+- Họ cũng nhận ra rằng thi đấu Tam Pháp thuật sắp diễn ra, với sự tham dự của Trường Beauxbatons và Trường Durmstrang.
+- Hermione cố gắng thúc đẩy vấn đề về quyền lợi của gia tinh, nhưng không nhận được sự ủng hộ nhiều từ bạn bè.
+- Harry nhận thư từ Sirius, nói rằng anh đã trở về nước và khuyên Harry không nên lo lắng.
+- Học sinh và giáo viên của Hogwarts đứng chờ đón phái đoàn từ Beauxbatons và Durmstrang, và chứng kiến cảnh tượng ấn tượng khi họ tới.
+- Trường Beauxbatons tới bằng một chiếc xe ngựa khổng lồ màu xanh lá, kéo bởi một đàn ngựa vàng.
+- Trường Durmstrang tới bằng một con tàu dưới nước, nổi lên từ hồ.
+"""

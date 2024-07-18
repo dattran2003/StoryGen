@@ -1,0 +1,16 @@
+"""
+- Vài ngày sau, Bingley đến thăm gia đình Bennet một mình, bạn của anh đang ở London. Anh nhận lời dùng bữa tối nhưng sau đó nói rằng anh bận.
+- Bà Bennet mời Bingley dùng bữa tối ngày hôm sau, và anh nhận lời.
+- Bingley đến sớm vào hôm sau, làm gia đình Bennet chưa kịp chuẩn bị.
+- Trong buổi tối, bà Bennet cố gắng tạo cơ hội để Bingley và Jane ở riêng nhưng không thành công.
+- Bingley và Jane bắt đầu tỏ ra thân mật hơn với nhau, điều này làm Elizabeth ngạc nhiên và vui mừng.
+- Jane thú nhận với Elizabeth rằng cô cảm thấy hạnh phúc nhất, điều này khiến Elizabeth chúc mừng chị.
+- Jane đi tìm bà mẹ để báo tin vui, trong khi đó Bingley tiếp tục nói chuyện với Elizabeth.
+- Bingley trở lại sau cuộc nói chuyện ngắn gọn với cha Elizabeth, anh hỏi về Jane.
+- Tất cả mọi người trong gia đình đều vui mừng với tin vui này theo cách riêng của họ.
+- Bingley trở thành khách hàng ngày tại nhà Bennet.
+- Jane và Elizabeth dành thời gian riêng tư khi Bingley không có mặt, Jane nói về sự ngạc nhiên khi Bingley không biết cô ở thành phố mùa xuân.
+- Jane tỏ ra độ lượng với chị em của Bingley, mong rằng họ sẽ chấp nhận mối quan hệ này.
+- Elizabeth cảnh báo Jane về sự giả tạo của cô Bingley.
+- Tin tức về mối quan hệ của Jane và Bingley lan rộng nhanh chóng trong cộng đồng, mọi người đều cho rằng gia đình Bennet là gia đình may mắn nhất.
+"""

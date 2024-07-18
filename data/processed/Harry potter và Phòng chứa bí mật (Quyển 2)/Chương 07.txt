@@ -1,0 +1,20 @@
+"""
+- Harry cố gắng tránh thầy Lockhart và Colin Creevey, cả hai đều theo dõi anh khắp nơi.
+- Cây đũa phép của Ron tiếp tục gây rắc rối, gần đây đã tự động bắn ra khỏi tay Ron và ghim vào mặt giáo sư Flitwick.
+- Harry, Ron và Hermione dự định thăm Hagrid nhưng kế hoạch bị gián đoạn khi Oliver Wood đánh thức Harry để tập Quidditch.
+- Colin Creevey tiếp tục theo đuổi Harry, chụp ảnh anh và gây phiền phức.
+- Trong buổi tập Quidditch, Harry giải thích luật lệ của trò chơi cho Colin Creevey.
+- Wood giới thiệu chiến lược mới cho đội Quidditch, nhưng phần lớn đội ngũ đều buồn ngủ và không chú tâm.
+- Đội Quidditch nhà Slytherin xuất hiện, họ đã được giáo sư Snape cấp phép đặc biệt để luyện tập, và họ trưng ra những cây chổi Nimbus 2001 mới toanh.
+- Một cuộc tranh chấp nổ ra giữa đội Gryffindor và Slytherin, trong đó Malfoy chế giễu cây chổi cũ của Fred và George.
+- Hermione phản ứng lại, khẳng định rằng đội Gryffindor không mua chỗ của mình, họ được tuyển chọn dựa trên tài năng.
+- Malfoy lăng mạ Hermione, gọi cô là "Mudblood", một từ ngữ phân biệt chủng tộc.
+- Trong lúc hỗn loạn, cây đũa phép hỏng của Ron phản lại chủ nhân, biến Ron thành một cái máy sản xuất ốc sên.
+- Harry và Hermione đưa Ron đến nhà Hagrid, nơi họ phát hiện ra thầy Lockhart đang khuyên bảo Hagrid về việc trục xuất hà bá.
+- Hagrid tiết lộ rằng Lockhart không phải là người duy nhất xin làm giáo viên Nghệ thuật Phòng chống Hắc ám, nhưng người ta thường không thích công việc này.
+- Ron giải thích ý nghĩa của từ "Mudblood" và phê phán việc phân biệt chủng tộc.
+- Hagrid cho biết anh không thích đọc sách của Lockhart và không nhận ảnh ký tên của Harry.
+- Hagrid chăm sóc cho một vườn bí rợ lớn, tiết lộ rằng anh đã sử dụng một loại bùa để giúp chúng lớn nhanh.
+- Harry và Ron nhận lệnh cấm túc từ giáo sư McGonagall, Harry phải giúp thầy Lockhart trả lời thư người hâm mộ trong khi Ron phải lau chùi đồ bạc cùng thầy Filch.
+- Trong lúc làm việc với thầy Lockhart, Harry nghe thấy một giọng nói bí ẩn và đáng sợ, nhưng thầy Lockhart lại không nghe thấy.
+"""

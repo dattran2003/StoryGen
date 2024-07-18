@@ -1,0 +1,12 @@
+"""
+- Scarlett cảm thấy tủi hổ và căm giận mình vì đã phát sinh tình cảm với Luke Fenton. Cô ấy nuôi dưỡng những ảo ảnh trả thù.
+- Scarlett thù ghét tất cả người Anh và tập trung ủng hộ hội Fenian.
+- Scarlett hỗ trợ hoạt động của Liên minh Ruộng đất do Colum đề nghị, nhưng gia đình họ O'Hara từ chối tham gia.
+- Scarlett cảm thấy thất vọng khi không ai trong gia đình ủng hộ Liên minh Ruộng đất.
+- Scarlett tham gia vào các hoạt động xã hội tại Dublin, dù không thoải mái khiLuke Fenton cũng tham gia.
+- Scarlett thành công trong mùa Chơi thứ hai ở Dublin, bất chấp sự hiện diện của Luke Fenton.
+- Scarlett trở về Ballihara sau mùa Chơi, vui mừng vì được trở lại cuộc sống bình thường.
+- Scarlett phát hiện ra Cat bị những đứa trẻ khác hành hạ, nhưng bà Grainne khuyên cô không nên can thiệp.
+- Scarlett cảm thấy lo lắng cho sự an toàn của Cat nhưng được an ủi bởi bà Grainne, người nhấn mạnh rằng Cat có thể tự bảo vệ mình.
+- Scarlett trở lại Dublin sau chuyến thăm Ballihara và bảo đảm rằng một thang dây mới và an toàn hơn sẽ được lắp đặt trước khi cô rời đi.
+"""

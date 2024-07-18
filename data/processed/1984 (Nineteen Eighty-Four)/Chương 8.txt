@@ -1,0 +1,13 @@
+"""
+- Julia thông báo rằng họ có thể sử dụng nơi ẩn này thêm một lần nữa nhưng không được trở lại trong một hoặc hai tháng.
+- Julia, tỉnh táo sau khi thức dậy, bắt đầu chuẩn bị cho việc trở về, chỉ dẫn cho Winston cách đi về an toàn, nhấn mạnh không bao giờ nên đi cùng một lối.
+- Julia hẹn gặp Winston vào ngày hôm sau tại một khu chợ đông đúc ở một khu vực nghèo nàn.
+- Julia giải thích một hệ thống tín hiệu để đảm bảo an toàn khi họ gặp nhau.
+- Julia chia sẻ về lịch trình bận rộn của mình, bao gồm việc tham gia vào Liên Đoàn Thanh Niên Chống Dục Tính.
+- Họ quyết định không trở lại khu rừng và chỉ gặp nhau một lần khác trong tháng năm.
+- Họ gặp nhau tại một tháp chuông của một nhà thờ đổ nát, nơi họ có thể nói chuyện lâu hơn.
+- Julia tiết lộ tuổi tác, nơi ở và công việc của mình, cũng như quá khứ và mối quan hệ trước.
+- Julia và Winston thảo luận về việc Đảng kiểm soát dục vọng của người dân.
+- Winston nhớ lại một sự cố với vợ cũ, Katharine, trong một khu vực vắng vẻ.
+- Julia và Winston tiếp tục kế hoạch cho cuộc hẹn tiếp theo của họ.
+"""

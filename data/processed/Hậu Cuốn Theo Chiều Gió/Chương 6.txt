@@ -1,0 +1,15 @@
+"""
+- Henry Hamilton dùng từ "hoảng loạn" để mô tả cuộc khủng hoảng tài chính bắt nguồn từ Wall Street, điều này làm Scarlett lo lắng về việc mất sạch số tiền mà cô đã tích lũy.
+- Scarlett đến ngân hàng sau cuộc gặp gỡ với luật sư, nơi cô gặp giám đốc ngân hàng. Mặc dù anh ta cố gắng làm dịu nỗi lo của cô, Scarlett vẫn nghi ngờ về khả năng chi trả của ngân hàng.
+- Giám đốc ngân hàng thông báo rằng họ không chỉ chia sẻ lợi nhuận với cổ đông mà còn tăng tỷ lệ chia lợi nhuận. Anh ta cũng nhắc đến việc chồng cũ của Scarlett, Rhett, đã mua thêm cổ phần cách đây một tháng.
+- Scarlett cảm thấy yên tâm khi biết Rhett tin tưởng ngân hàng này và quyết định chuyển toàn bộ tiền mặt của mình thành vàng.
+- Cô rời ngân hàng và chiêm ngưỡng cảnh sắc Atlanta, nhưng sau đó tập trung vào cửa hàng của mình.
+- Scarlett kiểm tra hoạt động của cửa hàng và nhận thấy Willie Kershaw, người quản lý cửa hàng, đã làm việc tốt hơn dự kiến. Cô kiểm tra sổ sách kế toán và két sắt trước khi thưởng cho Kershaw.
+- Scarlett yêu cầu Kershaw mở một tài khoản cho vay và thề giữ bí mật.
+- Scarlett trở về nhà, đọc báo và nhận ra rằng cuộc khủng hoảng tài chính đang diễn ra nghiêm trọng hơn so với dự đoán của Henry. Cô quyết định rút vàng khỏi ngân hàng trước khi tình hình trở nên tồi tệ hơn.
+- Scarlett cố gắng gặp cô Pittypat nhưng bị India Wilkes từ chối mở cửa. Scarlett đã đe dọa sẽ ngồi trên bậc thang cho đến khi Ashley về, buộc India mở cửa.
+- Scarlett thông báo với India rằng cô đã sắp xếp để India có thể lấy hàng hóa từ cửa hàng mà không phải trả tiền, để thực hiện lời hứa với Melanie trước khi cô qua đời.
+- Scarlett nhận ra rằng những người dân Atlanta đang tránh cô và cô cảm thấy buồn bã. Cô cũng nhận ra rằng xưởng cưa của Ashley đang bị bỏ hoang.
+- Scarlett quyết định giúp Ashley bằng cách mua lại xưởng cưa và thuê nhà thầu xây dựng để xây dựng nhà ở ngoại ô Atlanta, sử dụng gỗ từ xưởng cưa của Ashley.
+- Scarlett lên kế hoạch cho tương lai, dự định trục xuất nông dân khỏi mảnh đất mà Charles Hamilton để lại cho cô.
+"""

@@ -1,0 +1,18 @@
+"""
+- Tuyết đang rơi dữ dội bên ngoài, báo hiệu mùa Giáng sinh đang tới. Lão Hagrid mang vào đại sảnh đường 12 cây thông Noel và trang trí toàn bộ lâu đài với những vòng hoa nhựa ruồi và dây kim tuyến.
+- Harry gặp khó khăn trong việc di chuyển qua các hành lang do đám đông học sinh tụ tập dưới các chùm hoa nhựa ruồi. Tuy nhiên, nhờ những cuộc lang thang ban đêm, Harry biết rõ những lối tắt trong lâu đài.
+- Ron và Lavender thường xuyên thể hiện tình cảm công khai, điều này làm căng thẳng mối quan hệ giữa Harry, Ron và Hermione.
+- Ron biện minh việc mình hẹn hò với Lavender, cho rằng Hermione không thể than phiền vì cô đã cặp kè với Viktor Krum.
+- Hermione cảnh báo Harry về việc Romilda Vane và một số bạn gái khác đang cố gắng dùng tình dược để lừa anh đi dự tiệc của thầy Slughorn.
+- Hermione tiết lộ rằng Fred và George đã bán tình dược qua dịch vụ đặt hàng qua cú, và chúng được ngụy trang dưới dạng nước hoa hoặc thuốc ho.
+- Trong thư viện, Harry và Hermione gặp phải bà Pince, người nghi ngờ cuốn sách Chế tạo Độc dược nâng cao của Harry.
+- Harry và Hermione tranh luận về khả năng của Malfoy đưa được vòng cổ bị nguyền rủa vào trường, so sánh với việc học sinh mang tình dược vào trường.
+- Romilda Vane mời Harry uống nước hoa tử đinh hương, nhưng anh từ chối.
+- Hermione và Ron tiếp tục cãi vã trong buổi học biến hình. Hermione rời lớp học trong nước mắt, và Harry quyết định an ủi cô.
+- Harry mời Luna Lovegood đi dự tiệc của thầy Slughorn, một hành động gây bất ngờ cho cả hai.
+- Trong bữa tiệc, Hermione rời bỏ Cormac McLaggen, người cô mời đến tiệc, sau khi không thể chịu đựng được những câu chuyện của anh.
+- Harry tránh được giáo sư Trelawney và gặp thầy Slughorn, người khen ngợi khả năng của Harry trong môn Độc dược.
+- Snape và Harry có một cuộc đối thoại căng thẳng, trong đó Snape tỏ ra nghi ngờ về nguồn gốc khả năng của Harry.
+- Draco Malfoy bị thầy Filch bắt gặp khi cố gắng lẻn vào bữa tiệc. Mặc dù ban đầu tỏ ra tức giận, nhưng sau cùng Malfoy được thầy Slughorn cho phép ở lại.
+- Harry theo dõi cuộc trò chuyện giữa Malfoy và Snape, trong đó Malfoy khẳng định mình đang thực hiện một kế hoạch riêng và không cần sự giúp đỡ của Snape.
+"""

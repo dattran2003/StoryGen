@@ -1,0 +1,12 @@
+"""
+- Chiến tranh tiếp diễn với nhiều thắng lợi, nhưng cũng rất đắt giá với nhiều thương binh và tử vong.
+- Tiền tệ Liên bang miền Nam mất giá, giá thực phẩm leo thang, và dân chúng phải hạn chế ăn uống và sử dụng bột bắp thay bột mì.
+- Cuộc phong tỏa làm hàng hóa xa xỉ khan hiếm và cao giá, phụ nữ phải tái sử dụng vải và tự dệt vải.
+- Bệnh viện thiếu thuốc, vải băng chữa thương trở nên quý hiếm.
+- Scarlett, sau thời gian buồn bã, thấy chiến tranh như một thời kỳ vui chơi, với nhiều người đàn ông quan tâm và cầu hôn.
+- Scarlett tham gia vào cuộc sống xã hội, trở lại công việc săn sóc thương binh và cảm thấy thoải mái hơn trong môi trường này.
+- Scarlett trở lại cuộc sống cũ, tham gia các buổi tiệc, khiêu vũ, cưỡi ngựa và làm dáng.
+- Scarlett giữ mối quan hệ với Rhett Butler, người thường xuyên thăm viếng và tặng quà cho cô.
+- Rhett Butler có quan điểm châm biếm về chiến tranh và những người tham gia, điều này gây ra sự phẫn nộ trong cộng đồng.
+- Scarlett và Melanie chống lại áp lực từ bà Merriwether để từ chối Rhett, vì ý kiến của anh trai Melanie, Ashley, giống như Rhett.
+"""

@@ -1,0 +1,16 @@
+"""
+- Scarlett ngồi buồn rầu nhìn ra cửa sổ phòng ngủ vào một buổi sáng mùa hạ, chứng kiến cảnh đoàn người vui vẻ ra rừng tìm nhánh cây trang hoàng cho phiên hội chợ gây quỹ cho bệnh viện.
+- Cô Pittypat và Melanie không chia sẻ nỗi buồn tủi của Scarlett, họ không cảm thấy buồn vì không tham gia vào hoạt động.
+- Scarlett cảm thấy bất công vì đã làm việc rất nhiều cho buổi lễ từ thiện nhưng lại phải ở nhà chịu tang.
+- Cô Pittypat nhắc nhở Scarlett về việc vẫy tay với đàn ông từ cửa sổ phòng ngủ, điều này khiến cô cảm thấy xấu hổ.
+- Melanie cố gắng an ủi Scarlett nhưng không thành công, vì Scarlett cảm thấy cuộc sống đã qua và cô không còn được vui chơi.
+- Scarlett tức giận vì cảm thấy bị cô lập và không được tham gia vào cuộc sống rộn ràng đang diễn ra bên ngoài.
+- Bà Merriwether và bà Elsing đến nhà Scarlett, thông báo rằng một số người phải rời đi do bệnh tật, và yêu cầu Scarlett và Melanie thay thế họ tại hội chợ.
+- Scarlett và Melanie quyết định tham gia, dù ban đầu họ cảm thấy không thể vì đang chịu tang.
+- Scarlett tham gia vào hội chợ và cảm thấy hạnh phúc khi được tham gia một cuộc vui sau thời gian dài bị giam hãm trong lớp nhiễu tang.
+- Scarlett thấy mình không chia sẻ được niềm đam mê vì chánh nghĩa như những phụ nữ khác, điều này khiến cô cảm thấy cô đơn và chán chường.
+- Scarlett gặp lại Rhett Butler, người đã biết về mối tình bí mật giữa cô và Ashley.
+- Rhett Butler mua Scarlett trong cuộc đấu giá khiêu vũ, điều này khiến cô cảm thấy tức giận nhưng cũng vui mừng vì được tham gia vào cuộc vui.
+- Scarlett và Rhett Butler cùng nhảy múa, họ có cuộc trò chuyện và Scarlett cảm thấy mình đã bắt đầu nghĩ cho bản thân mình.
+- Scarlett quyết định không quan tâm đến những lời dị nghị và tiếp tục vui chơi.
+"""

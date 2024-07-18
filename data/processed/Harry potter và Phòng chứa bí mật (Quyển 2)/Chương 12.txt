@@ -1,0 +1,9 @@
+"""
+- Harry và giáo sư McGonagall đi tới văn phòng của Dumbledore. Harry khám phá văn phòng và thử đội nón phân loại, trong đó nón nói với anh rằng anh có thể phù hợp với nhà Slytherin.
+- Con chim phượng hoàng Fawkes của Dumbledore bùng cháy trước mặt Harry, sau đó tái sinh từ tro tàn của chính nó. Dumbledore giải thích về khả năng hồi sinh của phượng hoàng.
+- Hagrid xông vào phòng và bảo vệ Harry trước Dumbledore, khẳng định Harry không phải là thủ phạm của các vụ tấn công gần đây.
+- Dumbledore nói rằng anh không nghĩ Harry là thủ phạm, nhưng muốn nói chuyện với anh về một số vấn đề.
+- Harry, Ron và Hermione chuẩn bị sử dụng thuốc Đa dịch để giả dạng thành Crabbe, Goyle và Millicent Bulstrode để thu thập thông tin từ Malfoy.
+- Họ đã thành công trong việc làm mê Crabbe và Goyle bằng bánh sôcôla có rưới bùa mê ngủ.
+- Harry và Ron giả dạng thành Crabbe và Goyle, trong khi Hermione giả dạng thành Millicent Bulstrode, nhưng thuốc Đa dịch đã phản ứng với lông mèo của Millicent, biến Hermione thành một dạng nửa người nửa mèo.
+"""

@@ -1,0 +1,21 @@
+"""
+- Heathcliff mời hai người khách dùng trà trước khi về nhà, thông báo rằng anh ta là người duy nhất ở nhà.
+- Ông ta nói rằng nếu luật pháp ít khắc nghiệt hơn, ông ta sẽ trả thù những người khác một cách từ từ và đau đớn.
+- Cathy tuyên bố cô không sợ Heathcliff và từ chối ăn uống gì trong nhà ông ta.
+- Cô cố gắng lấy chìa khóa từ tay Heathcliff nhưng thất bại.
+- Heathcliff đe dọa và thậm chí tấn công Cathy.
+- Cathy, sau khi bị đánh, cảm thấy kinh hoàng và cần sự hỗ trợ.
+- Heathcliff nói rằng anh ta sẽ là người cha duy nhất của Cathy từ ngày mai và đe dọa cô nếu cô nổi loạn.
+- Cathy khóc và Heathcliff rời đi để tìm ngựa của họ.
+- Cathy và tôi tìm cách trốn thoát nhưng các cửa đều đã khóa.
+- Linton giải thích rằng họ ở đây vì cha anh muốn họ kết hôn.
+- Cathy quyết định cô sẽ kết hôn với Linton nếu cô được phép về nhà.
+- Heathcliff từ chối và nói rằng cô sẽ không rời khỏi nơi này cho đến khi cô kết hôn với Linton.
+- Cathy khóc và cầu xin Heathcliff để cô Ellen trở về nhà để báo tin cho cha cô.
+- Heathcliff từ chối và nói rằng ông ta sẽ giữ cô lại đây.
+- Gia nhân từ nhà họ Linton xuất hiện nhưng không thể giúp họ trốn thoát.
+- Heathcliff khóa họ trong phòng và không cho họ ra khỏi đó.
+- Sau nhiều ngày bị giam giữ, Cathy cuối cùng trốn thoát và trở về nhà.
+- Cha cô, Mr. Linton, đang chờ cô và qua đời sau cuộc gặp gỡ cuối cùng với cô.
+- Heathcliff, với tư cách là người giám hộ của Linton, chỉ thị cho luật sư về những việc phải thực hiện, bao gồm việc sa thải hầu hết gia nhân và cho phép Cathy ở lại nhà cho đến khi tổ chức tang lễ cho cha cô.
+"""

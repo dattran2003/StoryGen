@@ -1,0 +1,16 @@
+"""
+- Colum thông báo rằng Scarlett không thể rời đi trước Lễ Phục Sinh và chỉ Bà O'Hara mới có thể tiến hành nghi lễ Thứ Sáu Tuần Thánh.
+- Scarlett quyết định lên đường và muốn mọi thứ phải suôn sẻ, tức giận với Margaret Scanlon vì mất quá nhiều thời gian để may đồ.
+- Scarlett tuyên bố rằng cô sẽ đi thăm em gái ở Mỹ và muốn mang theo những bộ quần áo sáng màu.
+- Scarlett đã đặt chỗ trên chiếc Brian Boru, sẽ rời cảng Galway sau Lễ Phục Sinh.
+- Trời mưa suốt từ Chủ Nhật Lễ Lá đến Thứ Sáu Tuần Thánh.
+- Scarlett được thông báo bác Daniel đang đau nặng và sắp chết, yêu cầu được chôn cất trên đất O'Hara.
+- Scarlett hứa với bác Daniel và anh trai cô, Colum, ở bên cô trong thời gian khó khăn này.
+- Bác Daniel qua đời và Scarlett phải ở lại để lo hậu sự, trì hoãn chuyến đi của mình.
+- Scarlett và Colum chia sẻ mối liên kết mạnh mẽ trong thời gian này.
+- Bác Daniel được chôn cất vào ngày thứ năm, Scarlett cảm thấy mình như đã chôn cất cha mình lần nữa.
+- Scarlett gặp vấn đề về việc ai sẽ thừa kế trang trại của bác Daniel, và quyết định trao nó cho Seamus, người đã làm việc trên đó suốt 30 năm.
+- Một phụ nữ đặt giỏ trứng trước cửa nhà Scarlett, tiết lộ rằng cô sắp trở thành vợ của Seamus.
+- Scarlett giữ chỗ trên một con tàu sẽ rời đi vào ngày 26 tháng 4, một năm sau khi cô dự kiến trở về từ kỳ nghỉ hè ở Ireland.
+- Scarlett chọn con tàu không phải vì sự lộng lẫy mà vì niềm tin cá nhân và quen biết với thuyền trưởng, cũng như việc con tàu hoạt động hoàn toàn bằng buồm.
+"""

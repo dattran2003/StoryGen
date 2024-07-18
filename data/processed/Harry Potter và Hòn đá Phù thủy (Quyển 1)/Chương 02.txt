@@ -1,0 +1,16 @@
+"""
+- Gần 10 năm sau khi Dursleys tìm thấy Harry Potter trên bậc thềm nhà họ, Privet Drive vẫn không thay đổi. Những bức ảnh trong nhà Dursleys thay đổi theo thời gian, chỉ còn biểu thị cuộc sống của Dudley, không có dấu hiệu nào về sự tồn tại của Harry.
+- Harry thức dậy trong tiếng gọi của Dì Petunia, chuẩn bị cho ngày sinh nhật của Dudley.
+- Harry nhớ lại giấc mơ về một chiếc xe gắn máy biết bay.
+- Dì Petunia yêu cầu Harry chuẩn bị bữa sáng, đặc biệt nhấn mạnh rằng mọi thứ phải hoàn hảo vì ngày sinh nhật của Dudley.
+- Dudley nhận được nhiều quà sinh nhật, trong khi Harry chỉ sống trong phòng xép dưới gầm cầu thang, mặc quần áo cũ của Dudley.
+- Dượng Vernon nhắc nhở Harry về việc cắt tóc, một quy định thường xuyên trong gia đình Dursleys.
+- Harry, Dursleys và bạn của Dudley, Piers, đi đến sở thú sau khi không thể tìm thấy ai giữ Harry ở nhà.
+- Trên đường đi, Dượng Vernon phàn nàn về xe gắn máy, và Harry nhắc lại giấc mơ của mình về một chiếc xe gắn máy bay.
+- Dudley và Piers chán chường với sở thú, trong khi Harry tận hưởng buổi sáng yên bình.
+- Dudley muốn xem rắn hổ mang, nhưng con rắn đang ngủ và không phản ứng với những nỗ lực của Dursleys để làm cho nó di chuyển.
+- Harry bắt đầu trò chuyện với con rắn, và nó biến mất sau khi con rắn thông báo nó sẽ trở về Brazil.
+- Sự biến mất của con rắn gây ra hỗn loạn, và sau đó Dursleys trừng phạt Harry bằng cách nhốt anh ta trong phòng xép và nhịn ăn.
+- Harry tự hỏi về quá khứ của mình, bao gồm vụ tai nạn xe đã giết cha mẹ anh và tại sao anh lại có vết thương hình chữ V trên trán.
+- Harry cũng thỉnh thoảng cảm thấy như những người lạ trên phố biết anh, nhưng khi anh cố gắng tiếp cận họ, họ biến mất.
+"""

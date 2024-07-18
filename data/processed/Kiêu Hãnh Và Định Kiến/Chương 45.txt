@@ -1,0 +1,16 @@
+"""
+- Elizabeth suy đoán rằng sự ghét bỏ của cô Bingley đối với mình xuất phát từ sự ganh tỵ.
+- Elizabeth và cô Bingley gặp nhau tại Pemberley, nơi họ được dẫn qua tiền sảnh sang đại sảnh với quang cảnh đẹp mê hồn.
+- Họ được cô Darcy tiếp đón, cùng với bà Hunts và cô Bingley, và một người phụ nữ khác từ London.
+- Mặc dù lịch sự, cô Darcy tỏ ra e lệ và bối rối khi tiếp đón họ, khiến một số người cho rằng cô kiêu hãnh.
+- Bà Hunts, cô Bingley chỉ chào họ một cách lạnh nhạt, sau đó là khoảng lặng được bà Annesley phá vỡ bằng cuộc trò chuyện.
+- Elizabeth nhận thấy cô Bingley đang quan sát cô một cách kỹ lưỡng, điều này khiến cô cảm thấy khó chịu.
+- Gia nhân mang vào bữa ăn nhẹ gồm thịt nguội, bánh ngọt và trái cây.
+- Sự xuất hiện của anh Darcy khiến Elizabeth cảm thấy bối rối và lo lắng.
+- Cô Bingley cố gắng làm Elizabeth bối rối bằng cách nhắc đến trung đoàn dân quân, một chủ đề nhạy cảm liên quan đến Wickham.
+- Elizabeth phản ứng một cách điềm tĩnh, khiến anh Darcy yên tâm.
+- Anh Darcy chăm sóc Elizabeth thêm sau sự cố, khiến cô Bingley tức giận và thất vọng.
+- Trong lúc chờ anh Darcy đưa Elizabeth ra xe, cô Bingley phê bình Elizabeth, nhưng cô Darcy không tham gia.
+- Anh Darcy bảo vệ Elizabeth trước những lời chỉ trích của cô Bingley.
+- Bà Gardiner và Elizabeth thảo luận về chuyến thăm sau khi trở về, nhưng tránh không nói về anh Darcy.
+"""

@@ -1,0 +1,15 @@
+"""
+- Harry và xác của Cedric Diggory được đưa trở lại sau khi sử dụng Cúp Tam Pháp thuật như một Khóa Cảng.
+- Harry gặp Dumbledore và thông báo rằng Voldemort đã trở lại.
+- Cornelius Fudge và đám đông khác đến, và họ nhận ra Cedric đã chết.
+- Harry được đưa đi và trong trạng thái hỗn loạn, ông Moody (được tiết lộ sau này là Barty Crouch Jr.) hỏi Harry về những sự kiện đã xảy ra.
+- Harry kể về việc Cúp là một Khóa Cảng, dẫn họ đến nghĩa địa nơi Voldemort ở, và Voldemort đã phục hồi thân xác của mình.
+- Harry kể về việc Voldemort đã giết Cedric, và cuộc đấu tay đôi giữa Harry và Voldemort.
+- Harry kể về việc ba mẹ của mình xuất hiện từ cây đũa phép của Voldemort.
+- Harry được đưa đến văn phòng của Moody, và nói với Moody rằng có một Tử thần Thực tử ở trong trường.
+- Moody (Barty Crouch Jr.) thừa nhận rằng ông đã đặt tên Harry vào Cốc Lửa và đã giúp Harry vượt qua các bài thi.
+- Moody (Crouch Jr.) tiết lộ rằng ông đã làm những điều này để đưa Harry đến Voldemort.
+- Dumbledore, Snape và McGonagall đến và vô hiệu hóa Moody (Crouch Jr.), tiết lộ rằng đây không phải là Moody thật.
+- Dumbledore giải thích rằng Moody thật đang bị giam giữ và bị thay thế bởi Barty Crouch Jr., người đã sử dụng thuốc Đa dịch.
+- Barty Crouch Jr. sau đó bị tỉnh lại bằng Chân Dược và kể về quá trình trốn thoát của mình từ Azkaban, cách ông đã giả dạng thành Moody và làm cách nào để đưa Harry đến Voldemort.
+"""

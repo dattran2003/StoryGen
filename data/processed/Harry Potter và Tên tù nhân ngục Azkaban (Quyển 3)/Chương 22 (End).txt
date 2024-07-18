@@ -1,0 +1,20 @@
+"""
+- Harry và Hermione cố gắng trở lại Bệnh xá trước khi Thầy Dumbledore khóa cửa, để tránh bị phát hiện.
+- Họ nghe cuộc trò chuyện giữa Thầy Snape và Ông Fudge, trong đó Thầy Snape tỏ ra mong muốn "hôn của Azkhaban" được thực hiện ngay lập tức trên Sirius.
+- Harry và Hermione tránh được Peeves và cuối cùng trở lại Bệnh xá chỉ đúng lúc Thầy Dumbledore khóa cửa.
+- Harry thông báo với Thầy Dumbledore rằng Sirius đã thoát và cưỡi Buckbeak bay đi.
+- Harry và Hermione trở lại giường của họ trong Bệnh xá ngay trước khi Bà Pomfrey kiểm tra.
+- Thầy Snape, Ông Fudge và Thầy Dumbledore sau đó xông vào Bệnh xá, cáo buộc Harry giúp Sirius trốn thoát, nhưng không thể chứng minh do cửa phòng bị khóa.
+- Thầy Lupin tiết lộ mình là người sói và quyết định từ chức, vì sợ hãi mình có thể làm hại học sinh.
+- Harry cố thuyết phục Thầy Lupin ở lại nhưng không thành công.
+- Thầy Lupin tặng lại Harry bản đồ của Đạo Tặc và áo khoác tàng hình.
+- Harry thảo luận với Thầy Dumbledore về lời tiên đoán của Giáo sư Trelawney, Thầy giải thích rằng Harry đã làm đúng khi cứu Pettigrew.
+- Thầy Dumbledore nói với Harry rằng người cha đã qua đời của Harry vẫn sống trong tim cậu, và Harry đã tìm thấy cha mình trong chính mình.
+- Harry, Ron, và Hermione không chia sẻ sự thật về sự kiện đêm Sirius trốn thoát với ai khác.
+- Harry, Ron, và Hermione đều đậu tất cả các môn trong kỳ thi cuối năm.
+- Hermione quyết định bỏ môn Muggle học và Muggle Studies để giảm bớt áp lực.
+- Harry nhận được thư từ Sirius, nói rằng anh và Buckbeak đang ẩn náu an toàn và Sirius đã gửi cây chổi Tia Chớp cho Harry.
+- Sirius cho phép Harry thăm Hogsmeade, điều này làm Harry rất vui.
+- Ron nhận con cú nhỏ mà Sirius gửi, làm con mèo của Hermione, Crookshanks, thích thú.
+- Harry gặp lại gia đình Dursley, nhưng lần này với niềm vui vì thư của Sirius.
+"""

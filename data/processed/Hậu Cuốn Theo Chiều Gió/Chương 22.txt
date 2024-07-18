@@ -1,0 +1,23 @@
+"""
+- Scarlett dự đoán rằng cô sẽ bị trách móc bởi hai bà dì Pauline và Eulalie sau cách cô đã hành xử tại dạ hội. Scarlett cảm thấy mình chỉ đang cố gắng cứu vãn hôn nhân với Rhett.
+
+- Trên đường tới nhà thờ, Scarlett chịu đựng thái độ chê trách im lặng của hai bà dì. Cô mơ mộng về việc Rhett sẽ công nhận tình yêu của mình vào đêm giao thừa.
+
+- Scarlett không chú tâm vào buổi lễ tại nhà thờ, thay vào đó cô mơ mộng về Rhett. Cô cũng không theo kịp các bài hát trong buổi lễ.
+
+- Trong bữa ăn, Scarlett quyết định phản kháng trước khi hai bà dì bắt đầu chỉ trích cô. Scarlett nhận ra rằng những chiếc xe cô thấy đều thuộc về những người gọi là "Yankee" và "Carpetbaggers".
+
+- Scarlett cảm thấy cô đơn giữa những khuôn mặt vui vẻ khi cô nhận ra rằng cô không có gia đình như mẹ chồng mình đã tưởng.
+
+- Scarlett được thông báo rằng Rhett sẽ rời đi vào ngày 30, và cô sẽ không được khiêu vũ với anh trong dịp năm mới, điều này khiến cô buồn bã.
+
+- Scarlett quyết định đi cùng Rhett đến đồn điền Dunmore. Cô hy vọng rằng cô sẽ có thời gian riêng tư với Rhett ở đó.
+
+- Scarlett và Rhett, cùng với Rosemary, đi thăm đồn điền của Julia Ashley. Scarlett bị cuốn hút bởi vẻ đẹp và sự quyến rũ của đồn điền, và cô bắt đầu mơ mộng về việc khôi phục Tara.
+
+- Scarlett cảm thấy mình có thể quản lý Tara giống như Julia Ashley đã làm với đồn điền của mình. Cô bắt đầu lên kế hoạch để khôi phục Tara.
+
+- Trong buổi trà, Scarlett bị cuốn hút bởi sự chuyên nghiệp của các đầy tớ trong việc phục vụ. Cô tận hưởng bữa ăn nhẹ, dù nó đơn giản.
+
+- Scarlett khẳng định mình không muốn đi đâu, chỉ muốn ở Charleston. Cô được khuyên nên cẩn trọng hơn bởi Julia Ashley do tình hình lộn xộn đang diễn ra.
+"""

@@ -1,0 +1,19 @@
+"""
+- Bà Calpurnia dừng lại tại rào chắn, chờ để trao lá thư cho Atticus Finch qua quan tòa Taylor.
+- Lá thư từ chị của Atticus thông báo rằng Jem và Scout đã biến mất từ trưa.
+- Jem và Scout được tìm thấy trên ban công dành cho người da màu.
+- Atticus và Calpurnia gặp Jem và Scout, Atticus mệt mỏi và Calpurnia tức giận.
+- Jem hỏi liệu họ có thắng không, nhưng Atticus không chắc chắn.
+- Atticus cho phép Jem và Scout quay lại sau khi ăn xong để nghe phần còn lại của phiên tòa.
+- Calpurnia mắng mỏ Jem vì đưa Scout đến phiên tòa.
+- Alexandra, bác của Jem và Scout, bị sốc khi biết Jem và Scout đã ở trong phiên tòa.
+- Jem và Scout trở lại tòa án, nhận ra họ đã đi gần một tiếng và thấy hầu như mọi thứ vẫn không thay đổi.
+- Bồi thẩm đoàn đã họp khoảng 30 phút.
+- Atticus, Gilmer và Taylor đều có hành vi bình thường, nhưng cách cư xử của họ dường như không bình thường trong bối cảnh yên tĩnh.
+- Jem cố gắng giữ mình tỉnh táo, và cố gắng tập trung vào việc trả tự do cho Tom Robinson.
+- Heck Tate và Atticus nói chuyện, sau đó Tate gọi "Tòa trật tự đi".
+- Bồi thẩm đoàn trở lại và không ai trong số họ nhìn vào Tom Robinson.
+- Quan tòa Taylor đọc phán quyết, Tom Robinson bị kết tội.
+- Atticus chuẩn bị đồ đạc và rời tòa án.
+- Những người da màu trong tòa án đứng dậy và tôn trọng khi Atticus đi qua.
+"""

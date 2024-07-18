@@ -1,0 +1,22 @@
+"""
+- Scarlett O'Hara Butler, trong nỗi đau mất Mélanie Wilkes, cô đơn giữa đám đông tại lễ tang dưới cơn mưa tầm tã.
+- Scarlett không thể cảm nhận được sự đau buồn chung, trái tim cô như bị tê dại trước sự mất mát này.
+- Trong tâm trí cô, chỉ còn lời cầu nguyện yếu ớt để sống qua ngày, hy vọng nỗi đau sẽ dịu dần.
+- Scarlett quyết tâm trở về nhà, ở Tara, nơi cô có thể đối mặt với nỗi đau và khóc.
+- Scarlett cảm thấy bị cô lập giữa đám đông, cô không chia sẻ niềm đau với ai, thậm chí cả Ashley Wilkes, anh trai của Mélanie.
+- Scarlett tức giận khi thấy mọi người xung quanh không nhận ra nỗi đau của cô, họ chỉ chú ý đến Ashley.
+- Scarlett nhận ra cô đã phản bội Mélanie, người bạn thân nhất của cô, và giờ đây Mélanie đã không còn.
+- Scarlett nhận ra cô không thực sự yêu Ashley, nhưng giờ đây cô có trách nhiệm chăm sóc anh, theo lời hứa với Mélanie.
+- Scarlett chịu đựng sự đau đớn khi nhìn Ashley rơi vào tuyệt vọng, cô phải can ngăn anh nhảy vào huyệt mộ.
+- Scarlett quyết tâm trở về Tara, nơi cô có thể đối mặt với nỗi đau, cô mặc kệ những lời chỉ trích từ đám đông.
+- Scarlett chuẩn bị lên tàu, cô cảm thấy mệt mỏi và cần phải trở về Tara, nơi mẹ cô đang chờ.
+- Scarlett tưởng tượng về Tara, nơi cô có thể tìm thấy sự yên bình và an ủi từ mẹ cô.
+- Scarlett gặp Will Benteen, chồng của em gái Suellen, cô thấy hạnh phúc khi gặp lại anh.
+- Scarlett thấy sự thay đổi ở Tara, ngôi nhà đang trong tình trạng suy tàn, nhưng cô không để điều này làm mất niềm vui.
+- Scarlett gặp mẹ, người đang nằm liệt giường do bệnh tật, cô cảm thấy tuyệt vọng khi thấy tình trạng của mẹ.
+- Scarlett chăm sóc mẹ, cô cố gắng làm cho mẹ thoải mái và hạnh phúc trong những ngày cuối cùng của cuộc đời.
+- Scarlett cảm thấy sợ hãi và lạc lối trong đêm tối, nhưng cô không để nỗi sợ cản trở cô thực hiện nhiệm vụ chăm sóc mẹ.
+- Scarlett tự nhủ cô là Scarlett O'Hara, cô không thể để nỗi sợ hãi đánh bại cô.
+- Scarlett quyết tâm đứng dậy và tiếp tục cuộc chiến, cô nhận ra mình cần phải đối mặt với cuộc sống và dọn dẹp các đổ vỡ.
+- Scarlett bày tỏ tình yêu đối với mẹ, cô nhận ra mình cần phải nói ra những cảm xúc này.
+"""

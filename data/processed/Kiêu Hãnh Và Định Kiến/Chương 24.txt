@@ -1,0 +1,19 @@
+"""
+- Cô Bingley xác nhận trong lá thư rằng họ sẽ ở lại London và ông anh, Mr. Bingley, tiếc vì không thể ghé thăm bạn bè ở Hertforshire.
+- Hy vọng của Jane về việc gặp lại Mr. Bingley tan biến hoàn toàn. 
+- Jane không tìm thấy nhiều an ủi trong thư ngoài lời khen ngợi dành cho cô Darcy từ Caroline.
+- Caroline nói về mối quan hệ ngày càng thân thiết giữa anh trai cô và cô Darcy.
+- Elizabeth nghe những điều này trong im lặng, chia lòng giữa lo lắng cho Jane và oán hận những người khác.
+- Elizabeth nghi ngờ tính cách dễ dãi và thiếu quyết đoán của Mr. Bingley, cho rằng anh ta đã để cho những người thân mưu mô chi phối.
+- Jane cuối cùng chia sẻ với Elizabeth về cảm xúc của cô, khẳng định cô không đau khổ và sẽ quên Mr. Bingley.
+- Elizabeth cảm thấy mình hiểu lầm Jane và không yêu thương chị đủ.
+- Jane từ chối mọi lời khen và khen lại Elizabeth.
+- Elizabeth chia sẻ quan điểm tiêu cực của cô về thế giới, cảm thấy bất mãn với tính cách bất khuất của con người và sự phụ thuộc vào vẻ bề ngoài.
+- Jane cố gắng thuyết phục Elizabeth về cuộc hôn nhân của Charlotte và Collins, nhưng Elizabeth không đồng ý.
+- Jane khuyên Elizabeth không nên đánh giá thấp người khác và không nên quy tội cho họ vì cảm giác bị tổn thương.
+- Elizabeth tin rằng các chị em của Mr. Bingley và bạn của anh ta đã ảnh hưởng đến anh ta, nhưng Jane không tin.
+- Bà Bennet vẫn hy vọng Mr. Bingley sẽ trở lại vào mùa hè.
+- Ông Bennet hài hước khuyến nghị Elizabeth nên tìm hiểu Wickham.
+- Wickham giúp xua tan mọi u ám trong gia đình Longbourn, mọi người đều có ấn tượng tốt về anh.
+- Anh Darcy vẫn bị coi là người tồi tệ nhất bởi mọi người ở Hertfordshire.
+"""

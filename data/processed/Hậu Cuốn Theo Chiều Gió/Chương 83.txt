@@ -1,0 +1,17 @@
+"""
+- Charles rời đi theo đơn vị và anh ấy gửi một lá thư tình yêu đến Scarlett.
+- Scarlett cất thư vào hộp nữ trang và trái tim cô chỉ còn dành chỗ cho Rhett.
+- Scarlett dùng bữa sáng với vẻ ngoài tươi tắn mặc dù cô đã không ngủ suốt đêm.
+- Cô tham gia vào cuộc trò chuyện tại bữa sáng với May Taplow, một phụ nữ quý tộc từ Anh.
+- Scarlett và May Taplow chia sẻ câu chuyện về gia đình và chính trị trong khi ăn sáng.
+- Scarlett rời bữa sáng để chuẩn bị cho buổi săn tiếp theo.
+- Harriet Kelly thông báo với Scarlett rằng Billy đã được nhận vào một trường học ở Anh, điều này khiến Scarlett bất ngờ.
+- Scarlett chấp nhận quyết định của Harriet, hiểu rằng cô ấy chỉ muốn điều tốt nhất cho Billy.
+- Scarlett và Cat tham gia vào việc làm sạch và sắp xếp ngọn tháp thành cơ ngơi riêng của Cat.
+- Scarlett tổ chức một bữa tiệc sinh nhật cho Cat vào Halloween.
+- Scarlett chứng kiến những cuộc nổi dậy và phản ứng dữ dội từ Whiteboys, gây ra nhiều sự hỗn loạn.
+- Scarlett lo lắng về sự an toàn của Cat và bắt đầu hạn chế việc bé đi chơi một mình.
+- Scarlett gặp Luke Fenton, Bá tước Kilmessan, trong một cuộc săn và họ có cuộc trò chuyện thú vị.
+- Scarlett nhận được tin tức từ Harriet Kelly, bao gồm việc India Wibes đã có người cầu hôn và Ashley đã hỏi xin cưới Harriet.
+- Scarlett tiếp đón bất ngờ Luke Fenton tại nhà mình và họ chia sẻ ly cà phê cuối cùng.
+"""

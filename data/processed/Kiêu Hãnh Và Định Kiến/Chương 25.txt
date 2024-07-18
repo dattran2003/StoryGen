@@ -1,0 +1,14 @@
+"""
+- Anh Collins sau một tuần lễ bày tỏ tình cảm, phải trở về nhưng anh hy vọng lần trở lại tiếp theo sẽ định ngày cưới.
+- Ngày thứ hai, bà Bennet chào đón em trai và vợ ông, ông Gardiner và bà Gardiner, đến Longbourn cho mùa Giáng sinh.
+- Ông Gardiner là người nhạy cảm và thanh lịch, còn bà Gardiner là người phụ nữ dễ thương và thông minh, được gia đình Longbourn yêu quý.
+- Bà Gardiner phân phát quà tặng và mô tả trang phục mới, sau đó lắng nghe những than phiền của bà Bennet về cuộc sống của gia đình.
+- Bà Bennet phàn nàn về việc hai cô con gái Jane và Elizabeth đã bỏ lỡ cơ hội kết hôn, đặc biệt là Elizabeth từ chối anh Collins.
+- Elizabeth chia sẻ với bà Gardiner về việc anh Bingley yêu Jane nhưng sau đó lại quên mất cô.
+- Bà Gardiner khuyên Elizabeth không nên tin vào "tình yêu mãnh liệt" và đặt câu hỏi về mức độ tình yêu của anh Bingley.
+- Elizabeth tin rằng anh Bingley đã thực sự yêu Jane và bà Gardiner đề nghị Jane hãy rời khỏi nơi này một thời gian để quên đi anh Bingley.
+- Jane đồng ý với lời đề nghị và gia đình Gardiner ở lại Longbourn một tuần.
+- Trong tuần này, có nhiều cuộc giao tiếp với nhà Philips, nhà Lucas và các sĩ quan, trong đó có sự hiện diện thường xuyên của anh Wickham.
+- Bà Gardiner nhận ra sự thân mật giữa Elizabeth và Wickham và quyết định sẽ nói chuyện với Elizabeth về việc này trước khi rời đi.
+- Wickham và bà Gardiner chia sẻ những kỷ niệm về Derbyshire và nói về gia đình Darcy, đặc biệt là về ông cụ Darcy và anh Darcy.
+"""

@@ -1,0 +1,23 @@
+"""
+- Scarlett trở về nhà vào màn đêm, cảm nhận sự tĩnh lặng và hoang vắng. 
+
+- Cô từ chối bữa ăn và yêu cầu Pansy giúp cô thay áo, cho thấy sự mệt mỏi và không muốn tiếp xúc với ai.
+
+- Scarlett cố gắng ngủ để quên đi những vấn đề, nhưng không thể khóc hay ngủ được sau những điều khủng khiếp mà Sally Brewton đã tiết lộ.
+
+- Rhett xuất hiện, mang theo ánh sáng và một cơn bão cảm xúc, anh ta giận dữ vì những hành động của Scarlett.
+
+- Rhett nói rằng anh ta không thích Scarlett làm trò, và anh ta sẽ không giết hoặc đánh cô, nhưng anh ta sẽ giám sát cô.
+
+- Scarlett nhận ra rằng Rhett ghen tức vì cô đã chinh phục Middleton Courtney, điều này làm cô cảm thấy mình đã thắng.
+
+- Rhett nói rằng anh ta sẽ không chấp nhận những trò diễn của Scarlett nữa và yêu cầu cô tuân thủ mọi chỉ dẫn của anh trong suốt mùa chơi.
+
+- Scarlett quyết định rời khỏi Charleston, nhưng Rhett nói rằng cô không thể bỏ đi vì điều đó sẽ tố cáo tội lỗi của cô và buộc anh phải hành động.
+
+- Scarlett sau cùng quyết định ở lại, nhưng yêu cầu Rhett giúp cô mua lại phần thừa kế của Carreen tại Tara.
+
+- Scarlett gặp khó khăn khi cố gắng thuyết phục Giáo hội chuyển nhượng phần thừa kế, nhưng Rhett khuyên cô nên kiên nhẫn và tiếp tục cố gắng.
+
+- Scarlett quyết tâm giành lại Tara, bất chấp những khó khăn và thời gian cần thiết.
+"""

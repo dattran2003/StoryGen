@@ -1,0 +1,13 @@
+"""
+- Ngày 19 tháng Giêng, Jane thức dậy trước 5 giờ sáng, chuẩn bị rời Gateshead.
+- Bessie, người hầu, chuẩn bị bữa sáng nhưng Jane quá háo hức để ra đi nên chỉ nhận một ít bánh.
+- Jane từ chối gặp bà Reed trước khi rời đi, theo lời bà Reed dặn đêm trước.
+- Jane rời Gateshead bằng xe ngựa lúc 6 giờ sáng.
+- Trong khi rời, Jane thốt lên "Vĩnh biệt Gateshead!" trong một buổi sáng mùa đông lạnh lẽo.
+- Jane đến Lowood, một viện giáo dục trẻ mồ côi, sau một chuyến đi dài.
+- Jane gặp cô Miller, một giáo viên trẻ, dẫn Jane đến một phòng rộng lớn nơi học sinh tụ tập.
+- Jane được sắp xếp vào lớp học sinh nhỏ nhất, do cô Miller phụ trách.
+- Jane gặp Hellen Burns, một học sinh lớn, người giải thích cho Jane về cơ sở và cách thức hoạt động của Lowood.
+- Jane trải qua một ngày đầu tiên đầy khó khăn tại Lowood, với thực phẩm kém chất lượng và điều kiện sống khắc nghiệt.
+- Ngày đầu tiên kết thúc vớiJane ăn một bữa tối không ngon miệng, học thêm, và sau đó đi ngủ.
+"""

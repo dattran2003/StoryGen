@@ -1,0 +1,12 @@
+"""
+- Mùa thu chuyển sang mùa đông tại hạt Maycomb, với hai tuần lạnh kỷ lục kể từ năm 1885. Sự thay đổi thời tiết này được cho là do những hành vi xấu của trẻ em như không nghe lời cha mẹ, hút thuốc và đánh nhau.
+- Bà Radley qua đời nhưng cái chết của bà không gây xôn xao. Atticus xác nhận bà chết vì tuổi già.
+- Atticus từ chối khi được hỏi về Arthur Radley.
+- Tuyết rơi tại Maycomb, một sự kiện hiếm hoi, khiến học sinh được nghỉ học.
+- Jem và Scout quyết định làm một người tuyết, họ lấy tuyết từ sân nhà cô Maudie.
+- Họ tạo nên một bức tượng tuyết giống ông Avery, gây phản ứng hài hước từ hàng xóm.
+- Nhà của cô Maudie bốc cháy vào ban đêm, may mắn không có ai bị thương.
+- Trong lúc hỗn loạn, Boo Radley đã âm thầm đưa một cái mền cho Scout để giữ ấm mà không bị ai nhận ra.
+- Cô Maudie tỏ ra lạc quan sau vụ cháy, dự định xây lại ngôi nhà mới và mở rộng vườn cây.
+- Jem và Scout phát hiện ra rằng Boo Radley đã giúp họ trong đêm cháy nhà mà không hề biết.
+"""

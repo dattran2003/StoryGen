@@ -1,0 +1,12 @@
+"""
+- Cụ Pierre Robillard và Scarlett dự lễ khánh thành Hodgson Hall. Scarlett mặc trang phục lộng lẫy, gây ấn tượng mạnh.
+- Scarlett và ông ngoại cô đi trên cỗ xe ngựa, cả hai đều im lặng.
+- Đến Hodgson Hall, họ gặp đám đông tụ tập. Scarlett nhận ra Jamie và gia đình anh, nhưng cố gắng tránh không để họ thấy.
+- Scarlett và ông ngoại cô bước vào tòa nhà, cô cảm thấy sợ hãi bởi không khí già cỗi và cô đơn.
+- Scarlett cảm thấy mình già đi và muốn trốn thoát. Cô nói với ông ngoại mình không khỏe và rời đi.
+- Scarlett chạy trốn khỏi buổi lễ, thuê một chiếc xe để đến nhà Jamie.
+- Scarlett gặp Colum, người thân trong gia đình O'Hara. Anh ta trẻ hơn Jamie và có vẻ khác biệt nhưng cũng có nét giống cha Scarlett.
+- Scarlett cảm thấy vui vẻ và thoải mái trong không khí vui vẻ của gia đình O'Hara, nhưng cô nhận ra mình đang bị giằng xé giữa bản chất và giáo dục của mình.
+- Scarlett nhận được thư từ tòa giám mục từ chối đề nghị của cô, điều này khiến cô tức giận và cô chạy đến nhà Jamie.
+- Scarlett phát hiện Colum, người cô đã thân thiện, là một linh mục. Nhận ra điều này, cô cảm thấy có thể chia sẻ mọi bí mật với anh.
+"""

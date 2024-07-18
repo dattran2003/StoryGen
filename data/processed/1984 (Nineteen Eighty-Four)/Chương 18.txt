@@ -1,0 +1,13 @@
+"""
+- Nhân vật chính bị giam trong một tòa nhà không cửa sổ, nơi áp suất không khí thay đổi, báo hiệu vị trí của anh.
+- Anh bị trói chặt trên một chiếc ghế trong một phòng lớn hơn những phòng anh đã từng ở, chỉ nhìn thấy hai bàn phủ khăn xanh.
+- O'Brien xuất hiện, nhắc lại câu hỏi trước đây của anh về phòng 101 và khẳng định rằng "gớm ghê nhất thế giới" thay đổi tùy theo từng người.
+- Một vật bằng dây thép được đưa vào, chứa chuột - "gớm ghê nhất thế giới" của anh.
+- O'Brien giải thích rằng mọi người đều có một nỗi sợ không thể chống lại, và với anh, đó là chuột.
+- O'Brien mô tả sự khát máu và sự thông minh của chuột, làm tăng thêm sự kinh hoàng của anh.
+- O'Brien chuẩn bị thả chuột lên anh, gây ra một cuộc khủng hoảng trong anh, buộc anh phải đặt một người khác - Julia - giữa anh và chuột.
+- Winston sau đó gặp Julia, họ đều thừa nhận đã phản bội nhau dưới áp lực tra tấn.
+- Winston trở về quán Cây Lật, nơi anh dành phần lớn thời gian của mình, uống rượu và chơi cờ.
+- Anh nhận được tin tức về chiến thắng quân sự quan trọng, giúp anh cảm thấy kết nối mạnh mẽ với Bác và Đảng.
+- Winston cuối cùng nhận ra rằng anh yêu Bác, sau một cuộc đấu tranh nội tâm kéo dài.
+"""

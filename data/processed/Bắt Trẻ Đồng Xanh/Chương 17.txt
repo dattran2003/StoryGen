@@ -1,0 +1,14 @@
+"""
+- Tôi đến sớm tại một khách sạn và dành thời gian quan sát các cô gái đang chờ đợi bạn trai của họ.
+- Tôi suy nghĩ về cuộc sống tương lai khó khăn mà những cô gái này có thể phải đối mặt sau khi tốt nghiệp.
+- Tôi nhớ lại thời gian sống cùng một người bạn phòng tên Harris Maclin tại Elkton Hills, người tôi thấy chán nhưng lại biết huýt sáo rất hay.
+- Cô bạn Sally của tôi xuất hiện và tôi cảm thấy muốn kết hôn với cô ấy ngay lập tức.
+- Tôi và Sally đi xem vở kịch của vợ chồng Lunt, trong đó tôi chê kịch bản và diễn xuất.
+- Trong giờ nghỉ giữa vở kịch, tôi thấy Sally thân mật với một người bạn cũ và cảm thấy ghen tị.
+- Tôi và Sally sau đó đi trượt băng ở Radio City, nhưng chúng tôi không giỏi và bị té ngã.
+- Chúng tôi dừng lại tại một quán bar sau khi trượt băng và tôi bắt đầu chia sẻ cảm xúc sâu sắc với Sally, bày tỏ sự căm thù đối với xã hội và hệ thống giáo dục.
+- Tôi đề nghị Sally bỏ trốn với tôi để du lịch và có thể kết hôn, nhưng cô ấy từ chối.
+- Cả hai chúng tôi cãi nhau và tôi nói những lời thô lỗ với Sally, khiến cô ấy khóc.
+- Tôi xin lỗi nhưng Sally vẫn tức giận và từ chối cho tôi tiễn cô ấy về nhà.
+- Cuối cùng, tôi rời bỏ Sally tại quán bar, cảm thấy chán chường với tất cả mọi thứ.
+"""

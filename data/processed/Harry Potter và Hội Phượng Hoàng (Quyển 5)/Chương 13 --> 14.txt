@@ -1,0 +1,25 @@
+"""
+    - Bữa tối trong Đại Sảnh của Harry sau vụ cãi vã với giáo sư Umbridge đã bị ảnh hưởng bởi những tin đồn lan truyền nhanh chóng về vụ việc này.
+    - Harry nhận thấy những tiếng thì thầm từ khắp nơi trong Đại Sảnh khi nó ngồi ăn giữa Ron và Hermione. 
+    - Harry và Hermione đã tranh luận về việc tại sao các bạn cùng trường đã tin vào lời của Dumbledore trước đây nhưng giờ đây lại nghi ngờ Harry.
+    - Hermione đã nói với Harry và Ron rằng họ không thể tập trung vào bài tập vì họ còn đang lo lắng về tình hình với Umbridge và việc bác Hagrid vẫn chưa trở về.
+    - Fred, George và Lee Jordan đã thử nghiệm một số sản phẩm của họ trên các học sinh năm nhất, khiến họ giả ngất.
+    - Hermione đã phản ứng mạnh mẽ với hành động của Fred và George, đe dọa sẽ viết thư cho cha mẹ họ.
+    - Harry và Ron đã cố gắng làm bài tập về nhà trong thư viện trong khi Hermione làm mũ cho gia tinh.
+    - Harry và Ron đã gặp Draco Malfoy và nhóm của cậu ta trước khi đến lớp Chăm sóc Sinh Vật Huyền Bí, trong đó Malfoy đã trêu chọc về việc Harry có thể đã làm hại Hagrid.
+    - Trong lớp Chăm sóc Sinh Vật Huyền Bí, họ đã học về Bowtruckles, sinh vật bảo vệ cây và thường sống trên cây dùng để làm đũa thần.
+    - Harry đã gặp giáo sư Grubbly-Plank thay vì Hagrid, và Malfoy đã tiếp tục trêu chọc về việc Hagrid có thể đã gặp rắc rối.
+    - Trong lớp Thực vật học, Harry đã cảm thấy bất an khi Malfoy nói về việc Hagrid có thể đã gặp rắc rối.
+    - Angelina Johnson đã chỉ trích Harry vì không thể tham gia buổi tập kiểm tra Thủ môn vì bị cấm túc.
+    - Harry đã chia sẻ với Ron về hình phạt của Umbridge, trong đó cô giáo đã dùng một cây viết đặc biệt để cắt chữ "Tôi không được nói dối" vào mu bàn tay Harry.
+    - Harry đã viết thư cho Sirius để thông báo về tình hình với Umbridge và hỏi ý kiến của chú.
+    - Harry đã thấy một con ngựa có cánh trong Khu Rừng Cấm nhưng không chắc liệu mình có nên cho Cho Chang xem cánh tay bị cắt của mình.
+    - Harry đã có một cuộc trò chuyện thân thiện với Cho Chang tại Chuồng Cú.
+    - Thầy Filch đã nghi ngờ Harry đang định gửi một lô bom phân nhưng Harry đã nói rằng lá thư đã gửi đi.
+    - Hermione đã đọc tin tức về việc Sturgis Podmore bị bắt giữ sau khi cố gắng đột nhập vào Bộ Pháp thuật.
+    - Harry, Ron và Hermione đã luyện tập Quidditch nhưng buổi luyện tập đã bị hủy do Katie bị chảy máu mũi.
+    - Anh Percy của Ron đã viết thư khuyên Ron nên cắt đứt quan hệ với Harry và ủng hộ Umbridge, điều này khiến Ron tức giận.
+    - Harry đã nhìn thấy đầu của Sirius trong đống lửa, và họ đã có một cuộc trò chuyện ngắn.
+    - Sirius đã nói rằng Fudge nghi ngờ Dumbledore đang xây dựng một đội quân và vì vậy đã ngăn cấm học sinh học môn Phòng Chống Nghệ Thuật Hắc Ám.
+    - Harry, Ron và Hermione đều lo lắng về việc Hagrid chưa trở về.
+"""

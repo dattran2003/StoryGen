@@ -1,0 +1,18 @@
+"""
+- Frodo thức giấc do Merry gọi, chuẩn bị cho chuyến đi với bữa sáng do Sam chuẩn bị.
+- Năm Hobbits rời nhà lúc 6 giờ sáng, trong khi ông Bolger Béo vẫn còn ngáp ngủ.
+- Merry dẫn đầu đoàn, băng qua cánh đồng và sương sớm, tới Khu Rừng Già.
+- Họ lên ngựa và bắt đầu cuộc hành trình qua màn sương, hướng tới Hàng Rào.
+- Merry chỉ lối qua Hàng Ràng, sau đó ông Bolger Béo tạm biệt họ.
+- Merry dẫn họ qua cổng vào Rừng, với cảnh báo về những nguy hiểm tiềm tàng.
+- Họ đi vào Rừng, cảm nhận sự bất an và cảm giác bị theo dõi.
+- Pippin không thể chịu đựng thêm nữa và kêu lên, nhưng tiếng kêu bị chặn bởi rừng cây.
+- Merry tìm thấy con đường dẫn tới Trảng Lửa, giúp họ thoát khỏi Rừng.
+- Họ đi qua Trảng Lửa, cảm thấy nhẹ nhõm hơn khi thấy ánh sáng và bầu trời.
+- Nhưng không khí bắt đầu trở nên nóng bức và ngột ngạt, cây cối trở nên dày đặc hơn.
+- Frodo hát để khích lệ mọi người, nhưng giọng hát bị chìm trong sự yên lặng.
+- Họ lên đỉnh đồi, nhìn ra cảnh quan xung quanh và thấy ranh giới của Liễu Rũ.
+- Họ quyết định tiếp tục hành trình về hướng Bắc, nhưng bị lạc hướng vào sâu trong Rừng.
+- Buổi chiều, họ gặp một nếp gấp sâu và phải theo dòng suối chảy xuống.
+- Họ đi vào một vùng tối lờ mờ, và cuối cùng tới Dòng Sông Liễu Rũ.
+"""

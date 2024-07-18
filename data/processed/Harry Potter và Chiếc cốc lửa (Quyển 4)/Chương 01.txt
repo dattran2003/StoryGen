@@ -1,0 +1,14 @@
+"""
+- Dân làng Hangleton Nhỏ gọi ngôi nhà hoang tàn trên đồi là "Ngôi Nhà Riddle", dù gia đình Riddle đã không còn sống ở đó từ lâu.
+- Một sự kiện kinh hoàng đã xảy ra ở ngôi nhà này nửa thế kỷ trước khi cả ba thành viên gia đình Riddle được tìm thấy chết trong tình trạng đáng sợ.
+- Frank Bryce, người làm vườn cho gia đình Riddle, bị nghi ngờ là thủ phạm dù ông khẳng định vô tội. 
+- Frank vẫn sống trong căn chòi nhỏ trong khuôn viên Ngôi Nhà Riddle sau sự cố, bất chấp sự nghi ngờ từ dân làng.
+- Một người đàn ông giàu có mua Ngôi Nhà Riddle nhưng không ở đó, vẫn thuê Frank làm vườn.
+- Frank, đã gần 77 tuổi, vẫn chăm sóc khu vườn mặc dù nó đang dần suy tàn.
+- Một đêm, Frank thấy ánh sáng lạ từ Ngôi Nhà Riddle và đi lên để kiểm tra, nghĩ rằng có nhóm trẻ đột nhập.
+- Trên lầu, Frank nghe được cuộc trò chuyện giữa hai người đàn ông, một người có giọng nói lạnh lùng, họ thảo luận về kế hoạch giết người và việc chờ đợi sau khi mùa Cúp Quidditch Thế Giới kết thúc.
+- Frank nhận ra họ đang nói về ma thuật và phù thủy, điều này khiến ông nghi ngờ họ là tội phạm hoặc gián điệp.
+- Trong cuộc trò chuyện, họ đề cập đến việc giết một người phụ nữ và kế hoạch sắp tới liên quan đến một người tên Harry Potter.
+- Frank định rời khỏi nơi đó để báo cảnh sát nhưng bị phát hiện bởi con rắn mà người đàn ông có giọng lạnh lùng có thể nói chuyện với.
+- Người đàn ông lạnh lùng, tự xưng là Chúa tể Hắc ám Voldemort, biết rằng Frank đã nghe lén và giết ông ta bằng ma thuật.
+"""

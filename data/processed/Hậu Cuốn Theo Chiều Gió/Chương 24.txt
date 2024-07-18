@@ -1,0 +1,18 @@
+"""
+- Rhett nhận xét Scarlett không ăn uống như thường lệ, điều này làm anh ngạc nhiên.
+- Scarlett phản ứng gay gắt trước nhận xét của Rhett, khiến anh ngạc nhiên.
+- Rhett kể cho Rosemary về mưu kế của công nhân và nông dân nhằm lừa dối họ.
+- Rhett giải quyết mâu thuẫn giữa công nhân và nông dân bằng cách đối thoại.
+- Rhett và Clinch Dawkins có cuộc ẩu đả, Rhett cắt đứt mũi Clinch.
+- Scarlett tỏ thái độ căm phẫn và bỏ đi sau khi nghe Rhett kể về cuộc ẩu đả.
+- Rosemary và Scarlett có mâu thuẫn, trong lúc đó Rhett đã đánh nhau với Clinch.
+- Scarlett thức dậy giữa đêm vì đói và đi xuống bếp tìm thức ăn.
+- Rhett và Scarlett gặp nhau trong bóng tối, Rhett chuẩn bị thức ăn và cà phê.
+- Scarlett bày tỏ mong muốn có lại mối quan hệ hạnh phúc với Rhett.
+- Rhett giải thích rằng anh đã dành hết tình yêu cho Scarlett và không còn gì để cho.
+- Scarlett đồng ý không đòi hỏi thêm từ Rhett và họ sẽ cố gắng giữ mối quan hệ tốt.
+- Scarlett quyết định không quấy rầy Rhett nữa và giữ mối quan hệ tốt giữa họ.
+- Scarlett chuẩn bị cho một buổi sáng mới với hy vọng giữ được không khí thân thiện.
+- Rhett và Scarlett tiếp tục giữ khoảng cách, nhưng Scarlett vẫn mong muốn có sự thay đổi.
+- Rhett mệt mỏi và quyết định đi ngủ, trong khi Scarlett vẫn thức dậy nhìn anh.
+"""

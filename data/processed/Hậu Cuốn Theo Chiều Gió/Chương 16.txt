@@ -1,0 +1,17 @@
+"""
+- Scarlett tham dự lễ nhà thờ và tìm thấy sự thoải mái trong nghi lễ và bài hát, cũng như kỷ niệm về mẹ mình.
+- Scarlett buộc phải xưng tội và sau đó thăm Carreen tại tu viện, nơi cô thấy bất ngờ với sự thay đổi của em gái mình.
+- Scarlett cảm thấy ấm áp khi nhận được tình yêu và sự tôn trọng từ Carreen.
+- Scarlett nhanh chóng thích nghi với cuộc sống bận rộn tại Charleston, tham dự các buổi lễ, bữa ăn và buổi trà.
+- Bà Eleanor Butler cố gắng hướng dẫn Scarlett về quy tắc xã hội của Charleston.
+- Scarlett quyết định thăm tất cả những người đã để lại danh thiếp, bất chấp lời khuyên của bà Butler.
+- Scarlett thích cuộc sống hàng ngày tại Charleston, gồm việc đi chợ, tham dự các sự kiện xã hội và gặp gỡ bạn bè mới.
+- Scarlett cảm thấy hạnh phúc khi mọi người nói về Rhett và hy vọng anh ta sẽ trở về.
+- Scarlett cảm thấy chán chường với cuộc sống tại Charleston sau một thời gian, đặc biệt là về thời trang.
+- Sự hồi hộp của Scarlett tăng lên khi có tin đồn về một người đàn ông bí ẩn rình rập phụ nữ vào ban đêm.
+- Scarlett cảm thấy sợ hãi khi nhớ lại ký ức về người lính miền Bắc đã tấn công Tara.
+- Scarlett van nài bà Butler gửi điện cho Rhett để anh ta trở về bảo vệ họ.
+- Scarlett quyết định tự mình đi tìm Rhett, bất chấp lời khuyên của bà Butler.
+- Scarlett đến thăm đồn điền của Rhett trong tình trạng bừa bộn và lo lắng anh sẽ tức giận.
+- Scarlett cuối cùng gặp Rhett sau một chuyến đi đầy khó khăn trên một con thuyền nhỏ.
+"""

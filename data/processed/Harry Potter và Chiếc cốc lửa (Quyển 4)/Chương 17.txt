@@ -1,0 +1,17 @@
+"""
+- Harry Potter, sững sờ và choáng váng, khi tên của anh ta được chọn từ Cốc Lửa, khiến Đại sảnh im lặng rồi sau đó trở nên ồn ào.
+- Giáo sư McGonagall, Ludo Bagman và giáo sư Karkaroff thảo luận với giáo sư Dumbledore về sự cố.
+- Harry khẳng định mình không tự bỏ tên vào Cốc Lửa và Ron, Hermione đều không tin.
+- Harry được gọi lên trước và sau đó dẫn vào một phòng nhỏ.
+- Ludo Bagman giới thiệu Harry là "vị quán quân thứ tư" của Giải đấu Tam trường, gây ra sự bất ngờ cho các quán quân khác: Viktor Krum, Cedric Diggory và Fleur Delacour.
+- Trong cuộc thảo luận tiếp theo, bà Maxime và Karkaroff bày tỏ sự bất mãn và nghi ngờ về việc Harry tham gia.
+- Giáo sư Snape đổ lỗi cho Harry cố tình phá luật.
+- Dumbledore hỏi Harry liệu anh ta có bỏ tên mình vào Cốc Lửa không và Harry khẳng định không.
+- Moody đưa ra lý thuyết rằng có ai đó đã cố tình đưa tên Harry vào Cốc Lửa, có thể với ý định gây hại cho anh ta.
+- Dumbledore tuyên bố Harry và Cedric đều được chọn để tham gia cuộc thi và họ phải tiếp tục.
+- Ông Crouch thông báo rằng bài thi đầu tiên sẽ thử thách sự can đảm của các quán quân và sẽ diễn ra vào ngày 24 tháng 11.
+- Các quán quân không được nhận sự giúp đỡ từ giáo viên và sẽ được miễn các bài kiểm tra cuối năm.
+- Cerdic và Harry trở về, và trong khi Cerdic tỏ ra nghi ngờ, Harry cảm thấy mình đang bị hiểu lầm.
+- Harry trở về nhà Gryffindor, nơi mọi người ăn mừng và hỏi anh ta làm thế nào để vượt qua Lằn tuổi, nhưng Harry khẳng định anh ta không biết tại sao tên mình lại xuất hiện trong Cốc Lửa.
+- Ron tỏ ra nghi ngờ và ghen tị với Harry, khiến mối quan hệ giữa họ trở nên căng thẳng.
+"""

@@ -1,0 +1,19 @@
+"""
+- Harry tiếp tục theo hướng dẫn của hoàng tử Nửa-dòng máu trong môn Độc dược, kết quả là Slughorn đã thấy thích thú với khả năng của Harry.
+- Ron và Hermione không vui với việc này, Ron gặp khó khăn trong việc giải đọc bản viết tay của hoàng tử và Hermione kiên quyết tiếp tục với hướng dẫn "chính thức".
+- Harry tự hỏi về danh tính của hoàng tử Nửa-dòng máu, chú ý đến một trang không có ghi chú và những thần chú tự tạo.
+- Hermione và Ron nhận xét chữ viết trong cuốn sách giống của một cô gái hơn là một chàng trai.
+- Harry hẹn gặp Dumbledore sau bữa tối thứ bảy.
+- Trong hành trình đến cuộc hẹn, Harry tránh giáo sư Trelawney đang xem lá bài và nghe cô ấy lẩm bẩm.
+- Harry gặp Dumbledore, người giải thích rằng họ sẽ khám phá thông tin căn bản về Voldemort và lý do vì sao Voldemort cố giết Harry 15 năm trước.
+- Họ sử dụng Chậu Tưởng Ký để du hành đến ký ức của Bob Odgen, một nhân viên của Phòng Cưỡng chế luật lệ pháp thuật.
+- Họ chứng kiến cuộc gặp gỡ giữa Odgen và gia đình Gaunt, bao gồm Marvolo, Morfin và Merope.
+- Morfin đã tấn công một người dân Muggle và Odgen đến để điều tra.
+- Merope, con gái của Marvolo, tỏ ra yếu đuối và không được cha yêu quý.
+- Marvolo khoe chiếc nhẫn gia đình và dây chuyền vàng của mình để chứng minh dòng dõi thuần chủng.
+- Harry và Dumbledore chứng kiến cuộc gặp gỡ giữa Merope và Tom Riddle, người Muggle mà sau này cô kết hôn.
+- Merope sử dụng bùa hoặc dược liệu để làm cho Tom Riddle yêu cô.
+- Tom Riddle sau này bỏ rơi Merope khi cô đang mang thai, dẫn đến việc Merope sinh ra Voldemort trong một trại trẻ mồ côi.
+- Dumbledore giải thích tầm quan trọng của việc hiểu rõ lịch sử của Voldemort đối với lời tiên tri và yêu cầu Harry giữ bí mật thông tin này.
+- Harry nhận ra rằng chiếc nhẫn mà Dumbledore đang đeo có liên quan đến Marvolo Gaunt, nhưng Dumbledore từ chối giải thích ngay lập tức.
+"""

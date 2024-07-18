@@ -1,0 +1,11 @@
+"""
+- Ông Dolphus Raymond mời Scout và Dill đến, ông ta tiết lộ rằng thứ ông uống không phải là rượu mà chỉ là Coca-Cola, dù ông giả vờ say suốt thời gian để người khác có lý do để ghét ông.
+- Ông Raymond chia sẻ với Scout và Dill rằng ông sống theo cách riêng của mình, bất chấp quan niệm của xã hội, và ông không quan tâm nếu họ không thích điều đó.
+- Scout và Dill trở lại phiên tòa sau cuộc trò chuyện với ông Raymond, nơi Atticus đang tranh tụng cho Tom Robinson.
+- Atticus phê phán chứng cứ của bên công tố dựa vào lời khai không đáng tin cậy từ Mayella và ông Ewell, ông nhấn mạnh rằng Tom Robinson không có tội.
+- Atticus chỉ trích Mayella Ewell đã quyến rũ Tom Robinson, một hành động vi phạm quy ước xã hội, và sau đó buộc tội anh ta để che dấu hành động của mình.
+- Atticus nhấn mạnh rằng không có ai trong phòng xử án chưa từng nói dối, làm điều đồi bại, hoặc nhìn thấy phụ nữ mà không có ham muốn.
+- Atticus nhắc lại quan điểm của Thomas Jefferson về sự bình đẳng của mọi người, ông nói rằng trong các tòa án của chúng ta, mọi người sinh ra đều bình đẳng.
+- Atticus kết thúc phần tranh tụng của mình bằng cách kêu gọi bồi thẩm đoàn thực hiện trách nhiệm của họ, và tin tưởng vào sự thật mà Tom Robinson đã khai.
+- Cuối cùng, Calpurnia xuất hiện trong phòng xử án, tiến về phía Atticus.
+"""

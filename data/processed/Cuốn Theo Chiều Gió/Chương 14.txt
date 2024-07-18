@@ -1,0 +1,16 @@
+"""
+- Đầu mùa hạ năm 1863, niềm hy vọng tăng cao trong lòng người dân miền Nam, bất chấp cảnh sống khắc khổ và thiếu thốn, họ tin rằng chỉ cần một chiến thắng nữa, chiến tranh sẽ kết thúc.
+- Giáng sinh năm 1862 là một thời điểm vui mừng khi quân đội Liên bang miền Nam giành chiến thắng lớn tại trận Fredericksburg.
+- Trong mùa xuân, chiến tranh tiếp diễn với nhiều chiến thắng khác của quân đội Liên bang.
+- Tướng Nathan Bedford Forrest chặn và đánh bại cuộc đột kích của kỵ binh Bắc Mỹ, tăng thêm niềm tin chiến thắng.
+- Tướng Forrest cũng đã ngăn chặn và bắt sống toàn bộ lực lượng của Đại tá Streight, gây thiệt hại lớn cho quân đội Yankee.
+- Tin vui chiến thắng bay về Atlanta, nhưng thực tế, quân đội của Tướng Grant đã vây hãm Vicksburg từ giữa tháng năm.
+- Dân Atlanta hy vọng Tướng Lee sẽ rút ngắn cuộc chiến khi tiến vào Pennsylvania, nhưng lo lắng khi biết lệnh cấm cướp bóc và yêu cầu đền bù từ Tướng Lee.
+- Scarlett lo lắng cho anh trai Darcy Meade, đang ở mặt trận và cần giày.
+- Tin tức mơ hồ về một trận chiến lớn gần Gettysburg, Pennsylvania khiến lo âu và sợ hãi lan rộng khắp Atlanta.
+- Vicksburg thất thủ, nhưng người dân miền Nam hy vọng chiến thắng của Tướng Lee ở miền Đông sẽ đủ để xóa nhòa sự thất bại này.
+- Tin tức đầu tiên về tổn thất từ Pennsylvania tạo ra một không khí nặng nề ở Atlanta.
+- Scarlett tìm thấy tên những người quen trong danh sách thương vong, bao gồm cả gia đình Tarleton, gây cho cô nỗi đau khó tả.
+- Rhett Butler thông báo Tướng Lee có thể đã bại trận và đang rút lui về Maryland, điều này khiến Scarlett lo lắng.
+- Scarlett và Melanie chăm sóc bà Meade sau khi nghe tin con trai bà, Darcy, đã tử trận.
+"""

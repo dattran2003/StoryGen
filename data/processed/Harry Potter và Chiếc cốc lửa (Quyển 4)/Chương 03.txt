@@ -1,0 +1,9 @@
+"""
+- Harry xuống nhà bếp, nơi gia đình Dursley đang ăn sáng. Dượng Vernon đang đọc báo và dì Petunia đang cắt trái bưởi.
+- Cuộc sống của Dursley đã thay đổi sau khi trở về từ trường với báo cáo điểm cuối năm không tốt, dẫn đến việc bắt đầu chế độ ăn kiêng.
+- Trong lúc Dursley đang ăn sáng, một lá thư màu tím được gửi đến, chứa lời mời Harry đến xem trận chung kết Cúp Quidditch Thế Giới từ gia đình Weasley.
+- Dượng Vernon tức giận vì lá thư và cách nó được gửi, nhưng sau một cuộc thảo luận căng thẳng, ông đồng ý cho Harry đi với Weasleys.
+- Harry nhận một lá thư khác từ Ron, thông báo rằng họ đã có vé cho trận đấu và sẽ đến đón Harry vào ngày hôm sau.
+- Harry viết thư hồi âm cho Ron và gửi cho chú Sirius, thông báo rằng ông sẽ ở lại nhà Weasleys cho đến cuối mùa hè.
+- Harry cảm thấy hạnh phúc và tự do khi chuẩn bị rời khỏi nhà Dursley để xem trận đấu Cúp Quidditch Thế Giới.
+"""

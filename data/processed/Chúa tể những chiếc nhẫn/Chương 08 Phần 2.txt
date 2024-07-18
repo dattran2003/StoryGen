@@ -1,0 +1,22 @@
+"""
+- Tom Bombadil tiến vào một căn phòng tối, hát một bài hát mạnh mẽ khiến một phần của phòng đổ sập.
+- Một tiếng kêu vang lên sau đó mọi thứ trở lại im lặng.
+- Tom yêu cầu Frodo giúp khiêng Merry, Pippin và Sam ra khỏi căn phòng.
+- Khi Frodo rời khỏi căn phòng lần cuối, anh nhìn thấy một tay đang quằn quại trên đống đổ nát.
+- Tom thu thập một lượng lớn châu báu từ căn phòng và đặt chúng lên ngôi mộ xanh trong ánh mặt trời.
+- Tom gọi các Hobbits thức dậy, họ tỉnh lại và nhìn thấy Tom trên đỉnh mộ.
+- Merry nhớ lại sự tấn công từ Carn Dym và cảm nhận một cơn đau, nhưng sau đó anh nhận ra rằng mình đang mơ.
+- Frodo giải thích rằng anh đã lạc, nhưng không muốn nói về điều đó.
+- Tom thông báo rằng họ không thể tìm lại quần áo của mình.
+- Ông khuyến khích họ vui vẻ và chạy trần truồng trên cỏ trong khi ông đi săn.
+- Khi Tom trở lại, anh mang theo sáu con ngựa lùn, trong đó có Lumpkin Béo.
+- Tom giải thích rằng ngựa lùn đã bỏ chạy vì sợ hãi, nhưng đã trở lại mang theo hành lý.
+- Frodo hỏi về Lumpkin Béo, và Tom nói rằng đó là ngựa của ông.
+- Các Hobbits thay quần áo và chuẩn bị ăn sáng.
+- Tom chọn một cây trâm với những viên đá xanh và một con dao găm cho mỗi Hobbit từ đống châu báu.
+- Tom giải thích rằng những con dao găm này đã được rèn bởi những người ở Vùng Tây, kẻ thù của Chúa Tể Hắc Ám.
+- Họ bắt đầu hành trình, với Tom cưỡi trên Lumpkin Béo.
+- Họ đến Bree, nơi họ hy vọng sẽ tìm thấy một quán trọ an toàn.
+- Frodo nhắc nhở mọi người không được tiết lộ tên thật của mình.
+- Họ tiếp tục hành trình trong đêm, với hy vọng tìm thấy một nơi trú ẩn. 
+"""

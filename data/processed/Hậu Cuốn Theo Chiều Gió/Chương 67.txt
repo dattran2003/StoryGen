@@ -1,0 +1,10 @@
+"""
+- Trời đẹp suốt tám ngày, trong thời gian này, Scarlett nhận đợt áo đầm cuối cùng cho Cat từ bà thợ may và chuẩn bị lên đường.
+- Scarlett nhìn thấy Colum bước vào đền thờ bỏ hoang, và cô mừng rỡ khi nghĩ rằng anh đã quyết định trở lại với tôn giáo.
+- Scarlett bất ngờ khi chứng kiến một cuộc xung đột giữa Colum và một người lạ mặt trong đền thờ, trong đó người lạ mặt đã cố gắng tấn công cô.
+- Scarlett cảm nhận được mối nguy hiểm, nhưng Colum can thiệp và bảo vệ cô, đồng thời giải thích rằng người lạ mặt này là một thành viên của Hội Fenian, một nhóm chống lại người Anh.
+- Colum tiết lộ rằng anh ta đã cung cấp vũ khí cho Hội Fenian từ nhà thờ, và anh ta đã kiếm tiền ở Mỹ để mua vũ khí này.
+- Scarlett cảm thấy bị phản bội và giận dữ vì sự lừa dối của Colum, nhưng anh ta giải thích rằng anh ta đang chiến đấu cho Ireland, quê hương của tổ tiên cô.
+- Colum kể về quá khứ đau thương của mình, khi chứng kiến gia đình anh ta chết đói trong khi người Anh tiếp tục chiếm đoạt tài nguyên của Ireland.
+- Scarlett bắt đầu hiểu và cảm thông với quan điểm của Colum, và cô hỏi liệu cô có thể giúp gì cho anh ta.
+"""

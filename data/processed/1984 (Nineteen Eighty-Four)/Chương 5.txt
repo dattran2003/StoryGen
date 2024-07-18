@@ -1,0 +1,12 @@
+"""
+- Winston đang viết trong nhật ký về một kí ức ba năm trước, về một phụ nữ mà anh đã gặp ở một ngõ gần nhà ga xe lửa.
+- Anh cảm thấy bị trói buộc bởi chính bộ thần kinh của mình, lo sợ những biểu hiện không tự giác như khuôn mặt co quắp hoặc nói梦 trong giấc ngủ có thể lộ ra những bí mật của mình.
+- Winston nhớ về một người đàn bà anh đã quan hệ, và vợ cũ của mình, Katharine. Anh cảm nhận được sự trống rỗng, lạnh lùng trong mối quan hệ với Katharine.
+- Đảng không chỉ ngăn cản mối quan hệ tình cảm giữa đàn ông và phụ nữ, mà còn cố gắng làm cho việc giao hợp mất đi sự hấp dẫn.
+- Winston và Katharine đã ly thân sau khoảng 10 năm chung sống, vì họ không thể có con.
+- Trong lúc tản bộ, Winston mua một vật trang sức cũ từ một cửa hàng đồ cũ, và gặp một ông lão trong quán rượu dành cho dân đen.
+- Winston cố gắng hỏi ông lão về cuộc sống trước Cách Mạng, nhưng không thể thu thập được thông tin đáng kể.
+- Winston sau đó trở lại cửa hàng đồ cũ, mua thêm một số vật phẩm và quyết định sẽ trở lại sau một tháng.
+- Trong lúc trở về nhà, Winston gặp lại cô gái thuộc Cục Truyện, người mà anh nghi ngờ đang theo dõi mình.
+- Winston trở về nhà với nỗi lo sợ, biết rằng một ngày nào đó, anh sẽ phải đối mặt với Cảnh Sát Tư Tưởng.
+"""

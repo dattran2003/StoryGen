@@ -1,0 +1,14 @@
+"""
+- Jane và Elizabeth thay đổi quần áo dùng bữa tối, sức khỏe của Jane là chủ đề được mọi người quan tâm.
+- Elizabeth nhận ra Bingley quan tâm sâu sắc đến Jane, trái ngược với thái độ vô tâm của hai cô gái khác.
+- Bingley là người duy nhất Elizabeth có thiện cảm, anh quan tâm đến Jane một cách tế nhị.
+- Cô Bingley bị Darcy thu hút và luôn bám theo anh, trong khi Hurst chỉ quan tâm đến ăn uống và chơi bài.
+- Sau bữa tối, cô Bingley và Hurst bắt đầu nói xấu Elizabeth, phê bình ngoại hình và phong cách ăn mặc của cô.
+- Bingley cố gắng bảo vệ Elizabeth, nhưng cô Bingley và Hurst tiếp tục chỉ trích cô.
+- Họ thảo luận về gia cảnh của Jane và Elizabeth, tỏ ra khinh thường vì mối quan hệ xã hội thấp kém của họ.
+- Bingley và Darcy phản ứng một cách trung thực và tôn trọng, không để cho những lời bình phẩm tiêu cực ảnh hưởng đến họ.
+- Elizabeth từ chối tham gia chơi bài, chọn đọc sách thay vào đó, gây ra sự ngạc nhiên từ Hurst và bị cô Bingley châm chọc.
+- Họ tiếp tục trò chuyện về sách vở, tài sản và tài năng, trong đó Darcy mô tả tiêu chuẩn rất cao của anh đối với phụ nữ "toàn tài".
+- Elizabeth thắc mắc về việc liệu Darcy có biết bất kỳ phụ nữ nào đáp ứng tiêu chuẩn cao này hay không.
+- Cuối cùng, Elizabeth rời khỏi phòng, sau đó quay lại thông báo tình trạng Jane tồi tệ hơn.
+"""

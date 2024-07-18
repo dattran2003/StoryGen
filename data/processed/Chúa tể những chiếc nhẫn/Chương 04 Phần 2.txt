@@ -1,0 +1,15 @@
+"""
+- Pippin và Frodo băng qua cánh đồng củ cải và nhận ra họ đang ở đất của Chủ Trại Maggot.
+- Frodo tỏ ra hoảng sợ vì những kỷ niệm về việc bị Maggot bắt gặp khi ăn trộm nấm khi còn nhỏ.
+- Pippin gợi ý họ nên tiếp cận Maggot và giải quyết vấn đề.
+- Họ gặp Maggot, những con chó của ông ta sủa lên nhưng dừng lại khi nhận ra Pippin.
+- Maggot nhận ra Frodo và mời họ vào nhà, cung cấp cho họ bia và bắt đầu trò chuyện.
+- Maggot kể về việc một người khách kỳ lạ, mặc áo choàng đen, đã hỏi về Frodo.
+- Frodo tỏ ra lo lắng và không biết phải nghĩ gì về thông tin này.
+- Maggot khuyên Frodo nên tránh những người lạ và ở lại Buckland.
+- Frodo và nhóm quyết định phải tiếp tục hành trình đến Bến Phà, nhưng Maggot đề nghị giúp họ bằng cách chở họ bằng xe ngựa sau bữa ăn.
+- Họ ăn bữa tối tại nhà Maggot và sau đó, Maggot chở họ đến Bến Phà trong đêm tối.
+- Trên đường đi, họ gặp Merry Brandybuck, người họ đã nghĩ là một Kỵ sĩ đen.
+- Merry giải thích rằng ông đã ra ngoài để tìm họ.
+- Maggot chia tay họ, Frodo nhận được một gói quà từ vợ Maggot chứa nấm, khiến ông cười phá lên.
+"""

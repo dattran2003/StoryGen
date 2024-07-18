@@ -1,0 +1,15 @@
+"""
+- Đến chiều, nhóm di chuyển xuống rừng, theo con đường mà Gandalf, Bilbo và lùn đã sử dụng trước đó. Họ tìm thấy một hòn đá khắc dấu của người lùn, gợi nhớ về vàng của quỷ khổng lồ.
+- Frodo ước ao Bilbo đã mang về ít nguy hiểm hơn là vàng.
+- Nhóm tiếp tục đi dọc theo con đường, nơi rất tĩnh lặng, không có dấu hiệu của người lữ hành khác.
+- Họ tìm một chỗ nghỉ khi họ nghe thấy tiếng vó ngựa, tạo ra nỗi sợ hãi. 
+- Họ trốn trong bụi cây, nhìn thấy một kỵ sĩ cưỡi ngựa trắng xuất hiện, không phải là Kỵ sĩ đen. Kỵ sĩ này là Glorfindel, từ Rivendell.
+- Glorfindel nói rằng họ đang gặp nguy hiểm, Gandalf không ở Rivendell khi ông ta khởi hành.
+- Nhóm quyết định tiếp tục hành trình, Frodo bị ốm và đau do vết thương.
+- Glorfindel giúp Frodo, cho Frodo cưỡi ngựa của mình và tiếp tục di chuyển, dù Frodo muốn ở lại với bạn.
+- Frodo uống nước từ túi da bạc của Glorfindel, cảm thấy sức mạnh và sinh lực dồi dào.
+- Họ tiếp tục di chuyển, Glorfindel cảnh báo rằng kẻ săn đuổi đang nhanh chóng theo dấu họ.
+- Frodo và nhóm cuối cùng đến Khúc Cạn, nhưng bị Kỵ sĩ đen truy đuổi. 
+- Frodo chống lại họ, nhưng sức lực của ông dần cạn kiệt.
+- Cuối cùng, Frodo và nhóm được cứu bởi một nhóm kỵ sĩ từ con sông, đánh bại Kỵ sĩ đen và Frodo ngất đi.
+"""

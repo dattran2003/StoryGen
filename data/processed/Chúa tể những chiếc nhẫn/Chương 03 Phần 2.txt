@@ -1,0 +1,22 @@
+"""
+- Frodo thức dậy Pippin và họ bắt đầu hành trình, mặt trời đang lên phía đông.
+- Frodo quay lại chỗ Sam và Pippin đang nhóm lửa và nhận ra họ không mang nước theo.
+- Frodo và Pippin quyết định đi tìm nước từ một con suối ở chân đồi.
+- Họ đổ đầy nước vào chai và đun sôi ở một con thác nhỏ.
+- Sau bữa sáng, họ đóng gói hành lý và khởi hành, nhưng hành lý trở nên nặng nề.
+- Ngày đi bộ của họ hứa hẹn sẽ ấm áp và mệt mỏi.
+- Pippin nói con đường dường như kéo dài vô tận và yêu cầu dừng lại ăn trưa.
+- Frodo bắt đầu đọc một bài thơ, gần giống như bài hát cũ của Bilbo.
+- Frodo chia sẻ những lời cuối cùng của Bilbo về 'Con Đường'.
+- Frodo, Sam và Pippin dừng lại nghỉ ngơi và ăn trưa.
+- Sam nghe thấy âm thanh của một con ngựa hoặc một người đang đến.
+- Frodo và Pippin tránh ra khỏi tầm nhìn người cưỡi ngựa.
+- Người cưỡi ngựa dừng lại, dường như đang tìm kiếm hoặc đánh hơi điều gì đó.
+- Frodo cảm thấy người cưỡi ngựa có thể đang tìm kiếm mình.
+- Frodo, Sam và Pippin tiếp tục hành trình, cố gắng tránh người cưỡi ngựa.
+- Frodo nhắc lại câu chuyện về người khách lạ mà Gaffer đã gặp.
+- Frodo và Pippin thảo luận về người cưỡi ngựa, nhưng không rõ người đó là ai.
+- Họ quyết định tiếp tục hành trình, tránh người cưỡi ngựa.
+- Frodo và bạn bè dừng lại nghỉ ngơi trong một khối cây lớn.
+- Khi trời tối, họ tiếp tục hành trình và bắt đầu hát bài hát mà Bilbo đã dạy Frodo.
+"""

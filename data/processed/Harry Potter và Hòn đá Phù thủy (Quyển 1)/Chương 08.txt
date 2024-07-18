@@ -1,0 +1,14 @@
+"""
+- Những học sinh bắt đầu nhận ra Harry sau khi anh rời ký túc xá, họ thì thầm và chỉ trỏ về anh.
+- Harry cố gắng tìm đường đến các lớp học trong Hogwarts, một ngôi trường chứa đầy những cầu thang thay đổi và cửa có tính cách riêng biệt.
+- Harry và Ron gặp rắc rối với giám thị Flich khi họ đi lạc vào một hành lang bị cấm, nhưng giáo sư Quirrell đã giúp họ thoát khỏi rắc rối.
+- Họ cũng phải đối mặt với những con ma và yêu tinh Peeves, những người thường gây phiền toái.
+- Harry bắt đầu nhận ra rằng học thuật tại Hogwarts không chỉ xoay quanh việc vẫy đũa phép và đọc thần chú.
+- Harry và bạn bè tham gia các lớp học khác nhau, bao gồm quan sát thiên văn, học về dược thảo, lịch sử pháp thuật, bùa mê và biến hình.
+- Giáo sư Snape, người dạy môn độc dược, đã tỏ rõ sự không thích Harry từ buổi học đầu tiên.
+- Harry và Ron lần đầu tiên tự tìm đến đại sảnh đường mà không bị lạc.
+- Harry nhận được thư từ Hagrid, mời cậu đến uống trà vào trưa thứ Sáu.
+- Buổi học độc dược với giáo sư Snape đã trở thành một trong những trải nghiệm tồi tệ nhất của Harry, khi Snape tỏ rõ sự ghét bỏ cậu.
+- Harry và Ron sau đó đã gặp Hagrid, người đã cố gắng làm nhẹ đi sự ghét bỏ của Snape đối với Harry.
+- Harry phát hiện ra thông tin về vụ cướp ngân hàng Gringotts xảy ra vào đúng ngày sinh nhật của anh, và Hagrid có thể liên quan đến vụ việc này.
+"""

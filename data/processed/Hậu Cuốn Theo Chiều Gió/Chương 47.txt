@@ -1,0 +1,17 @@
+"""
+- Chiếc Brian Boru rời Savannah, đi qua Đại Tây Dương, với Scarlett và Kathleen trên tàu.
+- Scarlett và Kathleen nhìn bờ biển Savannah biến mất.
+- Scarlett nhận ra mình có thai trên chuyến đi, một điều khiến cô vui mừng và lo lắng.
+- Kathleen bị say sóng trong suốt hành trình.
+- Scarlett và Colum tận hưởng bữa ăn trên tàu, trong khi Kathleen bỏ bữa.
+- Scarlett nôn mửa, nhưng sau đó nhận ra đó là dấu hiệu của việc cô đang mang thai.
+- Scarlett cảm thấy khỏe mạnh, quyết định giữ tin vui cho riêng mình và tận hưởng hành trình.
+- Kathleen cảm thấy khỏe lại sau một, hai ngày.
+- Trên tàu, Scarlett và những hành khách khác tham gia nhiều hoạt động như chơi cờ, ném đá, và chơi đỏ đen.
+- Scarlett kiếm được một số tiền lớn từ việc chơi bài Whist.
+- Colum thu thập tiền cho Tổ chức Fenians từ những người trên tàu.
+- Scarlett không hài lòng với việc khoe khoang của những hành khách khác trên tàu.
+- Scarlett, Kathleen và Colum cuối cùng đến Galway, Ireland.
+- Kathleen và Scarlett mua sắm tại phiên chợ Galway, mua hàng loạt hàng hóa bao gồm quần áo và vớ.
+- Scarlett thích thú với văn hóa và cuộc sống ở Ireland.
+"""

@@ -1,0 +1,16 @@
+"""
+- Gimli hỗ trợ Gandalf ít ỏi, ngoại trừ lòng can đảm kiên cố của ông. Gandalf thường xuyên hỏi ý kiến Gimli khi nghi ngờ trong việc chọn đường.
+- Hầm Mỏ Moria rộng lớn và phức tạp hơn tưởng tượng của Gimli, dù ông đã từng ở đó.
+- Đội Đồng Hành may mắn khi có Gandalf dẫn đường, mặc dù họ không có gì để thắp lửa, và họ gặp nhiều nguy hiểm trên đường đi.
+- Frodo bắt đầu cảm thấy mệt mỏi và sợ hãi trở lại, dù vết thương đã được chữa lành ở Rivendell. Ông cảm thấy chiếc Nhẫn trên ngực mình trở nên nặng nề.
+- Pippin thả một hòn đá xuống một cái giếng, tạo ra tiếng động lạ từ dưới lòng đất, khiến Gandalf tức giận.
+- Gandalf thức đêm canh gác, suy nghĩ về những hướng đi tiếp theo.
+- Họ tiếp tục đi qua một con đường lên, không gặp nguy hiểm nào, nhưng Frodo vẫn cảm thấy có gì đó đang theo dõi họ.
+- Họ đi đến một căn phòng lớn, nơi Gandalf tạo ra ánh sáng, tiết lộ một không gian rộng lớn và ba lối đi khác nhau.
+- Gimli hát một bài hát về vương quốc của người lùn, Durin, và Moria.
+- Gandalf giải thích rằng mithril, một loại bạc quý hiếm, là nguyên nhân chính khiến người lùn quay lại Moria, nhưng cũng là nguyên nhân khiến họ sụp đổ.
+- Frodo nhận ra rằng mình đang mang một món quà quý giá từ Bilbo - một chiếc áo giáp mithril.
+- Frodo thức dậy thấy ánh sáng chiếu vào từ phía đông, báo hiệu buổi sáng đã tới.
+- Họ quyết định tiếp tục hành trình, với hy vọng tìm ra Cánh Cổng Vĩ Đại và thoát khỏi Moria.
+- Họ tìm thấy một căn phòng chứa mộ của Balin, lãnh chúa Moria, xác nhận rằng ông đã chết.
+"""

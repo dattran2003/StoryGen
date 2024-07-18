@@ -1,0 +1,15 @@
+"""
+- Harry đã vượt qua nhiều con đường, cuối cùng dừng lại ở đường Magnolia, thở hổn hển vì đã kéo cái rương khổng lồ.
+- Cậu cảm thấy hoảng loạn vì rơi vào tình thế khó khăn, sợ bị đuổi khỏi trường Hogwarts vì đã sử dụng phép thuật.
+- Harry suy nghĩ về việc sử dụng thêm phép thuật để làm nhẹ rương và bay đến Luân Đôn.
+- Trong lúc tìm áo khoác tàng hình, Harry cảm nhận được sự hiện diện lạ, nhưng không thấy ai.
+- Harry té và một chiếc xe buýt ba tầng màu tím xuất hiện, được gọi là 'Xe Đò Hiệp Sĩ', chuyên vận chuyển phù thủy và pháp sư gặp rắc rối.
+- Harry nhận mình là Neville Longbottom và trả 11 sickles để đi đến Luân Đôn.
+- Trên xe, Harry đọc báo và biết về Sirius Black, một tù nhân trốn khỏi nhà tù Azkaban.
+- Harry đến Luân Đôn và gặp Bộ trưởng Pháp thuật Cornelius Fudge.
+- Fudge thông báo cho Harry rằng họ đã giải quyết vấn đề với cô Marge Dursley và Harry không bị trừng phạt.
+- Harry quyết định ở lại quán Cái Vạc Lủng cho đến khi bắt đầu học kỳ mới.
+- Fudge khuyên Harry không nên ra khỏi khu vực Hẻm Xéo và phải trở về quán trước khi đêm xuống.
+- Harry hỏi Fudge ký giấy cho phép đi thăm Hogsmeade, nhưng Fudge từ chối.
+- Harry gặp lại con cú Hedwig và quyết định nghỉ ngơi sau một đêm đầy căng thẳng.
+"""

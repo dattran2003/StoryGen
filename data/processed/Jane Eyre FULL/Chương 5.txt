@@ -1,0 +1,11 @@
+"""
+- Học kỳ đầu tại trường Lowood của nhân vật chính kéo dài như một thế hệ, với quá trình thích nghi khó khăn với quy định mới và bài học.
+- Trong suốt tháng Giêng, tháng Hai và một phần tháng Ba, lớp tuyết dày giữ mọi người trong khuôn viên trường ngoại trừ khi đi nhà thờ.
+- Môi trường khắc nghiệt khiến cho việc học tập và sinh hoạt trở nên khó khăn, thiếu ăn và sự bóc lột từ học sinh lớn.
+- Tình hình trở nên tồi tệ hơn khi nhân vật chính phải chịu đựng việc chân sưng vì tuyết và thiếu thức ăn.
+- Chủ nhật là những ngày buồn thảm vào mùa đông khi phải đi bộ hai dặm đường để đến nhà thờ Brocklebridge.
+- Sự xuất hiện của ông Brocklehurst, người bảo trợ, đã gây ra nhiều biến cố, bắt đầu từ việc ông chỉ trích chất lượng quần áo và thức ăn.
+- Ông Brocklehurst chỉ trích việc cho học sinh ăn bánh mì và phô mai thay vì cháo cháy, cho rằng đó là việc khuyến khích sự xa hoa và tự mãn.
+- Nhân vật chính bị ông Brocklehurst chỉ trích và làm nhục trước mọi người vì cho rằng cô là "kẻ nói láo", khiến cô cảm thấy căm thù gia đình Brocklehurst và Reed.
+- Trong lúc tuyệt vọng, một học sinh tên Helen Burns đã mỉm cười với nhân vật chính, mang lại cho cô niềm hy vọng và lòng can đảm.
+"""

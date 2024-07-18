@@ -1,0 +1,14 @@
+"""
+- Ông ra khỏi bóng tối, đi vào ánh sáng mặt trời, khám phá một vùng đất cứng nằm giữa vách đá và dòng sông, nơi có dấu chân dọc theo dòng sông.
+- Pippin biểu lộ sự tò mò về nguồn gốc và mục đích của con đường này.
+- Merry không thể nghĩ ra con đường khác để thoát khỏi Khu Rừng, nên họ quyết định đi theo con đường mà ông đã tìm thấy.
+- Trong khi di chuyển, họ cảm thấy nóng bức và mệt mỏi, cuối cùng quyết định nghỉ ngơi dưới những cây liễu.
+- Frodo và các hobbit khác bắt đầu cảm thấy buồn ngủ và cuối cùng họ ngủ quên.
+- Sam lo lắng về việc họ thình lình ngủ đi, nghi ngờ rằng có điều gì đó không bình thường.
+- Frodo, Pippin và Merry bị một cây liễu cổ thụ hút vào thân cây và bị mắc kẹt.
+- Sam cố gắng cứu Frodo, trong khi Frodo nhận ra cây liễu đã cố tình đẩy anh xuống nước.
+- Frodo và Sam dùng lửa để cố gắng giải cứu Merry và Pippin, khiến cây liễu phản ứng dữ dội.
+- Một giọng hát vui vẻ xuất hiện, Tom Bombadil, người tự xưng có khả năng giải cứu họ khỏi cây liễu.
+- Tom Bombadil giải cứu Merry và Pippin khỏi cây liễu, và mời họ về nhà mình.
+- Họ đi theo Tom, vượt qua Khu Rừng, và đến ngôi nhà của ông, nơi ánh sáng đang chờ đón họ.
+"""

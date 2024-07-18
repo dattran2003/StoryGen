@@ -1,0 +1,13 @@
+"""
+- Scarlett cảm thấy bực bội bởi mùa đông vì không có nhiều việc để làm ngoài việc chăm sóc ngựa.
+- Scarlett được biết đến như người ủng hộ những người Fenian và thường xuyên thăm quán rượu của Kennedy.
+- Scarlett trở nên chán chường với những bài hát và lời đe dọa liên quan đến Ireland.
+- Scarlett trở nên phấn khích khi bắt đầu mùa làm đồng và tiên đoán rằng mùa này sẽ tốt hơn so với mùa trước.
+- Scarlett và Colum thảo luận về việc thuê thêm người và mua ngựa.
+- Scarlett mua ngựa tại phiên chợ Drogheda, nơi cô gặp lại Rhett.
+- Scarlett thú nhận với Rhett rằng cô yêu anh, nhưng Rhett tỏ ra lạnh lùng và rời đi.
+- Scarlett, trong cơn tức giận, mua một con ngựa săn thuần chủng với giá cao.
+- Scarlett gặp John Morland, người mời cô đi săn và cô đồng ý.
+- Scarlett cuối cùng gặp lại Rhett nhưng anh ta tỏ ra lạnh lùng và xa cách.
+- Scarlett trở về với Colum, cô mua được một con ngựa lớn mà không rõ tại sao cô lại mua.
+"""

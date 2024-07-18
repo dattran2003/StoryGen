@@ -1,0 +1,12 @@
+"""
+- Ông William Lucas, từng là một thương nhân thành công tại Meryton và đã được phong tước hiệp sĩ, đã chuyển gia đình mình đến Lucas Lodge, một ngôi nhà cách Meryton khoảng một dặm.
+- Phu nhân Lucas là người dễ gần và hiền lành, cô và các con, gồm cô con gái đầu lòng - bạn thân của Elizabeth, thường ghé thăm nhà Bennet.
+- Sáng hôm sau buổi dạ vũ, các cô Lucas tới Longbourn để nói chuyện với các cô Bennet về sự kiện.
+- Bà Bennet và Charlotte Lucas đã thảo luận về việc Mr Bingley chọn Charlotte làm người đầu tiên để nhảy, nhưng anh ta dường như thích Jane Bennet hơn.
+- Charlotte kể về việc nghe lỏm cuộc nói chuyện giữa Mr Bingley và Mr Robinson, trong đó Bingley nói Jane là cô gái đẹp nhất trong buổi dạ vũ.
+- Elizabeth đã nghe lỏm Mr Darcy nói những lời xúc phạm, điều này đã làm cho cô cảm thấy khó chịu.
+- Bà Bennet và Jane có cuộc thảo luận về tính cách của Mr Darcy, Jane tin rằng anh ta chỉ trở nên thân thiện với những người anh thân thiết.
+- Charlotte ước rằng Darcy đã mời Elizabeth nhảy múa, nhưng Elizabeth khẳng định cô sẽ không bao giờ nhảy với anh ta.
+- Mary đưa ra quan điểm về vấn đề kiêu hãnh, khẳng định rằng nó là một khuyết điểm phổ biến và có sự khác biệt giữa kiêu hãnh và phù phiếm.
+- Cuộc thảo luận tiếp tục cho đến khi họ chia tay.
+"""

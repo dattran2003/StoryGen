@@ -1,0 +1,18 @@
+"""
+- Harry Potter đang ngủ say trên ghế trong phòng ngủ, mặt tựa vào cửa sổ lạnh, sau khi ngồi nhìn ra con đường tối suốt bốn tiếng.
+- Phòng của Harry bừa bộn với đồ đạc và rác, trong đó có mẩu báo với tiêu đề "HARRY POTTER: NGƯỜI ĐƯỢC CHỌN?", viết về sự xáo trộn tại Bộ Pháp Thuật và mối liên kết giữa Harry và Kẻ-Mà-Chớ-Gọi-Tên-Ra.
+- Một bài báo khác thông báo Rufus Scrimgeour kế nhiệm Cornelius Fudge làm Bộ trưởng Pháp Thuật, với một số bất đồng với Albus Dumbledore.
+- Báo cũng đưa tin về các biện pháp an ninh mà Bộ Pháp Thuật đang thực hiện để bảo vệ học sinh tại Hogwarts.
+- Con cú trắng của Harry, Hedwig, đang ở trong lồng, nhìn chằm chằm vào Harry đang ngủ.
+- Harry nhận được lá thư từ Albus Dumbledore, dự kiến sẽ gặp Harry vào thứ sáu tới tại số 4 đường Privet Drive để hộ tống Harry đến trang trại Hang Sóc.
+- Harry vẫn chưa đóng gói đồ đạc, lo lắng rằng lá thư có thể không phải từ Dumbledore, hoặc có thể là một trò bịp hoặc bẫy.
+- Khi Dumbledore đến, Harry vội vã bắt đầu thu thập đồ đạc, trong khi gia đình Dursley tỏ ra hoảng loạn và tức giận trước sự xuất hiện của Dumbledore.
+- Dumbledore thông báo rằng Sirius đã để lại cho Harry một số vàng và toàn bộ tài sản, bao gồm căn nhà số 12 quảng trường Grimmauld.
+- Có khả năng căn nhà có thể bị chuyển quyền sở hữu cho Bellatrix Lestrange do một số bùa chú đã đặt lên.
+- Kreacher, gia tinh của dòng họ Black, xuất hiện và tỏ ra không chấp nhận việc chuyển quyền sở hữu cho Harry.
+- Harry ra lệnh Kreacher câm mồm, chứng tỏ quyền sở hữu của mình đối với Kreacher và căn nhà.
+- Harry quyết định gửi Kreacher đến làm việc tại nhà bếp Hogwarts.
+- Dumbledore thông báo Buckbeak, con bằng mã, cũng là của Harry, nhưng Harry quyết định để nó ở với Hagrid.
+- Dumbledore nhắc lại với gia đình Dursley về việc Harry cần trở lại ngôi nhà này trước sinh nhật thứ 17 của mình để đảm bảo an toàn cho mình.
+- Cuối cùng, Harry và Dumbledore rời khỏi ngôi nhà, để lại gia đình Dursley.
+"""

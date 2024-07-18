@@ -1,0 +1,29 @@
+"""
+- Buổi sáng, Scarlett vội vã tới nhà bà Sims để hỏi về loại vải và đăng ten cần dùng, sau đó cô chạy ra ga để lên tàu tới Galway.
+
+- Trên tàu, Scarlett đọc tin tức về hôn lễ của mình trên báo. Cô quan sát những hành khách khác trong toa tàu.
+
+- Scarlett chỉ mang theo một vali nhỏ nên cô chỉ cần một người giúp đỡ khi xuống tàu tại Galway.
+
+- Scarlett gặp rắc rối khi tìm phòng tại Galway do sự kiện đua ngựa khiến mọi khách sạn đều kín phòng.
+
+- Cuối cùng, nhờ tin tức trên báo và danh hiệu mới của mình, Scarlett nhận được một phòng đặc biệt tại khách sạn Railway.
+
+- Scarlett dự định trở lại Dublin sau khi giải quyết một số việc, nhưng sau đó cô gặp John Morland, người đang rất tuyệt vọng sau khi chuồng ngựa của mình bị thiêu rụi.
+
+- Scarlett đưa John Morland vào khách sạn, an ủi và giúp anh ta đối mặt với thảm kịch.
+
+- Scarlett tìm cách mua lại con ngựa Dijon cho John Morland nhưng không thành công.
+
+- Scarlett gặp lại Rhett Butler, người đang ở Galway và đã mua con ngựa Dijon. Cô nhận ra rằng Rhett có thể đã đến Ireland vì cô.
+
+- Scarlett quyết định quay về Ballihara để chờ Rhett, nhưng trên đường về, cô chứng kiến cuộc xung đột giữa quân đội Anh và dân địa phương.
+
+- Scarlett gặp lại Rhett trong cuộc xung đột và họ cùng nhau chạy trốn.
+
+- Họ tìm con gái của Scarlett, Cat, trong cuộc hỗn loạn và cuối cùng tìm thấy cô bé an toàn trong nhà bếp.
+
+- Scarlett, Rhett và Cat trốn trong một ngọn tháp, họ quyết định rời khỏi Ballihara sau khi cuộc xung đột kết thúc.
+
+- Scarlett và Rhett cùng con gái họ, Cat, thoát khỏi cuộc hỗn loạn và họ quyết định xây dựng lại cuộc sống mới.
+"""

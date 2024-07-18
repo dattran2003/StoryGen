@@ -1,0 +1,19 @@
+"""
+- Scarlett, trong trang phục mới và đội mũ do cô Pitti làm, đang tận hưởng ánh nắng ấm áp giữa mùa đông trong sân nhà cô Pitti.
+- Scarlett gặp Rhett Butler, người vừa trở về sau nhiều tháng vắng bóng. Cô cảm thấy lo lắng khi nhìn thấy anh vì một vấn đề liên quan đến Ashley.
+- Rhett nhận xét về vẻ đẹp của Scarlett sau thời gian cô chăm sóc con và nhìn thấy cô trông rất xinh trong trang phục mới.
+- Rhett và Scarlett bắt đầu cuộc trò chuyện. Scarlett cố gắng tránh đề cập đến vấn đề cô lo ngại.
+- Rhett nói về chuyến đi của mình, bao gồm Cuba và New Orleans, và tiết lộ anh có một đứa trẻ mà anh bảo trợ.
+- Scarlett hỏi về mối quan hệ của Rhett ở New Orleans, và anh trả lời rằng anh không hẹn hò với ai.
+- Rhett nói về việc cha anh qua đời và những khó khăn mà mẹ và em gái anh trải qua sau chiến tranh.
+- Scarlett tiết lộ cô đã giúp dì Leili của mình, và Rhett cảm ơn cô.
+- Rhett nhắc đến vấn đề liên quan đến Ashley Wilkes, người đang làm việc tại xưởng cưa của Scarlett. Anh cáo buộc Scarlett đã vi phạm thỏa thuận giữa họ.
+- Scarlett và Rhett thảo luận về việc Ashley không thể thích ứng với thế giới mới sau chiến tranh.
+- Rhett chỉ trích Scarlett đã sử dụng tiền của anh để giúp Ashley, và nói rằng anh không muốn tiếp tục giúp đỡ cô nếu cô tiếp tục hành động như vậy.
+- Scarlett cố gắng biện hộ cho mình và Ashley, nhưng Rhett khẳng định rằng cô đã hiểu lầm anh.
+- Scarlett và Rhett tiếp tục tranh luận về việc Ashley không thể thích ứng với thế giới mới và vai trò của Scarlett trong việc hỗ trợ anh.
+- Scarlett cố gắng thuyết phục Rhett rằng cô không còn lựa chọn nào khác, nhưng Rhett chỉ ra rằng cô đã chọn hành động theo cách của mình.
+- Rhett khuyên Scarlett nên bảo Frank, chồng cô, nên ở nhà nhiều hơn vào ban đêm.
+"""
+
+Lưu ý: Các gạch đầu dòng được sắp xếp theo dòng thời gian của câu chuyện.

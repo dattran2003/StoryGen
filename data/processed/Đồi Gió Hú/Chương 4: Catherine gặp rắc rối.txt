@@ -1,0 +1,14 @@
+"""
+- Catherine và Heathcliff rời bếp, chạy qua các cánh đồng hoang đến ấp Thrushcross để trêu chọc gia đình Linton.
+- Họ chứng kiến cảnh Isabella và Edgar Linton tranh giành một con chó nhỏ, rồi cười trước hành động trẻ con của họ.
+- Khi bị phát hiện, họ tạo ra tiếng động kinh khủng để dọa các em Linton và sau đó bỏ chạy, nhưng Catherine bị ngã và bị chó nhà Linton tấn công.
+- Catherine và Heathcliff bị bắt bởi gia đình Linton, trong khi Catherine bị thương nặng.
+- Catherine nhận được sự chăm sóc từ gia đình Linton, trong khi Heathcliff bị đuổi đi.
+- Ngày hôm sau, cụ Linton dạy dỗ Hindley về cách chăm sóc Catherine, và Hindley đặt ra quy tắc nghiêm ngặt cho Heathcliff.
+- Catherine ở lại ấp Thrushcross trong 5 tuần, trở về với diện mạo và phong thái hoàn toàn mới.
+- Heathcliff, cảm thấy xấu hổ và tự ái trước diện mạo mới của Catherine, cố gắng tránh cô.
+- Catherine cố gắng tiếp cận Heathcliff nhưng anh ta từ chối, điều này làm Catherine buồn và khóc.
+- Heathcliff quyết định thay đổi diện mạo của mình để gặp Catherine nhưng lại bị Hindley và Edgar Linton chế nhạo, gây ra cuộc xung đột.
+- Trong bữa tiệc Giáng sinh, Catherine bỏ bữa tiệc để tìm Heathcliff, cho thấy mối quan hệ thân thiết giữa họ.
+- Catherine tiếp tục thăm Heathcliff sau bữa tiệc, trong khi anh ta đang lên kế hoạch để trả thù Hindley.
+"""

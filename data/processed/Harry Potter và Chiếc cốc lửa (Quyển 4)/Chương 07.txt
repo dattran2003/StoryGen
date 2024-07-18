@@ -1,0 +1,15 @@
+"""
+- Harry, Ron và Hermione đến một cánh đồng hoang, gặp hai lão phù thủy đang làm nhiệm vụ quản lý khu vực cắm trại cho trận Quidditch Thế giới.
+- Ông Weasley chào ông Basil, một trong hai lão phù thủy, và nhận được chỉ dẫn về nơi cắm trại.
+- Họ gặp ông Roberts, một Muggle duy nhất ở khu vực này, người không hiểu rõ về tiền tệ phù thủy.
+- Harry, Ron và Hermione giúp ông Weasley đổi tiền phù thủy thành tiền Muggle để trả phí cắm trại.
+- Họ bắt đầu dựng lều bằng tay theo quy định an ninh chống Muggle.
+- Trong lều, họ phát hiện không gian rộng lớn và tiện nghi, hoàn toàn khác biệt với vẻ ngoài.
+- Harry, Ron và Hermione đi lấy nước, khám phá khu cắm trại đầy màu sắc và cuộc sống sôi động của cộng đồng phù thủy.
+- Họ gặp bạn bè từ Hogwarts và nhận ra rằng Hogwarts không phải là trường phù thủy duy nhất.
+- Họ trở về lều sau khi gặp ông Ludo Bagman, người đang tham gia tổ chức trận đấu.
+- Ông Bagman và ông Barty Crouch thảo luận về một sự kiện sắp diễn ra tại Hogwarts mà họ không tiết lộ.
+- Khu cắm trại trở nên sôi động hơn khi buổi tối đến, với nhiều hàng hóa kỳ lạ và các hoạt động giải trí.
+- Harry, Ron và Hermione mua ống dòm huyền bí và các mặt hàng khác.
+- Một tiếng cồng ngân nga đánh dấu bắt đầu của trận đấu, họ chuẩn bị rời lều để đến sân đấu.
+"""

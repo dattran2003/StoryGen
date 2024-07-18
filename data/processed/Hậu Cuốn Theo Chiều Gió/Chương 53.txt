@@ -1,0 +1,24 @@
+"""
+- Sáng hôm sau, Colum xuất hiện trước bữa điểm tâm trên lưng ngựa, tay dắt một con ngựa khác dành cho Scarlett.
+- Anh ta thuyết phục Scarlett đi cưỡi ngựa cùng mình, cho rằng cô thích hoạt động này.
+- Scarlett nhanh chóng làm quen lại với việc cưỡi ngựa, điều khiển con ngựa mà không cần dây cương.
+- Họ đi đến một con đường mới đối với Scarlett, đến sông Boyne.
+- Scarlett cảm thấy hồi hộp và ghê tởm khi tới con sông.
+- Trời bắt đầu mưa, nhưng Bridie đã nhắc nhở Scarlett mang khăn san.
+- Scarlett và Colum đi đến khúc sông cạn mà Bridie thường tắm.
+- Colum gợi ý Scarlett tắm, nhưng cô từ chối vì sợ nước lạnh.
+- Họ vượt qua sông và ăn sáng tại bờ bên kia.
+- Colum bắt đầu kể cho Scarlett câu chuyện về gia tộc O'Hara, tổ tiên của họ.
+- Colum giải thích về lịch sử của vùng đất Ballyhara, mảnh đất mà dòng họ O'Hara đã canh tác trong suốt 2000 năm.
+- Scarlett cảm thấy xúc động và hiểu rõ hơn về nỗi đau của cha mình liên quan đến lịch sử Ballyhara.
+- Colum tiếp tục câu chuyện về Huân tước trẻ tuổi đã xây dựng Ballyhara thành một lãnh địa lộng lẫy.
+- Anh ta kể về những khó khăn, thống khổ và cái chết của nông dân trong thời kỳ đói kém.
+- Colum nói về người đàn ông bí ẩn đã treo cổ Huân tước trẻ tuổi.
+- Scarlett và Colum đi thăm cơ sở Ballyhara, nơi đã bị bỏ hoang trong 30 năm.
+- Colum hô to để thông báo cho một bà thầy pháp sống gần ngọn tháp.
+- Scarlett không cảm thấy sợ hãi khi tiếp cận ngọn tháp, thay vào đó, cô thấy nó hấp dẫn.
+- Scarlett nhận xét về độ cổ kính của ngọn tháp và so sánh nó với những cội rễ sâu xa của Charleston.
+- Scarlett và Colum sau đó khám phá dinh thự Ballyhara, nơi không còn ai sống.
+- Scarlett hỏi về việc Huân tước Ballyhara không có con cái, và Colum trả lời rằng người vợ của ông ta đã bỏ đi hoặc điên loạn.
+- Scarlett và Colum sau cùng quyết định rời khỏi thị trấn bị hủy hoại và tìm đường về nhà.
+"""

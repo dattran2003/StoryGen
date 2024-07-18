@@ -1,0 +1,18 @@
+"""
+- Scarlett không tìm thấy sự thanh thản sau thánh lễ buổi sáng và cô chỉ nghĩ về tình trạng tinh thần suy sụp của mình.
+- Cô thấy Rhett tại buổi chiêu đãi ở Câu lạc bộ đua ngựa sau cuộc đua.
+- Scarlett cố gắng tránh bữa điểm tâm tại nhà các dì nhưng không thành công.
+- Scarlett bị dì Eulalie và Pauline chỉ trích vì không viết thư cho ông ngoại Robillard.
+- Scarlett phản ứng dữ dội, chỉ ra những việc cô đã làm để giúp đỡ họ.
+- Dì Pauline giảng dạy Scarlett về lòng tôn kính người trên và tinh thần gia tộc.
+- Scarlett nổi giận và nói thẳng suy nghĩ của mình về ông ngoại Robillard.
+- Scarlett nhận ra mình đã đi quá xa và xin lỗi, nhưng sau đó cảm thấy hổ thẹn.
+- Scarlett và các dì của cô nói về việc Rosemary có người theo đuổi và họ thảo luận về người này.
+- Scarlett từ chối lời mời đi sinh nhật ông ngoại vì cô đã có kế hoạch tham dự các buổi vũ hội.
+- Scarlett gặp mẹ chồng, bà Butler, và họ có một bữa ăn thân mật.
+- Scarlett và bà Butler nói về ông ngoại Robillard và bà ngoại của Scarlett.
+- Scarlett và Sally Brewton có cuộc trò chuyện, trong đó Sally chỉ trích Scarlett về mối quan hệ với Middleton Courtney.
+- Sally nói với Scarlett về thực tế của cuộc sống ở Charleston và khuyên cô nên thận trọng hơn.
+- Scarlett cảm thấy đau lòng và cô chạy về phòng mình để khóc.
+- Scarlett sau đó ra ngoài với Pansy, cô cảm thấy Charleston đầy bí ẩn và mọi người đều sống vờ vĩnh.
+"""

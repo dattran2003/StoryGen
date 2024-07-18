@@ -1,0 +1,13 @@
+"""
+- Ron và Harry phản ứng trước lời nói mà họ cho là vô lý của Black và Lupin, khẳng định rằng Peter Pettigrew đã chết.
+- Black khẳng định rằng Pettigrew vẫn còn sống và Black đã gần giết được hắn, nhưng Pettigrew đã trốn thoát.
+- Black cố gắng tấn công con chuột Scrabbers, tin rằng đó là Pettigrew, gây tổn thương cho Ron.
+- Lupin cố gắng giữ Black lại, đề nghị giải thích cho mọi người trước khi hành động.
+- Black đồng ý, nhưng vẫn giữ mắt trên Scrabbers, khẳng định rằng người ta không nhìn thấy những gì họ nghĩ họ nhìn thấy.
+- Ron từ chối tin rằng Scrabbers có thể là Pettigrew và cố gắng rời đi, nhưng Lupin yêu cầu anh ta nghe giải thích.
+- Hermione lập luận dựa trên hồ sơ của Bộ Pháp thuật rằng không thể có cách nào Scrabbers là Pettigrew.
+- Lupin tiết lộ rằng anh và Black, cùng với James Potter và Peter Pettigrew, đã tìm cách biến hình thành thú vật để giữ Lupin company khi anh ta biến hình thành người sói.
+- Black thúc giục Lupin nhanh chóng giải thích, nói rằng anh ta đã chờ đợi 12 năm.
+- Lupin bắt đầu kể câu chuyện về việc anh ta trở thành người sói và làm thế nào ba người bạn của anh ta đã giúp anh ta.
+- Harry và bạn bè anh ta nghe câu chuyện với sự tò mò, trong khi Snape xuất hiện từ tấm áo tàng hình, đe dọa Lupin.
+"""

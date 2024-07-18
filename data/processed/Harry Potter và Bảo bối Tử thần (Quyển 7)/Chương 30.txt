@@ -1,0 +1,17 @@
+"""
+- Harry, Ron và Hermione gặp lại Neville trong quán Đầu Heo, nhận ra Neville đã chịu nhiều thương tích do cuộc sống khó khăn tại Hogwarts dưới quyền kiểm soát của Severus Snape và anh em Carrow.
+- Neville cho biết, dù cuộc sống tại trường khó khăn nhưng anh ta vẫn tin tưởng vào sự trở lại của Harry, Ron và Hermione.
+- Neville tiết lộ về một hành lang bí mật dẫn vào Hogwarts và cung cấp thông tin về tình hình tại trường.
+- Neville nói về việc anh em Carrow đã biến đổi Hogwarts thành một nơi đầy bạo lực và trừng phạt, đặc biệt là với những người chống lại họ.
+- Harry, Ron và Hermione đi qua hành lang bí mật với Neville, trong quá trình này, Neville tiếp tục chia sẻ thông tin về những thay đổi tại Hogwarts.
+- Neville kể về việc anh ta đã chống lại anh em Carrow, dẫn đến những vết thương trên khuôn mặt.
+- Neville và nhóm đi qua hành lang dẫn đến Phòng Cần Thiết, nơi đã trở thành nơi trú ẩn cho những người chống lại anh em Carrow.
+- Neville và nhóm gặp lại Luna và Dean, cũng như một số thành viên khác của Đoàn quân Dumbledore, tất cả đều đã nhận được tin nhắn từ Neville thông qua đồng xu Galleon giả.
+- Harry cố gắng giải thích rằng họ không trở về Hogwarts để khởi động một cuộc cách mạng, mà có một nhiệm vụ quan trọng khác cần hoàn thành.
+- Neville và những người khác muốn giúp đỡ, nhưng Harry, Ron và Hermione không thể tiết lộ nhiệm vụ của họ.
+- Harry cuối cùng quyết định chia sẻ thông tin về một vật phẩm mà họ đang tìm kiếm, được cho là có liên quan đến việc đánh bại Voldemort.
+- Harry và Luna đi tìm hiểu về vòng nguyệt quế đã mất của Sư mẫu Ravenclaw, một vật phẩm có thể liên quan đến nhiệm vụ của họ.
+- Neville giải thích về cách thức hoạt động của Phòng Cần Thiết và những rủi ro mà nhóm phải đối mặt khi di chuyển trong trường vào ban đêm.
+- Harry và Luna tìm đến phòng sinh hoạt chung của nhà Ravenclaw, nơi họ tìm hiểu thêm về vòng nguyệt quế và Sư mẫu Ravenclaw.
+- Neville và Harry gặp lại Alecto Carrow, một trong những người cai trị Hogwarts, và cuộc gặp gỡ này đánh dấu kết thúc của chương.
+"""

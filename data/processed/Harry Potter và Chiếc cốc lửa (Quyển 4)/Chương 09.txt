@@ -1,0 +1,28 @@
+"""
+- Ông Weasley cùng gia đình đi xuống cầu thang trải thảm tím sau trận đấu, trong khi cảnh báo Fred và George không nói về việc cá cược.
+- Fred và George khẳng định họ có kế hoạch cho số tiền cá cược và không muốn nó bị xung công.
+- Ông Weasley tỏ ra muốn biết kế hoạch của họ nhưng sau cùng quyết định không nên biết.
+- Họ gặp đám quỷ râu rậm tí hon trên đường trở về lều cắm trại.
+- Họ trở về lều và ông Weasley đồng ý cho mọi người uống sôcôla trước khi đi ngủ.
+- Mọi người thảo luận sôi nổi về trận đấu, nhưng sau cùng, ông Weasley yêu cầu mọi người đi ngủ.
+- Trong khi chuẩn bị đi ngủ, Harry tưởng tượng về trận đấu và Krum.
+- Ông Weasley thức dậy đột ngột và gọi mọi người dậy vì có chuyện nghiêm trọng.
+- Harry và gia đình chạy ra khỏi lều, thấy người ta đang chạy trốn từ khu cắm trại.
+- Họ chứng kiến một đám pháp sư đeo mặt nạ, điều khiển những người Muggle treo lơ lửng trên không trung.
+- Fred dẫn Ginny, Harry, Ron, và Hermione chạy vào rừng để tránh nguy hiểm.
+- Draco Malfoy xuất hiện, chế giễu và thách thức Hermione.
+- Harry nhận ra mình đã mất cây đũa phép.
+- Con gia tinh Winky xuất hiện, đang cố gắng thoát khỏi một lực vô hình kéo nó lại.
+- Hermione tức giận vì cách gia tinh bị đối xử và gọi đó là hình thức nô lệ.
+- Một tiếng nổ lớn làm mọi người hoảng loạn.
+- Ông Ludo Bagman xuất hiện, tỏ ra không biết gì về tình hình.
+- Harry, Ron, và Hermione nghe thấy tiếng gọi lên 'Dấu Hiệu Đen' và thấy một đầu lâu lớn xuất hiện trên bầu trời.
+- Các pháp sư từ Bộ Pháp Thuật xuất hiện, nhầm Harry, Ron, và Hermione là thủ phạm.
+- Hermione chỉ ra rằng Winky, con gia tinh, đã bị phát hiện tại hiện trường.
+- Winky được tìm thấy với cây đũa phép của Harry trong tay, nhưng khẳng định mình không làm gì.
+- Ông Diggory sử dụng phép thuật để xác nhận Winky đã gọi Dấu Hiệu Đen.
+- Harry, Ron, và Hermione phản đối, chỉ ra rằng giọng gọi lên Dấu Hiệu Đen không giống giọng của Winky.
+- Ông Crouch quyết định trừng phạt Winky bằng cách cho nó tự do, điều mà Winky sợ hãi.
+- Gia đình Weasley trở về lều sau sự cố, và ông Weasley giải thích ý nghĩa của Dấu Hiệu Đen.
+- Harry và gia đình Weasley cố gắng ngủ sau một đêm đầy biến cố.
+"""

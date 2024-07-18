@@ -1,0 +1,15 @@
+"""
+- Buổi tối bắt đầu yên ả với Scarlett khi cô đến thăm nhà Jamie, không như cảnh hội hè mà cô tưởng tượng.
+- Scarlett gặp Maureen, bác James, và quan sát cuộc sống gia đình bình dị nhưng ấm cúng.
+- Kathleen, Jacky, Brian, và Daniel xuất hiện, mang lại không khí sôi động hơn.
+- Scarlett cảm thấy hài lòng khi mình có mặt trong gia đình này, cảm thấy sự sống động mà cô không thấy ở nhà ngoại.
+- Trong bữa tối, Maureen bày tỏ sự không hài lòng với Brian vì đã tự dọn ra khỏi nhà, nhưng vẫn yêu quý cậu.
+- Scarlett lắng nghe những câu chuyện về cha mình từ bác James và cảm thấy hạnh phúc.
+- Scarlett tham gia vào cuộc vui, múa và hát cùng gia đình O'Hara, cảm thấy tự do và hạnh phúc.
+- Scarlett nhận ra mối liên kết gia đình sâu sắc mà cô chưa từng có, và cảm thấy mình thực sự là một phần của gia đình.
+- Buổi tối kết thúc tốt đẹp với những tiếng cười và niềm vui.
+- Scarlett thức dậy bởi ông ngoại, bị ông chỉ trích về bữa sáng và trật tự gia đình, điều này làm cô nổi giận.
+- Scarlett quyết định phản kháng lại sự kiểm soát của ông ngoại và tự quyết định cuộc sống của mình.
+- Scarlett nhớ đến Rhett và chờ đợi thư từ Mẹ bề trên về vấn đề Tara.
+- Scarlett từ chối lời mời từ gia đình O'Hara để ở lại lâu hơn, dù rất thích không khí gia đình ở đó.
+"""

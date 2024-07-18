@@ -1,0 +1,17 @@
+"""
+- Harry chỉ nhớ những mảnh vỡ của thời gian sau đêm mà Cedric Diggory chết, do ký ức của anh bị quá tải.
+- Harry gặp gia đình Diggory, họ không trách Harry về cái chết của Cedric mà còn cảm ơn anh đã mang xác Cedric về cho họ.
+- Harry cố gắng trao phần thưởng của mình cho bà Diggory nhưng bà từ chối.
+- Harry trở về tháp Gryffindor và tránh mọi người, nhiều người tin vào những lời đồn về sức khỏe tâm lý của anh từ Rita Skeeter.
+- Harry, Ron và Hermione tìm thấy sự an ủi trong sự im lặng và hiểu biết không cần nói của nhau.
+- Dumbledore yêu cầu mọi người để Harry yên, không ép anh kể lại những gì đã xảy ra.
+- Harry và bạn bè gặp Hagrid, người cho biết ông đã biết về sự trở lại của Voldemort từ lâu.
+- Dumbledore đã giao cho Hagrid một nhiệm vụ bí mật vào mùa hè.
+- Trong bữa tiệc cuối năm, Dumbledore công bố về sự trở lại của Voldemort và cái chết của Cedric Diggory, gây ra sự hoảng loạn.
+- Dumbledore nhấn mạnh sự đoàn kết giữa các trường trong thời gian khó khăn sắp tới.
+- Harry, Ron và Hermione chia tay bạn bè và chuẩn bị trở về nhà, trong khi Hermione tiết lộ rằng cô đã phát hiện Rita Skeeter là một người biến hình thành con bọ.
+- Trong chuyến đi về nhà, Harry, Ron và Hermione phải đối mặt với Malfoy, Crabbe và Goyle, nhưng đánh bại họ bằng bùa chú.
+- Fred và George tiết lộ rằng họ đã đòi lại tiền mà Ludo Bagman nợ họ thông qua việc đặt cược vào Harry trong cuộc Thi đấu Tam Pháp thuật.
+- Harry quyết định đầu tư phần thưởng của mình vào cửa hàng đùa giỡn của Fred và George.
+- Harry rời nhà ga, dự định sẽ gặp lại bạn bè vào cuối mùa hè.
+"""

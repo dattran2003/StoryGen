@@ -1,0 +1,15 @@
+"""
+- Eleanor Butler, mẹ của Rhett, gặp khó khăn khi nhận được thông báo từ anh họ Townsend Ellinton về việc họ sẽ thăm cô chỉ với hai ngày báo trước.
+- Mặc dù không thoải mái, Rhett và Rosemary khuyên cô nên tiếp đón họ một cách lịch sự.
+- Scarlett cảm thấy mình kém xinh so với Hannah, vợ của Townsend, mặc dù cô ta không đẹp như mô tả của Eleanor.
+- Scarlett và Rhett quyết định sẽ đón vợ chồng Ellinton tại cổng vũ hội.
+- Eleanor bày tỏ lo lắng về việc Hannah, một người Yankee, sẽ bị "đối xử lịch sự" - một hình thức tra tấn tinh vi sau chiến tranh.
+- Rhett giải thích về "đối xử lịch sự", một trò chơi xã hội độc ác dùng để hành hạ người lạ.
+- Scarlett nhận ra mình cũng đã từng bị đối xử như vậy và không muốn phải chịu đựng thêm nữa.
+- Khi họ đến phố Họp mặt, Scarlett nhận ra việc sử dụng xe điện cho các khách dự vũ hội.
+- Họ đến Hibernian Hall, nơi diễn ra vũ hội, và Scarlett thấy mình như ở trên mảnh đất quen thuộc.
+- Scarlett và Rhett nhận ra sự hiện diện của quân đội Yankee nhưng họ đang ngăn chặn đám đông để dành đường cho họ.
+- Scarlett và Rhett gặp Hannah Ellinton, người bị sốc bởi cảnh tượng phụ nữ đang rửa chân trước khi vào vũ hội.
+- Eleanor giới thiệu Hannah với Sheba, thợ may nổi tiếng và chủ của một nhà chứa.
+- Scarlett thấy thích thú với phản ứng của Hannah trước sự hiện diện của Sheba và các hoạt động kinh doanh khác của bà.
+"""

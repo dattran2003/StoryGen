@@ -1,0 +1,14 @@
+"""
+- Elizabeth không thể bình tâm sau cuộc viếng thăm bất ngờ của Phu nhân Catherine, người cố gắng ngăn chặn mối quan hệ giữa cô và anh Darcy.
+- Elizabeth nhận ra rằng những tin đồn về mối quan hệ giữa cô và Darcy có thể xuất phát từ việc cô là em của Jane, và anh Darcy là bạn thân của Bingley.
+- Elizabeth lo lắng về những hậu quả khi Phu nhân Catherine quyết tâm can thiệp, thậm chí thuyết phục anh Darcy.
+- Elizabeth nghi ngờ anh Darcy có thể bị thuyết phục bởi bà dì của mình, dẫn đến việc anh ấy từ bỏ mối quan hệ với cô.
+- Elizabeth suy nghĩ về khả năng anh Darcy không trở lại Netherfield sau cuộc gặp gỡ với Phu nhân Catherine.
+- Elizabeth chuẩn bị lòng để từ bỏ mọi hy vọng về anh Darcy nếu anh ấy không giữ lời hứa với Bingley.
+- Gia đình Bennet ngạc nhiên khi nghe tin về cuộc viếng thăm của Phu nhân Catherine, nhưng họ chấp nhận lý do mà bà Bennet đưa ra.
+- Elizabeth nhận được lá thư từ cha mình, ông cho rằng cô sắp kết hôn, dựa trên thông tin từ anh Collins.
+- Trong thư, anh Collins cảnh báo về việc Elizabeth kết hôn với anh Darcy, chỉ ra rằng bà dì anh ấy, Phu nhân Catherine, không tán thành cuộc hôn nhân này.
+- Ông Bennet ngạc nhiên và cười đùa về việc anh Darcy, người thường coi thường phụ nữ, lại quan tâm đến Elizabeth.
+- Elizabeth không thể chia sẻ niềm vui với cha mình, cô cảm thấy lo lắng và phân tâm.
+- Cuối cùng, ông Bennet hỏi Elizabeth về những gì Phu nhân Catherine đã nói, nhưng Elizabeth chỉ đáp lại bằng tiếng cười.
+"""

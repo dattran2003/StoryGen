@@ -1,0 +1,13 @@
+"""
+- Harry đứng trong một căn phòng dài và mờ ám, lắng nghe sự yên tĩnh, tìm kiếm dấu hiệu của Tử Xà và Ginny.
+- Harry tìm thấy Ginny bất động trên sàn, gọi cô bé dậy nhưng không thành công.
+- Tom Riddle, xuất hiện từ một bức tượng, tiết lộ rằng anh ta là một ký ức được giữ trong một quyển nhật ký.
+- Riddle giải thích rằng Ginny đã mở Phòng Chứa Bí Mật và thả ra Tử Xà sau khi chia sẻ bí mật của mình với quyển nhật ký.
+- Riddle, thực ra là một phiên bản trẻ của Voldemort, tiết lộ rằng anh ta đã chọn Harry làm mục tiêu mới sau khi đã không còn hứng thú với việc giết những người có dòng máu Muggle.
+- Riddle dùng cây đũa phép của Harry và tiết lộ anh ta chính là Chúa Tể Voldemort, và rằng anh ta đã chọn cái tên này để trở thành phù thủy vĩ đại nhất.
+- Harry và Riddle chuẩn bị đấu pháp, khi đó Fawkes, con phượng hoàng của Dumbledore, xuất hiện cùng cái nón phân loại.
+- Trong cuộc đấu với Tử Xà, Fawkes giúp đỡ Harry bằng cách làm mù mắt con rắn và sau đó là Harry đã giết Tử Xà.
+- Riddle cố gắng chống lại nhưng Harry đã dùng răng nanh Tử Xà để đâm thủng quyển nhật ký, phá hủy ký ức của Riddle.
+- Ginny tỉnh dậy, cảm thấy hối hận vì đã mở Phòng Chứa Bí Mật và thả ra Tử Xà.
+- Harry, Ginny và Ron sau cùng đã thoát khỏi Phòng Chứa Bí Mật với sự giúp đỡ của Fawkes.
+"""

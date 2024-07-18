@@ -1,0 +1,19 @@
+"""
+- Hôm sau đêm Dạ vũ Giáng sinh, mọi người thức dậy muộn, phòng sinh hoạt chung nhà Gryffindor yên tĩnh hơn bình thường.
+- Tóc của Hermione đã xù trở lại sau khi cô dùng thuốc Tóc bóng mượt trong đêm dạ vũ.
+- Ron và Hermione dường như đã hòa giải sau cuộc cãi vã trước đó.
+- Harry và Ron kể cho Hermione nghe về việc Hagrid là người lai khổng lồ, nhưng cô bé không quá ngạc nhiên.
+- Hermione bày tỏ quan điểm rằng không phải tất cả người khổng lồ đều đáng sợ và chỉ là sự cố chấp mù quáng.
+- Harry bắt đầu lo lắng vì ngày 14/2 sắp đến mà vẫn chưa giải quyết được manh mối trong trứng vàng.
+- Harry từ chối lời khuyên của Cedric Diggory, dù không biết liệu có phương pháp khác hay không.
+- Ngày đầu tiên của học kỳ mới, Harry cảm thấy lo lắng về trứng vàng.
+- Lớp học Chăm sóc Sinh vật Huyền bí được thay thế bởi giáo sư Grubbly-Planhk do Hagrid bị ốm.
+- Rita Skeeter đã viết một bài báo công kích Hagrid, tiết lộ rằng anh ấy là người lai khổng lồ.
+- Harry, Ron và Hermione cảm thấy tức giận về bài báo và quyết định thăm Hagrid.
+- Harry, Ron và Hermione gặp giáo sư Grubbly-Planhk dạy lớp Chăm sóc Sinh vật Huyền bí thay cho Hagrid.
+- Hagrid tránh gặp Harry, Ron và Hermione sau bài báo của Rita Skeeter.
+- Harry, Ron và Hermione quyết định gặp Hagrid để thuyết phục anh ấy quay lại dạy học.
+- Trong chuyến đi đến Hogsmeade, họ phát hiện ra Hagrid đang gặp Dumbledore.
+- Dumbledore thuyết phục Hagrid quay lại dạy học và khẳng định niềm tin của mình vào Hagrid.
+- Harry, Ron và Hermione hỗ trợ Hagrid, giúp anh ấy vượt qua cảm giác xấu hổ và quyết định quay lại dạy học.
+"""

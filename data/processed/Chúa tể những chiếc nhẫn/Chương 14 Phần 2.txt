@@ -1,0 +1,12 @@
+"""
+- Trong giấc mơ, người kể thấy cảnh tượng trời phía Tây tối dần cùng tiếng sấm, nhưng vẫn còn một luồng sáng từ đó và nghe một giọng nói xa vắng, nhưng rõ ràng. Giọng nói này mang thông điệp về việc tìm kiếm Thanh Gươm đã gãy ở Imladris.
+- Người kể và anh trai của mình không hiểu rõ thông điệp này và họ đã thảo luận với cha mình, Denethorr, Lãnh chúa của Minas Tirith. Cha họ chỉ biết rằng Imladris là nơi cư trú của Elrond Halfelven, người thông thái nhất trong những bậc thầy truyền thuyết.
+- Anh trai của người kể quyết định tin vào giấc mộng và đi tìm kiếm Imladris; nhưng vì việc này đầy rủi ro, người kể đã tự mình thực hiện cuộc hành trình này.
+- Tại ngôi nhà của Elrond, Aragorn rút thanh gươm đã gãy ra, xác nhận rằng đây chính là Thanh Gươm đã Gãy từ thông điệp.
+- Aragorn, người được xác nhận là hậu duệ của Isildur, giải thích về dòng dõi của mình và cuộc sống đầy thử thách của mình. Ông cũng nói về trách nhiệm của mình trong việc chống lại những kẻ phục vụ của Kẻ Thù.
+- Frodo bày tỏ sự kinh hãi khi biết rằng chiếc Nhẫn mà ông đang giữ không thuộc về mình, nhưng Aragorn nói rằng không ai trong số họ sở hữu nó và Frodo nên giữ nó một thời gian.
+- Gandalf yêu cầu Frodo đưa ra chiếc Nhẫn, và Boromir bắt đầu hiểu phần còn lại của câu đố của mình.
+- Gandalf tiếp tục giải thích về việc ông đã nghi ngờ Saruman và sự thật rằng Sauron đã phục hồi toàn bộ hình dạng và quyền lực của mình.
+- Gandalf nói về việc ông đã cố gắng tìm Gollum và cuối cùng đã tìm thấy dấu vết của hắn, dẫn đến việc bắt giữ và giao Gollum cho người Elves.
+- Gandalf khẳng định rằng Chiếc Nhẫn Frodo đang giữ chính là Chiếc Nhẫn Vĩ Đại, dựa trên những ký tự mà Isildur ghi lại vẫn còn có thể đọc được trên nó sau khi đặt nó vào lửa.
+"""

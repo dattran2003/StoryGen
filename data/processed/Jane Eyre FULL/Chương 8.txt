@@ -1,0 +1,12 @@
+"""
+- Tác giả kể lại về quá khứ thời thơ ấu của mình và sự thay đổi trong tám năm tiếp theo.
+- Trường Lowood, nơi tác giả đang học, bị chỉ trích vì điều kiện vệ sinh kém sau cơn dịch đậu mùa.
+- Trường được cải thiện với sự đóng góp từ cộng đồng địa phương, biến nó thành một nơi giáo dục quan trọng.
+- Tác giả đã dành tám năm tại trường này, sáu năm học và hai năm dạy.
+- Sự ra đi của cô Temple, người như một mẹ, một giáo viên và bạn đồng hành, đã thay đổi cảm nhận của tác giả về trường.
+- Tác giả quyết định rời trường để tìm kiếm sự tự do và thay đổi cuộc sống.
+- Tác giả đã đăng quảng cáo tìm việc làm trong báo và nhận được lời mời từ bà Fairfax ở Thornfield Hall.
+- Sau khi nhận được sự chấp thuận từ Hội đồng quản trị và bà Reed, tác giả chuẩn bị rời trường.
+- Trước khi rời đi, tác giả gặp lại Bessie, người hầu gái cũ ở nhà Reed, và biết thêm thông tin về gia đình mình.
+- Tác giả rời Lowood để bắt đầu công việc mới tại Thornfield Hall.
+"""

@@ -1,0 +1,13 @@
+"""
+- Anh, nhân vật chính, hồi phục sức khỏe và tăng cân trong tù, nhận thức rõ hơn về thời gian qua mỗi bữa ăn đều đặn.
+- Điều kiện giam giữ của anh được cải thiện với việc cung cấp tiện nghi như gối, nệm, cơ hội tắm rửa, quần áo mới, chăm sóc y tế và thậm chí cả thuốc lá.
+- Anh được cung cấp bảng trắng và bút chì nhưng ban đầu không sử dụng.
+- Anh dần dần dành ít thời gian hơn để ngủ và bắt đầu tập thể dục, nhận thấy sự cải thiện về sức khỏe.
+- Anh bắt đầu hoạt động trí óc nhiều hơn, cố gắng tự giáo dục và cải tạo, chấp nhận sự thống trị của Đảng.
+- Anh chấp nhận tất cả những điều mà Đảng tuyên bố, dù có vẻ phi lý, và cố gắng luyện tập kỹ năng 'chặn tội' để ngăn chặn những suy nghĩ phản kháng.
+- Anh trải qua một giấc mơ êm đềm nhưng sau đó bị giật mình khi nhớ về Julia, người anh yêu và tin rằng còn sống.
+- Anh nhận ra rằng anh đã phá vỡ thỏa thuận với kẻ giam giữ, chấp nhận Đảng nhưng vẫn ghét họ.
+- Anh hiểu rằng anh phải cảm thấy đúng và mơ mộng đúng, và giữ nỗi căm hờn sâu sắc trong lòng mình.
+- Anh dự định giữ sự oán hận cho đến phút cuối cùng, coi đó như là sự tự do duy nhất của mình.
+- Cuối cùng, O'Brien, người giám sát anh, nhận ra những tư tưởng lừa dối của anh và yêu cầu anh phải yêu Bác, không chỉ tuân lệnh.
+"""

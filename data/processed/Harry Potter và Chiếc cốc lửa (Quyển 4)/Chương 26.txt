@@ -1,0 +1,16 @@
+"""
+- Hermione tức giận vì Harry cho rằng anh ta đã tìm ra manh mối trong trứng, trong khi họ đang tập bùa Triệu tập và Tống xuất trong lớp học.
+- Harry, Ron và Hermione thảo luận về tình hình giữa thầy Snape và thầy Moody, và Ron đặt giả thiết rằng thầy Moody có thể được giao nhiệm vụ giám sát thầy Snape.
+- Trong suốt buổi học, Harry không thể tập trung vào việc học bùa chú vì lo lắng về bài thi thứ hai sắp tới.
+- Harry gửi một lá thư cho chú Sirius để thông báo về những sự kiện lạ tại Hogwarts.
+- Trong buổi học Chăm sóc Sinh vật Huyền bí, lão Hagrid giảng về bạch kỳ mã, và anh ta khuyến khích Harry, tin rằng Harry sẽ vượt qua bài thi thứ hai.
+- Trong thư viện, Harry, Ron và Hermione không thể tìm ra cách nào giúp Harry sống sót dưới nước trong một giờ.
+- Giáo sư McGonagall gọi Ron và Hermione ra, khiến Harry lo lắng rằng họ có thể bị rầy vì hỗ trợ anh quá nhiều.
+- Harry cố gắng tìm kiếm thông tin trong thư viện suốt đêm nhưng không thành công.
+- Dobby xuất hiện và tiết lộ rằng Ron đã bị "bắt" và đưa cho Harry cỏ mang cá để giúp anh thở dưới nước.
+- Harry ăn cỏ mang cá và lặn xuống hồ, bắt đầu bài thi thứ hai.
+- Harry gặp phải thủy quái dưới nước và sau cùng tìm thấy Ron cùng các con tin khác.
+- Mặc dù Harry giải cứu tất cả các con tin, anh ta đã mất nhiều thời gian hơn so với yêu cầu.
+- Ban giám khảo quyết định đánh giá cao hành động của Harry, anh ta nhận được 45 điểm.
+- Bài thi thứ ba sẽ diễn ra vào ngày 24 tháng 6.
+"""

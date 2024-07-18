@@ -1,0 +1,11 @@
+"""
+- Hermione, Black và Harry đều hốt hoảng khi thầy Snape xuất hiện.
+- Thầy Snape phát hiện ra nhóm của Harry sử dụng áo tàng hình và cho biết mình biết vị trí của họ nhờ Bản Đồ Hộ Tào.
+- Thầy Snape cáo buộc thầy Lupin giúp Black xâm nhập vào lâu đài, điều này làm thầy Lupin phản bác và cố gắng giải thích.
+- Trong lúc tranh cãi, thầy Snape đã trói thầy Lupin và chuẩn bị đưa cả nhóm tới nhà tù Azkaban.
+- Black chuẩn bị tấn công thầy Snape nhưng bị ngăn lại.
+- Harry can thiệp và đặt ra những nghi vấn về mối liên hệ giữa thầy Lupin và Black, gây nghi ngờ về những cáo buộc của thầy Snape.
+- Trong cuộc thảo luận, Black và thầy Lupin chỉ ra rằng Peter Pettigrew, người được giả dạng thành con chuột Scrabbers, mới chính là kẻ phản bội cha mẹ Harry và đồng thời là người đã giả chết để trốn tránh.
+- Black và thầy Lupin định biến Scrabbers về dạng người để chứng minh điều này, nhưng Harry phản đối việc giết Pettigrew.
+- Cuối cùng, thầy Lupin và Black đồng ý không giết Pettigrew mà trói hắn và chuẩn bị đưa hắn về lâu đài, cùng với thầy Snape không tỉnh.
+"""

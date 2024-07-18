@@ -1,0 +1,20 @@
+"""
+- Harry, Ron và Hermione gửi thư cho Percy qua con cú Hermione, hỏi về ông Crouch theo gợi ý của Sirius.
+- Chúng tặng Dobby đôi vớ mới và Dobby cảm động.
+- Hermione hỏi về Winky, Dobby cho biết Winky đang đau khổ vì nhớ về ông Crouch.
+- Harry hỏi Winky về ông Crouch, cô gia tinh này nói rằng ông Crouch tin tưởng cô với một bí mật quan trọng.
+- Hermione cố gắng thay đổi quan điểm của gia tinh về quyền lợi của họ, nhưng không thành công.
+- Hermione nhận những lá thư thù hận và một gói chứa mủ củ u nguyên chất.
+- Cả nhóm tham gia lớp học về Đào mỏ của Hagrid.
+- Hermione bỏ lỡ lớp học vì bị dị ứng với mủ củ u.
+- Ron phát hiện ra rằng những đồng vàng mà Harry đã trả nợ cho anh ta đã biến mất.
+- Hermione tiếp tục nhận thư thù hận, cô quyết tâm tìm ra cách để đối phó với Rita Skeeter.
+- Harry và Ron nhận trứng Phục sinh lớn từ gia đình Weasley, trong khi Hermione nhận được một quả nhỏ.
+- Harry được thông báo về bài thi thứ ba của Cuộc thi Tam Pháp thuật, đó là một mê lộ với Cúp Tam Pháp thuật ở trung tâm.
+- Viktor Krum hỏi Harry về mối quan hệ của anh với Hermione.
+- Harry và Krum gặp ông Crouch, người đang mất trí và nói về việc ông cần gặp Dumbledore.
+- Harry cố gắng tìm Dumbledore nhưng bị Snape ngăn cản.
+- Dumbledore cuối cùng cũng gặp Harry và họ tìm thấy Crouch và Krum trong rừng.
+- Karkaroff cáo buộc Dumbledore và Bộ Pháp Thuật đã dàn dựng cuộc tấn công lên Krum.
+- Dumbledore lệnh cho Hagrid đưa Harry về tháp Gryffindor và cấm anh gửi bất kỳ con cú nào cho đến sáng hôm sau.
+"""

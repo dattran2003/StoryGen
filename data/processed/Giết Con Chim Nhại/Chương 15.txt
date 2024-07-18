@@ -1,0 +1,13 @@
+"""
+- Dill cuối cùng được phép ở lại sau nhiều thỉnh cầu và một lá thư tha thứ dài từ mẹ cậu. 
+- Dill, Jem và tôi tận hưởng một tuần bình yên, với nhiều hoạt động vui chơi như làm thang dây mới cho nhà trên cây và một kế hoạch để dụ Boo Radley ra ngoài.
+- Một cuộc họp bất ngờ diễn ra với sự xuất hiện của ông Heck Tate và một đám đông khác tại nhà chúng tôi. 
+- Cuộc họp dường như liên quan đến việc chuyển Tom Robinson đến nhà tù hạt vào ngày mai.
+- Bố Atticus giải thích rằng đám đông không phải là một băng đảng mà chỉ là những người bạn của chúng tôi.
+- Jem tỏ ra lo lắng về sự an toàn của bố Atticus, sợ rằng ai đó có thể làm tổn thương ông.
+- Bố Atticus chuyển Tom Robinson đến nhà tù Maycomb và nói rằng nếu họ giữ anh ta ở đó ngay từ đầu thì sẽ không có chuyện gì xảy ra.
+- Jem và tôi theo dõi bố Atticus tại nhà tù, nơi ông đang bảo vệ Tom Robinson từ một đám đông có ý định tấn công.
+- Tôi cố gắng làm dịu tình hình bằng cách bắt chuyện với ông Cunningham, một người trong đám đông, về những mối quan tâm của ông.
+- Ông Cunningham sau đó quyết định giải tán đám đông và họ rời đi.
+- Ông Underwood tiết lộ rằng ông đã theo dõi và sẵn sàng hỗ trợ bố Atticus trong suốt thời gian đó.
+"""

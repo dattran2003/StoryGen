@@ -1,0 +1,13 @@
+"""
+- Scarlett tham dự cuộc săn ở chỗ Sir John Morland với đoàn tùy tùng lớn, tự hào vì đã giành quyền không mặc coóc-sê.
+- Charlotte khuyên rằng cuộc săn tại Bart Morland không phải nơi tốt để Scarlett bắt đầu hòa nhập giới thượng lưu Ireland, nhưng Scarlett quyết định rằng cô phải bắt đầu từ đó.
+- Scarlett gặp gỡ và giao lưu với những người quan trọng, bao gồm một đại diện từ Quận Meath tại Quốc hội.
+- Scarlett và Colum có cuộc tranh cãi gay gắt về Charles Parnell, người mà Colum coi là kẻ lừa dối, trong khi Scarlett ủng hộ ông ta. Scarlett cuối cùng thuyết phục được Colum bỏ vũ khí.
+- Scarlett và Charlotte đi dự cuộc tiếp tân quan trọng, khởi đầu cho việc thâm nhập giới thượng lưu của Scarlett.
+- Scarlett tự tin và dễ thương, tạo ấn tượng tốt với mọi người, mặc dù có chút vụng về.
+- Scarlett hiểu lầm về thông điệp ẩn giấu trong việc để bánh xăng uích trong phòng ngủ, gây ra hiểu lầm và đỏ mặt.
+- Scarlett trở về nhà, gặp lại con gái Cat, và hứa sẽ mua cho con một con ngựa nhỏ.
+- Scarlett cảm thấy khó chịu với mùa đông lạnh lẽo và ẩm ướt, nhưng cố gắng giữ Cat ở nhà bằng cách để bé vui chơi trên con ngựa nhỏ.
+- Scarlett và Cat cùng tổ chức lễ Giáng sinh, trong đó Cat tỏ ra không ấn tượng với món quà ngựa gỗ lớn, nhưng sau cùng vẫn chấp nhận nó.
+- Scarlett dự định gặp lại Charlotte ở khách sạn Gresham sau ngày đầu năm mới.
+"""

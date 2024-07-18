@@ -1,0 +1,12 @@
+"""
+- Cây thù du bỗng nở hoa vào một đêm, tạo nên cảnh quan tuyệt đẹp sáng sớm hôm sau, thu hút Maureen và Scarlett.
+- Maureen đề xuất tổ chức một bữa ăn ngoài trời ở công viên vào ngày mai sau lễ, Scarlett đồng ý.
+- Scarlett nhận ra mình đã ở Savannah gần một tháng và đang lo lắng vì Rhett chưa đến.
+- Maureen nhắc đến Boston, khiến Scarlett nghi ngờ nhưng hóa ra chị chỉ nói về Stephen, không liên quan đến Rhett.
+- Scarlett cảm thấy xấu hổ vì suy nghĩ tiêu cực và quyết định sẽ thảo luận vấn đề với Colum.
+- Scarlett và Maureen đi chơi công viên Forsyth, họ ngưỡng mộ cảnh quan và tận hưởng bữa ăn ngoài trời với gia đình.
+- Một người lạ tên Danny Murray xuất hiện, anh ta hát một bài hát khiến Kathleen O'Hara đau khổ nhớ về quê hương Ireland.
+- Colum đề xuất đưa Kathleen về Ireland vì cô còn nhớ quê hương da diết.
+- Scarlett chia sẻ nỗi lo lắng về Rhett với Colum, anh khuyến khích cô tin rằng Rhett sẽ trở lại.
+- Scarlett cuối cùng cảm thấy hài lòng với lời khuyên của Colum và quyết định ngủ.
+"""

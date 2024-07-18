@@ -1,0 +1,12 @@
+"""
+- Sự cố xảy ra khi Malfoy phát hiện Bà Noris, con mèo của thầy giám thị Filch, bị treo ngược trên tường, đã làm cho mọi người tập trung tại hiện trường.
+- Dumbledore và các giáo viên khác đã đến hiện trường, và Dumbledore khám phá ra rằng Bà Noris bị hóa đá.
+- Thầy Filch cáo buộc Harry đã gây ra sự cố, nhưng Dumbledore phủ nhận điều này, nói rằng không có học sinh năm thứ hai nào có thể thực hiện ma thuật đen tối như vậy.
+- Snape đề xuất rằng Harry và bạn bè của mình có mặt ở hành lang không đúng lúc, và đặt nghi vấn về việc họ không tham dự tiệc Halloween.
+- Hermione, Ron và Harry giải thích rằng họ đã rời tiệc ma để về phòng ngủ.
+- Ginny Weasley, em gái của Ron, tỏ ra lo lắng về số phận của Bà Noris.
+- Hermione bắt đầu dành nhiều thời gian đọc sách, cố gắng tìm hiểu về "Phòng chứa Bí mật" mà được đề cập trên bức tường.
+- Trong một buổi học về Lịch sử Pháp thuật, Hermione đã hỏi giáo sư Binns về "Phòng chứa Bí mật", và ông đã giải thích về truyền thuyết về căn phòng này.
+- Hermione đề xuất rằng nhóm của họ nên tìm hiểu thêm về "Phòng chứa Bí mật" và khả năng Malfoy có liên quan đến sự cố với Bà Noris.
+- Hermione đề xuất sử dụng "món thuốc Đa dịch" để biến hình thành học sinh của nhà Slytherin để tiếp cận và hỏi Malfoy.
+"""

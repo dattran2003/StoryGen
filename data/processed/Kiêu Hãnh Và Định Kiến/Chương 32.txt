@@ -1,0 +1,18 @@
+"""
+- Sáng hôm sau, Elizabeth đang viết thư cho Jane thì bất ngờ khi nghe tiếng chuông cửa, hóa ra đó là Darcy, người mà cô không ngờ tới.
+- Darcy tỏ ra ngạc nhiên khi thấy Elizabeth một mình và xin lỗi vì đã tới bất ngờ.
+- Trong cuộc trò chuyện, Elizabeth nhắc lại lần cuối họ gặp nhau ở Hertfordshire và hỏi về việc họ ra đi vội vàng.
+- Elizabeth hỏi Darcy về ý định trở về Netherfield của Bingley, Darcy đáp rằng anh ấy có thể sẽ ít sống ở đó hơn.
+- Elizabeth và Darcy tiếp tục thảo luận về việc Bingley nên giữ hay trả lại Netherfield.
+- Trong cuộc trò chuyện, Darcy khen ngợi ngôi nhà và nói rằng Phu nhân Catherine đã đóng góp nhiều vào nó.
+- Elizabeth và Darcy tiếp tục cuộc trò chuyện về cuộc hôn nhân của Collins và vợ mới.
+- Elizabeth bày tỏ quan điểm của cô về việc ở gần gia đình trong hôn nhân, Darcy tỏ ra đồng ý.
+- Darcy khuyên Elizabeth không nên gắn bó quá mức với Longbourn, điều này khiến cô ngạc nhiên.
+- Darcy hỏi Elizabeth về cảm nghĩ của cô về Kent, sau đó anh ta rời đi.
+- Charlotte suy đoán rằng Darcy có thể đã yêu Elizabeth, nhưng Elizabeth phủ nhận điều này dựa trên sự im lặng của Darcy.
+- Elizabeth và Charlotte thảo luận về việc Darcy và Đại tá Fitzwilliam thường xuyên ghé thăm nhà họ.
+- Họ cảm thấy thoải mái với Đại tá Fitzwilliam và thích anh ấy hơn so với Darcy, người thường xuyên đến mà không nói nhiều.
+- Collins không thể hiểu rõ ý định và tình cảm của Darcy khi anh ta nhìn Elizabeth.
+- Collins đôi khi nghĩ rằng Darcy có tình cảm với Elizabeth nhưng Elizabeth luôn phủ nhận điều này.
+- Collins cố gắng giúp Elizabeth kết hôn với Đại tá Fitzwilliam, người mà cô cho rằng phù hợp hơn với Elizabeth so với Darcy.
+"""

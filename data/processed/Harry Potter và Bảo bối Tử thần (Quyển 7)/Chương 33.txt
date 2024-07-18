@@ -1,0 +1,21 @@
+"""
+- Prince Harry và Ron, Hermione vẫn quỳ bên cạnh thầy Snape, bất ngờ trước sự xuất hiện của giọng nói lạnh lùng của Voldemort, khiến Harry tưởng rằng Voldemort đã trở lại.
+- Voldemort tuyên bố với Hogwarts và vùng lân cận rằng anh ta biết trân trọng lòng dũng cảm của họ, nhưng nếu họ tiếp tục kháng cự, tất cả họ sẽ chết.
+- Voldemort ra lệnh cho lực lượng của mình rút lui và cho Hogwarts một giờ để thu xếp tử sĩ và chăm sóc thương binh.
+- Voldemort nói trực tiếp với Harry Potter, yêu cầu anh ta đến gặp mình trong Rừng Cấm trong một giờ, nếu không trận chiến sẽ tiếp diễn.
+- Ron và Hermione khuyên Harry không nghe theo lời của Voldemort, nhưng Harry vẫn còn sững sờ trước cái chết của thầy Snape.
+- Harry, Ron và Hermione quay trở lại tòa lâu đài và chứng kiến cảnh tượng bi thảm sau trận chiến.
+- Những người sống sót đang tụ tập, người bị thương đang được chăm sóc, và những người đã chết đang được xếp thành hàng.
+- Harry không thể chịu đựng nổi việc nhìn thấy những thi thể khác, vì anh ta cảm thấy rằng họ đã chết vì mình.
+- Harry chạy lên cầu thang, trốn vào Tưởng ký để xem ký ức cuối cùng của thầy Snape.
+- Trong ký ức, Harry chứng kiến cuộc gặp gỡ đầu tiên giữa thầy Snape và Lily Evans khi họ còn nhỏ.
+- Snape, từ nhỏ đã biết Lily là một phù thủy và đã cố gắng làm quen với cô.
+- Snape và Lily tiếp tục gặp nhau, chia sẻ kiến thức về phép thuật, trong khi Lily lo lắng về việc chị gái Petunia ghét phép thuật.
+- Snape và Lily cùng nhau lên tàu đến trường Hogwarts, nhưng mối quan hệ của họ trở nên căng thẳng khi họ được phân loại vào hai nhà khác nhau.
+- Snape và Lily sau đó cãi nhau về bạn bè của Snape, những người sử dụng Nghệ thuật Hắc ám.
+- Snape vô tình gọi Lily là 'Máu bùn', điều này khiến mối quan hệ giữa họ trở nên xấu đi.
+- Snape sau đó tìm gặp Lily để xin lỗi, nhưng cô từ chối tha thứ và nói rằng Snape đã chọn con đường của mình.
+- Snape sau đó gặp Dumbledore và yêu cầu ông ta bảo vệ Lily và gia đình cô, đồng ý làm bất cứ điều gì để đền ơn.
+- Snape sau đó liên tục gặp gỡ Dumbledore, giúp đỡ và hỗ trợ ông trong nhiều vấn đề khác nhau, bao gồm việc bảo vệ Harry Potter.
+- Snape cuối cùng đã thực hiện lời hứa với Dumbledore, giúp bảo vệ Harry và thực hiện nhiệm vụ cuối cùng của mình, mặc dù điều này đã gây ra nỗi đau lớn cho anh.
+"""

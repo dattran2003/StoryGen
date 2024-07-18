@@ -1,0 +1,15 @@
+"""
+- Sự hạnh phúc của bà Bennet khi hai con gái của bà, Jane và Elizabeth, kết hôn.
+- Niềm hãnh diện của bà Bennet khi bà có thể thăm và gọi Jane và Elizabeth là bà Bingley và bà Darcy.
+- Ước nguyện của bà Bennet đã thành hiện thực, làm cho bà trở thành một phụ nữ biết điều và dễ thương hơn.
+- Ông Bennet thường xuyên thăm con gái Elizabeth tại Pemberley, dù ông thường tỏ ra không thích ra khỏi nhà.
+- Anh Bingley và Jane chỉ lưu lại Netherfield trong 12 tháng và sau đó chuyển đến Derbyshire.
+- Kitty sống chủ yếu với hai cô chị sau khi thoát khỏi ảnh hưởng của Lydia, cô trở nên ít cáu kỉnh, ngu dốt và nhạt nhẽo hơn.
+- Mary, cô con gái duy nhất còn ở nhà, bắt buộc phải hòa nhập nhiều hơn với thế giới.
+- Wickham và Lydia không có cải thiện sau cuộc hôn nhân của hai cô chị. Họ vẫn sống xa hoa và thường xuyên phải nhờ sự trợ giúp tài chính từ Jane và Elizabeth.
+- Dù không thoải mái, Darcy vẫn giúp Wickham tiến triển trong sự nghiệp để giúp Elizabeth.
+- Cô Bingley, sau sự tức giận ban đầu, đã trở nên thân thiện hơn với Elizabeth và Georgiana.
+- Georgiana sống cùng Darcy và Elizabeth tại Pemberley, mối quan hệ giữa cô và Elizabeth rất tốt.
+- Phu nhân Catherine ban đầu phản ứng dữ dội với cuộc hôn nhân của Darcy và Elizabeth nhưng sau cùng đã chấp nhận và thăm họ tại Pemberley.
+- Gia đình Gardiner duy trì mối quan hệ thân thiết nhất với Darcy và Elizabeth.
+"""

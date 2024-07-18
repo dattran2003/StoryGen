@@ -1,0 +1,15 @@
+"""
+- Elizabeth cảm thấy thất vọng khi không nhận được thư từ Jane khi ở Lambton.
+- Cô nhận hai lá thư cùng một lúc sau hai ngày, một trong số đó đã bị gửi lạc.
+- Thư đầu tiên từ Jane thông báo rằng Lydia đã bỏ trốn cùng Wickham tới Scotland.
+- Tin tức này gây ra sự kinh ngạc và lo lắng trong gia đình.
+- Elizabeth đọc lá thư thứ hai, viết sau lá thư đầu một ngày, tiết lộ thêm thông tin rằng họ không chắc họ đã đi tới Scotland và họ có thể đã dừng lại ở London.
+- Jane yêu cầu Elizabeth trở về nhà để giúp đỡ trong tình hình khẩn cấp.
+- Elizabeth chia sẻ tin tức với Darcy, người tỏ ra sốc và quan tâm.
+- Elizabeth và gia đình quyết định trở về nhà ngay lập tức để xử lý tình hình.
+- Darcy đồng ý giữ bí mật về vụ việc và Elizabeth hy vọng họ sẽ có thể giữ được mối quan hệ thân thiện.
+- Elizabeth nhận ra rằng Lydia có thể đã bị Wickham lừa dối và cô cảm thấy trách nhiệm về việc không chia sẻ thông tin về Wickham trước đó.
+- Cô lo lắng về việc phải trở về nhà để đối mặt với hậu quả của vụ việc.
+- Ông và bà Gardiner trở về và hứa sẽ giúp đỡ.
+- Họ chuẩn bị rời Lambton, với lý do giả tạo cho việc phải ra đi đột ngột.
+"""

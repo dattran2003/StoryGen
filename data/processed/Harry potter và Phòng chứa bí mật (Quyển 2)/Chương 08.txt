@@ -1,0 +1,13 @@
+"""
+- Tháng Mười đã đến, mang theo thời tiết lạnh lẽo và ẩm ướt, tạo ra một dịch cúm trong cộng đồng học sinh và giáo viên.
+- Harry và bạn bè phải đối mặt với những buổi tập Quidditch khắc nghiệt trong thời tiết xấu dưới sự chỉ đạo của Oliver Wood.
+- Harry gặp Nick Suýt Mất Đầu, con ma của tháp Gryffindor, đang buồn vì bị từ chối gia nhập Đoàn Kỵ sĩ Không đầu.
+- Trong lúc trở về sau buổi tập, Harry gặp rắc rối với thầy Filch vì đã bẩn bùn khắp nơi.
+- Trong văn phòng của thầy Filch, Harry tình cờ phát hiện ra phong bì chứa khóa học Kwikspell, một khóa học học qua thư về pháp thuật.
+- Harry thoát khỏi trừng phạt của thầy Filch nhờ sự can thiệp của Peeves, con yêu tinh siêu quậy.
+- Nick Suýt Mất Đầu tiết lộ với Harry về bữa tiệc Tử nhật thứ 500 của mình và mời Harry cùng bạn bè tham dự.
+- Dù không muốn, nhưng Harry, Ron và Hermione đã tham dự bữa tiệc Tử nhật của Nick Suýt Mất Đầu, nơi họ gặp nhiều con ma khác và chứng kiến sự xuất hiện của Đoàn Kỵ sĩ Không đầu.
+- Trong khi rời khỏi bữa tiệc, Harry nghe thấy giọng nói lạnh lùng và khát máu, làm tăng thêm sự lo lắng về sự an toàn tại trường.
+- Khi chạy lên cầu thang, cả ba phát hiện ra cảnh tượng kinh hoàng của Bà Noris, con mèo của thầy Filch, bị treo lủng lẳng trên cán đuốc cùng với thông điệp đe dọa "Phòng Chứa Bí Mật Đã Được Mở Ra". 
+- Draco Malfoy xuất hiện và thách thức, dường như liên quan đến thông điệp trên tường.
+"""

@@ -1,0 +1,14 @@
+"""
+- Calpurnia, mặc tạp dề cứng cáp nhất của mình, chuẩn bị một khay bánh nướng và đi lui qua cánh cửa đu, làm việc một cách thanh thoát và duyên dáng.
+- Tháng Tám sắp sang tháng Chín, Dill chuẩn bị rời đi, trong khi Jem dạy Dill bơi lội tại Barker's Eddy.
+- Alexandra và nhóm truyền giáo của bà đang hoạt động khắp ngôi nhà. Trong khi đó, Jean Louise (tức Scout) nghe Crace Merriweather mô tả cuộc sống khó khăn của người Mruna.
+- Các bà nghỉ ăn nhẹ sau bài tường trình, và Alexandra mời Scout tham gia.
+- Trong khi đó, Calpurnia hướng dẫn Scout giúp đỡ bà trong việc chuẩn bị thức ăn.
+- Scout giúp mang một bình bạc chứa nước vào phòng ăn, và sau đó ngồi cùng các quý cô, mặc dù cô cảm thấy hơi bất an.
+- Stephanie Crawford hỏi Scout về ước mơ nghề nghiệp tương lai của cô, gợi ý rằng cô có thể muốn trở thành một luật sư.
+- Scout nói với Grace Merriweather về cuộc họp của các bà, và sau đó nghe bà Merriweather nói về J. Grimes Everett, một nhà truyền giáo làm việc với người Mruna.
+- Trong cuộc trò chuyện, Scout biết được việc Tom Robinson đang trong tình trạng tồi tệ tại nhà tù.
+- Atticus xuất hiện, khuôn mặt trắng bệch, và thông báo rằng Tom Robinson đã chết sau khi cố gắng vượt ngục.
+- Atticus và Calpurnia đi tới nhà Helen Robinson để thông báo tin tức đau buồn.
+- Alexandra tỏ ra lo lắng và mệt mỏi, nhưng sau cùng, cô và Maudie tiếp tục cuộc họp của nhóm truyền giáo như không có gì xảy ra, giữ vững hình ảnh quý cô.
+"""

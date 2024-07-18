@@ -1,0 +1,11 @@
+"""
+- Gandalf tiết lộ rằng ông biết Chiếc Nhẫn của Frodo chính là Chiếc Nhẫn Số Một, thông qua việc đọc dòng chữ trên lửa và các bằng chứng khác.
+- Frodo hỏi Gandalf khi nào ông nhận ra điều này, và Gandalf trả lời rằng chỉ vừa nhận ra trong phòng này, nhưng ông đã chờ đợi và tìm kiếm trong một thời gian dài.
+- Gandalf đã gặp Gollum, người đã tiết lộ thông tin về Chiếc Nhẫn và Bilbo.
+- Gollum đã thoát khỏi nơi giam giữ và đi tìm Bilbo, theo dấu vết của anh ta đến Mirkwood và thậm chí đến Dale.
+- Gollum đã đi đến Mordor và tiết lộ vị trí của Frodo và Chiếc Nhẫn Số Một cho Kẻ Thù.
+- Gandalf lo lắng rằng Kẻ Thù có thể đã tìm ra vị trí của Quận và đang tìm kiếm Frodo.
+- Frodo biểu lộ sự sợ hãi và mong muốn không giữ Chiếc Nhẫn, nhưng Gandalf giải thích rằng nó không thể dễ dàng bị phá hủy.
+- Frodo quyết định giữ Chiếc Nhẫn và bảo vệ nó, nhưng cũng nhận ra rằng anh ta cần phải rời khỏi Quận để bảo vệ mọi người.
+- Gandalf gợi ý Frodo nên tìm một người bạn đồng hành, và Frodo chấp nhận Sam Gamgee, người đã tình cờ nghe được cuộc thảo luận, làm người bạn đồng hành của mình.
+"""

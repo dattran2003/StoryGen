@@ -1,0 +1,13 @@
+"""
+- Scarlett cảm thấy khỏe nhờ ăn vụng bánh ngọt, cô xuống lầu và thấy các bà dì đang bận rộn chuẩn bị cho bữa tiệc sinh nhật của ông ngoại.
+- Scarlett tỏ ý không hiểu tại sao họ lại cực nhọc chuẩn bị khi ông ngoại thường ở trong phòng.
+- Cô đề nghị ra ngoài mua quà sinh nhật cho ông ngoại và hỏi xem có việc gì khác cô có thể giúp.
+- Scarlett gặp mẹ bề trên tại tu viện, người này đồng ý với yêu cầu của cô mà không cần hỏi ý kiến Đức giám mục.
+- Scarlett trở về nhà và biết rằng ông ngoại sẽ ăn trưa cùng họ, điều này khiến cô cảm thấy không thoải mái.
+- Bữa ăn trưa diễn ra căng thẳng, ông ngoại tỏ ra không hài lòng với tất cả các món ăn dù Scarlett thấy chúng rất ngon.
+- Scarlett tức giận với hành động của ông ngoại, cô cảm thấy mình không thể phản ứng.
+- Scarlett chia sẻ với Maureen về bữa tiệc và cả hai cười về lối hành xử lươn lẹo của ông ngoại.
+- Scarlett cảm thấy thoải mái trong nhà bếp nhà Maureen, nơi mà cô cảm thấy ấm cúng và thân thiện.
+- Scarlett phải về sau khi uống trà, cô nói với Maureen rằng mình sẽ không thể tham dự buổi khiêu vũ vào thứ bảy vì cô phải rời Savannah.
+- Scarlett dự định sẽ quay lại gặp Maureen trước khi đi và mang Rhett theo để giới thiệu với gia đình O'Hara.
+"""

@@ -1,0 +1,17 @@
+"""
+- Khi họ chuẩn bị đi ngủ tại quán trọ Bree, bóng tối bao phủ Buckland; một màn sương đang lan dần xuống thung lũng.
+- Ông Bolger Béo cảm nhận sự đe dọa ngấm ngầm trong không khí và thấy cánh cổng mở ra mà không có âm thanh nào.
+- Ba bóng đen tiến vào ngôi nhà, khi một tiếng đánh cửa vang lên, yêu cầu mở cửa nhân danh Mordor.
+- Một tiếng tù và vang lên, báo động khắp vùng Buckland, khiến mọi người thức dậy, sợ hãi và chuẩn bị chiến đấu.
+- Những Kỵ Sĩ Đen rời khỏi ngôi nhà, nhưng đã để lại một chiếc áo khoác Hobbit trên ngưỡng cửa.
+- Frodo thức dậy từ giấc ngủ, thấy Người Sải Bước đang cảnh giác. Frodo sau đó lại chìm vào giấc mơ xáo trộn bởi tiếng động của gió và tiếng vó ngựa.
+- Người Sải Bước đánh thức mọi người dậy, họ thấy những căn phòng đã bị phá hủy trong đêm.
+- Ông Bơ Gai, chủ quán, không thể tin vào việc những con ngựa lùn đã biến mất.
+- Frodo và nhóm quyết định mua một con ngựa lùn từ Bill Đầy Dương Xỉ để chở hành lý.
+- Cuối cùng, họ rời khỏi Bree, dưới ánh mắt của đám đông, với Bill Đầy Dương Xỉ nhạo báng họ.
+- Họ tiếp tục hành trình, đi qua những khu rừng và đầm lầy, gặp phải nhiều khó khăn như muỗi và côn trùng.
+- Frodo nhìn thấy những luồng sáng trắng từ các đỉnh đồi xa, nhưng không biết rõ nguồn gốc.
+- Người Sải Bước đề xuất họ nên đi thẳng về phía đông, tiến tới dãy đồi, không phải đến Weathertop.
+- Cuối cùng, họ dừng lại và cắm trại, với Người Sải Bước không ngủ trong đêm.
+- Sáng hôm sau, họ thức dậy với tinh thần hồi phục và tiếp tục hành trình.
+"""

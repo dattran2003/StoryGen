@@ -1,0 +1,16 @@
+"""
+- Nhân vật chính, được xác định là Harry, thức dậy trong một trạng thái không chắc chắn về sự tồn tại của mình. Anh cảm nhận được sự tiếp xúc với bề mặt dưới mình, từ đó rút ra kết luận rằng anh đang tồn tại.
+- Harry nhận ra mình đang trần truồng, điều này không làm anh bận tâm nhưng khiến anh tò mò. Anh mở mắt ra và khám phá ra mình có mắt.
+- Anh nằm trong một không gian sáng rực nhưng mờ ảo, với một sàn màu trắng, không ấm không lạnh. 
+- Anh ngồi dậy và nhận ra cơ thể mình không bị tổn thương. Anh không còn đeo kính nữa.
+- Anh nghe thấy tiếng động lạ, phát ra từ một sinh vật nhỏ đang vật vã. Điều này khiến anh cảm thấy khó chịu và muốn mặc quần áo.
+- Ngay khi anh muốn mặc quần áo, bộ áo chùng xuất hiện. Anh mặc quần áo và cảm thấy thoải mái.
+- Harry nhận ra mình có thể ở trong một phòng thiết hoặc lâu đài, nơi có mái vòm thủy tinh lấp lánh.
+- Anh nhìn thấy một sinh vật nhỏ, da non nớt, đang vật vã dưới một cái ghế.
+- Cụ Albus Dumbledore xuất hiện, nói chuyện với Harry, giải thích về tình trạng của họ, và khẳng định rằng Harry chưa chết.
+- Dumbledore giải thích về mối liên kết giữa Harry và Voldemort, và cách Voldemort đã không thể giết Harry hoàn toàn.
+- Harry và Dumbledore thảo luận về những Bảo bối tử thần, và Dumbledore tiết lộ những sai lầm trong quá khứ của mình.
+- Dumbledore khuyên Harry trở lại cuộc sống, khẳng định rằng Harry sẽ không còn sợ Voldemort như trước.
+- Cuối cùng, Harry chuẩn bị trở lại, dù biết rằng điều này sẽ không dễ dàng và có thể mang lại đau khổ.
+- Trước khi rời đi, Harry hỏi Dumbledore liệu tất cả những gì vừa xảy ra có thực hay không, và Dumbledore khẳng định rằng điều đó hoàn toàn có thể thực, dù chỉ diễn ra trong đầu Harry.
+"""

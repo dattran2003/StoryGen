@@ -1,0 +1,10 @@
+"""
+- Scarlett không hề nao núng trước sự lên án của hai bà dì và ông ngoại, thậm chí còn thách thức ông ngoại dù sau đó vẫn tỏ ra thân mật.
+- Trong bữa ăn, Scarlett thấy vui vẻ khi nhìn thấy lượng thức ăn lớn, lần đầu tiên sau bữa tiệc ở nhà O'Hara, cô không cảm thấy đói.
+- Scarlett tham dự buổi lễ vào thứ Tư Lễ Tro, nhưng cô mơ mộng về lễ hội cô sẽ tổ chức sau khi khôi phục Tara.
+- Scarlett cố gắng gặp Mẹ bề trên nhưng không thành công, cô đã vi phạm quy định ăn chay của Lễ Tro.
+- Scarlett có cuộc tranh cãi với bà Pauline về việc ăn chay và ảnh hưởng của ông O'Hara, sau đó cô xin lỗi và hòa giải với hai bà dì.
+- Scarlett cảm thấy mệt mỏi sau cuộc đi dạo quanh quảng trường và cô vi phạm quy định ăn chay bằng cách ăn bánh mì và bánh bơ.
+- Scarlett nhận được bức điện từ Henry Hamilton, biết rằng Rhett đang tìm kiếm cô.
+- Scarlett chuẩn bị đón Rhett, nhưng sau một giờ chờ đợi, cô tức giận và quyết định ăn thêm, vi phạm lại quy định ăn chay.
+"""

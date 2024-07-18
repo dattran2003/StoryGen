@@ -1,0 +1,15 @@
+"""
+- Một cô gái tên Mayella Violet Ewell, con gái của nhân vật Ewell, xuất hiện làm nhân chứng trong phiên tòa.
+- Mayella, mặc dù mỏng manh nhưng có vẻ chắc chắn khi ngồi trên ghế nhân chứng, được yêu cầu kể lại sự kiện xảy ra vào ngày 21 tháng 10 năm trước.
+- Cô gái im lặng trước câu hỏi của luật sư Gilmer nhưng sau đó đã khóc và tỏ ra sợ hãi trước sự hiện diện của Atticus.
+- Mayella khẳng định cô đã chống lại Tom Robinson, người cô cáo buộc đã tấn công tình dục cô.
+- Atticus bắt đầu chất vấn Mayella, hỏi về tuổi tác, giáo dục và hoàn cảnh gia đình của cô.
+- Atticus tiếp tục với những câu hỏi về cuộc sống khó khăn của gia đình Ewell và mối quan hệ của Mayella với cha cô.
+- Atticus hỏi liệu Mayella có yêu cha mình không, và cô khẳng định rằng ông ta tốt với cô trừ khi ông ta say rượu.
+- Atticus đặt câu hỏi về mối quan hệ giữa Mayella và Tom Robinson, và liệu cô có yêu cầu anh ta làm việc gì không.
+- Mayella khẳng định rằng Tom Robinson đã tấn công cô từ phía sau, bóp cổ cô và nói bậy bạ.
+- Atticus chất vấn khả năng của Tom Robinson tấn công Mayella, do cánh tay trái của anh ta bị tàn phế.
+- Atticus tiếp tục đặt những câu hỏi nhằm làm rõ sự việc, khiến Mayella trở nên giận dữ và không muốn trả lời thêm.
+- Cuối cùng, Mayella khẳng định lại rằng Tom Robinson đã tấn công cô và cáo buộc tất cả những người trong phòng xử án là hèn nhát nếu không làm gì về việc này.
+- Phiên tòa tạm dừng sau khi Mayella từ chối trả lời thêm bất kỳ câu hỏi nào.
+"""

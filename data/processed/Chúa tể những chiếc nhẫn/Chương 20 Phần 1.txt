@@ -1,0 +1,20 @@
+"""
+- Đội Đồng Hành được triệu tập bởi Celeborn, Lãnh Chúa và Công Nương Galadriel, để thông báo về việc khởi hành khỏi Lurien.
+- Celeborn cung cấp cho họ lựa chọn giữa việc tiếp tục cuộc hành trình hoặc ở lại Lurien, nhưng không hứa hẹn sự an bình.
+- Galadriel và Boromir đều nhấn mạnh quyết tâm của họ và Đội Đồng Hành để tiếp tục cuộc hành trình.
+- Celeborn gợi ý rằng việc băng qua Dòng Sông Vĩ Đại có thể yêu cầu sử dụng thuyền, do tất cả cây cầu ở Osgiliath đã gãy và bến đỗ đã bị kẻ thù chiếm đóng.
+- Boromir đề xuất nên đi theo phía Tây, nhưng anh không phải là người chỉ huy Đội Đồng Hành.
+- Celeborn cung cấp cho họ những chiếc thuyền nhẹ và dễ di chuyển để hỗ trợ cuộc hành trình.
+- Aragorn cảm ơn Celeborn và cảm thấy nhẹ lòng hơn, ít nhất là trong việc không phải quyết định lộ trình ngay lập tức.
+- Sam tỏ ra nghi ngờ về việc sử dụng thuyền.
+- Đội Đồng Hành quyết định nghỉ ngơi và thảo luận về kế hoạch tiếp theo, nhưng không đạt được quyết định cụ thể.
+- Boromir bày tỏ mong muốn đi đến Minas Tirith, Frodo không nói gì và Aragorn vẫn đang suy nghĩ.
+- Boromir nói về những rủi ro của việc không có lực lượng khi tiếp cận vùng đất của Chúa Tể Hắc Ám.
+- Frodo nhận ra một cái gì đó khác biệt trong cái nhìn của Boromir.
+- Buổi sáng hôm sau, họ bắt đầu đóng gói đồ đạc và nhận nhiều món quà từ người Elves, bao gồm thức ăn và quần áo.
+- Họ được tặng bánh lembas, một loại thức ăn đặc biệt của người Elves.
+- Người Elves tặng họ những bộ quần áo được dệt bởi Galadriel, những bộ áo khoác ma thuật giúp họ tránh khỏi ánh mắt không thân thiện.
+- Haldir dẫn họ ra khỏi Lurien, thông báo rằng họ không thể quay trở lại qua hướng Bắc do những khó khăn từ núi.
+- Họ tạm biệt Lurien và lên thuyền để tiếp tục cuộc hành trình, được hỗ trợ bởi những người Elves.
+- Trên đường đi, họ gặp Celeborn và Galadriel trên một chiếc thuyền, Galadriel hát một bài hát buồn về sự rời bỏ Lurien.
+"""

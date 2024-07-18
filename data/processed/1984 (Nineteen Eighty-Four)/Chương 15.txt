@@ -1,0 +1,31 @@
+"""
+- Winston thức dậy, không rõ thời gian, trong một căn phòng với ánh đèn chói lòa, bị buộc trên một loại giường và không thể di chuyển. 
+
+- O'Brien đang đứng bên cạnh, cùng một người mặc áo khoác trắng cầm ống tiêm, khi Winston bắt đầu nhận biết môi trường xung quanh mình.
+
+- Winston cảm thấy như mình đang hồi phục từ một trạng thái mơ hồ, không rõ thời gian đã trôi qua từ khi anh bị bắt.
+
+- Winston trải qua các đợt tra tấn và thẩm vấn, bắt đầu với những cú đánh đầu tiên trên khuỷu tay, và tiếp tục với các đợt tra tấn khác.
+
+- Những kẻ tra khảo anh không chỉ là những người lính, mà còn có những nhà trí thức của Đảng, những người sử dụng sự đau đớn, sự nhục mạ và sự tra tấn tâm lý để khiến anh khai nhận mọi tội trạng.
+
+- Winston bắt đầu thú nhận mọi tội ác, từ việc ám sát Đảng viên, phân phối truyền đơn phản loạn, cho đến việc là gián điệp cho chính quyền Đông Á.
+
+- Trong quá trình tra khảo, O'Brien xuất hiện như một người quen thuộc, vừa là kẻ tra tấn, vừa là người bảo vệ và là người bạn.
+
+- O'Brien giải thích rằng thực tế không tồn tại ngoài tâm trí của Đảng, và Đảng kiểm soát mọi trí nhớ và tài liệu, vì vậy họ kiểm soát quá khứ.
+
+- O'Brien thử thách Winston về thực tế, hỏi anh ta có bao nhiêu ngón tay, dẫn đến những đợt đau đớn khi Winston khẳng định chỉ có bốn ngón tay.
+
+- Winston bị đưa đến Bộ Tình Yêu, không phải để trừng phạt, mà để "chữa bệnh", để làm cho anh "lành mạnh".
+
+- O'Brien giải thích về sự khác biệt giữa cách thức hành động của Đảng so với các chế độ độc tài trước đây, nói rằng họ không chỉ muốn sự tuân phục, mà còn muốn thay đổi tư tưởng của người khác.
+
+- Winston được cho biết rằng anh sẽ không bao giờ được tha, ngay cả nếu anh hoàn toàn đầu hàng, và rằng anh sẽ không bao giờ có thể trở lại tình trạng bình thường của con người.
+
+- O'Brien sử dụng một thiết bị để gây ra một trạng thái không nhớ, khiến Winston không thể nhớ được ai đang chiến đấu với ai, và thậm chí làm thay đổi sự thật trong tâm trí anh.
+
+- Winston được cho phép đặt câu hỏi cho O'Brien, và khi anh hỏi về "Phòng 101", O'Brien trả lời rằng "ai cũng biết trong Phòng 101 có gì".
+
+- Cuộc thẩm vấn kết thúc và Winston rơi vào giấc ngủ sâu sau khi một mũi kim được chích vào cánh tay anh.
+"""

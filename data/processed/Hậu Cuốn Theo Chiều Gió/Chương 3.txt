@@ -1,0 +1,17 @@
+"""
+- Scarlett, trong trạng thái mệt mỏi sau tang lễ mẹ, đi lang thang trong nghĩa trang Tara, nơi mà mẹ cô được chôn cất.
+- Cô tự trách mình vì sự suy sụp và mất mát trong cuộc sống.
+- Scarlett so sánh ngôi mộ lớn của mẹ với ngôi mộ nhỏ của Melly và nhận ra sự thay đổi của mùa thu tại Tara.
+- Cô nhận ra rằng Tara không còn có những con ngựa chiến kể từ khi cha cô qua đời.
+- Scarlett cảm nhận sự tàn phá của ngôi nhà và nghĩa trang, và cảm thấy tội lỗi vì không thể giữ gìn nó như mẹ cô.
+- Cô nhận ra rằng mục sư da đen không hiểu rõ về mẹ cô và điều này khiến cô tức giận.
+- Scarlett tự hỏi về sự xuất hiện của Pork và Dilcey tại tang lễ và suy đoán rằng Rhett có thể đã thông báo cho họ.
+- Scarlett biết rằng Rhett đã trở lại Charleston và cô lo lắng về việc ai sẽ chăm sóc cho Wade và Ella nếu Prissy ra đi.
+- Scarlett muốn rời bỏ tất cả mọi thứ nhưng biết rằng cô phải đối mặt với trách nhiệm.
+- Scarlett ngủ suốt 18 tiếng sau tang lễ, và khi thức dậy, cô bắt đầu lên kế hoạch cho tương lai.
+- Scarlett và Suellen bắt đầu cuộc đối thoại căng thẳng, nơi mà Scarlett cố gắng hòa giải và thuyết phục Suellen để giữ các con của cô.
+- Scarlett ký ngân phiếu cho Suellen, dự định gửi Wade và Ella đến Tara và trở về Atlanta.
+- Cô nhớ lại những ngày tươi đẹp tại Tara và quyết định quay lại Atlanta để tìm lại niềm vui.
+- Scarlett thăm gia đình Tarleton ở Fairhill và nhận ra rằng họ vẫn giữ được sự vui vẻ và lạc quan.
+- Scarlett trở về Tara và nhận tin Tony Fontaine đã trở về, điều này làm cô cảm thấy hy vọng và hạnh phúc.
+"""

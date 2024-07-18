@@ -1,0 +1,16 @@
+"""
+- Harry cảm thấy vui hơn trong cuối tuần sau khi biết rằng mình và bạn bè đang làm một việc chống lại Umbridge và Bộ Pháp Thuật.
+- Harry và Ron dùng phần lớn ngày Chủ Nhật để làm bài tập về nhà, tận dụng những tia nắng cuối cùng của mùa thu để học tập ngoài trời.
+- Hermione đã hoàn tất tất cả bài tập của mình và dành thời gian để đan nón và khăn quàng.
+- Harry cảm thấy hài lòng khi biết rằng mình và bạn bè đang chống lại Umbridge và Bộ Pháp Thuật, và rằng họ đang giữ vai trò chính yếu trong kế hoạch nổi loạn.
+- Một thông báo mới đã được dán lên bảng thông báo của nhà Gryffindor, do giáo sư Umbridge ban hành, đình chỉ tất cả các tổ chức, đoàn thể, đội, nhóm và câu lạc bộ của học sinh.
+- Thông báo cho biết chỉ giáo sư Umbridge mới có quyền cho phép tái tổ chức các hoạt động này và bất kỳ học sinh nào cố thành lập hoặc tham gia vào một tổ chức không được chấp thuận sẽ bị trục xuất.
+- Harry và Ron lo lắng rằng có thể có ai đó đã nghe lén và thông báo cho Umbridge về nhóm học Phòng Chống Nghệ Thuật Hắc Ám.
+- Umbridge đã áp dụng quy định này cho cả Quidditch, gây rối cho đội Gryffindor.
+- Hedwig, con cú của Harry, trở về bị thương, khiến Harry lo lắng và tìm giáo sư Grubbly-Plank để chữa trị.
+- Harry nhận được một lá thư từ Sirius Black, yêu cầu gặp ở nơi thường xuyên.
+- Harry và bạn bè gặp rắc rối với Draco Malfoy, dẫn đến Neville Longbottom cố gắng tấn công Malfoy, may mắn được Harry và Ron ngăn chặn.
+- Snape và Umbridge bắt đầu thanh tra lớp học, gây ra sự căng thẳng.
+- Harry và bạn bè lo lắng về việc Umbridge có thể đã đọc thư của Sirius và giám sát các kênh liên lạc ra vào Hogwarts.
+- Harry, Ron và Hermione quyết định vẫn tiếp tục nhóm học Phòng Chống Nghệ Thuật Hắc Ám, bất chấp rủi ro.
+"""

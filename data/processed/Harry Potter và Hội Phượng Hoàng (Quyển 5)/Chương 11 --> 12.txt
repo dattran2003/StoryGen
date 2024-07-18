@@ -1,0 +1,47 @@
+"""
+- Harry không muốn chia sẻ với người khác về việc nó và Luna có cùng ảo giác về những con ngựa kéo xe.
+- Ginny hỏi về bà Grubbly-Plank, và cả nhóm đoán rằng Hagrid không rời đi.
+- Luna nói rằng Hagrid không phải là một giáo viên giỏi, điều này khiến Harry, Ron và Ginny phản đối.
+- Hermione cố gắng giữ trung lập nhưng đồng tình rằng Hagrid tốt.
+- Luna nói rằng Ravenclaw nghĩ Hagrid chỉ là một người giỡn.
+- Ron thô lỗ phản ứng với Luna, nhưng cô bé không để ý và nhìn Ron như xem một chương trình truyền hình thú vị.
+- Harry quan sát Hagrid's Hut nhưng không thấy dấu hiệu của sự sống.
+- Harry thấy những con vật kỳ lạ, nhưng không hiểu tại sao nó có thể thấy chúng và Ron không.
+- Ron hỏi Harry liệu nó có đi không, và Harry xác nhận.
+- Trong Đại Sảnh, Harry nhận ra sự vắng mặt của Hagrid ở bàn giáo viên.
+- Hermione lo lắng về sự an toàn của Hagrid.
+- Harry khẳng định Hagrid không gặp chuyện gì, nhưng không rõ Hagrid đang ở đâu.
+- Harry nhớ lại rằng Hagrid có thể đang thực hiện nhiệm vụ cho Dumbledore.
+- Hermione chỉ vào một người phụ nữ lạ mặt tại bàn giáo viên.
+- Harry nhận ra rằng người phụ nữ này là Umbridge, người đã tham gia phiên tòa của nó.
+- Ron và Harry nói về cái áo len của Umbridge.
+- Hermione nhắc lại rằng Umbridge làm việc với Fudge và tự hỏi tại sao cô ấy ở đây.
+- Harry nhìn thấy giáo sư Grubbly-Plank ngồi vào chỗ Hagrid.
+- Học sinh năm nhất xuất hiện, dẫn dắt bởi giáo sư McGonagall.
+- Chiếc mũ phân loại hát bài hát mới, đề cập đến sự chia rẽ trong trường và cảnh báo về mối đe dọa sắp tới.
+- Bài hát của mũ phân loại làm cho học sinh trở nên xôn xao và trao đổi ý kiến với nhau.
+- Dumbledore đứng dậy và thông báo một số quy định, giới thiệu giáo viên mới và thông báo về việc tập Quidditch.
+- Umbridge đứng dậy và phát biểu về tầm quan trọng của giáo dục và sự cần thiết của sự tiến bộ trong trường.
+- Harry và Hermione chú ý đến lời cảnh báo ẩn chứa trong bài diễn văn của Umbridge.
+- Umbridge nói về việc cân nhắc giữa truyền thống và sự đổi mới.
+- Harry và Ron không quan tâm đến bài diễn văn, trong khi Hermione thấy nó quan trọng.
+- Hermione giải thích rằng Umbridge đang nói về sự can thiệp của Bộ Phép Thuật vào Hogwarts.
+- Ron, Hermione và Harry dẫn học sinh năm nhất đến ký túc xá.
+- Neville không biết mật khẩu để vào phòng sinh hoạt chung của Gryffindor.
+- Harry cảm thấy khó chịu khi mọi người nhìn và thì thầm về nó.
+- Neville nhớ được mật khẩu và mở cửa cho Harry và mình.
+- Harry gặp Neville, Dean và Seamus trong ký túc xá.
+- Seamus nói rằng mẹ của mình không muốn Seamus trở lại Hogwarts vì những gì đã xảy ra.
+- Harry, Ron và Hermione gặp Cho Chang và cô ấy nói chuyện với Harry.
+- Snape bắt đầu năm học bằng việc giới thiệu về bài học về Thuốc nước Hòa bình.
+- Harry gặp rắc rối với bài học và bị Snape chỉ trích.
+- Snape yêu cầu học sinh làm bài tập về nhà về công dụng của đá mặt trăng.
+- Harry, Ron và Hermione gặp giáo sư Trelawney trong lớp Tiên Tri.
+- Giáo sư Trelawney yêu cầu học sinh giải nghĩa giấc mơ của nhau.
+- Harry, Ron và Hermione gặp giáo sư Umbridge trong lớp Phòng Chống Nghệ Thuật Hắc Ám.
+- Umbridge giới thiệu về giáo trình mới và tập trung vào lý thuyết.
+- Hermione đặt câu hỏi về việc không thực hành thần chú phòng vệ.
+- Harry và Umbridge có cuộc tranh cãi về việc Voldemort đã trở lại.
+- Umbridge yêu cầu Harry đến gặp cô sau giờ học để phạt cấm túc.
+- Harry gặp giáo sư McGonagall và cô khuyên Harry nên cẩn thận với Umbridge.
+"""

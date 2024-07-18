@@ -1,0 +1,14 @@
+"""
+- Ron bày tỏ sự tiếc nuối vì không hỏi được thông tin từ con ma khóc nhè Myrtle khi còn có cơ hội.
+- Bọn trẻ nhận tin về kỳ thi sắp tới từ giáo sư McGonagall, gây ra sự lo lắng lớn hơn so với nỗi sợ về quái vật trong Phòng chứa Bí mật.
+- Cả lũ đều cảm thấy áp lực học hành trước kỳ thi, nhất là khi tình hình tại trường đang rối ren.
+- Thông báo từ giáo sư McGonagall về việc nhân sâm đã đủ trưởng thành, dẫn đến việc những người bị hóa đá có thể được hồi sinh, tạo ra niềm hy vọng mới.
+- Ginny biểu lộ sự căng thẳng và lo lắng, nhưng không tiết lộ lý do trước khi bị gián đoạn bởi Huynh trưởng Percy.
+- Harry và Ron suýt soát ra bí mật về Phòng chứa Bí mật khi gặp con ma khóc nhè Myrtle, nhưng bị gián đoạn.
+- Họ tìm ra rằng con quái vật trong Phòng chứa Bí mật là Tử Xà, và họ hiểu được cách mà nó tấn công và làm sao để phòng tránh.
+- Ginny bị bắt bởi quái vật, điều này làm tăng sự khẩn cấp và quyết tâm của Harry và Ron.
+- Thầy Lockhart, thay vì chiến đấu, quyết định bỏ trốn, nhưng bị Harry và Ron chặn lại.
+- Harry, Ron và thầy Lockhart tìm ra lối vào Phòng chứa Bí mật, và Harry quyết định đi xuống đó để cứu Ginny.
+- Thầy Lockhart cố gắng trốn thoát nhưng thất bại, và sau đó bị mất trí do đũa phép của Ron.
+- Harry tiếp tục hành trình một mình vào Phòng chứa Bí mật sau khi thầy Lockhart và Ron bị ngăn lại bởi đống gạch đổ sập.
+"""

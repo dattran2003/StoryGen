@@ -1,0 +1,19 @@
+"""
+- Sau vụ tai nạn với yêu tinh, giáo sư Lockhart không còn mang động vật vào lớp nữa. Thay vào đó, ông dạy bằng cách đọc đoạn văn từ sách của mình và yêu cầu Harry đóng vai trong các câu chuyện.
+- Trong buổi học về Nghệ thuật Phòng chống Hắc ám, Harry được yêu cầu đóng vai người sói. Harry đã tham gia vào trò diễn này không hoàn toàn vì lòng tôn trọng giáo sư Lockhart.
+- Giáo sư Lockhart yêu cầu học sinh sáng tác một bài thơ về chiến công của ông đánh bại người sói Wagga Wagga.
+- Hermione, Ron và Harry đã dùng sự giúp đỡ của giáo sư Lockhart để mượn một quyển sách từ Khu vực Hạn chế trong thư viện, cuốn "Độc dược tối Hiệu nghiệm".
+- Hermione đã thuyết phục giáo sư Lockhart ký vào giấy phép cho phép cô mượn quyển sách, mặc dù ông không chú ý đến tựa sách.
+- Trong phòng vệ sinh hư hỏng, Hermione, Ron và Harry đã thảo luận về việc chế tạo thuốc Đa dịch từ quyển sách.
+- Hermione cho biết việc chế tạo thuốc Đa dịch rất phức tạp và mất khoảng một tháng.
+- Ron và Harry tỏ ra lo lắng về việc phải ăn cắp nguyên liệu từ kho của giáo sư Snape để chế tạo thuốc.
+- Hermione khẳng định rằng việc tìm hiểu về việc đe dọa học sinh Muggle là quan trọng hơn việc vi phạm nội quy.
+- Harry chuẩn bị cho trận Quidditch đầu tiên của mùa, trong khi lo lắng về sức mạnh của đội Slytherin.
+- Trong trận đấu, một trái Bludger trở nên kỳ quặc, liên tục tấn công Harry.
+- Trái Bludger cuối cùng đã đánh gãy cánh tay của Harry.
+- Trong khi Harry đang nằm trên sân, giáo sư Lockhart cố gắng chữa trị cho Harry nhưng đã làm mất xương cánh tay của Harry.
+- Harry được đưa vào bệnh thất để phục hồi xương cánh tay.
+- Dobby, con gia tinh, đã xuất hiện trong bệnh thất và thú nhận đã ếm bùa vào hàng rào để ngăn cản Harry và Ron đến trường và trái Bludger.
+- Dobby cảnh báo Harry về nguy hiểm sắp xảy ra tại Hogwarts, liên quan đến việc mở lại Phòng chứa Bí mật.
+- Colin Creevey, một học sinh, đã bị tấn công và bị hóa đá, củng cố nghi ngờ rằng Phòng chứa Bí mật đã mở lại.
+"""

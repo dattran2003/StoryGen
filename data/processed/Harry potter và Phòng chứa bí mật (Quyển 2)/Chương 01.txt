@@ -1,0 +1,16 @@
+"""
+- Buổi điểm tâm tại nhà số 4 đường Privet Drive bị xáo lộn khi tiếng kêu của con cú của Harry Potter làm ông Vernon Dursley nổi giận.
+- Harry cố gắng giải thích rằng con cú, Hedwig, đang chán chường vì không thể bay nhảy như bình thường, nhưng ông Dursley từ chối thả nó ra.
+- Trong cuộc cãi vã, Dudley Dursley yêu cầu thêm thức ăn, gây thêm căng thẳng.
+- Harry đề cập đến việc sử dụng phép thuật, khiến cả gia đình Dursley hoảng loạn.
+- Vernon cảnh cáo Harry không được thể hiện bất kỳ dấu hiệu nào của phép thuật trong nhà.
+- Harry nhớ về trường Hogwarts và bạn bè trong khi bị hạn chế tiếp xúc với thế giới phù thủy.
+- Gia đình Dursley chuẩn bị cho bữa tối quan trọng với một khách hàng tiềm năng, và Harry bị yêu cầu phải tránh xa.
+- Harry cảm thấy cô đơn và nhớ về bạn bè ở Hogwarts, đặc biệt là Hermione và Ron, nhưng cả hai đều không viết thư cho Harry trong suốt mùa hè.
+- Dudley bất ngờ nhớ đến sinh nhật của Harry, khiến Harry nghi ngờ và nhìn thấy một cặp mắt màu xanh lá cây ở bờ giậu.
+- Dudley trêu chọc Harry về việc không nhận được thiệp sinh nhật, và Harry đe dọa dùng phép thuật, làm Dudley sợ hãi.
+- Harry bị phạt bởi dì Petunia sau khi Dudley chạy vào nhà kêu cứu.
+- Harry làm nhiều công việc nhà dưới ánh nắng chói chang, cảm thấy mệt mỏi và cô đơn.
+- Dù mệt mỏi, Harry ăn bữa tối ít ỏi và nhanh chóng rời khỏi nhà bếp khi khách đến.
+- Trên giường phòng của Harry, ai đó đang chờ đợi.
+"""

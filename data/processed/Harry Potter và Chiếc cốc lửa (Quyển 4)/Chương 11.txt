@@ -1,0 +1,13 @@
+"""
+- Harry thức dậy trong không khí buồn bã của ngày cuối cùng trước khi trở lại Hogwarts. Mưa vẫn rơi nặng hạt.
+- Harry, Ron, Fred và George ăn sáng nhưng bị gián đoạn bởi một cuộc gọi khẩn từ Bộ Pháp Thuật.
+- Ông Weasley rời đi để xử lý một vấn đề liên quan đến ông Amos Diggory và một sự cố liên quan đến ma thuật.
+- Ông Diggory thông báo rằng có một sự cố tại nhà của 'Mắt Điên' Moody, có thể liên quan đến một kẻ đột nhập.
+- Ông Weasley rời đi để giải quyết vấn đề, và gia đình Weasley chuẩn bị để đi đến Ngã Tư Vua.
+- Trong khi đi, họ thảo luận về 'Mắt Điên' Moody, một cựu pháp sư của Bộ Pháp Thuật và một chuyên gia trong việc tiêu diệt phù thủy hắc ám.
+- Gia đình Weasley gặp khó khăn khi đi đến Ngã Tư Vua do những hành lý ma thuật gây rối.
+- Họ cuối cùng đã đến ga tàu và Harry, Ron và Hermione lên tàu tốc hành Hogwarts.
+- Trên tàu, họ gặp lại bạn bè và bắt đầu hành trình trở lại Hogwarts, trong khi Ron và Harry tỏ ra tò mò về những thay đổi mà gia đình Weasley đề cập.
+- Draco Malfoy xuất hiện và gây rối, nhưng bị đuổi đi sau một cuộc tranh cãi.
+- Cuối cùng, họ đến Hogwarts trong cơn mưa lớn và gặp lại Hagrid.
+"""

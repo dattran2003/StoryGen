@@ -1,0 +1,13 @@
+"""
+- Sáng hôm sau cơn bão, Harry, Ron và Hermione xem thời khóa biểu trong Đại sảnh đường. Fred, George và Lee Jordan đang bàn cách lừa vào cuộc Thi đấu Tam Pháp thuật.
+- Ron và Harry than phiền về lịch học, đặc biệt là môn Tiên tri.
+- Hermione khuyến nghị Harry nên bỏ môn Tiên tri và học môn Số học thay thế.
+- Harry lo lắng vì không nhận được thư từ Hedwig hoặc Sirius.
+- Trong buổi học Dược thảo học, giáo sư Sprout giới thiệu về cây Củ u và cách vắt mủ.
+- Sau giờ học, họ gặp Hagrid, đang chuẩn bị cho buổi học Chăm sóc Sinh vật Huyền bí với Quái Tôm Đuôi Nổ.
+- Malfoy chế giễu Quái Tôm Đuôi Nổ và Hermione bảo vệ chúng.
+- Buổi học với giáo sư Trelawney không thu hút Harry, cô tiên đoán về những khó khăn sắp tới.
+- Malfoy khiêu khích Ron bằng cách đọc bài viết trên Nhật báo Tiên tri về cha của Ron.
+- Harry bảo vệ Ron, và sau đó giáo sư Moody xuất hiện, biến Malfoy thành con chồn hương.
+- Moody bị giáo sư McGonagall nhắc nhở không nên sử dụng phép biến đổi như hình phạt.
+"""

@@ -1,0 +1,15 @@
+"""
+- Trò càm ràm của tôi cuối cùng đã khiến Jem dừng lại, tuy nhiên anh ta vẫn cho rằng bố Atticus không cấm chúng tôi chơi trò này.
+- Dill đồng ý với Jem và cả hai bắt đầu lập kế hoạch, thay đổi tên nhân vật để tiếp tục trò chơi, trong khi tôi bị loại trừ và dành thời gian chơi với cô Maudie Atkinson.
+- Mối quan hệ giữa tôi và cô Maudie trở nên thân thiết hơn khi tôi tránh xa âm mưu của Jem và Dill.
+- Cô Maudie Atkinson, một người phụ nữ hiền lành và độc thân, chăm sóc vườn hoa của mình và có mối quan hệ đặc biệt với chúng tôi, mặc dù không được định rõ.
+- Tôi và Jem có quyền chơi trong sân của cô Maudie miễn là tránh xa cây đỗ quyên của cô.
+- Cô Maudie ghét ngôi nhà của mình và yêu thích thiên nhiên, ngoại trừ cỏ cú, mà cô coi là mối đe dọa đối với sân nhà mình.
+- Cô Maudie có một mối quan hệ tốt với Jem và Dill, và cô nổi tiếng với khả năng nấu nướng tuyệt vời.
+- Cô Maudie và tôi thường ngồi im lặng ở hàng hiên nhà cô, tận hưởng sự yên bình của buổi hoàng hôn.
+- Cô Maudie cung cấp thông tin về Boo Radley, khẳng định rằng anh ta vẫn còn sống.
+- Cô Maudie giải thích về niềm tin Baptist và cách nó có thể tạo ra sự hiểu lầm về hành vi của Arthur Radley.
+- Jem và Dill quyết định gửi một lá thư cho Boo Radley, mời anh ta ra ngoài và cho biết anh ta không bị làm hại.
+- Bố Atticus phát hiện kế hoạch của chúng tôi và nghiêm khắc cảnh cáo chúng tôi không được làm phiền ông Radley nữa.
+- Bố Atticus giải thích rằng chúng tôi đang phơi bày lịch sử của ông Radley cho cả khu phố và yêu cầu chúng tôi tôn trọng quyền riêng tư của ông ta.
+"""

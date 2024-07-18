@@ -1,0 +1,13 @@
+"""
+- Đội Đồng Hành nghỉ ngơi và tiếp tục hành trình trên dòng nước chảy vào giữa hồ.
+- Họ ăn và sau đó tiếp tục chèo thuyền khi Mặt Trời trở nên tròn và đỏ, và đêm đã buông xuống khi họ đến dưới bóng của những ngọn đồi.
+- Ngày thứ mười của cuộc hành trình đã trôi qua, họ đã vượt qua Miền Đất Hoang Dã Hơn và sắp phải lựa chọn giữa đường đông và đường tây.
+- Aragorn dẫn họ đến bãi cỏ Parth Galen để nghỉ ngơi, nơi họ phát hiện ra sự hiện diện của Orcs từ ánh sáng lờ mờ của thanh gươm Elf.
+- Ban mai đến với bầu không khí căng thẳng và lo lắng về sự xuất hiện của kẻ thù.
+- Aragorn gợi ý họ phải lựa chọn con đường tiếp theo: rẽ về phía tây với Boromir, rẽ về phía đông với Sợ Hãi và Bóng Tối, hoặc mỗi người chọn một con đường riêng.
+- Frodo, Người Mang Chiếc Nhẫn, chịu trách nhiệm đưa ra quyết định, yêu cầu một giờ để suy nghĩ.
+- Frodo lang thang trong rừng và gặp Boromir, người cố gắng thuyết phục Frodo chọn con đường đi về phía tây.
+- Boromir đề nghị Frodo cho phép ông sử dụng Chiếc Nhẫn, nhưng Frodo từ chối.
+- Boromir nổi giận và Frodo bỏ chạy, sử dụng Chiếc Nhẫn để biến mất trước mắt Boromir.
+- Frodo lên đỉnh Amon Hen, ngồi trên Chiếc Ghế Thị Giác và chứng kiến nhiều cảnh tượng trên khắp thế giới, bao gồm dấu hiệu của chiến tranh ở khắp nơi.
+"""

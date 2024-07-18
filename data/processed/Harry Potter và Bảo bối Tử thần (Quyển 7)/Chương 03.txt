@@ -1,0 +1,16 @@
+"""
+- Cuộc ra đi của gia đình Dursley được thông báo, với Dượng Vernon gọi Harry xuống để nói chuyện.
+- Harry đang chú tâm vào mảnh gương mà ông Dumbledore dường như xuất hiện trong đó.
+- Dượng Vernon thông báo rằng ông ta không còn tin vào mối đe dọa mà 'bọn chúng' mang lại và quyết định không rời khỏi nhà.
+- Harry cố gắng thuyết phục Dượng rằng, khi Harry tròn 17 tuổi, bùa bảo vệ sẽ hết hiệu lực, đặt gia đình Dursley vào tình trạng nguy hiểm.
+- Dượng Vernon nghi ngờ rằng Harry đang âm mưu chiếm nhà họ, nhưng Harry bác bỏ ý tưởng này.
+- Harry giải thích rằng Hội Pháp sư sẽ giúp bảo vệ gia đình Dursley, nhưng Dượng vẫn nghi ngờ tại sao họ không được Kingsley bảo vệ.
+- Harry giải thích rằng Kingsley đang bảo vệ Thủ tướng Muggle, và Hestia Jones và Dedalus Diggle sẽ đảm nhiệm việc bảo vệ họ.
+- Harry nhấn mạnh rằng nếu Dượng không đi, Voldemort và các tay sai sẽ tấn công họ, và Dượng cần sự giúp đỡ.
+- Dudley, sợ hãi, đồng ý đi với Hội, dẫn đến việc gia đình Dursley quyết định đi cùng.
+- Harry trở về phòng mình và chờ đợi, chuẩn bị cho cuộc chia tay có thể là vĩnh viễn với gia đình Dursley.
+- Dedalus Diggle và Hestia Jones, hai phù thủy từ Hội Pháp sư, đến để giúp gia đình Dursley di chuyển.
+- Kế hoạch là họ sẽ đi bằng xe hơi trước khi sử dụng phép thuật để đến nơi an toàn.
+- Harry và gia đình Dursley có một cuộc chia tay ngắn ngủi và phức tạp trước khi họ rời đi.
+- Dudley, sau những lời chia tay khó khăn, cuối cùng đã cảm ơn Harry vì đã cứu mạng mình, đánh dấu một thay đổi trong mối quan hệ của họ.
+"""

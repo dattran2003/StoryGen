@@ -1,0 +1,12 @@
+"""
+- Nữ gia sư đến Thornfield Hall sau một hành trình dài, gặp bà Fairfax, người chào đón cô một cách thân thiện.
+- Bà Fairfax mô tả về cô học trò của nữ gia sư, Adèle Varens, người không phải là con gái của bà mà là học trò mà bà đang chăm sóc.
+- Nữ gia sư được chỉ phòng riêng, cảm thấy hạnh phúc và biết ơn vì điều kiện sống tốt hơn so với nơi cô từng ở trước đó.
+- Sáng hôm sau, nữ gia sư khám phá ngôi nhà và cảnh quan xung quanh, biết thêm về chủ nhân thực sự của ngôi nhà, ông Rochester.
+- Cô gặp Adèle, học trò của mình, một cô bé khoảng tám tuổi, người có khả năng nói tiếng Pháp và đã sống ở châu Âu.
+- Nữ gia sư và Adèle bắt đầu học bài trong thư viện, nơi đầy đủ tiện nghi và dụng cụ học tập.
+- Bà Fairfax giới thiệu về phòng ăn và các phòng khác trong ngôi nhà, nhấn mạnh rằng cô luôn chuẩn bị những phòng này để đón khách của ông Rochester.
+- Nữ gia sư được bà Fairfax dẫn đi thăm các tầng khác của ngôi nhà, nơi có các phòng ngủ lớn và các phòng cổ kính.
+- Họ cũng lên sân thượng, nơi nữ gia sư có thể ngắm nhìn toàn cảnh xung quanh.
+- Trong lúc thăm quan, nữ gia sư nghe thấy tiếng cười kỳ lạ từ một trong những phòng, sau đó được bà Fairfax giải thích rằng đó có thể là Grace Poole, một người giúp việc.
+"""

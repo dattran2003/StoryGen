@@ -1,0 +1,19 @@
+"""
+- Harry và bác Hagrid gặp rắc rối trong quá trình di chuyển, sau cuộc tấn công của Voldemort và những Tử Thần Thực Tử.
+- Harry và bác Hagrid được Ted và Dora Tonks cứu giúp, sau cuộc tấn công.
+- Harry và bác Hagrid được chữa trị bởi Ted Tonks.
+- Harry nhận ra Voldemort biến mất khi họ vượt qua rào cản bảo vệ của Hội Phượng Hoàng.
+- Harry và bác Hagrid được đưa đến Hang Sóc bằng Khóa Cảng.
+- Harry báo cáo về cuộc tấn công và sự vắng mặt của những người khác đến gia đình Weasley.
+- Thầy Lupin xác nhận danh tính của Harry bằng câu hỏi về sinh vật trong văn phòng của thầy tại Hogwarts.
+- Harry giải thích về cách anh ta đối phó với Stan Shunpike và lý do anh ta chọn giải giới thay vì đánh bùa choáng.
+- Hermione và Kingsley Shacklebolt trở về an toàn.
+- George Weasley bị mất một phần của tai do lời nguyền từ Severus Snape.
+- Harry và những người khác lo lắng cho sự an toàn của những người còn lại.
+- Ron Weasley và Nymphadora Tonks trở về an toàn, Ron được khen ngợi vì đã đánh choáng một Tử Thần Thực Tử.
+- Bill Weasley và Fleur Delacour cũng trở về an toàn nhưng thông báo rằng Alastor Moody đã chết.
+- Harry khẳng định rằng không ai trong nhóm đã phản bội, và ông ta tin tưởng tất cả mọi người.
+- Bill Weasley quyết định đi tìm thi thể của Alastor Moody.
+- Harry bày tỏ ý định rời khỏi Hang Sóc để bảo vệ mọi người khỏi nguy hiểm.
+- Harry chia sẻ về những hình ảnh và cảm giác mà anh ta nhận được từ Voldemort, gây lo lắng cho Hermione và Ron.
+"""

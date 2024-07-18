@@ -1,0 +1,17 @@
+"""
+- Nhân vật chính rời "Phòng tử đinh hương" và nhớ về Jane, người không thể xua khỏi tâm trí.
+- Anh nhớ cảnh Jane ngồi với Stradlater trong xe của Ed Banky, dù anh biết giữa họ không có gì.
+- Jane giỏi thể thao, chơi quần vợt và golf cùng anh mỗi ngày trong mùa hè.
+- Họ trở thành bạn bè nhờ con chó Doberman của Jane.
+- Anh và Jane trở thành bạn thân sau một cuộc gặp gỡ tình cờ tại câu lạc bộ.
+- Anh dạy Jane chơi golf, dù ban đầu cô ấy không giỏi.
+- Anh miêu tả vẻ ngoại hình và tính cách của Jane, cô ấy là người yêu đọc sách, đặc biệt là thơ.
+- Mẹ anh không thích Jane, nhưng anh thì rất yêu mến cô.
+- Anh nhớ về lần duy nhất họ hôn nhau, trong một buổi chiều mưa tầm tã.
+- Anh hỏi Jane về mối quan hệ giữa cô và dượng ghẻ nghiện ngập của mình.
+- Họ thường nắm tay nhau, và anh thích điều này.
+- Anh nhớ về một lần Jane xoa đầu anh khi xem phim, một cử chỉ khiến anh rất thích.
+- Dù biết Jane sẽ không để Stradlater làm gì, nhưng anh vẫn cảm thấy bực bội.
+- Anh rời đại sảnh và quyết định đi tới Ernie, một hộp đêm ở Greenwich Village.
+- Anh nhớ về Ernie, một nghệ sĩ dương cầm da đen mà anh thích nghe chơi nhạc, dù lão khá hách dịch.
+"""

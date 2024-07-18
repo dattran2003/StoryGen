@@ -1,0 +1,13 @@
+"""
+- Joe Colleton, một nhà thầu khoán, từ chối việc làm từ Scarlett Butler vì cảm thấy bị lừa dối trong quá khứ.
+- Scarlett, cần Colleton vì anh là nhà thầu khoán duy nhất đáng tin cậy ở Atlanta. Cô thuyết phục anh bằng cách gợi lại ký ức về việc cô đã giúp anh trong thời kỳ khó khăn sau chiến tranh.
+- Scarlett nhắc lại lời hứa với Mélanie, người đã yêu cầu cô giúp Ashley, để thuyết phục Colleton nhận công việc.
+- Colleton cuối cùng đồng ý nhận công việc vì Scarlett và niêm phong bản giao ước.
+- Scarlett lên kế hoạch cho một buổi tiếp tân lớn để tái hòa nhập xã hội Atlanta, cô dự định mời những người giàu có nhất và những người đã kiếm được lợi nhuận từ thời kỳ phục hồi sau chiến tranh.
+- Scarlett chuẩn bị cho buổi tiếp tân, từ việc chọn trang phục, mua sắm, đến việc gửi thiệp mời.
+- Buổi tiếp tân diễn ra thành công với nhiều khách mời, nhưng Scarlett cảm thấy tức giận khi nghe Bill Weller kể về cách anh ta đã lừa dối người dân miền Nam.
+- Scarlett quát tháo Bill Weller và những người bạn của anh ta ra khỏi buổi tiệc, gây ra một cuộc hỗn loạn.
+- Sau cuộc tiệc, Scarlett cảm thấy tuyệt vọng và cô đơn, cô nhớ đến Rhett và những cảm xúc cô đã từng có với anh.
+- Trong trạng thái say, Scarlett nhớ lại cảnh Rhett đã cưỡng bức cô, nhưng cũng đã làm cô cảm thấy sống động hơn bao giờ hết.
+- Scarlett chịu đựng những cơn dục vọng và đau đớn, cô thèm khát sự trở lại của Rhett.
+"""

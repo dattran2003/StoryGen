@@ -1,0 +1,24 @@
+"""
+- Cô Pittypat, Melanie và Scarlett đều có mặt tại bữa điểm tâm. Cô Pittypat đang khóc, Melanie im lặng và Scarlett tỏ ra ngoan cố.
+- Scarlett khẳng định rằng cô đã làm lợi cho bệnh viện nhiều hơn bất kỳ ai khác.
+- Cô Pittypat tỏ ra lo lắng về hành vi của Scarlett, đặc biệt là sau cái chết của Charles chỉ sau một năm.
+- Cô Pittypat nhắc đến thuyền trưởng Butler, người đã đưa Scarlett ra làm bia trước mọi người, điều này khiến cô cảm thấy kinh khủng.
+- Melanie bảo vệ thuyền trưởng Butler, nói rằng ông ta là một quý tộc và đã thể hiện sự dũng cảm trong các chuyến vượt phong tỏa.
+- Scarlett chỉ trích thuyền trưởng Butler, cho rằng ông chỉ mạo hiểm để kiếm tiền và không tôn trọng Liên bang miền Nam.
+- Scarlett tỏ ra chán chường với việc ở nhà và nói rằng cô không quan tâm đến những lời phê phán từ người khác.
+- Cô Pittypat nghĩ rằng họ nên viết cho Henry, người duy nhất trong dòng họ, để can thiệp với thuyền trưởng Butler.
+- Melanie an ủi Scarlett, nói rằng cô đã làm một việc can đảm và giúp ích cho bệnh viện.
+- Melanie đề xuất rằng họ nên tham gia vào các buổi hội họp và mời một số người về nhà.
+- Scarlett không quan tâm đến những lời phê phán và muốn tự bảo vệ mình.
+- Một lá thư được giao cho Melanie thông báo rằng Ashley không chết, và thuyền trưởng Butler đã gửi lại chiếc nhẫn cưới của anh ta.
+- Scarlett nhận ra rằng thuyền trưởng Butler đã cố tình tạo cơ hội để được mời đến nhà.
+- Scarlett nhận được một lá thư từ mẹ, Ellen, chỉ trích hành vi gần đây của cô và thông báo rằng cha cô, Gerald, sẽ đến Atlanta để nói chuyện với thuyền trưởng Butler.
+- Scarlett cảm thấy sợ hãi và có tội trước lời chỉ trích của mẹ.
+- Cô Pittypat và Melanie cố gắng bảo vệ Scarlett trước sự giận dữ của Gerald.
+- Gerald cuối cùng đã đến Atlanta, nhưng đã bị Melanie lôi vào các cuộc trò chuyện, ngăn chặn ông từ việc trách mắng Scarlett.
+- Scarlett và Melanie nghe tin rằng Stuart Tarleton đang tìm cách cầu hôn với Honey hay India Wilkes.
+- Scarlett biết rằng Brent Tarleton đang thường xuyên đến Tara.
+- Scarlett cảm thấy tức giận khi nghe tin rằng những người mà cô từng coi là bạn trai đã quên cô.
+- Gerald yêu cầu Scarlett phải về Tara với ông, nhưng sau một đêm say sưa, ông đã thay đổi ý kiến.
+- Scarlett đã tận dụng tình trạng của Gerald để thuyết phục ông để cô ở lại Atlanta.
+"""

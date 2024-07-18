@@ -1,0 +1,25 @@
+"""
+- Harry mong chờ ngày tựu trường nhưng mùa hè trôi qua quá nhanh, làm cho những ngày hạnh phúc sống cùng gia đình Weasley trôi qua nhanh chóng. 
+
+- Trong đêm cuối cùng ở nhà Ron, gia đình Weasley tổ chức một bữa tiệc thịnh soạn, với màn trình diễn pháo hoa của Fred và George làm cho không gian tràn đầy niềm vui.
+
+- Sáng hôm sau, việc khởi hành gặp nhiều khó khăn do mọi người thức dậy từ sớm nhưng vẫn còn nhiều việc chưa hoàn thành.
+
+- Harry và gia đình Weasley cố gắng chất tám người, sáu cái rương, hai con cú và một con chuột vào một chiếc xe hơi nhỏ. Ông Weasley đã sử dụng ma thuật để mở rộng không gian trong xe.
+
+- Trên đường tới nhà ga, họ gặp nhiều rắc rối do quên đồ, làm chậm trễ cuộc hành trình.
+
+- Khi tới nhà ga, Harry và Ron cố gắng đi xuyên qua hàng rào để tới sân ga số Chín ba phần tư nhưng không thành công, khiến họ bỏ lỡ chuyến tàu.
+
+- Trong tình thế khẩn cấp, họ quyết định sử dụng chiếc xe hơi bay để tới Hogwarts.
+
+- Trên chuyến bay, họ gặp nhiều khó khăn như việc chiếc xe hơi mất khả năng tàng hình, nhiệt độ cao, và thiếu nước. 
+
+- Khi họ tới gần Hogwarts, chiếc xe bắt đầu gặp vấn đề, cuối cùng đâm vào một cây cổ thụ.
+
+- Harry và Ron bị giáo sư Snape phát hiện và đưa tới gặp giáo sư McGonagall và giáo sư Dumbledore. 
+
+- Mặc dù họ đã phạm lỗi lớn, họ chỉ bị phạt cấm túc và không bị đuổi khỏi trường.
+
+- Hermione thông báo mật khẩu mới để vào tháp Gryffindor, và khi họ trở về ký túc xá, họ nhận được sự chào đón nồng nhiệt từ bạn bè.
+"""

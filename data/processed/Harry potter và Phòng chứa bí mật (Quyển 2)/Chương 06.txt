@@ -1,0 +1,16 @@
+"""
+- Ngày hôm sau sau sự kiện thú vị, Harry không thể cười nổi một lần nào. Buổi sáng tại Đại Sảnh Đường, mọi việc bắt đầu trở nên tồi tệ.
+- Harry, Ron và Hermione ngồi cùng nhau, Hermione vẫn tỏ ra không tán thành cách mà Harry và Ron đến trường ngày hôm trước.
+- Neville Longbottom cho biết thư từ gia đình sắp đến, chứa những thứ ông đã để quên.
+- Trong lúc ăn sáng, hàng trăm con cú mang thư từ và bưu kiện bay vào sảnh, một trong số đó làm vương vãi sữa và lông lên Hermione.
+- Ron nhận được một "thư Sấm", một loại thư đặc biệt từ gia đình, chứa giọng gào thét lớn của mẹ Ron, bà Weasley, phê phán hành động lái xe hơi bay của Ron và Harry.
+- Giáo sư McGonagall phát thời khóa biểu mới, tiết học đầu tiên của họ là Thảo dược học cùng với học sinh nhà Hufflepuff.
+- Họ gặp thầy Lockhart, giáo viên mới, người tự nhận mình là chuyên gia trong nhiều lĩnh vực.
+- Trong lớp Thảo dược học, họ học cách thay chậu cho cây Nhân sâm, một loại cây có khả năng hồi sinh nhưng tiếng khóc của nó có thể gây tử vong.
+- Buổi học với giáo sư McGonagall về môn Biến hóa không thuận lợi khi Ron gặp rắc rối với cây đũa phép hỏng của mình.
+- Colin Creevey, một học sinh mới, muốn chụp hình Harry và nhận chữ ký từ anh.
+- Draco Malfoy chế giễu Harry và Ron, gây ra một cuộc cãi vã.
+- Thầy Lockhart can thiệp, đề nghị chụp hình cùng Harry và Colin.
+- Thầy Lockhart bắt đầu lớp học của mình bằng một bài kiểm tra về chính mình, sau đó cố gắng dạy học sinh cách đối phó với yêu Cornish nhưng không thành công.
+- Buổi học kết thúc hỗn loạn khi những con yêu Cornish phá phách khắp lớp học.
+"""

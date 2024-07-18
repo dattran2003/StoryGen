@@ -1,0 +1,14 @@
+"""
+- Harry nhận ra rằng nhiệm vụ cuối cùng của anh là chấp nhận cái chết từ tay Voldemort, sau khi phá hủy tất cả Horcruxes còn lại.
+- Trái tim Harry đập mạnh, nhắc nhở anh về sự sống mà anh sắp phải từ bỏ.
+- Anh cảm thấy một sự sợ hãi khi nghĩ về cái chết, nhưng quyết tâm hoàn thành nhiệm vụ.
+- Harry tự trách mình vì không chết khi rời ngôi nhà số 4 Privet Drive, khi đũa phép lông phượng hoàng đã cứu mạng anh.
+- Harry cảm nhận sự phản bội từ Dumbledore nhưng sau cùng hiểu rõ hơn về kế hoạch lớn mà Dumbledore đã chuẩn bị cho anh.
+- Anh nhận ra rằng Dumbledore đã dự đoán Harry sẽ không trốn tránh, và sẽ tiếp tục đi tới cuối cuộc chiến.
+- Harry cảm nhận sự vắng mặt của Ron và Hermione, và anh biết rằng họ không thể đi cùng anh trong hành trình cuối cùng này.
+- Anh nhìn thấy Colin Creevey chết, gây ra cho anh một cú sốc mạnh.
+- Harry quyết định tiết lộ cho Neville nhiệm vụ cuối cùng của anh - giết con rắn Nagini của Voldemort.
+- Anh gặp Ginny, đang chăm sóc một cô bé bị thương, nhưng anh không thể nói chuyện với cô.
+- Harry đi vào rừng cấm, nơi mà anh cảm nhận được sự hiện diện của gia đình và bạn bè đã mất, giúp anh tăng cường can đảm.
+- Anh gặp Voldemort và chấp nhận số phận của mình, với niềm tin rằng anh sẽ gặp lại những người thân yêu sau cái chết.
+"""

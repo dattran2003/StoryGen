@@ -1,0 +1,14 @@
+"""
+- Nhân vật chính cố gắng nhớ lại chi tiết về khi Stradlater trở về sau cuộc hẹn hò nhưng không thể nhớ rõ.
+- Stradlater trở về và than trời lạnh, nhân vật chính nhận ra sự vắng lặng của hành lang khi anh ta bước vào.
+- Stradlater không đề cập gì về Jane, người mà nhân vật chính dường như quan tâm. 
+- Stradlater hỏi về bài luận mà nhân vật chính đã hứa sẽ viết cho anh ta; sau khi đọc nó, anh ta tỏ ra không hài lòng và gọi nó là "thổ tả".
+- Nhân vật chính và Stradlater xảy ra cãi vã, dẫn đến việc nhân vật chính xé nát bài luận.
+- Nhân vật chính hỏi về buổi tối của Stradlater với Jane, nhưng Stradlater không chia sẻ nhiều thông tin.
+- Stradlater nhắc đến việc hút thuốc trong phòng ngủ bị cấm, chỉ trích nhân vật chính vi phạm quy định.
+- Stradlater thừa nhận rằng anh ta và Jane chỉ ngồi trong xe hơi của giáo viên thể dục, Ed Banky, thay vì đi xuống New York.
+- Nhân vật chính và Stradlater tiếp tục tranh cãi, dẫn đến một cuộc vật lộn, kết thúc với Stradlater đè nhân vật chính xuống sàn.
+- Nhân vật chính cuối cùng bị thương và chảy máu, nhưng vẫn tiếp tục mắng Stradlater.
+- Stradlater rời đi, nhân vật chính tìm lại chiếc mũ của mình và kiểm tra vết thương trên gương.
+- Nhân vật chính cảm thấy Ackley, một người bạn khác, có thể đã chứng kiến mọi thứ.
+"""

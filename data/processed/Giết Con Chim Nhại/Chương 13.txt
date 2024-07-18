@@ -1,0 +1,11 @@
+"""
+- Alexandra đến thăm và quyết định ở lại một thời gian với Jem và Scout, một quyết định mà Atticus và Alexandra cho rằng tốt cho họ, đặc biệt là khi Jem đang lớn lên.
+- Alexandra đến mà không cóJimmy, người thường đi cùng cô, và không có chiếc Buick màu xanh lá cây và tài xế da đen mà cô thường đi cùng.
+- Alexandra muốn giáo dục Jem và Scout về việc quan tâm đến quần áo và bạn bè nam giới.
+- Jem và Scout cảm thấy khó khăn trong việc trò chuyện với Alexandra, và họ cảm thấy cô coi họ là ngu ngốc.
+- Alexandra đến ở với họ và dần dần trở thành một phần không thể thiếu trong cuộc sống hàng ngày của họ, tham gia vào các hoạt động xã hội và cộng đồng.
+- Alexandra luôn chỉ ra những thiếu sót của các dòng họ khác để làm nổi bật sự vinh quang của dòng họ Finch.
+- Alexandra có niềm tin sâu sắc vào di truyền, một niềm tin mà Jem và Scout không hiểu.
+- Atticus cố gắng giải thích cho Jem và Scout về tầm quan trọng của dòng họ Finch và mong muốn họ cư xử theo cách xứng đáng với tên tuổi của họ.
+- Jem và Scout cảm thấy bị áp lực và bối rối với những đòi hỏi này, nhưng cuối cùng họ cảm nhận được sự hỗ trợ từ Atticus.
+"""

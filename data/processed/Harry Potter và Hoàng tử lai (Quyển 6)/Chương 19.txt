@@ -1,0 +1,17 @@
+"""
+- Fred và George thăm Ron tại bệnh xá, họ mang quà sinh nhật và nói chuyện về việc mua lại tiệm Zonko.
+- Harry kể lại câu chuyện về cách anh ta cứu Ron khỏi chất độc.
+- Hermione, bất thường im lặng suốt cả ngày, tỏ ra lo lắng.
+- Fred hỏi liệu cha mẹ Ron có biết không, và họ đã đến thăm Ron.
+- Fred và Harry thảo luận về nguồn gốc của chất độc, liệu nó có đến từ Slughorn.
+- Hermione đưa ra ý kiến rằng có thể chất độc không định nhắm vào Ron mà là Slughorn.
+- Ron bất chợt tỉnh dậy, khiến mọi người lo lắng, sau đó lại tiếp tục ngủ.
+- Hagrid đến thăm, lo lắng về tình trạng của Ron và những vụ tấn công gần đây tại Hogwarts.
+- Hagrid nói về mối lo ngại của Dumbledore về an ninh tại Hogwarts.
+- Harry và Hermione biết được cuộc cãi vã giữa Dumbledore và Snape.
+- Cormac McLaggen và Lavender Brown liên tục làm phiền Harry, McLaggen với những lời khuyên về Quidditch và Lavender muốn biết về tình trạng của Ron.
+- Harry cố gắng theo dõi Malfoy, nghi ngờ anh ta liên quan đến những vụ tấn công.
+- Harry gặp Malfoy trước trận đấu Quidditch với Hufflepuff, nhưng không thể tiếp tục theo dõi vì phải tham gia trận đấu.
+- Harry bị thương trong trận đấu, phải nằm viện, nơi anh ta và Ron thảo luận về Malfoy.
+- Harry quyết định dùng Kreacher và Dobby để theo dõi Malfoy, yêu cầu họ báo cáo về mọi di chuyển của Malfoy.
+"""

@@ -1,0 +1,21 @@
+"""
+- Scarlett kết hôn trong vòng 2 tuần và trở thành góa phụ sau 2 tháng. 
+- Scarlett không thể nhớ rõ chi tiết thời gian từ khi đính hôn đến khi kết hôn do sự hỗn loạn và nhanh chóng của sự kiện.
+- Scarlett tổ chức đám cưới sớm hơn Ashley để tránh đám cưới của anh, dù Ellen khuyên nên hoãn lại.
+- Scarlett cảm thấy như đang sống trong một cơn ác mộng từ khi đính hôn cho đến ngày cưới.
+- Charles, chồng của Scarlett, phải ra mặt trận ngay sau khi cưới, và họ chỉ có một tuần lễ để thăm viếng và tham dự các buổi dạ vũ.
+- Scarlett không có thời gian riêng với Ashley trước khi anh lên đường ra mặt trận.
+- Charles qua đời sau 17 tuần do bệnh tật, không kịp ra trận.
+- Scarlett sinh con trai, Wade, 5 tuần sau cái chết của Charles.
+- Scarlett rơi vào trạng thái trầm cảm sau khi sanh con, không quan tâm đến đứa bé.
+- Scarlett trở thành góa phụ và phải tuân theo quy tắc nghiêm ngặt của xã hội.
+- Scarlett cảm thấy cô đơn và chán chường khi hầu hết thanh niên đều ra mặt trận.
+- Scarlett không thích việc phải sống theo quy tắc của người góa phụ.
+- Scarlett không quan tâm đến đứa con trai Wade, thỉnh thoảng quên rằng đó là con của mình.
+- Scarlett vẫn còn nhớ Ashley, người cô yêu và đã mất.
+- Scarlett cố gắng tránh ăn uống, gây lo lắng cho Ellen và Mammy.
+- Scarlett miễn cưỡng đi thăm họ hàng, nhưng trở về sớm hơn dự kiến.
+- Scarlett không thích cuộc sống ở Charleston và Savannah, muốn trở về Tara.
+- Scarlett trở về Tara, gầy gò và xanh xao, làm Ellen lo lắng.
+- Pittypat Hamilton mời Scarlett về Atlanta để giúp cô tìm lại bình tĩnh, Scarlett đồng ý mặc dù không muốn.
+"""

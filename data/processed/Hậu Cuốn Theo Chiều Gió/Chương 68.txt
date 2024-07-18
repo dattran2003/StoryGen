@@ -1,0 +1,14 @@
+"""
+- Vợ của thuyền trưởng, một phụ nữ đầy đặn với khuôn mặt hồng hào, đã tạo mối quan hệ thân thiết với Cat, cháu bé của Scarlett, tạo điều kiện cho Scarlett có thời gian riêng.
+- Scarlett suy nghĩ về việc bán cửa hàng và ngôi nhà ở phố Cây Đào ở Atlanta, cắt đứt mọi liên kết với nơi này.
+- Trong thời gian trên tàu, Scarlett lập kế hoạch cho việc sắp tới: tìm người mua cửa hàng và ngôi nhà, kiểm tra tiến độ xây dựng các ngôi nhà, đảm bảo Ashley luôn khỏe mạnh và giữ lời hứa với Melanie về Beau.
+- Scarlett và Cat trở về Tara sau chuyến đi dài.
+- Scarlett gửi điện cho bác Henry và Pansy, sau đó đi xe lửa đến Atlanta, nơi mà cô gặp lại nhiều thay đổi.
+- Cô nhận ra cảnh bẩn thỉu trên xe lửa và hiểu rằng mình không nên đi xa một mình.
+- Scarlett quay lại nhà mình ở phố Cây Đào và nhận ra nó đã thay đổi nhiều so với hồi cô rời đi.
+- Bác Henry khuyên cô không nên bán nhà vì cuộc khủng hoảng kinh tế, nhưng Scarlett quyết định không thay đổi ý định.
+- Scarlett gặp lại Ashley, người đã thay đổi nhiều, và anh ấy gợi ý cô nên sống ở London.
+- Scarlett đã thu xếp mọi việc ở Atlanta và chuẩn bị quay về Tara, nơi cô nhớ nhung và muốn trở về.
+- Scarlett đã bán quán rượu và cửa hàng, kiếm đủ tiền để mua thêm đất và xây nhà. Cô tự do khỏi Atlanta và cảm thấy thoải mái hơn khi không còn bị ràng buộc bởi những tiêu chuẩn xã hội.
+- Scarlett sắp trở về Tara và sau đó, cô sẽ trở về quê hương Ireland, nơi cô muốn rải nắm đất từ Ballyhara lên mộ cha mình.
+"""

@@ -1,0 +1,15 @@
+"""
+- Cuối tháng tám, Colum đến nhà Scarlett với mười người đàn ông để khai hoang đất đai. Scarlett phấn khởi và hối thúc họ bắt đầu công việc.
+- Scarlett đang mang bầu và việc này khiến cô gặp khó khăn trong việc di chuyển, nhưng cô vẫn quyết tâm chỉ đạo mọi người.
+- Scarlett đã chỉ dẫn cho những người đàn ông cách làm việc, thậm chí còn tự mình nhổ cỏ để làm mẫu.
+- Scarlett đã làm việc cật lực, không chỉ chỉ đạo những người đàn ông mà còn tham gia vào các công việc khác như sơn và kiểm tra chất lượng công trình.
+- Scarlett từ chối sự giúp đỡ, nhưng sau cùng cô đồng ý với lời đề nghị của Colum về việc tìm một người phụ nữ để hỗ trợ cô.
+- Scarlett và Colum đã có một cuộc thảo luận về việc chuyển dòng họ về Ballyhara, nhưng Colum tin rằng họ sẽ không chấp nhận.
+- Scarlett đã gặp khó khăn trong việc di chuyển do thai nghén, nhưng cô vẫn tiếp tục làm việc không ngừng nghỉ.
+- Scarlett đã gặp sự phản kháng từ gia đình khi cô mời họ chuyển đến sống ở Ballyhara, điều này đã khiến cô cảm thấy buồn và cô đơn.
+- Scarlett đã mua lại Ballyhara và xây dựng một ngôi làng, với nhiều dịch vụ và cư dân đã bắt đầu di chuyển đến.
+- Scarlett đã gặp khó khăn trong việc tìm người quản lý ngôi nhà lớn, nhưng cuối cùng cô đã đồng ý để người phụ nữ mà Colum giới thiệu đến ở nhà của anh ta trước.
+- Scarlett đã gặp Sean, anh trai cô, và cảm thấy tức giận với thái độ không chịu làm việc của anh.
+- Scarlett đã cứu gia đình cô khỏi việc bị trục xuất khỏi trang trại bằng cách trả nợ cho bác cô.
+- Scarlett đã nhận ra sự quan trọng của việc giữ gìn lòng tự trọng và sự độc lập của gia đình, và cô đã đồng ý giúp bác cô bằng cách tài trợ cho Michael, con trai của chú cô, để cậu ta có thể học nghề.
+"""

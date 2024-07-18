@@ -1,0 +1,9 @@
+"""
+- Harry chờ Kreacher trở về sau khi đi bắt Mundungus, nhưng Kreacher không về suốt cả ngày, khiến Harry lo lắng.
+- Tình hình càng thêm căng thẳng khi hai Tử Thần Thực Tử xuất hiện ở quảng trường, theo dõi ngôi nhà.
+- Remus Lupin xuất hiện sau ba ngày, thông báo rằng anh phải loại bỏ những Tử Thần Thực Tử theo dõi anh.
+- Lupin giải thích về tình hình hiện tại, trong đó Harry bị truy nã để điều tra về cái chết của Dumbledore và Bộ Pháp thuật đang tiến hành bài trừ phù thủy gốc Muggle.
+- Lupin đề nghị tham gia cùng Harry, Ron và Hermione trên hành trình của họ, nhưng sau khi tiết lộ rằng Tonks sắp sinh, Hermione và Harry tỏ ra bất ngờ và lo lắng.
+- Một cuộc tranh cãi nổ ra giữa Harry và Lupin khi Harry chỉ trích Lupin vì định bỏ rơi Tonks và đứa con chưa sinh.
+- Kreacher cuối cùng trở về cùng Mundungus, người đã bán một mặt dây chuyền có thể quan trọng cho một viên chức của Bộ Pháp thuật.
+"""

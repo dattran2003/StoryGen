@@ -1,0 +1,18 @@
+"""
+- Mụ Umbridge, Hermione và một pháp sư khác chuẩn bị bắt đầu phiên xử với một người phụ nữ gốc Muggle.
+- Harry, giả dạng Runcorn, bí mật theo dõi từ bên ngoài.
+- Harry cố gắng tìm hiểu về vị trí và hoạt động của Umbridge trong bộ.
+- Harry khám phá ra rằng Umbridge đang tiến hành các phiên xử cho những phù thủy gốc Muggle.
+- Trong khi cố gắng tìm hiểu, Harry đặt một Mìn bẫy làm lộn xộn, tạo cơ hội để anh ta vào văn phòng của Umbridge.
+- Harry tìm hiểu thông tin trong văn phòng Umbridge, bao gồm hồ sơ của Arthur Weasley và một áp phích về chính anh.
+- Trong khi tìm kiếm một mặt dây chuyền, Harry bị Thicknesse phát hiện nhưng may mắn thoát được.
+- Harry sau đó tìm thấy Ron, người đang phải đối mặt với vấn đề về việc làm cho văn phòng của Yaxley ngừng mưa.
+- Harry và Ron quyết định giải cứu Hermione khỏi phiên xử.
+- Harry đi xuống phòng xử, nơi anh ta chứng kiến cảnh tượng kinh hoàng do những Giám Ngục gây ra.
+- Harry sử dụng Thần Hộ Mệnh để giải cứu Hermione và người phụ nữ đang bị thẩm vấn.
+- Hermione chế ra một mặt dây chuyền giả để thay thế cho cái mà Harry đã lấy.
+- Harry, Hermione và người phụ nữ gốc Muggle chạy trốn khỏi bộ, sử dụng Thần Hộ Mệnh để bảo vệ họ khỏi các Giám Ngục.
+- Họ gặp rắc rối khi cố gắng rời khỏi bộ, nhưng may mắn thoát được nhờ sự hỗ trợ của Harry giả dạng Runcorn.
+- Trong quá trình thoát, họ gặp phải Yaxley, nhưng cuối cùng vẫn thành công trong việc thoát ra khỏi bộ.
+- Trong khi di chuyển, Hermione gần như bị mất, nhưng cuối cùng cô cũng nắm lại tay Harry, và cả nhóm họ cuối cùng đã thoát khỏi bộ.
+"""

@@ -1,0 +1,12 @@
+"""
+- Ba cô gái trẻ, gồm Jane, Elizabeth và Lydia, trở về Hertfordshire từ phố Gracechurch. Kitty và Lydia đã tới sớm hơn và đã tận hưởng cuộc mua sắm và ăn uống tại quán trọ.
+- Lydia và Kitty đã mua một số mặt hàng, trong đó có một chiếc mũ, nhưng đã hết tiền và phải mượn từ các chị gái.
+- Lydia thông báo rằng trung đoàn dân quân sẽ rời Meryton, một tin vui đối với Elizabeth.
+- Lydia tiết lộ tin tức rằng Mary King đã rời khỏi, nên Wickham không còn mối đe dọa phải kết hôn với cô ấy. 
+- Lydia, Kitty và Elizabeth đã có bữa ăn vui vẻ tại quán trọ trước khi khởi hành về nhà.
+- Trên đường về, Lydia kể về những trò đùa tại một buổi dạ vũ tại nhà Đại tá Forster, gây cười cho mọi người.
+- Họ được chào đón nồng hậu tại nhà, với sự vui mừng của bà Bennet khi thấy Jane vẫn giữ được vẻ đẹp.
+- Lydia tiếp tục kể về những trải nghiệm thú vị trong chuyến đi của cô, trong khi Mary tỏ ra không quan tâm lắm.
+- Elizabeth không muốn tham gia chuyến đi tới Meryton vì muốn tránh gặp Wickham, và hy vọng trung đoàn sẽ rời đi trong hai tuần tới.
+- Ngay sau khi về nhà, Elizabeth nhận ra rằng bố mẹ cô đang thảo luận về một chuyến đi tới Brington mà Lydia đã đề cập, nhưng ông Bennet không quá hào hứng với ý tưởng này.
+"""

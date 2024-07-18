@@ -1,0 +1,14 @@
+"""
+- Gandalf và Saruman có cuộc đối thoại căng thẳng, trong đó Saruman đề xuất một liên minh với Gandalf để nắm quyền kiểm soát Chiếc Nhẫn Ra Lệnh. Gandalf từ chối và bị giam giữ tại tháp Orthanc.
+- Gandalf mô tả cảnh quan xung quanh Isengard bị hủy hoại và Saruman đang tập hợp một lực lượng lớn.
+- Gandalf bị giam giữ một mình trên tháp nhọn tại Orthanc, với rất ít hy vọng trốn thoát. 
+- Gandalf lo lắng cho Frodo và bạn bè ở Quận, nhưng hy vọng Frodo đã khởi hành ngay và sẽ đến Rivendell trước khi bị truy đuổi.
+- Gandalf được giải cứu bởi Gwaihir, Đại Bàng nhanh nhất, và sau đó chọn một con ngựa từ Rohan để tiếp tục cuộc hành trình.
+- Gandalf chia sẻ về việc anh đã thuần hóa và cưỡi một con ngựa siêu tốc tên là Bản Sao Bóng Đêm để đến Quận khi Frodo đến Cao Nguyên Hầm Mộ.
+- Gandalf nhận được thông tin về việc Frodo rời Hobtitton và một Kỵ sĩ Đen đã đến Ngọn Đồi cùng buổi chiều hôm đó.
+- Gandalf gặp Barliman tại Bree, người đã giúp Frodo và nhóm của cậu tiếp tục cuộc hành trình.
+- Gandalf đã gặp phải Bộ Chín trên Weathertop và sau đó anh trốn thoát, hướng về Rivendell.
+- Gandalf đến Rivendell chỉ trước khi Chiếc Nhẫn đến, thông báo về sự nguy hiểm của nó.
+- Elrond và mọi người lắng nghe câu chuyện của Gandalf và thảo luận về việc phải làm gì với Chiếc Nhẫn.
+- Elrond nhắc đến Tom Bombadil, một sinh vật kỳ lạ, và đề nghị triệu tập ông ta về với Hội Đồng.
+"""

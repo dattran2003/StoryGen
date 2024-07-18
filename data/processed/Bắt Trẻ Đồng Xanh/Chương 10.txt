@@ -1,0 +1,11 @@
+"""
+- Nhân vật chính cảm thấy còn sớm và không muốn đi ngủ khi chưa mệt, nên anh ta đã thay đồ và quyết định khám phá "Phòng tử đinh hương", một hộp đêm tại khách sạn.
+- Anh ta nảy ra ý tưởng gọi cho em gái mình, Phoebe, nhưng từ bỏ vì sợ bố mẹ nhận ra và biết anh ta đang ở New York và đã bị đuổi học.
+- Sau khi thay đồ, anh ta đã đi xuống phòng lớn nhưng không tìm thấy ai ngoại trừ một số người trông như ma cô và một vài phụ nữ tóc sẫm.
+- Anh ta vào "Phòng tử đinh hương", nơi khách vắng và anh ta được chỉ đến một góc xa nhất. Anh ta cố gắng gọi một ly Whisky soda nhưng bị từ chối vì không đủ tuổi.
+- Anh ta nhận ra một nhóm ba phụ nữ và bắt đầu quan sát họ. Anh ta mời họ nhảy múa và họ chấp nhận.
+- Trong khi nhảy, anh ta cố gắng trò chuyện với cô gái tóc sẫm nhưng cô ấy không quan tâm nhiều. Anh ta vẫn khen cô ấy về khả năng nhảy múa.
+- Cô gái nói rằng họ đến từ Seattle và họ đang chờ đợi một số tài tử Hollywood xuất hiện. Anh ta cảm thấy ấm ức khi cô gái hỏi tuổi anh ta.
+- Anh ta tiếp tục trò chuyện và nhảy múa với nhóm phụ nữ, nhưng cuối cùng họ rời đi vì muốn thức dậy sớm để xem buổi biểu diễn đầu tiên tại Radio City Music Hall.
+- Trước khi rời quán, anh ta than phiền về việc phải trả tiền cho tất cả những gì họ đã uống.
+"""

@@ -1,0 +1,15 @@
+"""
+- O'Brien nói với Winston về ba giai đoạn trong quá trình bình phục của anh: học hỏi, hiểu biết và chấp nhận.
+- Winston nhận thấy dây buộc anh đã lỏng hơn, cho phép anh cử động đầu gối và quay đầu.
+- O'Brien giải thích lý do vì sao Bộ Tình Yêu dành nhiều thời gian và nguồn lực cho Winston, đồng thời thách thức Winston hiểu rõ hơn về động cơ của Đảng.
+- Winston và O'Brien thảo luận về quyển sách của Goldstein, O'Brien khẳng định rằng nó chỉ đúng về mô tả hiện trạng nhưng sai lầm trong việc dự đoán sự sụp đổ của Đảng.
+- O'Brien nhấn mạnh rằng Đảng sẽ thống trị mãi mãi và Winston nên chấp nhận điều này.
+- O'Brien thúc đẩy Winston hiểu rằng Đảng duy trì quyền lực vì quyền lực, không phải vì hạnh phúc của người dân.
+- O'Brien giải thích rằng Đảng coi quyền lực là cứu cánh, không phải phương tiện và họ không có ý định từ bỏ nó.
+- O'Brien mô tả thế giới mà Đảng đang xây dựng, nơi chỉ có sự sợ hãi, hận thù và bạo lực, và nhấn mạnh rằng Đảng sẽ tồn tại mãi mãi.
+- Winston phản đối, tin rằng "đời sống" sẽ đánh bại Đảng, nhưng O'Brien khẳng định rằng Đảng kiểm soát mọi khía cạnh của cuộc sống.
+- O'Brien buộc Winston nhìn vào hình ảnh đáng sợ của chính mình, chỉ ra rằng anh đã suy sụp về thể chất và tinh thần.
+- O'Brien khẳng định rằng Winston đã tự gây ra sự suy sụp của mình bằng cách chống lại Đảng, và rằng anh đã phản bội tất cả mọi người và mọi thứ.
+- Dù vậy, Winston khẳng định anh chưa từng phản bội Julia, và O'Brien công nhận điều này.
+- Winston hỏi O'Brien khi nào anh sẽ bị bắn, và O'Brien nói rằng có thể còn lâu, nhưng cuối cùng, tất cả mọi người đều sẽ "khỏi bệnh", ám chỉ việc chấp nhận Đảng và sau cùng sẽ bị xử tử.
+"""

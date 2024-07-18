@@ -1,0 +1,17 @@
+"""
+- Hai ông bà sống ở trường, mỗi người một phòng riêng, tận hưởng cuộc sống dù tuổi đã cao.
+- Ông thầy giáo Spencer, lưng còng, di chuyển chậm, nhưng vẫn duy trì niềm vui trong cuộc sống như việc mua tấm chăn từ một người Navaho.
+- Holden Caulfield, nhân vật chính, thăm thầy Spencer và thấy cảnh tượng ốm yếu, già nua của ông.
+- Spencer cho biết ông đã viết thư cho Holden, và Holden cảm ơn ông.
+- Holden nhận ra Spencer đang ốm, cảm thấy buồn và không thoải mái với cảnh tượng này.
+- Spencer hỏi Holden về việc ông không tham dự trận bóng đá và về quyết định rời trường.
+- Spencer và Holden thảo luận về cuộc họp với tiến sĩ Thurmer và việc báo tin cho cha mẹ Holden.
+- Holden thừa nhận rằng đây là lần thứ tư ông bị đuổi học, và cha mẹ ông có thể sẽ tức giận.
+- Spencer và Holden tiếp tục thảo luận về việc học của Holden, với Spencer chỉ trích Holden không học bài và trượt hầu hết các môn học.
+- Holden nhận ra Spencer đọc bài kiểm tra của mình, với nội dung không chính xác và không chuyên sâu về Ai Cập.
+- Holden giải thích rằng ông không quan tâm nhiều đến Ai Cập, và chấp nhận việc bị trượt môn học.
+- Holden và Spencer tiếp tục thảo luận về tương lai của Holden, với Spencer khuyến nghị Holden cần suy nghĩ nghiêm túc về tương lai.
+- Holden cảm thấy khó chịu với lời khuyên của Spencer và quyết định rời đi.
+- Holden từ chối lời mời uống sôcôla nóng từ Spencer và chia tay ông.
+- Holden hy vọng Spencer giữ gìn sức khỏe, và Spencer chúc Holden "đi mạnh giỏi", nhưng Holden không chắc về điều này.
+"""

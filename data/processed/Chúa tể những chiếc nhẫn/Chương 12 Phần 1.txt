@@ -1,0 +1,21 @@
+"""
+- Frodo thức dậy, vẫn nắm chặt chiếc Nhẫn, sau một sự kiện không rõ. Ông được bạn bè tìm thấy, đang nằm bên ngọn lửa. Họ không thấy gì ngoài những bóng đen mờ ảo tiến về phía họ.
+- Frodo hỏi về "ông vua nhợt nhạt", nhưng không ai trong nhóm biết ông ấy là ai. 
+- Sam kể lại, Frodo biến mất và sau đó họ nghe thấy giọng ông từ một khoảng cách xa. Frodo sau đó được tìm thấy, như đã chết, mặt úp xuống bãi cỏ.
+- Người Sải Bước ra lệnh họ chăm sóc Frodo và sau đó biến mất.
+- Sam bắt đầu nghi ngờ về Người Sải Bước, nhưng sau đó Người Sải Bước trở lại, làm Sam rút gươm ra.
+- Người Sải Bước khẳng định anh không phải Kỵ Sĩ Đen, và ông không thể tìm thấy bất kỳ dấu hiệu nào về sự hiện diện của kẻ thù gần đây.
+- Frodo kể lại câu chuyện của mình, khiến Người Sải Bước tập trung và thở dài. Ông ra lệnh Pippin và Merry đun nước để rửa vết thương của Frodo.
+- Người Sải Bước rời đi để tìm hiểu thêm, trong khi Frodo ngủ gà ngủ gật, vết thương phục hồi chậm.
+- Người Sải Bước trở lại vào buổi bình minh, tìm thấy một cái áo khoác đen bị rách. Ông nói rằng Frodo chỉ làm cho kẻ thù bị thương.
+- Ông tìm thấy một con dao dài mỏng, ánh sáng lạnh tỏa ra từ nó. Ông nói rằng lưỡi dao này đã gây ra vết thương cho Frodo.
+- Người Sải Bước sử dụng kỹ năng chữa bệnh để chữa cho Frodo, nhưng khả năng chữa lành vết thương từ những vũ khí ma quỷ này rất hạn chế.
+- Họ quyết định rời khỏi Weathertop, vì họ nghĩ kẻ thù đã quan sát nơi này.
+- Frodo không thể đi bộ nên họ chia hành lý ra và đặt Frodo lên con ngựa lùn. Họ bắt đầu khởi hành về phía nam.
+- Họ vượt qua những thách thức, như việc băng qua Con Đường, nhưng không gặp phải kẻ thù. 
+- Họ tiếp tục hành trình, băng qua Cây Cầu Cuối Cùng an toàn, và sau đó họ đi vào một vùng đất tối tăm và không thân thiện.
+- Họ vượt qua những ngọn đồi, những bức tường đá cổ đại, và những ngọn tháp bị hủy hoại. Frodo nhớ lại câu chuyện của Bilbo về những ngọn tháp đầy đe doạ ở phía bắc Con Đường.
+- Người Sải Bước nói rằng không ai sống ở vùng đất này, những con người độc ác đã từng sống ở đây đã bị phá hủy trong cuộc chiến tranh.
+- Frodo không thể ngủ vì vết thương đau và lạnh, và ông cảm thấy như những bóng đen đang tiến lại gần. 
+- Họ tiếp tục hành trình, và sau cùng, họ quyết định thử tìm đường qua Khúc Cạn Bruinen, mặc dù con đường phía trước đầy khó khăn.
+"""

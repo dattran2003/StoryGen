@@ -1,0 +1,17 @@
+"""
+- Ba người trở về Dunmore, nơi đang có nhiều người da đen nổi giận tụ tập.
+- Rhett hỗ trợ hai phụ nữ xuống xe và hướng dẫn họ vào nhà, dặn họ phải ở trong phòng cho đến khi anh trở lại.
+- Scarlett hỏi Rhett về tình hình nhưng Rhett bảo sẽ giải thích sau.
+- Một nhóm người da đen tiếp cận Rhett khi anh chuẩn bị đưa hai phụ nữ vào nhà.
+- Rhett cảnh báo họ, sau đó tiếp tục đưa hai phụ nữ vào nhà.
+- Trên đường vào, họ gặp phải một nhóm người da trắng đang chờ sẵn, họ mang theo vũ khí.
+- Rhett đối mặt với nhóm người da trắng, sau đó anh đưa hai phụ nữ vào nhà và bảo họ ở yên trong phòng.
+- Scarlett và Rosemary cố gắng hiểu rõ tình hình nhưng không rõ lý do tại sao mọi thứ đang diễn ra.
+- Scarlett lo lắng cho Rhett khi anh đối mặt với cả hai nhóm người da đen và da trắng.
+- Rosemary khuyên Scarlett tránh xa cửa sổ để Rhett có thể tập trung.
+- Scarlett và Rosemary tranh luận về tình hình, Rosemary cho rằng Rhett đang sợ hãi, điều này khiến Scarlett cảm thấy xúc phạm.
+- Scarlett muốn đi xuống để kiểm tra nhưng Rosemary ngăn cản, nói rằng Rhett sẽ không tha thứ nếu chị làm vậy.
+- Trong khi chờ đợi, Rosemary kể về lịch sử của Dunmore, nơi họ đang ở.
+- Scarlett nghe tiếng súng nổ, lo lắng cho Rhett, nhưng Rosemary ngăn cản cô chạy ra ngoài.
+- Scarlett và Rosemary tiếp tục cãi vã, Rosemary nói rằng Rhett không muốn có Scarlett, điều này làm Scarlett thất vọng.
+"""

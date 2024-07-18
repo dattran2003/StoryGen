@@ -1,0 +1,20 @@
+"""
+- Thời tiết khắc nghiệt ở Ireland được đề cập rộng rãi trên báo chí.
+- Scarlett tiếp tục quản lý các tá điền của mình trong bối cảnh thiếu lương thực và hàng hóa.
+- Scarlett đối mặt với khó khăn trong việc mua lúa mì và bột lúa mạch, thường phải trả giá cao cho hàng hóa kém chất lượng.
+- Scarlett mua nến cho dân làng cầu nguyện và cảnh giác với các đống đá xuất hiện trên đường.
+- Scarlett tham gia các buổi tiếp tân để thu thập thông tin từ các chủ đất khác.
+- Scarlett đến Kilbawney Abbey muộn một ngày, gặp và trò chuyện với nhiều người.
+- Bà Gifford quên giận Scarlett vì đã đến buổi tiếp tân.
+- Scarlett gặp và trò chuyện với Bá tước De Trevanne, người khen ngợi Scarlett và chia sẻ về quá khứ của Arthur.
+- Scarlett gặp John Morland và họ trò chuyện về ngựa và tình hình hiện tại.
+- Scarlett và những người khác chỉ nói về thời tiết và khó khăn do hạn hán.
+- Scarlett nhận ra rằng các tá điền sẽ không có gì để trả nợ và lo lắng về nguồn thu nhập.
+- Scarlett tham gia dạ hội hóa trang và gặp Charles Ragland.
+- Scarlett tìm thấy con mình và gặp Colum và bà Fitzpatrick.
+- Scarlett và Colum có cuộc trò chuyện về việc tự tử của huân tước trẻ.
+- Scarlett và Harriet Kelly uống trà và trò chuyện về quê hương của Scarlett.
+- Scarlett xem sổ sách kế toán và nhận ra rằng nguồn thu nhập duy nhất là từ việc bán nhà ở Atlanta.
+- Scarlett cân nhắc việc gửi Harriet Kelly đến Atlanta để làm vợ Ashley.
+- Scarlett nhận ra rằng việc này sẽ ảnh hưởng đến con gái mình và Harriet không thể chịu đựng được cái nóng ở Atlanta.
+"""

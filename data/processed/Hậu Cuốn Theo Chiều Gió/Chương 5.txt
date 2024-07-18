@@ -1,0 +1,14 @@
+"""
+- Scarlett tìm thấy sự năng động và không khí hành động tại Ngã Năm giúp cô hồi phục sau chuỗi những mất mát.
+- Cô bắt đầu công việc, đọc báo và xử lý hồ sơ kế toán.
+- Scarlett nhận được thư từ Rhett, khiến cô tạm dừng công việc.
+- Trong thư, Rhett bày tỏ sự cảm thông trước cái chết của mẹ Scarlett và thông báo rằng anh sẽ tiếp tục chi trả các hóa đơn của Scarlett thông qua luật sư của mình.
+- Scarlett cảm thấy tức giận vì những lời nói của Rhett, nhưng cũng nhận ra sự giàu có của anh và khả năng cô có thể lợi dụng điều đó.
+- Scarlett quyết định rằng Rhett vẫn còn yêu cô, dựa trên những gì anh đã làm cho cô trong quá khứ.
+- Scarlett hứa với mình sẽ chứng tỏ tình yêu của cô với Rhett.
+- Scarlett thăm Ashley và Beau, những người đang sống cùng cô Pitty và India sau cái chết của Melanie.
+- Scarlett cố gắng thuyết phục Ashley phải đứng dậy sau nỗi đau, và yêu cầu anh chăm sóc Beau.
+- Scarlett gặp bác Henry Hamilton, người cho cô biết về cuộc khủng hoảng tài chính đang diễn ra tại New York và ảnh hưởng của nó đến Ashley và cửa hàng của Scarlett.
+- Bác Henry khuyên Scarlett nên để Ashley yên và để anh ấy tự hồi phục.
+- Scarlett cảm thấy bối rối và tức giận, nhưng cô quyết tâm tự tìm hiểu về tình hình tài chính của mình.
+"""

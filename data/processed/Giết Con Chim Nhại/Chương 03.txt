@@ -1,0 +1,16 @@
+"""
+- Walter Cunningham bị tôi bắt được trong sân trường, nhưng Jem can thiệp và bảo tôi dừng lại.
+- Tôi và Walter sau đó được Jem mời về nhà ăn trưa.
+- Jem và tôi đã giới thiệu Walter cho bố Atticus và Calpurnia.
+- Trong bữa ăn, Walter đã rưới xi-rô lên thức ăn của mình, hành động này khiến tôi cảm thấy bất ngờ và không hiểu.
+- Calpurnia đã gọi tôi xuống bếp để dạy tôi về lòng tôn trọng người khác, dù họ có khác biệt với chúng tôi.
+- Walter, Jem và tôi trở lại trường sau bữa ăn.
+- Cô giáo Caroline đã bị sốc khi thấy một con chí trên đầu Burris Ewell, một học sinh khác.
+- Burris Ewell, người thuộc gia đình Ewell, chỉ xuất hiện ở trường vào ngày đầu năm học và sau đó nghỉ học.
+- Cô Caroline khuyên Burris về nhà gội đầu và sử dụng các biện pháp để loại bỏ con chí.
+- Burris Ewell rời trường với thái độ thách thức và đe dọa.
+- Cô Caroline sau đó được học sinh an ủi và tiếp tục dạy học.
+- Trở về nhà, tôi đã chia sẻ với bố Atticus về những khó khăn tại trường và quyết định không muốn đi học nữa.
+- Bố Atticus đã thuyết phục tôi tiếp tục đi học và đồng ý tiếp tục đọc sách cùng tôi mỗi tối.
+- Bố Atticus khuyên tôi không nên tiết lộ thỏa thuận này với cô Caroline.
+"""

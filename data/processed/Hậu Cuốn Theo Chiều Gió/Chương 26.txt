@@ -1,0 +1,12 @@
+"""
+- Buổi dạ hội Sainte-Cécile và cuộc đua ngựa được coi là hai sự kiện quan trọng nhất trong Mùa chơi ở Charleston.
+- Trước chiến tranh, cuộc đua ngựa kéo dài một tuần và dạ hội Sainte-Cécile tổ chức ba buổi. Tuy nhiên, chiến tranh đã hủy hoại nhiều địa điểm tổ chức.
+- Năm 1865, thành phố Charleston đầu hàng và năm sau, August Belmont mua những cây cột chạm khắc của trường đua ngựa và chuyển về miền Bắc.
+- Hai năm sau chiến tranh, dạ hội Sainte-Cécile được tổ chức lại và cuộc đua ngựa cũng dần được phục hồi, tuy nhiên không còn như cũ.
+- Ngày đua ngựa năm 1875, Rhett khuyến khích Scarlett và những người khác cá cược vào con Sweet Sally.
+- Scarlett gặp Sam Forrest, một người cũ từ thời cô còn ở Atlanta, anh ta tham gia cuộc đua với con ngựa giỏi nhất của mình.
+- Scarlett và Rhett quan sát cuộc đua với sự phấn khích, trong khi đó, Rhett không hề nhận ra rằng Anne, một người bạn của Scarlett, đang ngắm nhìn anh.
+- Scarlett cảm thấy ghen tị nhưng sau đó nhận ra rằng Rhett không hề để ý đến Anne.
+- Con Sweet Sally đã chiến thắng cuộc đua, khiến Scarlett hò hét phấn khích.
+- Rhett không cá cược vào bất kỳ con ngựa nào, anh dự định dựng lại chuồng ngựa sau khi khu vườn Dunmore được dọn dẹp và sửa sang.
+"""

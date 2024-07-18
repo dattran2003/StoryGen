@@ -1,0 +1,16 @@
+"""
+- Harry cảm thấy buồn bã và tội lỗi sau cái chết của thầy Mắt Điên, và anh ta cảm thấy cấp bách trong việc tìm và tiêu diệt những Trường Sinh Linh Giá.
+- Ron cố gắng làm dịu nỗi đau của Harry bằng cách nhắc anh ta rằng họ vẫn có thể lập kế hoạch cho cuộc hành trình sắp tới, dù Harry chưa đủ tuổi.
+- Hermione đã nghiên cứu về Trường Sinh Linh Giá và sẽ chia sẻ thông tin đó với Harry khi anh ta đến Hang Sóc.
+- Harry sẽ phải ở lại Hang Sóc trong bốn ngày trước khi Dấu Hiện hết linh, sau đó anh ta có thể bắt đầu cuộc hành trình của mình.
+- Tuy nhiên, anh ta và Ron, Hermione phải ở lại cho đến ngày cưới của Bill và Fleur, điều này khiến Harry cảm thấy khó chịu.
+- Bà Weasley cố gắng tìm hiểu kế hoạch của Harry, Ron và Hermione nhưng họ kiên trì giữ bí mật.
+- Công việc chuẩn bị cho đám cưới chiếm hết thời gian của họ, không cho họ cơ hội để thảo luận kế hoạch của mình.
+- Harry và Hermione đều cảm thấy buồn bã khi nghĩ về thầy Mắt Điên, và họ lo lắng về việc thầy có thể đã tử nạn.
+- Hermione đã chuẩn bị cho việc đi cùng Harry bằng cách chuẩn bị hành lý, chuẩn bị Đa Quả Dịch, và thay đổi trí nhớ của cha mẹ mình để họ tin rằng họ đã di cư đến Úc.
+- Ron đã biến hình một con ma xó để đóng vai anh ta trong căn nhà khi anh ta ra đi, để che giấu việc anh ta đã rời bỏ.
+- Hermione đã đọc và nghiên cứu về Trường Sinh Linh Giá từ những cuốn sách mà thầy Dumbledore đã dẹp khỏi thư viện, và cô ấy đã tìm hiểu cách để tiêu diệt chúng.
+- Họ đều lo lắng về việc Voldemort có thể đang chờ đợi họ tại Thung lũng Godric.
+- Hermione cho rằng việc xé linh hồn thành nhiều mảnh có thể gây rối loạn cho phần hồn còn lại, và cô ấy nghi ngờ Voldemort đã thực sự tạo ra sáu Trường Sinh Linh Giá.
+- Harry, Ron và Hermione đều nhận thức rõ rệt về nguy hiểm của cuộc hành trình sắp tới, nhưng họ vẫn quyết định cùng nhau đi tìm những Trường Sinh Linh Giá.
+"""

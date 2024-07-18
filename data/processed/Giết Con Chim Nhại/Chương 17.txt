@@ -1,0 +1,13 @@
+"""
+- Trong chương 17, câu chuyện xoay quanh phiên tòa xét xử Tom Robinson, bắt đầu với việc Jem và tôi theo dõi từ trên gác.
+- Ông Tate, cảnh sát trưởng, làm nhân chứng, kể về cuộc gọi khẩn cấp từ Bob Ewell, báo cáo rằng Tom Robinson đã tấn công con gái ông, Mayella.
+- Luật sư Gilmer, người chúng tôi không quen, dẫn dắt phiên tòa, ông đến từ Abbottsville và chỉ xuất hiện khi có phiên tòa.
+- Ông Tate mô tả Mayella bị đánh và cho biết Tom Robinson là nghi phạm.
+- Bố Atticus đặt câu hỏi về việc không có bác sĩ nào được gọi đến, điều này tạo ra nghi vấn về mức độ nghiêm trọng của những vết thương.
+- Atticus sau đó hỏi về những vết thương cụ thể của Mayella, và ông Tate mô tả chúng, bao gồm một mắt bị bầm tím.
+- Trong quá trình khai thác nhân chứng, Atticus làm rõ rằng Mayella bị đánh ở bên phải khuôn mặt.
+- Nhân chứng tiếp theo là Bob Ewell, cha của Mayella, người sống trong cảnh nghèo khó và hỗn loạn.
+- Bob Ewell khẳng định rằng ông đã nhìn thấy Tom tấn công con gái mình, nhưng không gọi bác sĩ.
+- Atticus khám phá ra rằng Bob Ewell thuận tay trái, gợi ý rằng ông ta có thể đã gây ra những vết thương.
+- Jem, mặc dù im lặng, tỏ ra tự tin rằng Atticus đã nắm bắt được yếu điểm của vụ án.
+"""

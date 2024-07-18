@@ -1,0 +1,16 @@
+"""
+- Mùa hè bắt đầu tại Hogwarts nhưng không mang lại niềm vui cho Harry khi Hagrid và con chó Fang không còn xuất hiện trong khuôn viên trường.
+- Harry và Ron cố gắng thăm Hermione nhưng việc này bị cấm do lo ngại về sự an toàn của học sinh.
+- Sự vắng mặt của Dumbledore khiến không khí trong trường trở nên nặng nề và căng thẳng.
+- Harry nhớ lời cuối cùng của Dumbledore, khẳng định rằng sự trung thành với ông vẫn còn tồn tại tại Hogwarts.
+- Harry và Ron cố gắng theo dõi dấu vết của những con nhện, theo gợi ý của Hagrid.
+- Malfoy tỏ ra vui mừng với tình hình hiện tại, cho rằng cha mình đã đóng vai trò trong việc loại bỏ Dumbledore.
+- Harry và Ron quyết định đi vào Rừng Cấm để theo dấu những con nhện, và họ mang Fang cùng.
+- Họ gặp Ernie, người xin lỗi Harry vì đã nghi ngờ anh và cho rằng Malfoy có thể là Người kế vị Slytherin.
+- Harry và Ron tìm thấy chiếc xe cũ của gia đình Weasley trong Rừng Cấm.
+- Họ bị bầy nhện khổng lồ tấn công và đưa đến gặp Aragog, một con nhện khổng lồ mà Hagrid từng chăm sóc.
+- Aragog tiết lộ rằng nó không phải là quái vật trong Phòng chứa Bí mật và không biết rõ về con quái vật đó.
+- Harry và Ron thoát khỏi bầy nhện nhờ chiếc xe cũ của gia đình Weasley.
+- Cuối cùng, họ trở về lâu đài và suy nghĩ về thông tin mà Aragog đã cung cấp.
+- Trước khi đi ngủ, Harry nghĩ ra khả năng rằng họ có thể tìm ra thêm thông tin từ ma khóc Myrtle, người đã chết trong buồng tắm.
+"""

@@ -1,0 +1,15 @@
+"""
+- Thomas Robinson cố gắng nâng cánh tay phải của mình lên cuốn Kinh Thánh để thề, nhưng cánh tay trái yếu ớt của anh ta trượt khỏi cuốn sách và đụng vào bàn viên thư ký. 
+- Thomas Robinson, 25 tuổi, đã kết hôn và có ba đứa con. Anh ta từng gặp rắc rối với pháp luật và đã phải ngồi tù ba mươi ngày vì tội gây rối trật tự công cộng.
+- Robinson khẳng định quen biết Mayella Violet Ewell, cô gái mà anh ta thường xuyên đi qua nhà cô ấy trên đường đến và từ nơi làm việc của mình.
+- Robinson đã giúp Mayella với nhiều công việc nhỏ như chặt củi, kéo nước, chăm sóc vườn hoa, nhưng anh ta không nhận bất kỳ hình thức thanh toán nào.
+- Robinson mô tả một sự cố mà anh ta gặp phải vào một đêm vào tháng 11, khi Mayella cố gắng ôm anh ta và hôn anh ta, nhưng anh ta đã bỏ chạy khi thấy Bob Ewell, cha của Mayella, đang gào thét qua cửa sổ.
+- Robinson phủ nhận việc anh ta đã tấn công hoặc cưỡng hiếp Mayella.
+- Robinson cho biết anh ta đã bỏ chạy vì sợ hãi, không phải vì tội lỗi.
+- Ông Link Deas, người mà Robinson đã làm việc cho trong tám năm, tuyên bố rằng anh ta không có bất kỳ phàn nàn nào về Robinson.
+- Robinson đã từng ngồi tù ba mươi ngày vì tội quấy rối trật tự công cộng.
+- Robinson thừa nhận rằng anh ta có thể đủ sức mạnh để làm tổn thương một phụ nữ, nhưng anh ta khẳng định chưa từng làm như vậy.
+- Robinson đã giúp Mayella với công việc nhà không vì tiền bạc, mà vì lòng thương cảm.
+- Robinson cho rằng Mayella có thể đã bị nhầm lẫn trong trí nhớ của cô ấy, không phải cố tình nói dối.
+- Robinson nói rằng anh ta sợ hãi vì nguy cơ bị bắt giữ và đưa ra tòa, không phải vì lương tâm tội lỗi.
+"""

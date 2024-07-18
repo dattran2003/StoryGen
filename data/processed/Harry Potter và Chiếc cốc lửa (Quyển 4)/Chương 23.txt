@@ -1,0 +1,16 @@
+"""
+- Harry không hứng thú làm bài tập cuối kỳ, thay vào đó, dành thời gian chơi cùng bạn bè trước kỳ nghỉ Giáng sinh.
+- Tháp Gryffindor đông hơn bao giờ hết, Fred và George đã thành công với món Hoàng Yến gây nổ ra chim khắp nơi.
+- Harry nhận ra rằng Fred và George đang thực hiện một dự án bí mật.
+- Tuyết rơi dày trên lâu đài và khu vực xung quanh, tạo nên cảnh quan kỳ thú.
+- Fleur Delacour than phiền về thức ăn tại Hogwarts, cho rằng nó quá béo.
+- Hermione từ chối nói với Ron về người bạn sẽ đi dự dạ vũ Giáng sinh.
+- Hermione đã thay đổi vẻ ngoài của mình, răng của cô bé giờ đã đều và nhỏ gọn hơn.
+- Ron nhận được lá thư từ chú Sirius, khuyên Harry nên cảnh giác và tập trung vào việc giải mã cái trứng.
+- Dobby thăm Harry vào đêm Giáng sinh, tặng anh một đôi vớ tự làm.
+- Harry và Ron nhận được nhiều quà Giáng sinh khác, bao gồm từ Hermione, bà Weasley, và Hagrid.
+- Hermione đi dạ vũ với Viktor Krum, điều này làm Ron tức giận.
+- Trong dạ vũ, Ron và Harry nghe lén cuộc trò chuyện giữa Karkaroff và Snape, cảm nhận được mối quan hệ bí mật giữa họ.
+- Hagrid chia sẻ với Madame Maxime về việc mình là người lai khổng lồ, điều này khiến Maxime nổi giận và rời đi.
+- Cerdic Diggory khuyên Harry nên tắm và hâm nóng cái trứng trong nước nóng để tìm hiểu ý nghĩa của nó.
+"""

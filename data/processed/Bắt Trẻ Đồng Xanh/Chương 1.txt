@@ -1,0 +1,16 @@
+"""
+- Người kể chuyện không muốn chia sẻ về quá khứ và nguồn gốc của mình, chỉ muốn kể về sự kiện gần đây vào Giáng Sinh.
+- Anh ta gần như bị sụp đổ và phải được gia đình đưa đến một cơ sở dưỡng sinh để phục hồi.
+- Anh ta chỉ chia sẻ chi tiết với anh trai mình, D.B., một tác giả chuyển sang làm phim tại Hollywood.
+- Anh trai mua một chiếc Jaguar mới và có khả năng sẽ đưa anh ta về nhà vào tháng sau.
+- Câu chuyện bắt đầu khi anh ta rời trường Pencey Prep sau khi bị đuổi.
+- Pencey Prep là một trường trung học nội trú nổi tiếng ở Pennsylvania.
+- Anh ta bỏ lỡ trận đấu cuối cùng của Pencey với Saxon Hall, chọn thay vào đó để đứng trên đồi Thompson.
+- Anh ta là đội trưởng đội đấu kiếm, nhưng họ đã bỏ lỡ trận đấu với trường McBurney.
+- Anh ta lên đồi không chỉ để tránh trận đấu mà còn để từ biệt thầy Spencer, giáo viên dạy sử của mình.
+- Anh ta đã bị đuổi khỏi Pencey vì điểm số kém, dù đã được cảnh báo nhiều lần.
+- Trong thời tiết giá lạnh, anh ta quyết định thăm thầy Spencer trước khi rời đi.
+- Anh ta cảm thấy mình đã chấm dứt mối liên kết với trường khi nhớ lại một kỷ niệm với bạn bè.
+- Anh ta chạy đến nhà thầy Spencer, nơi anh ta được chào đón bởi bà Spencer.
+- Thầy Spencer không khỏe và hành động như thể không nhận ra anh ta.
+"""

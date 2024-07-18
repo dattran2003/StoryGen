@@ -1,0 +1,16 @@
+"""
+- Elizabeth rời phòng sau khi khách đi, suy tư về thái độ của Darcy khiến cô ngạc nhiên và bực bội.
+- Elizabeth cố gắng không nghĩ về Darcy nhưng không thành công do sự xuất hiện tươi vui của Jane.
+- Jane hài lòng về buổi gặp gỡ đầu tiên với Darcy và Bingley, cho rằng họ sẽ gặp nhau như những người quen bình thường.
+- Trong thời gian tới đến thứ Ba, gia đình Bennet không gặp lại Darcy, bà Bennet bận rộn với những dự định hạnh phúc.
+- Vào thứ Ba, Bingley và Darcy đến đúng hẹn, Bingley chọn ngồi bên Jane, làm Elizabeth cảm thấy đắc thắng.
+- Trong bữa ăn, thái độ của Bingley cho thấy anh có tình cảm với Jane. Elizabeth cảm thấy vui vì điều này.
+- Darcy ngồi cách xa Elizabeth, cô nhận ra sự lạnh lùng giữa anh và mẹ cô.
+- Elizabeth hy vọng có cơ hội nói chuyện riêng với Darcy sau bữa ăn.
+- Tuy nhiên, mọi sự hy vọng của cô bị phá vỡ khi Darcy bị cô gái khác ngăn cách.
+- Darcy chỉ trả lời ngắn gọn câu hỏi của Elizabeth về em gái mình, sau đó rời đi.
+- Trong khi chơi bài, Elizabeth và Darcy không thể tập trung do liên tục nhìn nhau.
+- Bà Bennet tiếc nuối khi không thể giữ Bingley và Darcy lại dùng bữa khuya.
+- Bà Bennet rất hài lòng với buổi tối, tin rằng Jane đã chinh phục được Bingley.
+- Elizabeth và Jane thảo luận về buổi tối, Jane khẳng định cô hài lòng với tình hình hiện tại.
+"""

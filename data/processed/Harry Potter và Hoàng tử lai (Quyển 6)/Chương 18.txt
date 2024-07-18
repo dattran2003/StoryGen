@@ -1,0 +1,15 @@
+"""
+- Harry chia sẻ với Ron và Hermione về nhiệm vụ mà Dumbledore giao cho anh, tuy nhiên, mối quan hệ giữa ba người vẫn căng thẳng.
+- Ron khuyên Harry nên tiếp cận Slughorn trong giờ học Độc Dược, nhưng Hermione tỏ ra lo ngại và cảnh báo về nguy hiểm của Horcruxes.
+- Trong giờ học Độc Dược, Slughorn nhắc đến Định Luật Thứ Ba của Golpalott, mà chỉ Hermione hiểu rõ. 
+- Harry và Ron gặp khó khăn trong việc chế tạo thuốc giải độc, nhưng sau cùng Harry đã sử dụng một viên đá ruột dê mà anh tìm thấy trong tủ của Slughorn.
+- Harry cố gắng hỏi Slughorn về Horcruxes sau giờ học, nhưng Slughorn từ chối trả lời và tỏ ra sợ hãi.
+- Hermione không thể tìm thấy thông tin về Horcruxes trong thư viện.
+- Harry, Ron và Hermione tham gia lớp học Độn Thổ, nhưng họ gặp khó khăn trong việc thực hiện.
+- Harry phát hiện ra Malfoy có hành vi nghi vấn và dự định theo dõi anh ta.
+- Harry sử dụng Bản Đồ Đạo Tặc để theo dõi Malfoy, nhưng không tìm thấy bất kỳ điều gì đáng ngờ.
+- Trong sinh nhật của Ron, anh ta đã ăn một viên Sô Cô La Vạc có chứa Tình Dược, khiến anh ta mê mẩn Romilda Vane.
+- Harry phải đưa Ron đến Slughorn để được giải độc.
+- Trong lúc chờ đợi, Harry có ý định tiếp cận Slughorn khi ông ta đang uống rượu, nhưng kế hoạch bị phá hỏng khi Ron bị trúng độc từ ly rượu mà Slughorn mời.
+- Harry cứu Ron bằng cách dùng viên đá ruột dê.
+"""

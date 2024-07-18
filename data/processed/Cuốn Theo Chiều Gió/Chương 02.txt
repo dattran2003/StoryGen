@@ -1,0 +1,20 @@
+"""
+- Scarlett cảm thấy đau đớn khi hai anh em Tarleton rời đi, để lại cho cô tin tức rằng Ashley đang sắp cưới Melanie Hamilton.
+- Scarlett không tin vào thông tin này và cố gắng thuyết phục mình rằng đó chỉ là một trò đùa của hai anh em Tarleton.
+- Scarlett tránh Mammy, người có thể nhận ra sự bất thường của cô, và quyết định tìm hiểu sự thật từ cha mình.
+- Scarlett đợi cha mình, Gerald, trở về từ Twelve Oaks, nơi ông đi mua Dilcey, người vợ của Pork.
+- Scarlett hy vọng rằng cha cô sẽ có thông tin về tin đồn Ashley và Melanie.
+- Scarlett gặp cha mình và cố gắng tìm cách hỏi về Ashley mà không để lộ sự quan tâm sâu sắc của mình.
+- Gerald xác nhận rằng Ashley sắp cưới Melanie và khuyên Scarlett nên quên Ashley và tập trung vào những người đàn ông khác trong hạt.
+- Scarlett cảm thấy đau lòng và bất lực trước sự thật.
+- Gerald khuyên cô nên chọn một trong những người con trai khác như Stuart hoặc Brent Tarleton.
+- Scarlett phản đối, khẳng định rằng cô chỉ muốn Ashley.
+- Gerald cảnh báo Scarlett về sự khác biệt giữa cô và Ashley, nói rằng họ không phù hợp với nhau.
+- Scarlett vẫn kiên trì, tin rằng cô có thể thay đổi Ashley.
+- Gerald nhấn mạnh rằng không ai có thể thay đổi tánh tình của một người, nhất là một người thuộc dòng họ Quilkes.
+- Scarlett cảm thấy đau lòng khi nhận ra rằng Ashley không quan tâm đến những thú vui thông thường.
+- Gerald hứa sẽ tặng Scarlett đồn điền Tara nếu cô chọn một trong những người con trai mà ông đề xuất.
+- Scarlett từ chối, nói rằng cô không quan tâm đến Tara nếu không thể sống với người mình yêu.
+- Gerald nhắc nhở Scarlett về tầm quan trọng của đất đai và khuyên cô nên chọn một người chồng phù hợp.
+- Scarlett cảm thấy tuyệt vọng và đau lòng khi nhận ra rằng Ashley không thể lấy cô.
+"""

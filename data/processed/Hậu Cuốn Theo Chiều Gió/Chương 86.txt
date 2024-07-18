@@ -1,0 +1,15 @@
+"""
+- Scarlett liên tục nghĩ về Luke Fenton trong nhiều tuần, cô đi ngựa một mình trên những con đường họ từng đi cùng nhau và nhớ lại những khoảnh khắc họ đã trải qua.
+- Cô cố gắng nhớ lại cảm giác khi ở trong vòng tay Luke nhưng lại thấy bức bối khi khuôn mặt Rhett, người cũ, luôn xuất hiện trong trí nhớ.
+- Scarlett hy vọng thời gian sẽ giúp cô quên Rhett và dành tình cảm cho Luke.
+- Buổi chiều lễ Thánh Sylvestre, Colum và bạn bè gây náo loạn tại nhà Scarlett, mang đến không khí lễ hội.
+- Scarlett và Cat đón năm mới 1880 trong tiếng nhạc và niềm thương yêu, nhưng sau đó, Scarlett phải đối mặt với thời tiết lạnh giá khi đi thăm các gia đình trong thị trấn.
+- Scarlett từ chối lời mời của Colum đến quán rượu, cô muốn một chút yên tĩnh tại nhà.
+- Scarlett gặp Luke Fenton trở về, anh khiến cô quên đi mệt mỏi.
+- Luke Fenton xuất hiện và gợi ý về một cuộc hôn nhân giữa anh và Scarlett.
+- Luke nói rằng Cat đã góp phần vào việc này bằng cách đeo nữ trang của Scarlett.
+- Scarlett bị sốc khi Luke đề nghị một cuộc hôn nhân không phải dựa trên tình yêu mà là một "cuộc ngã giá".
+- Scarlett phản ứng mạnh mẽ, ném li rượu vào lò sưởi và đuổi Luke ra khỏi nhà.
+- Luke nói rằng Cat sẽ được hưởng lợi từ cuộc hôn nhân này, nhưng Scarlett khẳng định rằng họ không cần gì từ anh.
+- Scarlett đau khổ sau cuộc gặp gỡ với Luke, cô nhớ đến Rhett và cầu xin sự giúp đỡ.
+"""

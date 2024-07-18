@@ -1,0 +1,17 @@
+"""
+- Hermione quay lại từ nhà Hagrid với thông tin về việc Hagrid đang chuẩn bị một bài học bí ẩn, mặc dù cô đã cố gắng thuyết phục Hagrid về mối đe dọa từ Umbridge nhưng không thành công.
+- Hagrid dẫn lớp học vào Khu Rừng Cấm, nơi anh giới thiệu cho học sinh những con Thestral - những con vật mà chỉ những ai đã từng chứng kiến cái chết mới có thể nhìn thấy.
+- Buổi học bị gián đoạn bởi sự xuất hiện của Umbridge, người tỏ ra hoài nghi và ghi chú lại mọi hành động của Hagrid.
+- Hermione, Ron và Harry cảm thấy bực bội với cách cư xử của Umbridge và lo lắng về việc Hagrid có thể gặp rắc rối.
+- Buổi học kết thúc với Umbridge rời đi, và Hermione bày tỏ sự tức giận với Umbridge.
+- Trong buổi họp cuối cùng của DA trước kỳ nghỉ, Harry và Cho có một khoảnh khắc thân mật.
+- Harry gặp rắc rối khi cố gắng hiểu rõ hơn về tình cảm của Cho.
+- Harry có một giấc mơ kỳ lạ, sau đó cảm thấy đau đầu dữ dội và biết được rằng Arthur Weasley, cha của Ron, đang bị tấn công bởi một con rắn.
+- Harry thông báo cho Ron và giáo sư McGonagall về tình trạng của Arthur Weasley.
+- Cụ Dumbledore và giáo sư McGonagall tin tưởng vào khả năng nhìn thấy sự kiện từ xa của Harry và quyết định đưa Harry và các thành viên gia đình Weasley đến Bệnh viện St Mungo để thăm Arthur.
+- Họ sử dụng Khoá cảng để di chuyển và gặp Kreacher ở nhà của Sirius.
+- Harry chia sẻ với Sirius về cảm giác của mình khi nhìn thấy cuộc tấn công, bao gồm cảm giác muốn tấn công Dumbledore.
+- Sirius khuyên Harry nên nghỉ ngơi và không lo lắng quá mức.
+- Sáng hôm sau, mọi người biết rằng Arthur Weasley sẽ bình phục và họ quyết định thăm ông tại bệnh viện.
+- Họ gặp Tonks và Moody để hộ tống đến bệnh viện St Mungo, nơi họ gặp Arthur Weasley và nghe ông chia sẻ về những sự kiện đã xảy ra.
+"""

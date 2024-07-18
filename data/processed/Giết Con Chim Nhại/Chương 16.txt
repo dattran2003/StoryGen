@@ -1,0 +1,19 @@
+"""
+- Jem và tôi trở về nhà sau sự cố, cố gắng không đánh thức bác Alexandra. Atticus đã tắt máy xe yên lặng để không làm ai thức giấc.
+- Sáng hôm sau, Jem ăn ba quả trứng trong khi tôi không có khẩu vị. Atticus theo dõi Jem với vẻ thán phục, trong khi bác Alexandra tỏ vẻ không tán thành.
+- Bác Alexandra không đồng tình với việc Atticus bảo vệ Tom Robinson, coi đó là ô nhục cho gia đình. Atticus khẳng định rằng ông không thấy xấu hổ.
+- Trong bữa sáng, Atticus giải thích rằng ông Cunningham chỉ là một phần của đám đông hung hãn, nhưng vẫn là một con người.
+- Atticus khuyên Jem và tôi không nên xuống thị trấn hôm đó.
+- Thị trấn trở nên xôn xao sau sự cố. Dill chia sẻ rằng thị trấn đang bàn tán về cách chúng tôi đối phó với đám đông.
+- Jem kể cho Dill về những người nổi bật trong thị trấn, kể cả những thói quen và bí mật của họ.
+- Cô Maudie không tham gia vào việc theo dõi phiên tòa, cô cho rằng việc đó không nên.
+- Atticus đã dành cả buổi sáng để chọn bồi thẩm đoàn.
+- Trong khi chờ phiên tòa bắt đầu, thị trấn trở thành một ngày hội với nhiều người tụ tập.
+- Ông Dolphus Raymond, người có vợ da màu, đang ngồi với những người da màu, uống rượu từ một chai Coca-Cola mà ông đã ngụy trang.
+- Jem giải thích cho Dill về việc lai giữa người da trắng và da màu, và những khó khăn mà những đứa trẻ lai phải đối mặt.
+- Dill nhận xét rằng ông Dolphus Raymond có vẻ nghèo khổ, nhưng Jem nói rằng ông ta thực sự giàu có.
+- Khi mọi người bắt đầu tập trung vào tòa án, Jem, Dill và tôi quyết định chờ cho đến khi họ vào hết.
+- Bên trong tòa án, chúng tôi quan sát bồi thẩm đoàn, các luật sư, và quan tòa Taylor.
+- Quan tòa Taylor cho phép hút thuốc trong phòng xử của mình, nhưng ông không hút.
+- Khi chúng tôi an vị, ông Heck Tate đã đứng trên bục nhân chứng.
+"""

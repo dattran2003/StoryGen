@@ -1,0 +1,15 @@
+"""
+- Syme, một nhân vật, biến mất mà không để lại dấu vết nào, như thể anh ta chưa từng tồn tại.
+- Sự chuẩn bị cho Tuần Lễ Hận Thù đang diễn ra, đòi hỏi sự làm việc thêm giờ từ nhân viên các bộ phận.
+- Bản nhạc mới cho Tuần Lễ Hận Thù được phát liên tục trên máy truyền hình.
+- Parsons, cùng nhóm tình nguyện viên, đang chuẩn bị cho Tuần Lễ Hận Thù bằng cách trang hoàng đường phố.
+- Một hình ảnh mới của một lính Âu Á xuất hiện khắp Luân Đôn, gây ra một sự hồi hộp và tăng cường tình yêu nước.
+- Bom rơi vào rạp chiếu phim và một sân chơi, gây ra nhiều thương vong và phản ứng giận dữ từ công chúng.
+- Winston và Julia tìm thấy nơi ẩn náu an toàn trong căn phòng trên cửa hàng của ông Charrington.
+- Họ gặp nhau thường xuyên trong căn phòng, nhưng ý thức rằng mối quan hệ của họ không thể kéo dài mãi.
+- Winston và Julia thảo luận về khả năng phản kháng Đảng nhưng không biết bắt đầu từ đâu.
+- Julia tỏ ra không tin vào sự tồn tại của chiến tranh, cho rằng những vụ nổ bom có thể do chính quyền tạo ra.
+- Julia và Winston cũng thảo luận về việc giả mạo lịch sử do Cục Văn Khố thực hiện, nhưng Julia không quan tâm lắm.
+- Cuối cùng, O'Brien tiếp cận Winston, mời anh đến nhà để xem quyển Từ Điển Ngôn Mới bản thứ mười, một dấu hiệu rõ ràng của sự đồng lòng chống lại Đảng.
+- Mặc dù biết rằng việc này dẫn đến hậu quả nghiêm trọng, Winston chấp nhận đề nghị của O'Brien.
+"""

@@ -1,0 +1,31 @@
+"""
+    - Chương 15 bắt đầu với việc Harry và bạn bè chờ đợi đọc bài viết về Dolores Umbridge trong tờ Nhật báo Tiên Tri. 
+
+    - Dolores Umbridge được chỉ định là Thanh tra Cao Cấp đầu tiên cho trường Hogwarts, điều này đã gây ra nhiều phản ứng khác nhau từ cộng đồng.
+
+    - Bộ Pháp Thuật đã thông qua dự luật để tăng cường quản lý tại Hogwarts, một phần vì lo ngại về các quyết định gần đây của trường.
+
+    - Umbridge đã được chỉ định làm giáo viên thay thế vì hiệu trưởng Albus Dumbledore không thể tìm ra người phù hợp.
+
+    - Thông tin về việc Umbridge trở thành Thanh tra Cao Cấp đã nhận được sự ủng hộ từ một số phụ huynh, bao gồm Lucius Malfoy.
+
+    - Quyết định này cũng đã gây ra sự phản đối từ hai thành viên lão thành của Wizengamot, Griselda Marchbank và Tiberius Ogden.
+
+    - Hermione, Ron và Harry phản ứng tiêu cực với tin tức này, nhận ra rằng Umbridge và Fudge đang cố gắng kiểm soát trường.
+
+    - Trong khi đó, Umbridge đã bắt đầu thanh tra các giáo viên và bài học, nhưng không thanh tra lớp của Binns hay Snape.
+
+    - Snape thông báo rằng điểm số mà học sinh nhận được trong bài kiểm tra sẽ tương tự như điểm số mà họ sẽ nhận trong kỳ thi OWL.
+
+    - Harry, Ron và Hermione nhận được điểm P (Phình Phường) trong bài kiểm tra của Snape, và Hermione tiếp tục nỗ lực để cải thiện điểm số.
+
+    - Umbridge bắt đầu thanh tra lớp Bói Toán của giáo sư Trelawney, gây ra sự bất ổn và căng thẳng.
+
+    - Trong lớp Phòng Chống Nghệ Thuật Hắc Ám, Umbridge yêu cầu học sinh chỉ đọc sách thay vì thực hành phép thuật, gây ra sự thất vọng.
+
+    - Hermione đã đề xuất ý tưởng về việc Harry nên tự mình dạy học sinh Phòng Chống Nghệ Thuật Hắc Ám, do sự không hài lòng với cách dạy của Umbridge.
+
+    - Trong khi Harry tỏ ra nghi ngờ khả năng của mình, Hermione và Ron kiên trì thuyết phục anh.
+
+    - Chương kết thúc với Harry cân nhắc ý tưởng này trong khi vết thương trên tay anh vẫn chưa lành.
+"""

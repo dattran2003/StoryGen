@@ -1,0 +1,8 @@
+"""
+- Sự thật công nhận rộng rãi là một người đàn ông giàu có sẽ tìm kiếm một người vợ, điều này tạo ra hy vọng cho các gia đình xung quanh khi một người đàn ông như vậy chuyển đến.
+- Bà Bennet thông báo với ông Bennet về việc Netherfield Park đã được thuê bởi một người đàn ông trẻ tuổi, giàu có từ miền Bắc tên Bingley.
+- Bà Bennet hy vọng rằng một trong các con gái của mình sẽ kết hôn với Bingley.
+- Trong cuộc trò chuyện, ông Bennet tỏ ra không quan tâm và thỉnh thoảng trêu ghẹo vợ mình, gây ra sự thất vọng và bực bội của bà Bennet.
+- Bà Bennet yêu cầu ông Bennet đi thăm Bingley, nhưng ông từ chối, chỉ ra rằng bà và các con gái có thể tự đi.
+- Cá nhân ông Bennet được mô tả là có tính cách pha trộn giữa sự thông minh, châm biếm và không thể đoán trước, trong khi bà Bennet đơn giản hơn, với tầm nhìn hạn hẹp và thiếu kiến thức.
+"""

@@ -1,0 +1,13 @@
+"""
+- Harry gọi Ron qua cửa sổ và họ phát hiện ra chiếc xe màu lam mà Fred và George, hai anh trai của Ron, đã dùng để đến.
+- Ron và anh trai của mình giải cứu Harry khỏi nhà Dursleys, mặc dù Harry khẳng định mình không sử dụng ma thuật.
+- Fred và George đã dùng chiếc xe hơi của cha họ để đến và đưa Harry đi, không sử dụng ma thuật.
+- Harry và Ron gặp rắc rối khi cố gắng lấy đồ dùng học tập của Harry từ nhà Dursleys.
+- Harry và Ron cuối cùng đã thành công nhờ sự giúp đỡ của Fred và George.
+- Họ gặp rắc rối khi Harry quên con cú Hedwig, nhưng may mắn thoát khỏi nhà Dursleys an toàn.
+- Harry, Ron, Fred và George sau đó lái xe đến nhà họ, Trang trại Burrow.
+- Họ gặp mẹ của Ron, bà Weasley, và nhận được một trận rầy la vì đã lái xe không hợp lệ.
+- Harry và Ron sau đó giúp dọn dẹp ma lùm ma bụi trong vườn nhà Weasley.
+- Cha của Ron, ông Weasley, trở về nhà sau một đêm làm việc và gặp Harry.
+- Bà Weasley giận dữ khi biết về việc lái xe không hợp lệ, nhưng ông Weasley tỏ ra hứng thú với việc chiếc xe đã bay.
+"""

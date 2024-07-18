@@ -1,0 +1,14 @@
+"""
+- Dù không nghe thêm gì về Dòng họ Finch từ bác Alexandra, nhưng Jem và tôi vẫn nghe nhiều chuyện về gia đình mình từ dân thị trấn.
+- Chúng tôi thường gặp phải những bình luận khó hiểu từ cư dân thị trấn, điều này thúc đẩy tôi đặt câu hỏi về nghĩa của từ 'cưỡng hiếp' với bố Atticus.
+- Bố Atticus giải thích cho tôi về nghĩa của từ 'cưỡng hiếp'.
+- Calpurnia không muốn tôi biết về từ này, nhưng Atticus giải thích rằng đó là vì tôi còn quá nhỏ.
+- Bác Alexandra ngăn cản tôi đến thăm Calpurnia sau khi tôi trở về từ nhà thờ của bà ấy.
+- Tranh cãi giữa bác Alexandra và bố Atticus về vai trò của Calpurnia trong gia đình.
+- Jem và tôi gây gổ với nhau, và tôi đã làm Jem tức giận.
+- Bố Atticus can thiệp và đưa ra quy tắc về việc lắng nghe Jem.
+- Dill xuất hiện, anh đã bỏ trốn từ nhà và đi một quãng đường dài đến Maycomb.
+- Dill được bố Atticus và cô Rachel chấp nhận ở lại qua đêm.
+- Dill giải thích lý do anh bỏ trốn là vì cảm giác bị bỏ rơi và thiếu sự quan tâm từ bố mẹ.
+- Dill và tôi thảo luận về việc sống thiếu sự chú ý từ người lớn và việc bố mẹ không thể xoay xở nếu không có chúng tôi.
+"""

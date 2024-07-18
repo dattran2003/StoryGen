@@ -1,0 +1,21 @@
+"""
+- Winston kiểm tra căn phòng ở tầng trên của tiệm ông Charrington. Ông Charrington đã chuẩn bị sẵn giường và một số vật dụng khác như bếp dầu, xoong và tách.
+- Winston nấu nước và chuẩn bị cà phê Chiến Thắng. Anh dự định gặp Julia lúc 19h30.
+- Winston nhận ra rằng việc thuê căn phòng này là một hành động liều lĩnh, nhưng khao khát có một nơi riêng tư đã thúc đẩy anh.
+- Ông Charrington không gây khó khăn trong việc cho thuê căn phòng và thậm chí còn gợi ý rằng có hai lối ra vào căn nhà.
+- Một người phụ nữ lớn đang hát dưới cửa sổ, bài hát này đã phổ biến ở London vài tuần nay.
+- Winston và Julia đã không thể gặp nhau sau lần cuối cùng tại gác chuông nhà thờ do công việc bận rộn.
+- Julia thông báo với Winston rằng cô không thể gặp anh vào ngày hôm sau như đã hẹn.
+- Winston cảm thấy tức giận nhưng sau đó nhận ra rằng sự thất vọng này có thể là điều bình thường trong mối quan hệ.
+- Winston quyết định thuê căn phòng từ ông Charrington để gặp Julia. Julia đồng ý với ý tưởng này.
+- Julia mang một túi dụng cụ chứa nhiều loại thực phẩm và đồ uống tốt hơn so với tiêu chuẩn thông thường.
+- Julia yêu cầu Winston quay lưng lại trong ba phút trước khi cô thay đổi diện mạo bằng cách trang điểm.
+- Julia trang điểm và sử dụng nước hoa, điều này khiến Winston ngạc nhiên và thấy cô trở nên nữ tính hơn.
+- Họ đã dành thời gian cùng nhau trên giường, đây là lần đầu tiên Winston cởi truồng trước mặt Julia.
+- Julia và Winston đã ngủ một giấc ngắn, khi thức dậy, họ tiếp tục tận hưởng thời gian riêng tư.
+- Julia phát hiện một con chuột trong phòng và ném giày vào nó, điều này làm Winston sợ hãi.
+- Julia chuẩn bị cà phê và họ thưởng thức nó cùng với bánh mì và giăm bông.
+- Winston và Julia thảo luận về một số vật dụng trong phòng và bức tranh khắc trên tường.
+- Julia thông báo rằng cô cần rời đi và sẽ rửa mặt để xóa son phấn.
+- Winston tiếp tục nằm trên giường, nhìn vào chiếc chặn giấy thủy tinh, suy nghĩ về cuộc đời mình và Julia.
+"""

@@ -1,0 +1,16 @@
+"""
+- Sắp đến Giáng sinh tại Hogwarts, nơi bị phủ trắng bởi tuyết dày. Hai sinh đôi Weasley bị phạt vì đã phù phép trái cầu tuyết theo giáo sư Quirrell.
+- Cả trường, đặc biệt là căn phòng sinh hoạt nhà Gryffindor và Đại Sảnh Đường, trở nên ấm cúng với tiếng củi cháy trong lò sưởi, nhưng các hành lang lại lạnh giá.
+- Trong lớp học Độc dược, Draco Malfoy đã chế giễu Harry Potter về việc cậu không có gia đình để đón về ăn Giáng sinh.
+- Harry đăng ký ở lại trường trong kỳ nghỉ, không về nhà số 4 đường Privet Drive. Ron và anh em của cậu cũng ở lại trường.
+- Lão Hagrid đang di chuyển một cây thông lớn qua hành lang, chuẩn bị cho lễ Giáng sinh.
+- Trong một cuộc tranh cãi với Malfoy, Ron bị thầy Snape trừ năm điểm cho nhà Gryffindor.
+- Harry, Ron và Hermione quyết tâm tìm hiểu về Nicolas Flamel, người mà Hagrid đã nhắc đến.
+- Trong thư viện, họ đã không tìm thấy bất kỳ thông tin nào về Flamel.
+- Harry nhận được một chiếc áo tàng hình từ một người không rõ danh tính, được cho là đã từng thuộc về cha của Harry.
+- Harry và Ron đã có một Giáng sinh vui vẻ tại Hogwarts, nhưng Harry không ngừng suy nghĩ về chiếc áo tàng hình và người đã gửi nó.
+- Harry sử dụng áo tàng hình để truy cập vào khu vực hạn chế của thư viện, nhưng bị cuốn sách kêu gào khi cố mở.
+- Harry tình cờ phát hiện ra Chiếc Gương Ảo Ảnh, cho phép cậu thấy hình ảnh gia đình mình.
+- Ron khi nhìn vào gương, thấy bản thân mình trong tương lai, trở thành đội trưởng Quidditch và đứng đầu nam sinh.
+- Harry tiếp tục thăm tấm gương, nhưng Dumbledore khuyên cậu không nên chìm đắm trong ảo ảnh mà phải tập trung vào hiện thực.
+"""

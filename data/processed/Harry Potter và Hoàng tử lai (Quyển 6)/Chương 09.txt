@@ -1,0 +1,17 @@
+"""
+- Harry, Ron và Hermione gặp nhau ở phòng sinh hoạt chung sau khi nghe lỏm cuộc trò chuyện của Malfoy. Harry chia sẻ thông tin với hy vọng nhận được sự ủng hộ.
+- Ron và Hermione không hoàn toàn tin tưởng vào thông tin của Malfoy, cho rằng anh ta chỉ muốn khoe mẽ.
+- Harry và Ron gặp phải sự chú ý không mong muốn từ bạn bè khi họ thảo luận.
+- Ron bày tỏ niềm vui khi trở thành học sinh năm thứ 6 và nói về thời gian rảnh rỗi mà họ sẽ có.
+- Hermione cấm một học sinh năm thứ 4 sử dụng Đĩa Bay Có Nanh, và Ron sau đó lấy cái đĩa này.
+- Trong bữa sáng, nhóm họ nói về việc không tiếp tục học môn Chăm sóc Sinh Vật Huyền Bí, điều này khiến Hagrid buồn.
+- Họ nhận thời khóa biểu từ giáo sư McGonagall. Hermione được chấp nhận vào tất cả các lớp học mà cô đăng ký.
+- Neville gặp khó khăn với môn Biến hình, nhưng sau cùng được khuyến nghị học môn Bùa chú.
+- Harry đăng ký học môn Độc dược dù không có sách và nguyên liệu, với sự chấp thuận từ giáo sư McGonagall.
+- Trong lớp Phòng chống Nghệ thuật Hắc ám, giáo sư Snape nhấn mạnh về sự linh hoạt và sáng tạo trong việc chống lại Nghệ thuật Hắc ám.
+- Harry và Ron học cách sử dụng Bùa Khiên không cần nói thành lời, nhưng Harry bị phạt cấm túc sau khi phản ứng lại một lời nguyền của Snape.
+- Harry nhận được thư từ Dumbledore yêu cầu bắt đầu những buổi học riêng.
+- Trong lớp Độc dược, Harry sử dụng lời khuyên từ quyển sách cũ của giáo sư Slughorn để làm ra thuốc Cái Chết Đang Sống tốt nhất, giành được chai Felix Felicis.
+- Hermione và Ginny nghi ngờ về nguồn gốc của quyển sách giáo khoa cũ mà Harry sử dụng, nhưng không tìm thấy dấu hiệu bất thường nào.
+- Cuối cùng, Harry phát hiện dòng chữ "Cuốn sách này là tài sản riêng của Hoàng Tử Lai" ở phía sau quyển sách.
+"""

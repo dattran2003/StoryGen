@@ -1,0 +1,14 @@
+"""
+- Tháng hai và tháng ba trôi qua bình lặng tại nhà Longbourn, ngoại trừ những chuyến thăm Meryton.
+- Elizabeth quyết định thăm Huntsford sau khi biết Charlotte đang mong đợi, dù ban đầu không có ý định.
+- Elizabeth muốn thay đổi không khí và thăm Jane, khiến cô quyết định chuyến đi một cách nghiêm túc hơn.
+- Cô sắp xếp chuyến đi cùng William Lucas và con gái ông, Maria, dự kiến qua đêm tại London.
+- Elizabeth lo lắng về việc rời xa cha mình nhưng an ủi rằng họ sẽ liên lạc qua thư.
+- Elizabeth và Wickham chia tay thân thiện, Wickham tỏ ra thân mật hơn, gợi lên mối quan hệ đặc biệt giữa họ.
+- Elizabeth đi cùng Lucas và Maria, nhưng không thích thú vì họ không có nhiều điều thú vị để nói.
+- Elizabeth gặp Jane và gia đình Gardiner tại London, vui mừng vì sức khỏe và vẻ đẹp của Jane.
+- Elizabeth và bà Gardiner thảo luận về tình trạng tâm lý của Jane và mối quan hệ của cô với Bingley.
+- Bà Gardiner hỏi về Wickham và cô King, dẫn đến cuộc thảo luận về việc hám lợi trong hôn nhân.
+- Elizabeth cảm thấy thất vọng với mọi người đàn ông và mong chờ chuyến du lịch mùa hè với ông cậu và bà mợ.
+- Bà Gardiner thông báo về khả năng du lịch đến Vùng Hồ, gây ra niềm vui lớn cho Elizabeth.
+"""

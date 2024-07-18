@@ -1,0 +1,23 @@
+"""
+- Ông cậu nói với Elizabeth rằng, sau khi xem xét kỹ lưỡng, anh trai trẻ không thể có ý định kết hôn với cô gái không có tài sản và không có bạn bè, đặc biệt khi cô gái đang sống với gia đình đại tá.
+- Elizabeth phản ứng với vẻ mặt tươi vui, hỏi liệu ông cậu có thực sự tin như vậy.
+- Bà Gardiner đồng ý với quan điểm của ông, cho rằng Wickham không thể tồi tệ đến mức đó.
+- Elizabeth nói rằng Wickham có thể bỏ qua mọi thứ khác nhưng không bỏ qua quyền lợi của mình.
+- Ông Gardiner đề xuất giả thiết rằng họ đang ở London, với mục đích ẩn náu.
+- Elizabeth nghi ngờ rằng nếu Wickham thực sự có ý định kết hôn, tại sao họ không đi Scotland.
+- Elizabeth khẳng định rằng Wickham không bao giờ cưới người không có tiền và cô không hiểu tại sao anh ta lại chọn Lydia.
+- Lydia không có anh em trai để giúp đỡ và từ thái độ của cha cô, anh ta có thể nghĩ rằng ông sẽ làm càng ít càng tốt.
+- Elizabeth thừa nhận rằng cô không công tâm với Lydia, nhưng cô còn quá trẻ và chưa được giáo dục đúng cách.
+- Elizabeth nói rằng Lydia đã bị ảnh hưởng bởi Wickham, người có khả năng cuốn hút phụ nữ.
+- Bà Gardiner ngạc nhiên khi Elizabeth biết rõ về những hành vi xấu xa của Wickham.
+- Elizabeth giải thích rằng cô biết về cách cư xử của Wickham từ khi cô gặp anh Darcy và đại tá Fitzwilliam.
+- Elizabeth tự trách mình vì không cảnh báo Lydia về Wickham khi cô biết sự thật về anh ta.
+- Elizabeth, Jane và gia đình trở về Longbourn, nơi họ nhận được tin tức về việc cha họ đã đi thành phố.
+- Jane cho biết cha đã đi thành phố và cô hy vọng mọi việc sẽ ổn, nhưng không có tin tức mới về Lydia và Wickham.
+- Bà Bennet than vãn về những khó khăn và trách móc mọi người, đồng thời bày tỏ lo lắng về việc ông Bennet có thể gặp rắc rối nếu gặp Wickham.
+- Ông Gardiner hứa sẽ đi London và cố gắng giúp đỡ ông Bennet để tìm Lydia.
+- Mary và Kitty đều bình tĩnh, trong khi Mary cố gắng rút ra bài học từ vụ việc và khuyên các chị em vượt qua.
+- Jane tiết lộ rằng Đại tá Forster nghi ngờ mối quan hệ giữa Lydia và Wickham nhưng không thấy có gì đáng lo ngại.
+- Lydia đã viết thư cho Harriet, nói rằng cô sẽ đi Gretna Green với người cô yêu và yêu cầu Harriet giữ bí mật.
+- Elizabeth nhận ra rằng Lydia dường như nghiêm túc về việc kết hôn, nhưng không rõ sau đó có bị thuyết phục theo cách khác không.
+"""

@@ -1,0 +1,16 @@
+"""
+- Frodo, Pippin và Sam trở về phòng riêng sau khi không thấy Merry. Họ phát hiện Người Sải Bước đã chờ họ.
+- Pippin hỏi về danh tính và mục đích của Người Sải Bước, người tự nhận là Người Sải Bước và muốn nói chuyện riêng với họ.
+- Người Sải Bước đề nghị sẽ chia sẻ thông tin và lời khuyên với giá là được đi cùng họ cho đến khi ông muốn dừng lại.
+- Frodo tỏ ra nghi ngờ, nhưng Người Sải Bước tiết lộ rằng ông đã nghe thấy cuộc thảo luận của họ và biết họ đang cố gắng giữ bí mật tên Frodo Baggins.
+- Người Sải Bước cảnh báo về sự xuất hiện của những Kỵ Sĩ Đen tại Bree và cho biết họ đang truy đuổi Frodo.
+- Ông cũng nói về Bill Đầy Dương Xỉ, người có thể đã bán thông tin về họ.
+- Người Sải Bước đề nghị dẫn dắt họ trên những con đường ít người qua để tránh bị bắt.
+- Frodo và Sam nghi ngờ về ý định của Người Sải Bước, và Frodo từ chối đề nghị.
+- Ông Bơ Gai, người chủ quán, vào phòng với thông tin rằng ông đã được Gandalf nhờ chuyển một lá thư cho Frodo.
+- Trong thư, Gandalf nói về việc Frodo và nhóm sẽ đến Bree và có thể gặp rắc rối nếu không có sự hỗ trợ.
+- Ông Bơ Gai cũng cảnh báo về những người mặc đồ đen đang tìm Frodo.
+- Người Sải Bước nói rằng nếu không có ông, nhiều rắc rối có thể xảy ra.
+- Frodo xác nhận rằng Người Sải Bước đã đến với sự đồng ý của mình và đề nghị giúp đỡ.
+- Ông Bơ Gai tỏ ra sợ hãi khi biết rằng những Kỵ Sĩ Đen đến từ Mordor.
+"""
