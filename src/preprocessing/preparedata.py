@@ -83,13 +83,21 @@ def create_preference_dataset():
 
     root = os.getcwd()
     path_to_raw = os.path.join(root, 'data', 'raw')
-    df['raw'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_raw, x)))
-    
-    path_to_summary = os.path.join(root, 'data', 'summary')
-    df['summary'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_summary, x)))
+    df['chosen'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_raw, x)))
     
     path_to_reject = os.path.join(root, 'data', 'reject')
-    df['reject'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_reject, x)))
+    df['rejected'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_reject, x)))
+
+    path_to_summary = os.path.join(root, 'data', 'summary')
+    df['summary'] = df['chapter_title'].apply(lambda x: get_content(os.path.join(path_to_summary, x)))
+    df['prompt'] = df['summary'].apply(lambda x: f'''
+Dựa vào bản tóm tắt của chương truyện theo dòng thời gian sau: 
+
+    {x}  
+
+Tưởng tượng bạn là một tiểu thuyết gia với 20 năm kinh nghiệm viết tiểu thuyết và đã xuất bản hơn 100 cuốn tiểu thuyết bán chạy nhất mọi thời đại.
+Hãy tận dụng hết khả năng của bạn và viết một chương truyện hoàn hảo.             
+''')
 
     path_to_save = os.path.join(root, 'data', 'processed', 'preference.csv')
     df.to_csv(path_to_save)
