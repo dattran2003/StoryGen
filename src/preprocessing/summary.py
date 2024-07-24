@@ -1,14 +1,14 @@
 from gradio_client import Client
 from textwrap import dedent
 import os
-client = Client("Qwen/Qwen2-72B-Instruct")
-result = client.predict(
-		query='''hello''',
-		history=[],
-		system="You are a helpful assistant.",
-		api_name="/model_chat"
-)
-print(result)
+# client = Client("Qwen/Qwen2-72B-Instruct")
+# result = client.predict(
+# 		query='''hello''',
+# 		history=[],
+# 		system="You are a helpful assistant.",
+# 		api_name="/model_chat"
+# )
+# print(result)
 # RAW_DATA_PATH = '/home/tandattran772/persional_project/StoryGen/data/raw'
 
 # files = os.listdir(RAW_DATA_PATH)
